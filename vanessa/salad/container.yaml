@@ -1,0 +1,27 @@
+# change this to a URL to describe your container, or to get help
+url: https://github.com/vsoch/salad
+
+# change this to your GitHub alias (or another contact or name)
+maintainer: '@vsoch'
+
+# Any custom features?
+# features:
+#  gpu: true
+
+# Put custom aliases here
+# aliases:
+#  echo: /usr/bin/echo
+
+# custom environment variables
+# env:
+#  breakfast: pancakes
+
+# A description to describe your container
+description: The Vanessa Salad container
+latest:
+  latest: sha256:e8302da47e3200915c1d3a9406d9446f04da7244e4995b7135afd2b79d4f63db
+tags:
+  latest: sha256:e8302da47e3200915c1d3a9406d9446f04da7244e4995b7135afd2b79d4f63db
+docker: vanessa/salad
+aliases:
+  salad: /code/salad
