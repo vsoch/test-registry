@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/cliquesnv
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for cliquesnv
+latest:
+  2.0.3--hdfd78af_0: sha256:6e270a94e75832e7f75a763df51327b8eff1fd7753fbf67d7d10cee2bba27ab0
+tags:
+  2.0.3--hdfd78af_0: sha256:6e270a94e75832e7f75a763df51327b8eff1fd7753fbf67d7d10cee2bba27ab0
+docker: quay.io/biocontainers/cliquesnv
+aliases:
+  cliquesnv: /usr/local/bin/cliquesnv
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd
+  jconsole: /usr/local/bin/jconsole
+  jdb: /usr/local/bin/jdb
+  jinfo: /usr/local/bin/jinfo

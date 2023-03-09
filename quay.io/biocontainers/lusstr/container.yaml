@@ -1,0 +1,17 @@
+url: https://biocontainers.pro/tools/lusstr
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for lusstr
+latest:
+  0.5--pyhdfd78af_0: sha256:8320d78476367d67551ef0c8166b1b69fde1b7fbdc1e45be537e82604ac0e712
+tags:
+  0.5--pyhdfd78af_0: sha256:8320d78476367d67551ef0c8166b1b69fde1b7fbdc1e45be537e82604ac0e712
+docker: quay.io/biocontainers/lusstr
+aliases:
+  lusstr: /usr/local/bin/lusstr
+  runxlrd.py: /usr/local/bin/runxlrd.py
+  f2py3.9: /usr/local/bin/f2py3.9
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config

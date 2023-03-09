@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/python-bioformats
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for python-bioformats
+latest:
+  4.0.6--pyh5e36f6f_0: sha256:8896815fbced72f22eae696610efbcdd762d5232ae6c75547b4187a307852564
+tags:
+  4.0.6--pyh5e36f6f_0: sha256:8896815fbced72f22eae696610efbcdd762d5232ae6c75547b4187a307852564
+docker: quay.io/biocontainers/python-bioformats
+aliases:
+  jpackage: /usr/local/bin/jpackage
+  jp.py: /usr/local/bin/jp.py
+  cups-config: /usr/local/bin/cups-config
+  ippeveprinter: /usr/local/bin/ippeveprinter
+  ipptool: /usr/local/bin/ipptool
+  futurize: /usr/local/bin/futurize
+  pasteurize: /usr/local/bin/pasteurize
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  f2py3.10: /usr/local/bin/f2py3.10
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd
+  jconsole: /usr/local/bin/jconsole

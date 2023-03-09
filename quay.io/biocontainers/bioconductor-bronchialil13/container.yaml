@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-bronchialil13
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-bronchialil13
+latest:
+  1.32.0--r41hdfd78af_1: sha256:aa28300dbc398dde2bef8283de9bf88856eccad1bda88bab934ba853c316e81a
+tags:
+  1.32.0--r41hdfd78af_1: sha256:aa28300dbc398dde2bef8283de9bf88856eccad1bda88bab934ba853c316e81a
+docker: quay.io/biocontainers/bioconductor-bronchialil13

@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-tcgacrcmirna
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-tcgacrcmirna
+latest:
+  1.9.0--r40_0: sha256:98ef10d7ea8887485250426095080840b73abe5651a84f91383552e12f0356fa
+tags:
+  1.9.0--r40_0: sha256:98ef10d7ea8887485250426095080840b73abe5651a84f91383552e12f0356fa
+docker: quay.io/biocontainers/bioconductor-tcgacrcmirna
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

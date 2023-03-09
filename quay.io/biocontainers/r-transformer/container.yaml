@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/r-transformer
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-transformer
+latest:
+  0.2.9--r36_0: sha256:8fcaabd88935aa7e787da3304b885e4bd2f2194c1faa502ccd98ba5481c081be
+tags:
+  0.2.9--r36_0: sha256:8fcaabd88935aa7e787da3304b885e4bd2f2194c1faa502ccd98ba5481c081be
+docker: quay.io/biocontainers/r-transformer
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

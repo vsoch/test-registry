@@ -1,0 +1,42 @@
+url: https://biocontainers.pro/tools/isescan
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for isescan
+latest:
+  1.7.2.3--hec16e2b_1: sha256:b72103cf8c859553b3a1f829863ec86f778052ad102754ae18f3b8508db282ab
+tags:
+  1.7.2.3--hec16e2b_1: sha256:b72103cf8c859553b3a1f829863ec86f778052ad102754ae18f3b8508db282ab
+docker: quay.io/biocontainers/isescan
+aliases:
+  constants.py: /usr/local/bin/constants.py
+  isPredict.py: /usr/local/bin/isPredict.py
+  is_analysis.py: /usr/local/bin/is_analysis.py
+  isescan.py: /usr/local/bin/isescan.py
+  pred.py: /usr/local/bin/pred.py
+  pyssw.py: /usr/local/bin/pyssw.py
+  ssw_wrap.py: /usr/local/bin/ssw_wrap.py
+  tools.py: /usr/local/bin/tools.py
+  FragGeneScan: /usr/local/bin/FragGeneScan
+  run_FragGeneScan.pl: /usr/local/bin/run_FragGeneScan.pl
+  hmmpgmd_shard: /usr/local/bin/hmmpgmd_shard
+  easel: /usr/local/bin/easel
+  esl-mixdchlet: /usr/local/bin/esl-mixdchlet
+  edirect.py: /usr/local/bin/edirect.py
+  filter-columns: /usr/local/bin/filter-columns
+  fuse-segments: /usr/local/bin/fuse-segments
+  gene2range: /usr/local/bin/gene2range
+  tbl2prod: /usr/local/bin/tbl2prod
+  uniq-table: /usr/local/bin/uniq-table
+  align-columns: /usr/local/bin/align-columns
+  blst2tkns: /usr/local/bin/blst2tkns
+  csv2xml: /usr/local/bin/csv2xml
+  disambiguate-nucleotides: /usr/local/bin/disambiguate-nucleotides
+  download-ncbi-software: /usr/local/bin/download-ncbi-software
+  ecommon.sh: /usr/local/bin/ecommon.sh
+  find-in-gene: /usr/local/bin/find-in-gene
+  fuse-ranges: /usr/local/bin/fuse-ranges
+  hgvs2spdi: /usr/local/bin/hgvs2spdi
+  json2xml: /usr/local/bin/json2xml
+  print-columns: /usr/local/bin/print-columns
+  snp2hgvs: /usr/local/bin/snp2hgvs
+  snp2tbl: /usr/local/bin/snp2tbl
+  sort-table: /usr/local/bin/sort-table

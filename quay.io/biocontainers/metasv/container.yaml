@@ -1,0 +1,42 @@
+url: https://biocontainers.pro/tools/metasv
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for metasv
+latest:
+  0.5.4--py27h9801fc8_4: sha256:3da7a16717e840af039661fcdca68ab4c03b425149462555169c788a43ce46c9
+tags:
+  0.5.4--py27h9801fc8_4: sha256:3da7a16717e840af039661fcdca68ab4c03b425149462555169c788a43ce46c9
+docker: quay.io/biocontainers/metasv
+aliases:
+  age_align: /usr/local/bin/age_align
+  annotate_vcf_bam.py: /usr/local/bin/annotate_vcf_bam.py
+  pybedtools_demo.py: /usr/local/bin/pybedtools_demo.py
+  run_metasv.py: /usr/local/bin/run_metasv.py
+  run_metasv_age.py: /usr/local/bin/run_metasv_age.py
+  run_metasv_bed2vcf.py: /usr/local/bin/run_metasv_bed2vcf.py
+  run_metasv_sc_analysis.py: /usr/local/bin/run_metasv_sc_analysis.py
+  svtool_to_vcf.py: /usr/local/bin/svtool_to_vcf.py
+  cds-mapping-stats: /usr/local/bin/cds-mapping-stats
+  cds-subgraphs: /usr/local/bin/cds-subgraphs
+  mag-improve: /usr/local/bin/mag-improve
+  spades-convert-bin-to-fasta: /usr/local/bin/spades-convert-bin-to-fasta
+  spades-gsimplifier: /usr/local/bin/spades-gsimplifier
+  spades-kmer-estimating: /usr/local/bin/spades-kmer-estimating
+  spades-read-filter: /usr/local/bin/spades-read-filter
+  spaligner: /usr/local/bin/spaligner
+  intersection_matrix.py: /usr/local/bin/intersection_matrix.py
+  intron_exon_reads.py: /usr/local/bin/intron_exon_reads.py
+  pbt_plotting_example.py: /usr/local/bin/pbt_plotting_example.py
+  peak_pie.py: /usr/local/bin/peak_pie.py
+  pybedtools: /usr/local/bin/pybedtools
+  venn_gchart.py: /usr/local/bin/venn_gchart.py
+  venn_mpl.py: /usr/local/bin/venn_mpl.py
+  annotate.py: /usr/local/bin/annotate.py
+  spades-bwa: /usr/local/bin/spades-bwa
+  spades-core: /usr/local/bin/spades-core
+  spades-corrector-core: /usr/local/bin/spades-corrector-core
+  spades-gbuilder: /usr/local/bin/spades-gbuilder
+  spades-gmapper: /usr/local/bin/spades-gmapper
+  spades-hammer: /usr/local/bin/spades-hammer
+  spades-ionhammer: /usr/local/bin/spades-ionhammer
+  spades-kmercount: /usr/local/bin/spades-kmercount
+  spades-truseq-scfcorrection: /usr/local/bin/spades-truseq-scfcorrection

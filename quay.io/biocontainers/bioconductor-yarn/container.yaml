@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-yarn
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-yarn
+latest:
+  1.8.0--r351_0: sha256:28d0a139a27e473ff709bc7ee4301e1c501040230d0212ef3aa389acc3106b4f
+tags:
+  1.8.0--r351_0: sha256:28d0a139a27e473ff709bc7ee4301e1c501040230d0212ef3aa389acc3106b4f
+docker: quay.io/biocontainers/bioconductor-yarn
+aliases:
+  wget: /usr/local/bin/wget
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

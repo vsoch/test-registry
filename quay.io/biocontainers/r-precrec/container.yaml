@@ -1,0 +1,13 @@
+url: https://biocontainers.pro/tools/r-precrec
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-precrec
+latest:
+  0.9.1--r3.4.1_0: sha256:cc1ffa47b8ce49be33767eba141a5294e76305ce20f324560ebee94ffdb7375c
+tags:
+  0.9.1--r3.4.1_0: sha256:cc1ffa47b8ce49be33767eba141a5294e76305ce20f324560ebee94ffdb7375c
+docker: quay.io/biocontainers/r-precrec
+aliases:
+  tclsh8.5: /usr/local/bin/tclsh8.5
+  wish8.5: /usr/local/bin/wish8.5
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config

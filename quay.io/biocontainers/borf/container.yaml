@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/borf
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for borf
+latest:
+  1.2--py_0: sha256:a5f946e2897c7d3e813673b93cb0c15811b2e5d8472af24c4a1798b8930ed593
+tags:
+  1.2--py_0: sha256:a5f946e2897c7d3e813673b93cb0c15811b2e5d8472af24c4a1798b8930ed593
+docker: quay.io/biocontainers/borf
+aliases:
+  borf: /usr/local/bin/borf
+  doesitcache: /usr/local/bin/doesitcache
+  compile-et.pl: /usr/local/bin/compile-et.pl
+  prerr.properties: /usr/local/bin/prerr.properties
+  iptest3: /usr/local/bin/iptest3
+  iptest: /usr/local/bin/iptest
+  ipython3: /usr/local/bin/ipython3
+  cygdb: /usr/local/bin/cygdb
+  cython: /usr/local/bin/cython
+  cythonize: /usr/local/bin/cythonize
+  ipython: /usr/local/bin/ipython
+  natsort: /usr/local/bin/natsort
+  py.test: /usr/local/bin/py.test
+  pytest: /usr/local/bin/pytest
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview
+  qvkgen: /usr/local/bin/qvkgen
+  certutil: /usr/local/bin/certutil
+  nspr-config: /usr/local/bin/nspr-config
+  nss-config: /usr/local/bin/nss-config
+  pk12util: /usr/local/bin/pk12util
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc

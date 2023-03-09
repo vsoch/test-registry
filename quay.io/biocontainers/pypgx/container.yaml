@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/pypgx
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pypgx
+latest:
+  0.9.0--pyh5e36f6f_0: sha256:86f03a8935c7c972a8e1823eff4439c472b5cc86daff176929abf6a6f01957e2
+tags:
+  0.9.0--pyh5e36f6f_0: sha256:86f03a8935c7c972a8e1823eff4439c472b5cc86daff176929abf6a6f01957e2
+docker: quay.io/biocontainers/pypgx
+aliases:
+  fuc: /usr/local/bin/fuc
+  pypgx: /usr/local/bin/pypgx
+  tabulate: /usr/local/bin/tabulate
+  natsort: /usr/local/bin/natsort
+  xslt-config: /usr/local/bin/xslt-config
+  xsltproc: /usr/local/bin/xsltproc
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  brotli: /usr/local/bin/brotli
+  jaotc: /usr/local/bin/jaotc
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  f2py3.9: /usr/local/bin/f2py3.9
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  opj_compress: /usr/local/bin/opj_compress
+  opj_decompress: /usr/local/bin/opj_decompress
+  opj_dump: /usr/local/bin/opj_dump

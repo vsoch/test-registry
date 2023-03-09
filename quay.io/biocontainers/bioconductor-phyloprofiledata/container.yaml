@@ -1,0 +1,11 @@
+url: https://biocontainers.pro/tools/bioconductor-phyloprofiledata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-phyloprofiledata
+latest:
+  1.8.0--r41hdfd78af_1: sha256:4847c039f56034d4a1088733f5bdc0ac704a6d0d32e83cc64daba7a4cdfd56c7
+tags:
+  1.8.0--r41hdfd78af_1: sha256:4847c039f56034d4a1088733f5bdc0ac704a6d0d32e83cc64daba7a4cdfd56c7
+docker: quay.io/biocontainers/bioconductor-phyloprofiledata
+aliases:
+  pandoc-server: /usr/local/bin/pandoc-server
+  pandoc: /usr/local/bin/pandoc

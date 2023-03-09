@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-ecolik12.db0
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-ecolik12.db0
+latest:
+  3.8.2--r36_1: sha256:3f0461da7c13b7030356d69b41489e7b4ac6ea566236f9bf151f0218a6bbddae
+tags:
+  3.8.2--r36_1: sha256:3f0461da7c13b7030356d69b41489e7b4ac6ea566236f9bf151f0218a6bbddae
+docker: quay.io/biocontainers/bioconductor-ecolik12.db0
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

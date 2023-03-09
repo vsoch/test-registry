@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-ensdb.rnorvegicus.v75
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-ensdb.rnorvegicus.v75
+latest:
+  2.99.0--r41hdfd78af_9: sha256:a6c67b571a999f7171c5b2c1cfa279c3b9c67c5f28a32ea7d601aa94cf675c2c
+tags:
+  2.99.0--r41hdfd78af_9: sha256:a6c67b571a999f7171c5b2c1cfa279c3b9c67c5f28a32ea7d601aa94cf675c2c
+docker: quay.io/biocontainers/bioconductor-ensdb.rnorvegicus.v75

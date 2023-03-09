@@ -1,0 +1,15 @@
+url: https://biocontainers.pro/tools/sure
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for sure
+latest:
+  2.0.0--pyh5e36f6f_0: sha256:1d5113c54b8d63747e423053e1bef9008bc6c20d20806968fc9c1aa1004321b7
+tags:
+  2.0.0--pyh5e36f6f_0: sha256:1d5113c54b8d63747e423053e1bef9008bc6c20d20806968fc9c1aa1004321b7
+docker: quay.io/biocontainers/sure
+aliases:
+  sure: /usr/local/bin/sure
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config

@@ -1,0 +1,45 @@
+url: https://biocontainers.pro/tools/sequnwinder
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for sequnwinder
+latest:
+  0.1.4--hdfd78af_1: sha256:8cc85e27130f2aec854d4aafc10596a2159bf17bb28647c80d82faf89f7b1c5c
+tags:
+  0.1.4--hdfd78af_1: sha256:8cc85e27130f2aec854d4aafc10596a2159bf17bb28647c80d82faf89f7b1c5c
+docker: quay.io/biocontainers/sequnwinder
+aliases:
+  dtc: /usr/local/bin/dtc
+  enr: /usr/local/bin/enr
+  fasta-from-bed: /usr/local/bin/fasta-from-bed
+  fasta-re-match: /usr/local/bin/fasta-re-match
+  index-fasta-file: /usr/local/bin/index-fasta-file
+  meme-chip_html_to_tsv: /usr/local/bin/meme-chip_html_to_tsv
+  momo: /usr/local/bin/momo
+  sequnwinder: /usr/local/bin/sequnwinder
+  streme: /usr/local/bin/streme
+  streme_xml_to_html: /usr/local/bin/streme_xml_to_html
+  tgene: /usr/local/bin/tgene
+  alphtype: /usr/local/bin/alphtype
+  ama: /usr/local/bin/ama
+  ama-qvalues: /usr/local/bin/ama-qvalues
+  ame: /usr/local/bin/ame
+  beeml2meme: /usr/local/bin/beeml2meme
+  centrimo: /usr/local/bin/centrimo
+  ceqlogo: /usr/local/bin/ceqlogo
+  chen2meme: /usr/local/bin/chen2meme
+  clustalw2fasta: /usr/local/bin/clustalw2fasta
+  clustalw2phylip: /usr/local/bin/clustalw2phylip
+  compute-prior-dist: /usr/local/bin/compute-prior-dist
+  compute-uniform-priors: /usr/local/bin/compute-uniform-priors
+  create-priors: /usr/local/bin/create-priors
+  dreme: /usr/local/bin/dreme
+  dreme_xml_to_html: /usr/local/bin/dreme_xml_to_html
+  dreme_xml_to_txt: /usr/local/bin/dreme_xml_to_txt
+  dust: /usr/local/bin/dust
+  elm2meme: /usr/local/bin/elm2meme
+  fasta-center: /usr/local/bin/fasta-center
+  fasta-dinucleotide-shuffle: /usr/local/bin/fasta-dinucleotide-shuffle
+  fasta-fetch: /usr/local/bin/fasta-fetch
+  fasta-get-markov: /usr/local/bin/fasta-get-markov
+  fasta-grep: /usr/local/bin/fasta-grep
+  fasta-hamming-enrich: /usr/local/bin/fasta-hamming-enrich
+  fasta-make-index: /usr/local/bin/fasta-make-index

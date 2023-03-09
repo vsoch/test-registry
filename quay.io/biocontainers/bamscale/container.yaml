@@ -1,0 +1,13 @@
+url: https://biocontainers.pro/tools/bamscale
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bamscale
+latest:
+  0.0.5--h380da64_6: sha256:980935848ed8757eccb5ffe7b6de82221b5516a53b8ecddac1dc99198f0ec45f
+tags:
+  0.0.5--h380da64_6: sha256:980935848ed8757eccb5ffe7b6de82221b5516a53b8ecddac1dc99198f0ec45f
+docker: quay.io/biocontainers/bamscale
+aliases:
+  BAMscale: /usr/local/bin/BAMscale
+  htsfile: /usr/local/bin/htsfile
+  bgzip: /usr/local/bin/bgzip
+  tabix: /usr/local/bin/tabix

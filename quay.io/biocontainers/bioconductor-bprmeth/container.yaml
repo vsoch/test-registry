@@ -1,0 +1,14 @@
+url: https://biocontainers.pro/tools/bioconductor-bprmeth
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-bprmeth
+latest:
+  1.8.1--r351hf484d3e_0: sha256:22008019d0323c98a8ce16e7abaf1f5701c023335911c457e0137bfe38fd5f66
+tags:
+  1.8.1--r351hf484d3e_0: sha256:22008019d0323c98a8ce16e7abaf1f5701c023335911c457e0137bfe38fd5f66
+docker: quay.io/biocontainers/bioconductor-bprmeth
+aliases:
+  pandoc-citeproc: /usr/local/bin/pandoc-citeproc
+  pandoc: /usr/local/bin/pandoc
+  wget: /usr/local/bin/wget
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

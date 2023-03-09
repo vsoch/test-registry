@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/pauda
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pauda
+latest:
+  1.0.1--1: sha256:f143524e0bac41eea90cb4bc3eae046489f7f2ec36a02346694a3372cbda4ab8
+tags:
+  1.0.1--1: sha256:f143524e0bac41eea90cb4bc3eae046489f7f2ec36a02346694a3372cbda4ab8
+docker: quay.io/biocontainers/pauda
+aliases:
+  pauda-build: /usr/local/bin/pauda-build
+  pauda-run: /usr/local/bin/pauda-run
+  bowtie2: /usr/local/bin/bowtie2
+  bowtie2-align-l: /usr/local/bin/bowtie2-align-l
+  bowtie2-align-s: /usr/local/bin/bowtie2-align-s
+  bowtie2-build: /usr/local/bin/bowtie2-build
+  bowtie2-build-l: /usr/local/bin/bowtie2-build-l
+  bowtie2-build-s: /usr/local/bin/bowtie2-build-s
+  bowtie2-inspect: /usr/local/bin/bowtie2-inspect
+  bowtie2-inspect-l: /usr/local/bin/bowtie2-inspect-l
+  bowtie2-inspect-s: /usr/local/bin/bowtie2-inspect-s
+  extcheck: /usr/local/bin/extcheck
+  java-rmi.cgi: /usr/local/bin/java-rmi.cgi
+  javah: /usr/local/bin/javah
+  jhat: /usr/local/bin/jhat
+  jsadebugd: /usr/local/bin/jsadebugd
+  native2ascii: /usr/local/bin/native2ascii
+  policytool: /usr/local/bin/policytool
+  appletviewer: /usr/local/bin/appletviewer
+  idlj: /usr/local/bin/idlj
+  orbd: /usr/local/bin/orbd
+  schemagen: /usr/local/bin/schemagen
+  servertool: /usr/local/bin/servertool
+  tnameserv: /usr/local/bin/tnameserv
+  wsgen: /usr/local/bin/wsgen
+  wsimport: /usr/local/bin/wsimport
+  xjc: /usr/local/bin/xjc

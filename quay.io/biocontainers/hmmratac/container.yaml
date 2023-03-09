@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/hmmratac
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for hmmratac
+latest:
+  1.2.9--0: sha256:be28c28d52f565b5fbc683a21324aea81c8d342b9eb6993aeb672ac1a0f8ff13
+tags:
+  1.2.9--0: sha256:be28c28d52f565b5fbc683a21324aea81c8d342b9eb6993aeb672ac1a0f8ff13
+docker: quay.io/biocontainers/hmmratac
+aliases:
+  HMMRATAC: /usr/local/bin/HMMRATAC
+  giffilter: /usr/local/bin/giffilter
+  gifsponge: /usr/local/bin/gifsponge
+  gifecho: /usr/local/bin/gifecho
+  gifinto: /usr/local/bin/gifinto
+  jaotc: /usr/local/bin/jaotc
+  aserver: /usr/local/bin/aserver
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200

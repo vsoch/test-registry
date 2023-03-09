@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-teqc
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-teqc
+latest:
+  4.8.0--r36_0: sha256:d80701a5204ba950183636cf30250b588f22fea896dd728ab361c8d9eb69e94e
+tags:
+  4.8.0--r36_0: sha256:d80701a5204ba950183636cf30250b588f22fea896dd728ab361c8d9eb69e94e
+docker: quay.io/biocontainers/bioconductor-teqc
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

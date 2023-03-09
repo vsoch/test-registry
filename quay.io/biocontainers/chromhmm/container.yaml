@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/chromhmm
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for chromhmm
+latest:
+  1.23--hdfd78af_0: sha256:e946f36b053df17ad5650dd13b6616e090d7eca40e088e8f7ffa2a87a8ddf2b3
+tags:
+  1.23--hdfd78af_0: sha256:e946f36b053df17ad5650dd13b6616e090d7eca40e088e8f7ffa2a87a8ddf2b3
+docker: quay.io/biocontainers/chromhmm
+aliases:
+  ChromHMM.sh: /usr/local/bin/ChromHMM.sh
+  download_chromhmm_data.sh: /usr/local/bin/download_chromhmm_data.sh
+  funzip: /usr/local/bin/funzip
+  unzipsfx: /usr/local/bin/unzipsfx
+  zipgrep: /usr/local/bin/zipgrep
+  zipinfo: /usr/local/bin/zipinfo
+  unzip: /usr/local/bin/unzip
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc

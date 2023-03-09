@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-mirbaseconverter
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-mirbaseconverter
+latest:
+  1.8.0--r36_1: sha256:156a194e76cc38a258fe798040efa8898413a4ab3380951f26d0e3d40f376739
+tags:
+  1.8.0--r36_1: sha256:156a194e76cc38a258fe798040efa8898413a4ab3380951f26d0e3d40f376739
+docker: quay.io/biocontainers/bioconductor-mirbaseconverter
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

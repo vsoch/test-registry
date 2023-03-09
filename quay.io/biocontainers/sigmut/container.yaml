@@ -1,0 +1,21 @@
+url: https://biocontainers.pro/tools/sigmut
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for sigmut
+latest:
+  1.0--hdfd78af_2: sha256:85ec382c26d09e07555072828a5f1a8bfafcfa524e5e4556e8b0fff5cc4ac991
+tags:
+  1.0--hdfd78af_2: sha256:85ec382c26d09e07555072828a5f1a8bfafcfa524e5e4556e8b0fff5cc4ac991
+docker: quay.io/biocontainers/sigmut
+aliases:
+  sigprofiler: /usr/local/bin/sigprofiler
+  f2py3.9: /usr/local/bin/f2py3.9
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config
+  jpgicc: /usr/local/bin/jpgicc
+  linkicc: /usr/local/bin/linkicc
+  psicc: /usr/local/bin/psicc
+  tificc: /usr/local/bin/tificc
+  transicc: /usr/local/bin/transicc

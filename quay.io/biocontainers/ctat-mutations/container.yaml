@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/ctat-mutations
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ctat-mutations
+latest:
+  2.0.1--py27_5: sha256:3cb88ef5e4ef8e40677f219c090d81f32f601df2e48b9ae37451a836ad85e335
+tags:
+  2.0.1--py27_5: sha256:3cb88ef5e4ef8e40677f219c090d81f32f601df2e48b9ae37451a836ad85e335
+docker: quay.io/biocontainers/ctat-mutations
+aliases:
+  ctat_mutations: /usr/local/bin/ctat_mutations
+  STAR: /usr/local/bin/STAR
+  STARlong: /usr/local/bin/STARlong
+  gatk: /usr/local/bin/gatk
+  picard: /usr/local/bin/picard
+  extcheck: /usr/local/bin/extcheck
+  java-rmi.cgi: /usr/local/bin/java-rmi.cgi
+  javah: /usr/local/bin/javah
+  jhat: /usr/local/bin/jhat
+  jsadebugd: /usr/local/bin/jsadebugd
+  native2ascii: /usr/local/bin/native2ascii
+  policytool: /usr/local/bin/policytool
+  appletviewer: /usr/local/bin/appletviewer
+  idlj: /usr/local/bin/idlj
+  orbd: /usr/local/bin/orbd
+  schemagen: /usr/local/bin/schemagen
+  servertool: /usr/local/bin/servertool
+  tnameserv: /usr/local/bin/tnameserv
+  wsgen: /usr/local/bin/wsgen
+  wsimport: /usr/local/bin/wsimport
+  xjc: /usr/local/bin/xjc
+  guess-ploidy.py: /usr/local/bin/guess-ploidy.py
+  plot-roh.py: /usr/local/bin/plot-roh.py
+  run-roh.pl: /usr/local/bin/run-roh.pl
+  color-chrs.pl: /usr/local/bin/color-chrs.pl
+  plot-vcfstats: /usr/local/bin/plot-vcfstats

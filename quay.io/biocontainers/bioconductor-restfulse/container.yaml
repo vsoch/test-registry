@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-restfulse
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-restfulse
+latest:
+  1.8.0--r36_0: sha256:68be39c0a794b65888bf0dca08ae8338779820f9fb1a231055863c28d0af2680
+tags:
+  1.8.0--r36_0: sha256:68be39c0a794b65888bf0dca08ae8338779820f9fb1a231055863c28d0af2680
+docker: quay.io/biocontainers/bioconductor-restfulse
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

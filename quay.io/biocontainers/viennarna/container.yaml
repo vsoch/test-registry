@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/viennarna
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for viennarna
+latest:
+  2.4.9--py27hd28b015_0: sha256:475a89fc6b56fb8afb5585339074b949e82d5a6e6aa3d3d2eb07b7f2a2a6ffb1
+tags:
+  2.4.9--py27hd28b015_0: sha256:475a89fc6b56fb8afb5585339074b949e82d5a6e6aa3d3d2eb07b7f2a2a6ffb1
+docker: quay.io/biocontainers/viennarna
+aliases:
+  AnalyseDists: /usr/local/bin/AnalyseDists
+  AnalyseSeqs: /usr/local/bin/AnalyseSeqs
+  RNAlocmin: /usr/local/bin/RNAlocmin
+  RNApvmin: /usr/local/bin/RNApvmin
+  b2ct: /usr/local/bin/b2ct
+  ct2db: /usr/local/bin/ct2db
+  kinwalker: /usr/local/bin/kinwalker
+  popt: /usr/local/bin/popt
+  RNA2Dfold: /usr/local/bin/RNA2Dfold
+  RNALalifold: /usr/local/bin/RNALalifold
+  RNAPKplex: /usr/local/bin/RNAPKplex
+  RNAparconv: /usr/local/bin/RNAparconv
+  RNAplex: /usr/local/bin/RNAplex
+  RNAsnoop: /usr/local/bin/RNAsnoop
+  RNAfold: /usr/local/bin/RNAfold
+  Kinfold: /usr/local/bin/Kinfold
+  RNALfold: /usr/local/bin/RNALfold
+  RNAaliduplex: /usr/local/bin/RNAaliduplex
+  RNAalifold: /usr/local/bin/RNAalifold
+  RNAcofold: /usr/local/bin/RNAcofold
+  RNAdistance: /usr/local/bin/RNAdistance
+  RNAduplex: /usr/local/bin/RNAduplex
+  RNAeval: /usr/local/bin/RNAeval
+  RNAforester: /usr/local/bin/RNAforester
+  RNAheat: /usr/local/bin/RNAheat

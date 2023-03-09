@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-gcapc
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-gcapc
+latest:
+  1.8.0--r36_1: sha256:51bc1bea6cc25ccdb4e5dc545afd92bbaa6d7ed2ab4b517a5de5fba969aa9029
+tags:
+  1.8.0--r36_1: sha256:51bc1bea6cc25ccdb4e5dc545afd92bbaa6d7ed2ab4b517a5de5fba969aa9029
+docker: quay.io/biocontainers/bioconductor-gcapc
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

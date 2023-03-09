@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/genomelake
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for genomelake
+latest:
+  0.1.5--py37h516909a_0: sha256:c9ac6530cfb680cfe4a7a1412e7a862030d6bf216c62f14f15890326429ea16e
+tags:
+  0.1.5--py37h516909a_0: sha256:c9ac6530cfb680cfe4a7a1412e7a862030d6bf216c62f14f15890326429ea16e
+docker: quay.io/biocontainers/genomelake
+aliases:
+  dask-remote: /usr/local/bin/dask-remote
+  dask-submit: /usr/local/bin/dask-submit
+  dask-scheduler: /usr/local/bin/dask-scheduler
+  dask-ssh: /usr/local/bin/dask-ssh
+  dask-worker: /usr/local/bin/dask-worker
+  intersection_matrix.py: /usr/local/bin/intersection_matrix.py
+  intron_exon_reads.py: /usr/local/bin/intron_exon_reads.py
+  pbt_plotting_example.py: /usr/local/bin/pbt_plotting_example.py
+  peak_pie.py: /usr/local/bin/peak_pie.py
+  pybedtools: /usr/local/bin/pybedtools
+  venn_gchart.py: /usr/local/bin/venn_gchart.py
+  venn_mpl.py: /usr/local/bin/venn_mpl.py
+  annotate.py: /usr/local/bin/annotate.py
+  bokeh: /usr/local/bin/bokeh
+  pt2to3: /usr/local/bin/pt2to3
+  ptdump: /usr/local/bin/ptdump
+  ptrepack: /usr/local/bin/ptrepack
+  pttree: /usr/local/bin/pttree
+  shiftBed: /usr/local/bin/shiftBed
+  annotateBed: /usr/local/bin/annotateBed
+  bamToBed: /usr/local/bin/bamToBed
+  bamToFastq: /usr/local/bin/bamToFastq
+  bed12ToBed6: /usr/local/bin/bed12ToBed6
+  bedToBam: /usr/local/bin/bedToBam
+  bedToIgv: /usr/local/bin/bedToIgv
+  bedpeToBam: /usr/local/bin/bedpeToBam
+  bedtools: /usr/local/bin/bedtools

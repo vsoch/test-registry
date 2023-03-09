@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-yapsa
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-yapsa
+latest:
+  1.8.0--r351_0: sha256:111aa7dbfac5cf3f026c4d92ff2c67a3e368e4ac888e8da1948c16a25af5626e
+tags:
+  1.8.0--r351_0: sha256:111aa7dbfac5cf3f026c4d92ff2c67a3e368e4ac888e8da1948c16a25af5626e
+docker: quay.io/biocontainers/bioconductor-yapsa
+aliases:
+  wget: /usr/local/bin/wget
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

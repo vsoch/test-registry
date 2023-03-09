@@ -1,0 +1,40 @@
+url: https://biocontainers.pro/tools/tepid
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for tepid
+latest:
+  0.8--py_3: sha256:d6d03c578db8761b8fc517c2fa2cf2de0e2feeaac8e9414174a8afd635d051d0
+tags:
+  0.8--py_3: sha256:d6d03c578db8761b8fc517c2fa2cf2de0e2feeaac8e9414174a8afd635d051d0
+docker: quay.io/biocontainers/tepid
+aliases:
+  samblaster: /usr/local/bin/samblaster
+  tepid-discover: /usr/local/bin/tepid-discover
+  tepid-map: /usr/local/bin/tepid-map
+  tepid-map-se: /usr/local/bin/tepid-map-se
+  tepid-refine: /usr/local/bin/tepid-refine
+  yaha: /usr/local/bin/yaha
+  intersection_matrix.py: /usr/local/bin/intersection_matrix.py
+  intron_exon_reads.py: /usr/local/bin/intron_exon_reads.py
+  pbt_plotting_example.py: /usr/local/bin/pbt_plotting_example.py
+  peak_pie.py: /usr/local/bin/peak_pie.py
+  pybedtools: /usr/local/bin/pybedtools
+  venn_gchart.py: /usr/local/bin/venn_gchart.py
+  venn_mpl.py: /usr/local/bin/venn_mpl.py
+  annotate.py: /usr/local/bin/annotate.py
+  nosetests: /usr/local/bin/nosetests
+  bowtie2: /usr/local/bin/bowtie2
+  bowtie2-align-l: /usr/local/bin/bowtie2-align-l
+  bowtie2-align-s: /usr/local/bin/bowtie2-align-s
+  bowtie2-build: /usr/local/bin/bowtie2-build
+  bowtie2-build-l: /usr/local/bin/bowtie2-build-l
+  bowtie2-build-s: /usr/local/bin/bowtie2-build-s
+  bowtie2-inspect: /usr/local/bin/bowtie2-inspect
+  bowtie2-inspect-l: /usr/local/bin/bowtie2-inspect-l
+  bowtie2-inspect-s: /usr/local/bin/bowtie2-inspect-s
+  f2py2: /usr/local/bin/f2py2
+  f2py2.7: /usr/local/bin/f2py2.7
+  shiftBed: /usr/local/bin/shiftBed
+  annotateBed: /usr/local/bin/annotateBed
+  bamToBed: /usr/local/bin/bamToBed
+  bamToFastq: /usr/local/bin/bamToFastq
+  bed12ToBed6: /usr/local/bin/bed12ToBed6

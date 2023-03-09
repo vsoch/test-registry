@@ -1,0 +1,11 @@
+url: https://biocontainers.pro/tools/r-coenocliner
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-coenocliner
+latest:
+  0.2_2--r351h6115d3f_2: sha256:58e0abcc20522c7e070121fd8c433b63914cb55a63123f655b14cc4e85370024
+tags:
+  0.2_2--r351h6115d3f_2: sha256:58e0abcc20522c7e070121fd8c433b63914cb55a63123f655b14cc4e85370024
+docker: quay.io/biocontainers/r-coenocliner
+aliases:
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

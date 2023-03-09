@@ -1,0 +1,22 @@
+url: https://biocontainers.pro/tools/msaboot
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for msaboot
+latest:
+  0.1.2--py_1: sha256:3696caab395bd3ebb94c9d8d9747687d154b2499b091f66def8eafe8b8d95f2d
+tags:
+  0.1.2--py_1: sha256:3696caab395bd3ebb94c9d8d9747687d154b2499b091f66def8eafe8b8d95f2d
+docker: quay.io/biocontainers/msaboot
+aliases:
+  msaboot: /usr/local/bin/msaboot
+  sample: /usr/local/bin/sample
+  2to3-3.5: /usr/local/bin/2to3-3.5
+  idle3.5: /usr/local/bin/idle3.5
+  pydoc3.5: /usr/local/bin/pydoc3.5
+  python3.5: /usr/local/bin/python3.5
+  python3.5-config: /usr/local/bin/python3.5-config
+  python3.5m: /usr/local/bin/python3.5m
+  python3.5m-config: /usr/local/bin/python3.5m-config
+  pyvenv-3.5: /usr/local/bin/pyvenv-3.5
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config
+  pyvenv: /usr/local/bin/pyvenv

@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/grapetree
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for grapetree
+latest:
+  2.1--pyh3252c3a_0: sha256:fa040abbeb646bb2576536ccaec8b88683509c4e45842f81b954e27ac91e4a83
+tags:
+  2.1--pyh3252c3a_0: sha256:fa040abbeb646bb2576536ccaec8b88683509c4e45842f81b954e27ac91e4a83
+docker: quay.io/biocontainers/grapetree
+aliases:
+  grapetree: /usr/local/bin/grapetree
+  unidecode: /usr/local/bin/unidecode
+  flask: /usr/local/bin/flask
+  ete3: /usr/local/bin/ete3
+  numba: /usr/local/bin/numba
+  pycc: /usr/local/bin/pycc
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  sip: /usr/local/bin/sip
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc
+  gst-device-monitor-1.0: /usr/local/bin/gst-device-monitor-1.0
+  gst-discoverer-1.0: /usr/local/bin/gst-discoverer-1.0
+  gst-play-1.0: /usr/local/bin/gst-play-1.0
+  fixqt4headers.pl: /usr/local/bin/fixqt4headers.pl
+  qlalr: /usr/local/bin/qlalr
+  qml: /usr/local/bin/qml
+  qmleasing: /usr/local/bin/qmleasing

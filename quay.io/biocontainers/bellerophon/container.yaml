@@ -1,0 +1,15 @@
+url: https://biocontainers.pro/tools/bellerophon
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bellerophon
+latest:
+  1.0--pyh5e36f6f_0: sha256:58b74bc5eb82f6ce13badfd3170b985306acd55dcf119214cdeaf0c03d83dfb0
+tags:
+  1.0--pyh5e36f6f_0: sha256:58b74bc5eb82f6ce13badfd3170b985306acd55dcf119214cdeaf0c03d83dfb0
+docker: quay.io/biocontainers/bellerophon
+aliases:
+  bellerophon: /usr/local/bin/bellerophon
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config

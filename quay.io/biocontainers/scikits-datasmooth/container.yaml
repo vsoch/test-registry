@@ -1,0 +1,27 @@
+url: https://biocontainers.pro/tools/scikits-datasmooth
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for scikits-datasmooth
+latest:
+  0.7.1--pyh145b6a8_2: sha256:9f2779cc2c518231acd1812cca517886e14fb01642b86bdfc4b848b283dd99f0
+tags:
+  0.7.1--pyh145b6a8_2: sha256:9f2779cc2c518231acd1812cca517886e14fb01642b86bdfc4b848b283dd99f0
+docker: quay.io/biocontainers/scikits-datasmooth
+aliases:
+  dsdp5: /usr/local/bin/dsdp5
+  cmpfillin: /usr/local/bin/cmpfillin
+  gpmetis: /usr/local/bin/gpmetis
+  graphchk: /usr/local/bin/graphchk
+  m2gmetis: /usr/local/bin/m2gmetis
+  mpmetis: /usr/local/bin/mpmetis
+  ndmetis: /usr/local/bin/ndmetis
+  fftw-wisdom: /usr/local/bin/fftw-wisdom
+  fftw-wisdom-to-conf: /usr/local/bin/fftw-wisdom-to-conf
+  fftwf-wisdom: /usr/local/bin/fftwf-wisdom
+  fftwl-wisdom: /usr/local/bin/fftwl-wisdom
+  glpsol: /usr/local/bin/glpsol
+  f2py3.8: /usr/local/bin/f2py3.8
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config

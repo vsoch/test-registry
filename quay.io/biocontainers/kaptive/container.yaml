@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/kaptive
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for kaptive
+latest:
+  0.7.3--py_0: sha256:0341c20825209a66d5897ab27378824d1ad11258e5a982a5216a120604746b62
+tags:
+  0.7.3--py_0: sha256:0341c20825209a66d5897ab27378824d1ad11258e5a982a5216a120604746b62
+docker: quay.io/biocontainers/kaptive
+aliases:
+  kaptive.py: /usr/local/bin/kaptive.py
+  test_pcre: /usr/local/bin/test_pcre
+  blastdbcp: /usr/local/bin/blastdbcp
+  gene_info_reader: /usr/local/bin/gene_info_reader
+  seqdb_demo: /usr/local/bin/seqdb_demo
+  seqdb_perf: /usr/local/bin/seqdb_perf
+  seedtop: /usr/local/bin/seedtop
+  run_with_lock: /usr/local/bin/run_with_lock
+  blast_formatter: /usr/local/bin/blast_formatter
+  blastdb_aliastool: /usr/local/bin/blastdb_aliastool
+  blastdbcheck: /usr/local/bin/blastdbcheck
+  blastdbcmd: /usr/local/bin/blastdbcmd
+  blastn: /usr/local/bin/blastn
+  blastp: /usr/local/bin/blastp
+  blastx: /usr/local/bin/blastx
+  convert2blastmask: /usr/local/bin/convert2blastmask
+  datatool: /usr/local/bin/datatool
+  deltablast: /usr/local/bin/deltablast
+  dustmasker: /usr/local/bin/dustmasker
+  legacy_blast.pl: /usr/local/bin/legacy_blast.pl
+  makembindex: /usr/local/bin/makembindex
+  makeprofiledb: /usr/local/bin/makeprofiledb
+  project_tree_builder: /usr/local/bin/project_tree_builder
+  psiblast: /usr/local/bin/psiblast
+  rpstblastn: /usr/local/bin/rpstblastn
+  segmasker: /usr/local/bin/segmasker

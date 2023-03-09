@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/siann
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for siann
+latest:
+  1.3--hdfd78af_0: sha256:4cff38262636330c11852de53cfa56c25ddb2d50ac5932e682bdf400f2672751
+tags:
+  1.3--hdfd78af_0: sha256:4cff38262636330c11852de53cfa56c25ddb2d50ac5932e682bdf400f2672751
+docker: quay.io/biocontainers/siann
+aliases:
+  make_database.sh: /usr/local/bin/make_database.sh
+  siann.py: /usr/local/bin/siann.py
+  time: /usr/local/bin/time
+  mapview: /usr/local/bin/mapview
+  mgaps: /usr/local/bin/mgaps
+  run-mummer1: /usr/local/bin/run-mummer1
+  run-mummer3: /usr/local/bin/run-mummer3
+  combineMUMs: /usr/local/bin/combineMUMs
+  delta-filter: /usr/local/bin/delta-filter
+  dnadiff: /usr/local/bin/dnadiff
+  exact-tandems: /usr/local/bin/exact-tandems
+  mummer: /usr/local/bin/mummer
+  mummerplot: /usr/local/bin/mummerplot
+  nucmer: /usr/local/bin/nucmer
+  promer: /usr/local/bin/promer
+  repeat-match: /usr/local/bin/repeat-match
+  show-aligns: /usr/local/bin/show-aligns
+  show-coords: /usr/local/bin/show-coords
+  show-diff: /usr/local/bin/show-diff
+  show-snps: /usr/local/bin/show-snps
+  show-tiling: /usr/local/bin/show-tiling
+  parsort: /usr/local/bin/parsort
+  env_parallel: /usr/local/bin/env_parallel
+  env_parallel.ash: /usr/local/bin/env_parallel.ash
+  env_parallel.bash: /usr/local/bin/env_parallel.bash
+  env_parallel.csh: /usr/local/bin/env_parallel.csh
+  env_parallel.dash: /usr/local/bin/env_parallel.dash
+  env_parallel.fish: /usr/local/bin/env_parallel.fish

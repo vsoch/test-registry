@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/r-acidgenerics
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-acidgenerics
+latest:
+  0.6.0--r41hdfd78af_0: 'crane digest quay.io/biocontainers/r-acidgenerics:0.6.0--r41hdfd78af_0:
+    unrecognized HTTP status: 502 Bad Gateway'
+tags:
+  0.6.0--r41hdfd78af_0: 'crane digest quay.io/biocontainers/r-acidgenerics:0.6.0--r41hdfd78af_0:
+    unrecognized HTTP status: 502 Bad Gateway'
+docker: quay.io/biocontainers/r-acidgenerics

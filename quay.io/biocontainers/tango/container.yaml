@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/tango
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for tango
+latest:
+  0.5.7--py_0: sha256:de11f0554bf52d33e1f9c1bd44f071ec03c3897304c419bf971e28f3007dab60
+tags:
+  0.5.7--py_0: sha256:de11f0554bf52d33e1f9c1bd44f071ec03c3897304c419bf971e28f3007dab60
+docker: quay.io/biocontainers/tango
+aliases:
+  tango: /usr/local/bin/tango
+  ete3: /usr/local/bin/ete3
+  diamond: /usr/local/bin/diamond
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  sip: /usr/local/bin/sip
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc
+  gst-device-monitor-1.0: /usr/local/bin/gst-device-monitor-1.0
+  gst-discoverer-1.0: /usr/local/bin/gst-discoverer-1.0
+  gst-play-1.0: /usr/local/bin/gst-play-1.0
+  fixqt4headers.pl: /usr/local/bin/fixqt4headers.pl
+  qlalr: /usr/local/bin/qlalr
+  qml: /usr/local/bin/qml
+  qmleasing: /usr/local/bin/qmleasing
+  qmlimportscanner: /usr/local/bin/qmlimportscanner
+  qmllint: /usr/local/bin/qmllint
+  qmlmin: /usr/local/bin/qmlmin

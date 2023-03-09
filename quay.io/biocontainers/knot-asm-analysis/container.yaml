@@ -1,0 +1,48 @@
+url: https://biocontainers.pro/tools/knot-asm-analysis
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for knot-asm-analysis
+latest:
+  1.3.0--py_0: sha256:0e678d4beba9b4a0bab3c2f17f4806e8af26520b38213c0b657311acae5b23cf
+tags:
+  1.3.0--py_0: sha256:0e678d4beba9b4a0bab3c2f17f4806e8af26520b38213c0b657311acae5b23cf
+docker: quay.io/biocontainers/knot-asm-analysis
+aliases:
+  fpa: /usr/local/bin/fpa
+  gfapy-convert: /usr/local/bin/gfapy-convert
+  gfapy-mergelinear: /usr/local/bin/gfapy-mergelinear
+  gfapy-renumber: /usr/local/bin/gfapy-renumber
+  gfapy-validate: /usr/local/bin/gfapy-validate
+  knot: /usr/local/bin/knot
+  knot.analysis: /usr/local/bin/knot.analysis
+  knot.analysis.classifications: /usr/local/bin/knot.analysis.classifications
+  knot.analysis.hamilton_path: /usr/local/bin/knot.analysis.hamilton_path
+  knot.extremity_search: /usr/local/bin/knot.extremity_search
+  knot.filter_tig: /usr/local/bin/knot.filter_tig
+  knot.path_search: /usr/local/bin/knot.path_search
+  knot.sg_generation: /usr/local/bin/knot.sg_generation
+  yacrd: /usr/local/bin/yacrd
+  x86_64-conda-linux-gnu-pkg-config: /usr/local/bin/x86_64-conda-linux-gnu-pkg-config
+  Magick++-config: /usr/local/bin/Magick++-config
+  MagickCore-config: /usr/local/bin/MagickCore-config
+  MagickWand-config: /usr/local/bin/MagickWand-config
+  animate: /usr/local/bin/animate
+  composite: /usr/local/bin/composite
+  conjure: /usr/local/bin/conjure
+  convert: /usr/local/bin/convert
+  display: /usr/local/bin/display
+  identify: /usr/local/bin/identify
+  import: /usr/local/bin/import
+  magick: /usr/local/bin/magick
+  magick-script: /usr/local/bin/magick-script
+  mogrify: /usr/local/bin/mogrify
+  montage: /usr/local/bin/montage
+  cxpm: /usr/local/bin/cxpm
+  pkg-config: /usr/local/bin/pkg-config
+  pkg-config.bin: /usr/local/bin/pkg-config.bin
+  stream: /usr/local/bin/stream
+  sxpm: /usr/local/bin/sxpm
+  pulptest: /usr/local/bin/pulptest
+  compare: /usr/local/bin/compare
+  cbc: /usr/local/bin/cbc
+  clp: /usr/local/bin/clp
+  snakemake: /usr/local/bin/snakemake

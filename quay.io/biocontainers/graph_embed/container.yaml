@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/graph_embed
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for graph_embed
+latest:
+  2.4--py_0: sha256:c97303dcfe3f0c8caaa8ee7b119370b606062ae6304186983100e78fbd919dc9
+tags:
+  2.4--py_0: sha256:c97303dcfe3f0c8caaa8ee7b119370b606062ae6304186983100e78fbd919dc9
+docker: quay.io/biocontainers/graph_embed
+aliases:
+  graphembed: /usr/local/bin/graphembed
+  compile-et.pl: /usr/local/bin/compile-et.pl
+  prerr.properties: /usr/local/bin/prerr.properties
+  cxpm: /usr/local/bin/cxpm
+  sxpm: /usr/local/bin/sxpm
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview
+  qvkgen: /usr/local/bin/qvkgen
+  certutil: /usr/local/bin/certutil
+  nspr-config: /usr/local/bin/nspr-config
+  nss-config: /usr/local/bin/nss-config
+  pk12util: /usr/local/bin/pk12util
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  acyclic: /usr/local/bin/acyclic
+  bcomps: /usr/local/bin/bcomps
+  ccomps: /usr/local/bin/ccomps
+  circo: /usr/local/bin/circo
+  dijkstra: /usr/local/bin/dijkstra
+  dot: /usr/local/bin/dot
+  dot2gxl: /usr/local/bin/dot2gxl

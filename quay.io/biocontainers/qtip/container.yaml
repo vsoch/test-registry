@@ -1,0 +1,21 @@
+url: https://biocontainers.pro/tools/qtip
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for qtip
+latest:
+  1.6.2--py36h7eb728f_1: sha256:94cadcf3a63a0b68f5b2f514507a3bc2bddd25791eff0d16fdb26ed63918f5ca
+tags:
+  1.6.2--py36h7eb728f_1: sha256:94cadcf3a63a0b68f5b2f514507a3bc2bddd25791eff0d16fdb26ed63918f5ca
+docker: quay.io/biocontainers/qtip
+aliases:
+  qtip: /usr/local/bin/qtip
+  2to3-3.6: /usr/local/bin/2to3-3.6
+  idle3.6: /usr/local/bin/idle3.6
+  pydoc3.6: /usr/local/bin/pydoc3.6
+  python3.6: /usr/local/bin/python3.6
+  python3.6-config: /usr/local/bin/python3.6-config
+  python3.6m: /usr/local/bin/python3.6m
+  python3.6m-config: /usr/local/bin/python3.6m-config
+  pyvenv-3.6: /usr/local/bin/pyvenv-3.6
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config
+  pyvenv: /usr/local/bin/pyvenv

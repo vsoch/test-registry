@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/perl-cg-pipeline
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for perl-cg-pipeline
+latest:
+  0.5--pl5321hdfd78af_1: 'crane digest quay.io/biocontainers/perl-cg-pipeline:0.5--pl5321hdfd78af_1:
+    unrecognized HTTP status: 502 Bad Gateway'
+tags:
+  0.5--pl5321hdfd78af_1: 'crane digest quay.io/biocontainers/perl-cg-pipeline:0.5--pl5321hdfd78af_1:
+    unrecognized HTTP status: 502 Bad Gateway'
+docker: quay.io/biocontainers/perl-cg-pipeline
+aliases:
+  bp_find-blast-matches.pl: /usr/local/bin/bp_find-blast-matches.pl
+  ace.pl: /usr/local/bin/ace.pl
+  ccconfig: /usr/local/bin/ccconfig
+  SOAPsh.pl: /usr/local/bin/SOAPsh.pl
+  map: /usr/local/bin/map
+  mirrorMappings: /usr/local/bin/mirrorMappings
+  mkCSGB2312: /usr/local/bin/mkCSGB2312
+  mkmapfile: /usr/local/bin/mkmapfile
+  stubmaker.pl: /usr/local/bin/stubmaker.pl
+  chartex: /usr/local/bin/chartex
+  binhex.pl: /usr/local/bin/binhex.pl
+  debinhex.pl: /usr/local/bin/debinhex.pl
+  xpath: /usr/local/bin/xpath
+  imgsize: /usr/local/bin/imgsize
+  xml_grep: /usr/local/bin/xml_grep
+  xml_merge: /usr/local/bin/xml_merge
+  xml_pp: /usr/local/bin/xml_pp
+  xml_spellcheck: /usr/local/bin/xml_spellcheck
+  xml_split: /usr/local/bin/xml_split
+  tpage: /usr/local/bin/tpage
+  ttree: /usr/local/bin/ttree
+  webtidy: /usr/local/bin/webtidy
+  tidyp: /usr/local/bin/tidyp
+  bp_aacomp.pl: /usr/local/bin/bp_aacomp.pl
+  bp_biofetch_genbank_proxy.pl: /usr/local/bin/bp_biofetch_genbank_proxy.pl

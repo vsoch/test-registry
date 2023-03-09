@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/r-bisquerna
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-bisquerna
+latest:
+  1.0.5--r41h3342da4_0: sha256:84b55f1f8ceddd24767747c359efa63d1cb4eb9c790ed7e26bc02a083401ba7c
+tags:
+  1.0.5--r41h3342da4_0: sha256:84b55f1f8ceddd24767747c359efa63d1cb4eb9c790ed7e26bc02a083401ba7c
+docker: quay.io/biocontainers/r-bisquerna
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/quickmerge
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for quickmerge
+latest:
+  0.3--pl5321h87f3376_3: sha256:af96e77e82c2b8954037f4d117eb5b71ff8d055d7ebe0405fa2746f6b0cd95fd
+tags:
+  0.3--pl5321h87f3376_3: sha256:af96e77e82c2b8954037f4d117eb5b71ff8d055d7ebe0405fa2746f6b0cd95fd
+docker: quay.io/biocontainers/quickmerge
+aliases:
+  merge_wrapper.py: /usr/local/bin/merge_wrapper.py
+  quickmerge: /usr/local/bin/quickmerge
+  mapview: /usr/local/bin/mapview
+  mgaps: /usr/local/bin/mgaps
+  run-mummer1: /usr/local/bin/run-mummer1
+  run-mummer3: /usr/local/bin/run-mummer3
+  combineMUMs: /usr/local/bin/combineMUMs
+  delta-filter: /usr/local/bin/delta-filter
+  dnadiff: /usr/local/bin/dnadiff
+  exact-tandems: /usr/local/bin/exact-tandems
+  mummer: /usr/local/bin/mummer
+  mummerplot: /usr/local/bin/mummerplot
+  nucmer: /usr/local/bin/nucmer
+  promer: /usr/local/bin/promer
+  repeat-match: /usr/local/bin/repeat-match
+  show-aligns: /usr/local/bin/show-aligns
+  show-coords: /usr/local/bin/show-coords
+  show-diff: /usr/local/bin/show-diff
+  show-snps: /usr/local/bin/show-snps
+  show-tiling: /usr/local/bin/show-tiling
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

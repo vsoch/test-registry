@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/hivtrace
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for hivtrace
+latest:
+  1.5.0--py_0: sha256:24d874c0c474ab22bd1ce90dea2ca29fe212e006325493970f55a034719d220a
+tags:
+  1.5.0--py_0: sha256:24d874c0c474ab22bd1ce90dea2ca29fe212e006325493970f55a034719d220a
+docker: quay.io/biocontainers/hivtrace
+aliases:
+  TNS: /usr/local/bin/TNS
+  bam2fna: /usr/local/bin/bam2fna
+  bam2msa: /usr/local/bin/bam2msa
+  bamclip: /usr/local/bin/bamclip
+  bealign: /usr/local/bin/bealign
+  clipedge: /usr/local/bin/clipedge
+  consensus: /usr/local/bin/consensus
+  hivnetworkannotate: /usr/local/bin/hivnetworkannotate
+  hivnetworkcsv: /usr/local/bin/hivnetworkcsv
+  hivtrace: /usr/local/bin/hivtrace
+  hivtrace_strip_drams: /usr/local/bin/hivtrace_strip_drams
+  hivtrace_viz: /usr/local/bin/hivtrace_viz
+  msa2bam: /usr/local/bin/msa2bam
+  seqmerge: /usr/local/bin/seqmerge
+  translate: /usr/local/bin/translate
+  f2py3.7: /usr/local/bin/f2py3.7
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  pyvenv: /usr/local/bin/pyvenv

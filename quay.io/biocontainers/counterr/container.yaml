@@ -1,0 +1,25 @@
+url: https://biocontainers.pro/tools/counterr
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for counterr
+latest:
+  0.1--pyh864c0ab_1: sha256:34a58afc2647e366ed50c790774f1c774b7f6dcdda50dfe59a6b3ade878aff69
+tags:
+  0.1--pyh864c0ab_1: sha256:34a58afc2647e366ed50c790774f1c774b7f6dcdda50dfe59a6b3ade878aff69
+docker: quay.io/biocontainers/counterr
+aliases:
+  counterr: /usr/local/bin/counterr
+  f2py3.7: /usr/local/bin/f2py3.7
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  jpgicc: /usr/local/bin/jpgicc
+  linkicc: /usr/local/bin/linkicc
+  psicc: /usr/local/bin/psicc
+  tificc: /usr/local/bin/tificc
+  transicc: /usr/local/bin/transicc
+  pyvenv: /usr/local/bin/pyvenv

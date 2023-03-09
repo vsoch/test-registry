@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/phylovega
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for phylovega
+latest:
+  0.3--py_0: sha256:5ce2084fc3dfcfff0d51961bdfe41d0295b7af57926834080bb8f3156105d7d8
+tags:
+  0.3--py_0: sha256:5ce2084fc3dfcfff0d51961bdfe41d0295b7af57926834080bb8f3156105d7d8
+docker: quay.io/biocontainers/phylovega
+aliases:
+  jupyter-console: /usr/local/bin/jupyter-console
+  jupyter-qtconsole: /usr/local/bin/jupyter-qtconsole
+  phylovega: /usr/local/bin/phylovega
+  jupyter-bundlerextension: /usr/local/bin/jupyter-bundlerextension
+  jupyter-nbextension: /usr/local/bin/jupyter-nbextension
+  jupyter-notebook: /usr/local/bin/jupyter-notebook
+  jupyter-serverextension: /usr/local/bin/jupyter-serverextension
+  jupyter-nbconvert: /usr/local/bin/jupyter-nbconvert
+  iptest3: /usr/local/bin/iptest3
+  jupyter-kernel: /usr/local/bin/jupyter-kernel
+  jupyter-kernelspec: /usr/local/bin/jupyter-kernelspec
+  jupyter-run: /usr/local/bin/jupyter-run
+  iptest: /usr/local/bin/iptest
+  sumlabels.py: /usr/local/bin/sumlabels.py
+  sumtrees.py: /usr/local/bin/sumtrees.py
+  curve_keygen: /usr/local/bin/curve_keygen
+  pandoc-citeproc: /usr/local/bin/pandoc-citeproc
+  ipython3: /usr/local/bin/ipython3
+  ipython: /usr/local/bin/ipython
+  jupyter-trust: /usr/local/bin/jupyter-trust
+  jupyter: /usr/local/bin/jupyter
+  jupyter-migrate: /usr/local/bin/jupyter-migrate
+  jupyter-troubleshoot: /usr/local/bin/jupyter-troubleshoot
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen

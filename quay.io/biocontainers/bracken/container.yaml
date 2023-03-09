@@ -1,0 +1,43 @@
+url: https://biocontainers.pro/tools/bracken
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bracken
+latest:
+  2.6.2--py39hc16433a_0: sha256:d9f1cf7dc3630e00bb4689532b94db774cdf0c0855ac5a9c8c85a8f4301bc237
+tags:
+  2.6.2--py39hc16433a_0: sha256:d9f1cf7dc3630e00bb4689532b94db774cdf0c0855ac5a9c8c85a8f4301bc237
+docker: quay.io/biocontainers/bracken
+aliases:
+  bracken: /usr/local/bin/bracken
+  bracken-build: /usr/local/bin/bracken-build
+  combine_bracken_outputs.py: /usr/local/bin/combine_bracken_outputs.py
+  est_abundance.py: /usr/local/bin/est_abundance.py
+  generate_kmer_distribution.py: /usr/local/bin/generate_kmer_distribution.py
+  kmer2read_distr: /usr/local/bin/kmer2read_distr
+  kraken2: /usr/local/bin/kraken2
+  kraken2-build: /usr/local/bin/kraken2-build
+  kraken2-inspect: /usr/local/bin/kraken2-inspect
+  rsync-ssl: /usr/local/bin/rsync-ssl
+  rsync: /usr/local/bin/rsync
+  xxh128sum: /usr/local/bin/xxh128sum
+  xxh32sum: /usr/local/bin/xxh32sum
+  xxh64sum: /usr/local/bin/xxh64sum
+  xxhsum: /usr/local/bin/xxhsum
+  tar: /usr/local/bin/tar
+  edirect.py: /usr/local/bin/edirect.py
+  filter-columns: /usr/local/bin/filter-columns
+  fuse-segments: /usr/local/bin/fuse-segments
+  gene2range: /usr/local/bin/gene2range
+  tbl2prod: /usr/local/bin/tbl2prod
+  uniq-table: /usr/local/bin/uniq-table
+  align-columns: /usr/local/bin/align-columns
+  blst2tkns: /usr/local/bin/blst2tkns
+  csv2xml: /usr/local/bin/csv2xml
+  disambiguate-nucleotides: /usr/local/bin/disambiguate-nucleotides
+  download-ncbi-software: /usr/local/bin/download-ncbi-software
+  ecommon.sh: /usr/local/bin/ecommon.sh
+  find-in-gene: /usr/local/bin/find-in-gene
+  fuse-ranges: /usr/local/bin/fuse-ranges
+  hgvs2spdi: /usr/local/bin/hgvs2spdi
+  json2xml: /usr/local/bin/json2xml
+  print-columns: /usr/local/bin/print-columns
+  snp2hgvs: /usr/local/bin/snp2hgvs

@@ -1,0 +1,22 @@
+url: https://biocontainers.pro/tools/pysradb
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pysradb
+latest:
+  1.4.2--pyhdfd78af_0: sha256:738d4d5e3b9e28446ad4470809d7ea40b4d7c0ca0a899ad947700184ff823168
+tags:
+  1.4.2--pyhdfd78af_0: sha256:738d4d5e3b9e28446ad4470809d7ea40b4d7c0ca0a899ad947700184ff823168
+docker: quay.io/biocontainers/pysradb
+aliases:
+  pysradb: /usr/local/bin/pysradb
+  xml2-config.bak: /usr/local/bin/xml2-config.bak
+  xslt-config: /usr/local/bin/xslt-config
+  xsltproc: /usr/local/bin/xsltproc
+  tqdm: /usr/local/bin/tqdm
+  normalizer: /usr/local/bin/normalizer
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

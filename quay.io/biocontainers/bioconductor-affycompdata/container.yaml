@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-affycompdata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-affycompdata
+latest:
+  1.32.0--r41hdfd78af_1: sha256:d48aec6d007037c77b97a5e4bf09074b2b1bcdc74307640999855e6d5d45bbf5
+tags:
+  1.32.0--r41hdfd78af_1: sha256:d48aec6d007037c77b97a5e4bf09074b2b1bcdc74307640999855e6d5d45bbf5
+docker: quay.io/biocontainers/bioconductor-affycompdata

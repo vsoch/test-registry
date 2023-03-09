@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/hitac
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for hitac
+latest:
+  2.0.9--pyhdfd78af_1: sha256:93e8fbf4c59aec2d7144867b2ccf5efb3d8895de6a1cdd25aec13f077536fdd4
+tags:
+  2.0.9--pyhdfd78af_1: sha256:93e8fbf4c59aec2d7144867b2ccf5efb3d8895de6a1cdd25aec13f077536fdd4
+docker: quay.io/biocontainers/hitac
+aliases:
+  hiclass: /usr/local/bin/hiclass
+  doesitcache: /usr/local/bin/doesitcache
+  ipython3: /usr/local/bin/ipython3
+  cygdb: /usr/local/bin/cygdb
+  cython: /usr/local/bin/cython
+  cythonize: /usr/local/bin/cythonize
+  ipython: /usr/local/bin/ipython
+  natsort: /usr/local/bin/natsort
+  py.test: /usr/local/bin/py.test
+  pytest: /usr/local/bin/pytest
+  mirror_server: /usr/local/bin/mirror_server
+  mirror_server_stop: /usr/local/bin/mirror_server_stop
+  pygmentize: /usr/local/bin/pygmentize
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  brotli: /usr/local/bin/brotli
+  normalizer: /usr/local/bin/normalizer
+  img2webp: /usr/local/bin/img2webp
+  cwebp: /usr/local/bin/cwebp
+  dwebp: /usr/local/bin/dwebp
+  gif2webp: /usr/local/bin/gif2webp
+  f2py3.9: /usr/local/bin/f2py3.9
+  h5clear: /usr/local/bin/h5clear
+  h5format_convert: /usr/local/bin/h5format_convert

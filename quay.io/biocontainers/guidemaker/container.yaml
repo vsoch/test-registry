@@ -1,0 +1,44 @@
+url: https://biocontainers.pro/tools/guidemaker
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for guidemaker
+latest:
+  0.3.4--pyhdfd78af_0: sha256:9ffc309a7fdc7dad98bca348e8d6ca538548b2e0ca4b24961c88f40fdcb6c83d
+tags:
+  0.3.4--pyhdfd78af_0: sha256:9ffc309a7fdc7dad98bca348e8d6ca538548b2e0ca4b24961c88f40fdcb6c83d
+docker: quay.io/biocontainers/guidemaker
+aliases:
+  base58: /usr/local/bin/base58
+  black-primer: /usr/local/bin/black-primer
+  guidemaker: /usr/local/bin/guidemaker
+  onnxruntime_test: /usr/local/bin/onnxruntime_test
+  pdoc: /usr/local/bin/pdoc
+  pdoc3: /usr/local/bin/pdoc3
+  pybind11-config: /usr/local/bin/pybind11-config
+  streamlit: /usr/local/bin/streamlit
+  streamlit.cmd: /usr/local/bin/streamlit.cmd
+  watchmedo: /usr/local/bin/watchmedo
+  black: /usr/local/bin/black
+  blackd: /usr/local/bin/blackd
+  elasticurl: /usr/local/bin/elasticurl
+  elasticurl_cpp: /usr/local/bin/elasticurl_cpp
+  elastipubsub: /usr/local/bin/elastipubsub
+  jupyter-execute: /usr/local/bin/jupyter-execute
+  coverage: /usr/local/bin/coverage
+  jupyter-dejavu: /usr/local/bin/jupyter-dejavu
+  send2trash: /usr/local/bin/send2trash
+  csv-import: /usr/local/bin/csv-import
+  orc-memory: /usr/local/bin/orc-memory
+  orc-scan: /usr/local/bin/orc-scan
+  timezone-dump: /usr/local/bin/timezone-dump
+  orc-contents: /usr/local/bin/orc-contents
+  orc-metadata: /usr/local/bin/orc-metadata
+  orc-statistics: /usr/local/bin/orc-statistics
+  plasma-store-server: /usr/local/bin/plasma-store-server
+  plasma_store: /usr/local/bin/plasma_store
+  sha256_profile: /usr/local/bin/sha256_profile
+  gflags_completions.sh: /usr/local/bin/gflags_completions.sh
+  mako-render: /usr/local/bin/mako-render
+  jupyter-bundlerextension: /usr/local/bin/jupyter-bundlerextension
+  jupyter-nbextension: /usr/local/bin/jupyter-nbextension
+  jupyter-notebook: /usr/local/bin/jupyter-notebook
+  jupyter-serverextension: /usr/local/bin/jupyter-serverextension

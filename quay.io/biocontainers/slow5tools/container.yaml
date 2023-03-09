@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/slow5tools
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for slow5tools
+latest:
+  0.6.0--h0326b38_2: sha256:fa2549fa31797e890061e4e6c911d2d378486cf17f6e98adeb93f17500e5cdca
+tags:
+  0.6.0--h0326b38_2: sha256:fa2549fa31797e890061e4e6c911d2d378486cf17f6e98adeb93f17500e5cdca
+docker: quay.io/biocontainers/slow5tools
+aliases:
+  slow5tools: /usr/local/bin/slow5tools
+  mirror_server: /usr/local/bin/mirror_server
+  mirror_server_stop: /usr/local/bin/mirror_server_stop
+  h5clear: /usr/local/bin/h5clear
+  h5format_convert: /usr/local/bin/h5format_convert
+  h5watch: /usr/local/bin/h5watch
+  h5fc: /usr/local/bin/h5fc
+  gif2h5: /usr/local/bin/gif2h5
+  h52gif: /usr/local/bin/h52gif
+  h5c++: /usr/local/bin/h5c++
+  h5copy: /usr/local/bin/h5copy
+  h5debug: /usr/local/bin/h5debug
+  h5diff: /usr/local/bin/h5diff
+  h5import: /usr/local/bin/h5import
+  h5jam: /usr/local/bin/h5jam
+  h5ls: /usr/local/bin/h5ls
+  h5mkgrp: /usr/local/bin/h5mkgrp
+  h5perf_serial: /usr/local/bin/h5perf_serial
+  h5redeploy: /usr/local/bin/h5redeploy
+  h5repack: /usr/local/bin/h5repack
+  h5repart: /usr/local/bin/h5repart
+  h5stat: /usr/local/bin/h5stat
+  h5unjam: /usr/local/bin/h5unjam
+  h5dump: /usr/local/bin/h5dump
+  h5cc: /usr/local/bin/h5cc

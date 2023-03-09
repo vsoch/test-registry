@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/aptardi
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for aptardi
+latest:
+  1.4--pyh5e36f6f_0: sha256:15679bc27b0c007c06045d1a422940555449995641741c3b0f7ec8ea8d3abcf8
+tags:
+  1.4--pyh5e36f6f_0: sha256:15679bc27b0c007c06045d1a422940555449995641741c3b0f7ec8ea8d3abcf8
+docker: quay.io/biocontainers/aptardi
+aliases:
+  aptardi: /usr/local/bin/aptardi
+  estimator_ckpt_converter: /usr/local/bin/estimator_ckpt_converter
+  google-oauthlib-tool: /usr/local/bin/google-oauthlib-tool
+  tf_upgrade_v2: /usr/local/bin/tf_upgrade_v2
+  tflite_convert: /usr/local/bin/tflite_convert
+  saved_model_cli: /usr/local/bin/saved_model_cli
+  toco: /usr/local/bin/toco
+  toco_from_protos: /usr/local/bin/toco_from_protos
+  tensorboard: /usr/local/bin/tensorboard
+  markdown_py: /usr/local/bin/markdown_py
+  pyrsa-decrypt: /usr/local/bin/pyrsa-decrypt
+  pyrsa-encrypt: /usr/local/bin/pyrsa-encrypt
+  pyrsa-keygen: /usr/local/bin/pyrsa-keygen
+  pyrsa-priv2pub: /usr/local/bin/pyrsa-priv2pub
+  pyrsa-sign: /usr/local/bin/pyrsa-sign
+  pyrsa-verify: /usr/local/bin/pyrsa-verify
+  protoc: /usr/local/bin/protoc
+  f2py3.7: /usr/local/bin/f2py3.7
+  chardetect: /usr/local/bin/chardetect
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7

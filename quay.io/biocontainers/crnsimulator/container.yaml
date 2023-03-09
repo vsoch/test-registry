@@ -1,0 +1,22 @@
+url: https://biocontainers.pro/tools/crnsimulator
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for crnsimulator
+latest:
+  0.9--pyh5bfb8f1_0: sha256:009167f69f138a1a0a196b1ffd09b92420e7a072cfb642e1e6afd418a2bd5f92
+tags:
+  0.9--pyh5bfb8f1_0: sha256:009167f69f138a1a0a196b1ffd09b92420e7a072cfb642e1e6afd418a2bd5f92
+docker: quay.io/biocontainers/crnsimulator
+aliases:
+  crnsimulator: /usr/local/bin/crnsimulator
+  isympy: /usr/local/bin/isympy
+  f2py3.9: /usr/local/bin/f2py3.9
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config
+  jpgicc: /usr/local/bin/jpgicc
+  linkicc: /usr/local/bin/linkicc
+  psicc: /usr/local/bin/psicc
+  tificc: /usr/local/bin/tificc
+  transicc: /usr/local/bin/transicc

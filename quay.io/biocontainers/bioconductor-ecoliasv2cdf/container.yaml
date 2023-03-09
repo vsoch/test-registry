@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-ecoliasv2cdf
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-ecoliasv2cdf
+latest:
+  2.18.0--r41hdfd78af_9: sha256:d1d0d7be1e4044727b064fc23d0f7cd1d2ef549a1128c49da2462f091849e60e
+tags:
+  2.18.0--r41hdfd78af_9: sha256:d1d0d7be1e4044727b064fc23d0f7cd1d2ef549a1128c49da2462f091849e60e
+docker: quay.io/biocontainers/bioconductor-ecoliasv2cdf

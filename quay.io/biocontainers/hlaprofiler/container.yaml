@@ -1,0 +1,23 @@
+url: https://biocontainers.pro/tools/hlaprofiler
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for hlaprofiler
+latest:
+  1.0.5--hdfd78af_3: sha256:fa734140e9a751207993d5f954f3af090cb01b8ab68bc2de082a1783c5bc5c71
+tags:
+  1.0.5--hdfd78af_3: sha256:fa734140e9a751207993d5f954f3af090cb01b8ab68bc2de082a1783c5bc5c71
+docker: quay.io/biocontainers/hlaprofiler
+aliases:
+  HLAProfiler.pl: /usr/local/bin/HLAProfiler.pl
+  install.pl: /usr/local/bin/install.pl
+  kraken: /usr/local/bin/kraken
+  kraken-build: /usr/local/bin/kraken-build
+  kraken-filter: /usr/local/bin/kraken-filter
+  kraken-mpa-report: /usr/local/bin/kraken-mpa-report
+  kraken-report: /usr/local/bin/kraken-report
+  kraken-translate: /usr/local/bin/kraken-translate
+  jellyfish: /usr/local/bin/jellyfish
+  moose-outdated: /usr/local/bin/moose-outdated
+  package-stash-conflicts: /usr/local/bin/package-stash-conflicts
+  cpanm: /usr/local/bin/cpanm
+  perl5.26.2: /usr/local/bin/perl5.26.2
+  podselect: /usr/local/bin/podselect

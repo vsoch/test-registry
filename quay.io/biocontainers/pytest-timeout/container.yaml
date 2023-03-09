@@ -1,0 +1,26 @@
+url: https://biocontainers.pro/tools/pytest-timeout
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pytest-timeout
+latest:
+  1.0.0--py35_0: sha256:65867035aeb99a070839cf65ca519374b3dd19f33660671dce592b9a9c833e71
+tags:
+  1.0.0--py35_0: sha256:65867035aeb99a070839cf65ca519374b3dd19f33660671dce592b9a9c833e71
+docker: quay.io/biocontainers/pytest-timeout
+aliases:
+  py.test-3.5: /usr/local/bin/py.test-3.5
+  easy_install-3.5: /usr/local/bin/easy_install-3.5
+  2to3-3.5: /usr/local/bin/2to3-3.5
+  idle3.5: /usr/local/bin/idle3.5
+  pydoc3.5: /usr/local/bin/pydoc3.5
+  python3.5: /usr/local/bin/python3.5
+  python3.5-config: /usr/local/bin/python3.5-config
+  python3.5m: /usr/local/bin/python3.5m
+  python3.5m-config: /usr/local/bin/python3.5m-config
+  pyvenv-3.5: /usr/local/bin/pyvenv-3.5
+  py.test: /usr/local/bin/py.test
+  pytest: /usr/local/bin/pytest
+  tclsh8.5: /usr/local/bin/tclsh8.5
+  wish8.5: /usr/local/bin/wish8.5
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config
+  pyvenv: /usr/local/bin/pyvenv

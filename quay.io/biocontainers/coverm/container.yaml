@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/coverm
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for coverm
+latest:
+  0.6.1--h1535e20_5: sha256:852de57f3f00862cd7524eb979fca849e887699d33af53661c4faf72aaef53bb
+tags:
+  0.6.1--h1535e20_5: sha256:852de57f3f00862cd7524eb979fca849e887699d33af53661c4faf72aaef53bb
+docker: quay.io/biocontainers/coverm
+aliases:
+  coverm: /usr/local/bin/coverm
+  dashing: /usr/local/bin/dashing
+  remove_minimap2_duplicated_headers: /usr/local/bin/remove_minimap2_duplicated_headers
+  starcode: /usr/local/bin/starcode
+  fastANI: /usr/local/bin/fastANI
+  sdust: /usr/local/bin/sdust
+  k8: /usr/local/bin/k8
+  paftools.js: /usr/local/bin/paftools.js
+  qualfa2fq.pl: /usr/local/bin/qualfa2fq.pl
+  xa2multi.pl: /usr/local/bin/xa2multi.pl
+  minimap2: /usr/local/bin/minimap2
+  bwa: /usr/local/bin/bwa
+  fasta-sanitize.pl: /usr/local/bin/fasta-sanitize.pl
+  plot-ampliconstats: /usr/local/bin/plot-ampliconstats
+  ace2sam: /usr/local/bin/ace2sam
+  blast2sam.pl: /usr/local/bin/blast2sam.pl
+  bowtie2sam.pl: /usr/local/bin/bowtie2sam.pl
+  export2sam.pl: /usr/local/bin/export2sam.pl
+  interpolate_sam.pl: /usr/local/bin/interpolate_sam.pl
+  maq2sam-long: /usr/local/bin/maq2sam-long
+  maq2sam-short: /usr/local/bin/maq2sam-short
+  md5fa: /usr/local/bin/md5fa
+  md5sum-lite: /usr/local/bin/md5sum-lite
+  plot-bamstats: /usr/local/bin/plot-bamstats
+  psl2sam.pl: /usr/local/bin/psl2sam.pl
+  sam2vcf.pl: /usr/local/bin/sam2vcf.pl
+  samtools.pl: /usr/local/bin/samtools.pl
+  seq_cache_populate.pl: /usr/local/bin/seq_cache_populate.pl

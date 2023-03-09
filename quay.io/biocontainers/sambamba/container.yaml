@@ -1,0 +1,17 @@
+url: https://biocontainers.pro/tools/sambamba
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for sambamba
+latest:
+  0.8.2--h98b6b92_2: 'crane digest quay.io/biocontainers/sambamba:0.8.2--h98b6b92_2:
+    unrecognized HTTP status: 502 Bad Gateway'
+tags:
+  0.8.2--h98b6b92_2: 'crane digest quay.io/biocontainers/sambamba:0.8.2--h98b6b92_2:
+    unrecognized HTTP status: 502 Bad Gateway'
+docker: quay.io/biocontainers/sambamba
+aliases:
+  sambamba: /usr/local/bin/sambamba
+  ldc-build-runtime: /usr/local/bin/ldc-build-runtime
+  ldc-profdata: /usr/local/bin/ldc-profdata
+  ldc-prune-cache: /usr/local/bin/ldc-prune-cache
+  ldc2: /usr/local/bin/ldc2
+  ldmd2: /usr/local/bin/ldmd2

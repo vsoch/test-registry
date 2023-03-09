@@ -1,0 +1,40 @@
+url: https://biocontainers.pro/tools/deepvariant
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for deepvariant
+latest:
+  1.4.0--py36hf3e76ba_0: sha256:3479d8ee8b670117922797e12b09ac06f34ed5a5ee9e766fa6aa0fb9d15ca5d3
+tags:
+  1.4.0--py36hf3e76ba_0: sha256:3479d8ee8b670117922797e12b09ac06f34ed5a5ee9e766fa6aa0fb9d15ca5d3
+docker: quay.io/biocontainers/deepvariant
+aliases:
+  bq: /usr/local/bin/bq
+  docker-credential-gcloud: /usr/local/bin/docker-credential-gcloud
+  dv_call_variants.py: /usr/local/bin/dv_call_variants.py
+  dv_make_examples.py: /usr/local/bin/dv_make_examples.py
+  dv_postprocess_variants.py: /usr/local/bin/dv_postprocess_variants.py
+  gcloud: /usr/local/bin/gcloud
+  gsutil: /usr/local/bin/gsutil
+  funzip: /usr/local/bin/funzip
+  unzipsfx: /usr/local/bin/unzipsfx
+  zipgrep: /usr/local/bin/zipgrep
+  zipinfo: /usr/local/bin/zipinfo
+  freeze_graph: /usr/local/bin/freeze_graph
+  unzip: /usr/local/bin/unzip
+  clhsdb: /usr/local/bin/clhsdb
+  hsdb: /usr/local/bin/hsdb
+  google-oauthlib-tool: /usr/local/bin/google-oauthlib-tool
+  tf_upgrade_v2: /usr/local/bin/tf_upgrade_v2
+  tflite_convert: /usr/local/bin/tflite_convert
+  saved_model_cli: /usr/local/bin/saved_model_cli
+  toco: /usr/local/bin/toco
+  toco_from_protos: /usr/local/bin/toco_from_protos
+  tensorboard: /usr/local/bin/tensorboard
+  parsort: /usr/local/bin/parsort
+  env_parallel: /usr/local/bin/env_parallel
+  env_parallel.ash: /usr/local/bin/env_parallel.ash
+  env_parallel.bash: /usr/local/bin/env_parallel.bash
+  env_parallel.csh: /usr/local/bin/env_parallel.csh
+  env_parallel.dash: /usr/local/bin/env_parallel.dash
+  env_parallel.fish: /usr/local/bin/env_parallel.fish
+  env_parallel.ksh: /usr/local/bin/env_parallel.ksh
+  env_parallel.mksh: /usr/local/bin/env_parallel.mksh

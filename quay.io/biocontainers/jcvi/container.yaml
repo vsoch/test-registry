@@ -1,0 +1,48 @@
+url: https://biocontainers.pro/tools/jcvi
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for jcvi
+latest:
+  1.1.5--py36h29c9776_0: sha256:f425a65bada8e48b55f298d13782051d9e944439ff9091ce56a33ee9e9f261db
+tags:
+  1.1.5--py36h29c9776_0: sha256:f425a65bada8e48b55f298d13782051d9e944439ff9091ce56a33ee9e9f261db
+docker: quay.io/biocontainers/jcvi
+aliases:
+  compare_gos.py: /usr/local/bin/compare_gos.py
+  coveralls: /usr/local/bin/coveralls
+  cpuinfo: /usr/local/bin/cpuinfo
+  fetch_associations.py: /usr/local/bin/fetch_associations.py
+  find_enrichment.py: /usr/local/bin/find_enrichment.py
+  go_plot.py: /usr/local/bin/go_plot.py
+  map_to_slim.py: /usr/local/bin/map_to_slim.py
+  ncbi_gene_results_to_python.py: /usr/local/bin/ncbi_gene_results_to_python.py
+  plot_go_term.py: /usr/local/bin/plot_go_term.py
+  prt_terms.py: /usr/local/bin/prt_terms.py
+  py.test-benchmark: /usr/local/bin/py.test-benchmark
+  pytest-benchmark: /usr/local/bin/pytest-benchmark
+  wr_hier.py: /usr/local/bin/wr_hier.py
+  wr_sections.py: /usr/local/bin/wr_sections.py
+  coverage: /usr/local/bin/coverage
+  gffutils-cli: /usr/local/bin/gffutils-cli
+  vba_extract.py: /usr/local/bin/vba_extract.py
+  ete3: /usr/local/bin/ete3
+  cxpm: /usr/local/bin/cxpm
+  sxpm: /usr/local/bin/sxpm
+  xkbcli: /usr/local/bin/xkbcli
+  jp.py: /usr/local/bin/jp.py
+  faidx: /usr/local/bin/faidx
+  py.test: /usr/local/bin/py.test
+  pytest: /usr/local/bin/pytest
+  pg_config: /usr/local/bin/pg_config
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview
+  qvkgen: /usr/local/bin/qvkgen
+  f2py3.6: /usr/local/bin/f2py3.6
+  certutil: /usr/local/bin/certutil
+  nspr-config: /usr/local/bin/nspr-config
+  nss-config: /usr/local/bin/nss-config
+  pk12util: /usr/local/bin/pk12util
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc

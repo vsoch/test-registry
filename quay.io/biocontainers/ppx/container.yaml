@@ -1,0 +1,18 @@
+url: https://biocontainers.pro/tools/ppx
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ppx
+latest:
+  1.3.0--pyhdfd78af_0: sha256:902f69ad385b7ebbe9bb1d72e08d557a5cf6374a099489e610e4913f03eb39a0
+tags:
+  1.3.0--pyhdfd78af_0: sha256:902f69ad385b7ebbe9bb1d72e08d557a5cf6374a099489e610e4913f03eb39a0
+docker: quay.io/biocontainers/ppx
+aliases:
+  ppx: /usr/local/bin/ppx
+  tqdm: /usr/local/bin/tqdm
+  normalizer: /usr/local/bin/normalizer
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

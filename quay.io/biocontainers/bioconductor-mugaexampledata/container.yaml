@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-mugaexampledata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-mugaexampledata
+latest:
+  1.9.0--r40_0: sha256:b5b98de92801f9fa7b3e17857822b60098403986b15e510fac562c7a51da7125
+tags:
+  1.9.0--r40_0: sha256:b5b98de92801f9fa7b3e17857822b60098403986b15e510fac562c7a51da7125
+docker: quay.io/biocontainers/bioconductor-mugaexampledata
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

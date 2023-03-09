@@ -1,0 +1,27 @@
+url: https://biocontainers.pro/tools/deepnog
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for deepnog
+latest:
+  1.2.3--pyh3252c3a_1: sha256:02093134a3896469e933407d8ef7136d9361bed30ed06d0e70243fecdcdf501d
+tags:
+  1.2.3--pyh3252c3a_1: sha256:02093134a3896469e933407d8ef7136d9361bed30ed06d0e70243fecdcdf501d
+docker: quay.io/biocontainers/deepnog
+aliases:
+  deepnog: /usr/local/bin/deepnog
+  convert-caffe2-to-onnx: /usr/local/bin/convert-caffe2-to-onnx
+  convert-onnx-to-caffe2: /usr/local/bin/convert-onnx-to-caffe2
+  ninja: /usr/local/bin/ninja
+  tensorboard: /usr/local/bin/tensorboard
+  markdown_py: /usr/local/bin/markdown_py
+  protoc: /usr/local/bin/protoc
+  tqdm: /usr/local/bin/tqdm
+  f2py3.7: /usr/local/bin/f2py3.7
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  pyvenv: /usr/local/bin/pyvenv

@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/debarcer
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for debarcer
+latest:
+  2.1.4--pyhdfd78af_2: sha256:a90402d9d7f24264d3a586cb4d42499c65ee465cc894eacbba025244421b3e50
+tags:
+  2.1.4--pyhdfd78af_2: sha256:a90402d9d7f24264d3a586cb4d42499c65ee465cc894eacbba025244421b3e50
+docker: quay.io/biocontainers/debarcer
+aliases:
+  debarcer: /usr/local/bin/debarcer
+  pygal_gen.py: /usr/local/bin/pygal_gen.py
+  f2py3.7: /usr/local/bin/f2py3.7
+  img2webp: /usr/local/bin/img2webp
+  cwebp: /usr/local/bin/cwebp
+  dwebp: /usr/local/bin/dwebp
+  gif2webp: /usr/local/bin/gif2webp
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  opj_compress: /usr/local/bin/opj_compress
+  opj_decompress: /usr/local/bin/opj_decompress
+  opj_dump: /usr/local/bin/opj_dump
+  gif2rgb: /usr/local/bin/gif2rgb
+  gifbuild: /usr/local/bin/gifbuild
+  gifclrmp: /usr/local/bin/gifclrmp
+  giffix: /usr/local/bin/giffix
+  giftext: /usr/local/bin/giftext
+  giftool: /usr/local/bin/giftool
+  jpgicc: /usr/local/bin/jpgicc
+  linkicc: /usr/local/bin/linkicc
+  psicc: /usr/local/bin/psicc

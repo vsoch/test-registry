@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-pasilla
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-pasilla
+latest:
+  1.22.0--r41hdfd78af_1: sha256:7bef8bee94b66a37dcc53d3e9405762c0b3b2630185a4cad2dd067c944cfa157
+tags:
+  1.22.0--r41hdfd78af_1: sha256:7bef8bee94b66a37dcc53d3e9405762c0b3b2630185a4cad2dd067c944cfa157
+docker: quay.io/biocontainers/bioconductor-pasilla

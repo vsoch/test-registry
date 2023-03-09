@@ -1,0 +1,17 @@
+url: https://biocontainers.pro/tools/hamroaster
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for hamroaster
+latest:
+  1.1--hdfd78af_0: sha256:602732a6c1a23eb5f72a7bae87f63649ae96421950b4883c65672ef50a051b1f
+tags:
+  1.1--hdfd78af_0: sha256:602732a6c1a23eb5f72a7bae87f63649ae96421950b4883c65672ef50a051b1f
+docker: quay.io/biocontainers/hamroaster
+aliases:
+  hAMRoaster: /usr/local/bin/hAMRoaster
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

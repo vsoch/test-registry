@@ -1,0 +1,40 @@
+url: https://biocontainers.pro/tools/bax2bam
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bax2bam
+latest:
+  0.0.9--h018d624_7: sha256:4464f6126573dfc7bb28e4b1ab75183b6038220784f51f3f5d282868680bcdee
+tags:
+  0.0.9--h018d624_7: sha256:4464f6126573dfc7bb28e4b1ab75183b6038220784f51f3f5d282868680bcdee
+docker: quay.io/biocontainers/bax2bam
+aliases:
+  bam2sam: /usr/local/bin/bam2sam
+  bax2bam: /usr/local/bin/bax2bam
+  pbbamify: /usr/local/bin/pbbamify
+  pbindex: /usr/local/bin/pbindex
+  pbindexdump: /usr/local/bin/pbindexdump
+  pbmerge: /usr/local/bin/pbmerge
+  h5clear: /usr/local/bin/h5clear
+  h5format_convert: /usr/local/bin/h5format_convert
+  h5watch: /usr/local/bin/h5watch
+  h5fc: /usr/local/bin/h5fc
+  gif2h5: /usr/local/bin/gif2h5
+  h52gif: /usr/local/bin/h52gif
+  h5c++: /usr/local/bin/h5c++
+  h5copy: /usr/local/bin/h5copy
+  h5debug: /usr/local/bin/h5debug
+  h5diff: /usr/local/bin/h5diff
+  h5import: /usr/local/bin/h5import
+  h5jam: /usr/local/bin/h5jam
+  h5ls: /usr/local/bin/h5ls
+  h5mkgrp: /usr/local/bin/h5mkgrp
+  h5perf_serial: /usr/local/bin/h5perf_serial
+  h5redeploy: /usr/local/bin/h5redeploy
+  h5repack: /usr/local/bin/h5repack
+  h5repart: /usr/local/bin/h5repart
+  h5stat: /usr/local/bin/h5stat
+  h5unjam: /usr/local/bin/h5unjam
+  h5dump: /usr/local/bin/h5dump
+  h5cc: /usr/local/bin/h5cc
+  htsfile: /usr/local/bin/htsfile
+  bgzip: /usr/local/bin/bgzip
+  tabix: /usr/local/bin/tabix

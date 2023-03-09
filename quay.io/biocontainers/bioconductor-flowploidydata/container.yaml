@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-flowploidydata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-flowploidydata
+latest:
+  1.8.0--r351_0: sha256:bec36b6640bc91bf66d4c2c6e9a2171400fd6fe04e84a0145ccab00edad21745
+tags:
+  1.8.0--r351_0: sha256:bec36b6640bc91bf66d4c2c6e9a2171400fd6fe04e84a0145ccab00edad21745
+docker: quay.io/biocontainers/bioconductor-flowploidydata
+aliases:
+  wget: /usr/local/bin/wget
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

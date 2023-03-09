@@ -1,0 +1,55 @@
+url: https://biocontainers.pro/tools/dfam
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for dfam
+latest:
+  3.3--hdfd78af_0: sha256:8d5b520f69780225da248defded72ea2199c8e244ce04669eb953faa0a45c9e2
+tags:
+  3.3--hdfd78af_0: sha256:8d5b520f69780225da248defded72ea2199c8e244ce04669eb953faa0a45c9e2
+docker: quay.io/biocontainers/dfam
+aliases:
+  DateRepeats: /usr/local/bin/DateRepeats
+  DupMasker: /usr/local/bin/DupMasker
+  ProcessRepeats: /usr/local/bin/ProcessRepeats
+  RM2Bed.py: /usr/local/bin/RM2Bed.py
+  RepeatMasker: /usr/local/bin/RepeatMasker
+  RepeatProteinMask: /usr/local/bin/RepeatProteinMask
+  buildRMLibFromEMBL.pl: /usr/local/bin/buildRMLibFromEMBL.pl
+  buildSummary.pl: /usr/local/bin/buildSummary.pl
+  calcDivergenceFromAlign.pl: /usr/local/bin/calcDivergenceFromAlign.pl
+  createRepeatLandscape.pl: /usr/local/bin/createRepeatLandscape.pl
+  dfamscan.pl: /usr/local/bin/dfamscan.pl
+  download-dfam.py: /usr/local/bin/download-dfam.py
+  dupliconToSVG.pl: /usr/local/bin/dupliconToSVG.pl
+  getRepeatMaskerBatch.pl: /usr/local/bin/getRepeatMaskerBatch.pl
+  queryRepeatDatabase.pl: /usr/local/bin/queryRepeatDatabase.pl
+  queryTaxonomyDatabase.pl: /usr/local/bin/queryTaxonomyDatabase.pl
+  rmOut2Fasta.pl: /usr/local/bin/rmOut2Fasta.pl
+  rmOutToGFF3.pl: /usr/local/bin/rmOutToGFF3.pl
+  rmToUCSCTables.pl: /usr/local/bin/rmToUCSCTables.pl
+  trfMask: /usr/local/bin/trfMask
+  wublastToCrossmatch.pl: /usr/local/bin/wublastToCrossmatch.pl
+  rmblastn: /usr/local/bin/rmblastn
+  trf4.10.0-rc.2.linux64.exe: /usr/local/bin/trf4.10.0-rc.2.linux64.exe
+  blast_report: /usr/local/bin/blast_report
+  blastdb_convert: /usr/local/bin/blastdb_convert
+  blastdb_path: /usr/local/bin/blastdb_path
+  trf: /usr/local/bin/trf
+  certtool: /usr/local/bin/certtool
+  gnutls-cli: /usr/local/bin/gnutls-cli
+  gnutls-cli-debug: /usr/local/bin/gnutls-cli-debug
+  gnutls-serv: /usr/local/bin/gnutls-serv
+  nettle-hash: /usr/local/bin/nettle-hash
+  nettle-lfib-stream: /usr/local/bin/nettle-lfib-stream
+  nettle-pbkdf2: /usr/local/bin/nettle-pbkdf2
+  ocsptool: /usr/local/bin/ocsptool
+  pkcs1-conv: /usr/local/bin/pkcs1-conv
+  psktool: /usr/local/bin/psktool
+  sexp-conv: /usr/local/bin/sexp-conv
+  srptool: /usr/local/bin/srptool
+  blastdbcp: /usr/local/bin/blastdbcp
+  gene_info_reader: /usr/local/bin/gene_info_reader
+  seqdb_demo: /usr/local/bin/seqdb_demo
+  seqdb_perf: /usr/local/bin/seqdb_perf
+  CA.pm: /usr/local/bin/CA.pm
+  cacert.pem: /usr/local/bin/cacert.pem
+  index-themes: /usr/local/bin/index-themes

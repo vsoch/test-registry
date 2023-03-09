@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/sam-algorithm
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for sam-algorithm
+latest:
+  0.9.0--pyhdfd78af_0: sha256:436babf48dcba4a5441c305b34db06c58b879a0442ca26be28e1450e738f394e
+tags:
+  0.9.0--pyhdfd78af_0: sha256:436babf48dcba4a5441c305b34db06c58b879a0442ca26be28e1450e738f394e
+docker: quay.io/biocontainers/sam-algorithm
+aliases:
+  get_objgraph: /usr/local/bin/get_objgraph
+  undill: /usr/local/bin/undill
+  numba: /usr/local/bin/numba
+  pycc: /usr/local/bin/pycc
+  natsort: /usr/local/bin/natsort
+  f2py3.8: /usr/local/bin/f2py3.8
+  tqdm: /usr/local/bin/tqdm
+  h5clear: /usr/local/bin/h5clear
+  h5format_convert: /usr/local/bin/h5format_convert
+  h5watch: /usr/local/bin/h5watch
+  h5fc: /usr/local/bin/h5fc
+  gif2h5: /usr/local/bin/gif2h5
+  h52gif: /usr/local/bin/h52gif
+  h5c++: /usr/local/bin/h5c++
+  h5copy: /usr/local/bin/h5copy
+  h5debug: /usr/local/bin/h5debug
+  h5diff: /usr/local/bin/h5diff
+  h5import: /usr/local/bin/h5import
+  h5jam: /usr/local/bin/h5jam
+  h5ls: /usr/local/bin/h5ls
+  h5mkgrp: /usr/local/bin/h5mkgrp
+  h5perf_serial: /usr/local/bin/h5perf_serial
+  h5redeploy: /usr/local/bin/h5redeploy
+  h5repack: /usr/local/bin/h5repack
+  h5repart: /usr/local/bin/h5repart

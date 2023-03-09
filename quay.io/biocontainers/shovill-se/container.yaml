@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/shovill-se
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for shovill-se
+latest:
+  1.1.0se--hdfd78af_2: sha256:3118f2893b1dd2a56e58033959c6aee69f9a4c87d89dea1344414a9ea468cde9
+tags:
+  1.1.0se--hdfd78af_2: sha256:3118f2893b1dd2a56e58033959c6aee69f9a4c87d89dea1344414a9ea468cde9
+docker: quay.io/biocontainers/shovill-se
+aliases:
+  lighter: /usr/local/bin/lighter
+  shovill: /usr/local/bin/shovill
+  shovill-se: /usr/local/bin/shovill-se
+  skesa: /usr/local/bin/skesa
+  flash: /usr/local/bin/flash
+  pilon: /usr/local/bin/pilon
+  velvetg: /usr/local/bin/velvetg
+  velveth: /usr/local/bin/velveth
+  samclip: /usr/local/bin/samclip
+  megahit_core: /usr/local/bin/megahit_core
+  megahit_core_no_hw_accel: /usr/local/bin/megahit_core_no_hw_accel
+  megahit_core_popcnt: /usr/local/bin/megahit_core_popcnt
+  kmc: /usr/local/bin/kmc
+  kmc_dump: /usr/local/bin/kmc_dump
+  kmc_tools: /usr/local/bin/kmc_tools
+  megahit: /usr/local/bin/megahit
+  megahit_toolkit: /usr/local/bin/megahit_toolkit
+  cds-mapping-stats: /usr/local/bin/cds-mapping-stats
+  cds-subgraphs: /usr/local/bin/cds-subgraphs
+  mag-improve: /usr/local/bin/mag-improve
+  spades-convert-bin-to-fasta: /usr/local/bin/spades-convert-bin-to-fasta
+  spades-gsimplifier: /usr/local/bin/spades-gsimplifier
+  spades-kmer-estimating: /usr/local/bin/spades-kmer-estimating
+  spades-read-filter: /usr/local/bin/spades-read-filter
+  spaligner: /usr/local/bin/spaligner
+  trimmomatic: /usr/local/bin/trimmomatic
+  spades-bwa: /usr/local/bin/spades-bwa
+  spades-core: /usr/local/bin/spades-core
+  spades-corrector-core: /usr/local/bin/spades-corrector-core

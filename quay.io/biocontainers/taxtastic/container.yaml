@@ -1,0 +1,18 @@
+url: https://biocontainers.pro/tools/taxtastic
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for taxtastic
+latest:
+  0.9.3--pyhdfd78af_0: sha256:bfa4893b29c3b5cf94991b05eaa4346184fc2b37d6bd9682547e8bd948d685dc
+tags:
+  0.9.3--pyhdfd78af_0: sha256:bfa4893b29c3b5cf94991b05eaa4346184fc2b37d6bd9682547e8bd948d685dc
+docker: quay.io/biocontainers/taxtastic
+aliases:
+  taxit: /usr/local/bin/taxit
+  runxlrd.py: /usr/local/bin/runxlrd.py
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

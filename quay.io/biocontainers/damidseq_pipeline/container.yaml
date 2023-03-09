@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/damidseq_pipeline
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for damidseq_pipeline
+latest:
+  1.4--pl5321hdfd78af_5: sha256:9d79de14d9026b53a3b7b7b586bc4324967c5a0466dbf625d0e6e5e30186444f
+tags:
+  1.4--pl5321hdfd78af_5: sha256:9d79de14d9026b53a3b7b7b586bc4324967c5a0466dbf625d0e6e5e30186444f
+docker: quay.io/biocontainers/damidseq_pipeline
+aliases:
+  damidseq_pipeline: /usr/local/bin/damidseq_pipeline
+  gatc.track.maker.pl: /usr/local/bin/gatc.track.maker.pl
+  gff2tdf.pl: /usr/local/bin/gff2tdf.pl
+  igvtools: /usr/local/bin/igvtools
+  varfilter.py: /usr/local/bin/varfilter.py
+  bowtie2: /usr/local/bin/bowtie2
+  bowtie2-align-l: /usr/local/bin/bowtie2-align-l
+  bowtie2-align-s: /usr/local/bin/bowtie2-align-s
+  bowtie2-build: /usr/local/bin/bowtie2-build
+  bowtie2-build-l: /usr/local/bin/bowtie2-build-l
+  bowtie2-build-s: /usr/local/bin/bowtie2-build-s
+  bowtie2-inspect: /usr/local/bin/bowtie2-inspect
+  bowtie2-inspect-l: /usr/local/bin/bowtie2-inspect-l
+  bowtie2-inspect-s: /usr/local/bin/bowtie2-inspect-s
+  jaotc: /usr/local/bin/jaotc
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  ace2sam: /usr/local/bin/ace2sam
+  blast2sam.pl: /usr/local/bin/blast2sam.pl
+  bowtie2sam.pl: /usr/local/bin/bowtie2sam.pl
+  export2sam.pl: /usr/local/bin/export2sam.pl

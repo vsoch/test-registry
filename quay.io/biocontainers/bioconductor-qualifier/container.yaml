@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-qualifier
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-qualifier
+latest:
+  1.29.1--r36_0: sha256:5dde2569b1b6e67b7e205f727a931520fe4f015fa3b9de3fd57e10d87a921f4c
+tags:
+  1.29.1--r36_0: sha256:5dde2569b1b6e67b7e205f727a931520fe4f015fa3b9de3fd57e10d87a921f4c
+docker: quay.io/biocontainers/bioconductor-qualifier
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

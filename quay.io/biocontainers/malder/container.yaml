@@ -1,0 +1,14 @@
+url: https://biocontainers.pro/tools/malder
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for malder
+latest:
+  1.0.1e83d4e--h56c1e55_5: sha256:79416269a3002d178e735a65d454a49539be5953b80e75b4398c4cf942442c85
+tags:
+  1.0.1e83d4e--h56c1e55_5: sha256:79416269a3002d178e735a65d454a49539be5953b80e75b4398c4cf942442c85
+docker: quay.io/biocontainers/malder
+aliases:
+  malder: /usr/local/bin/malder
+  fftw-wisdom: /usr/local/bin/fftw-wisdom
+  fftw-wisdom-to-conf: /usr/local/bin/fftw-wisdom-to-conf
+  fftwf-wisdom: /usr/local/bin/fftwf-wisdom
+  fftwl-wisdom: /usr/local/bin/fftwl-wisdom

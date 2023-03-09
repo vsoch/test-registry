@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-ritan
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-ritan
+latest:
+  1.8.0--r36_1: sha256:cdbb92aa8369d23ed96e47fdca858a2e3eadc7f7ccec13dd90ab7eeedc4de399
+tags:
+  1.8.0--r36_1: sha256:cdbb92aa8369d23ed96e47fdca858a2e3eadc7f7ccec13dd90ab7eeedc4de399
+docker: quay.io/biocontainers/bioconductor-ritan
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

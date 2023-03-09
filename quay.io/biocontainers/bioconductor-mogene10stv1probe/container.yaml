@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-mogene10stv1probe
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-mogene10stv1probe
+latest:
+  2.18.0--r41hdfd78af_9: sha256:20877f3b2cfea19e25460f8a21fc263d75a09002ff17d9856f06c5957a0dcf95
+tags:
+  2.18.0--r41hdfd78af_9: sha256:20877f3b2cfea19e25460f8a21fc263d75a09002ff17d9856f06c5957a0dcf95
+docker: quay.io/biocontainers/bioconductor-mogene10stv1probe

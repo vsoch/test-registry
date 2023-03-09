@@ -1,0 +1,17 @@
+url: https://biocontainers.pro/tools/myriad
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for myriad
+latest:
+  0.1.4--py27_0: sha256:b7af5c52a2c304e7c7b7506c5ec80ebf083faaceff05b20a852e347098bd89eb
+tags:
+  0.1.4--py27_0: sha256:b7af5c52a2c304e7c7b7506c5ec80ebf083faaceff05b20a852e347098bd89eb
+docker: quay.io/biocontainers/myriad
+aliases:
+  myriad: /usr/local/bin/myriad
+  python2-config: /usr/local/bin/python2-config
+  python2.7-config: /usr/local/bin/python2.7-config
+  python2: /usr/local/bin/python2
+  python2.7: /usr/local/bin/python2.7
+  idle: /usr/local/bin/idle
+  python-config: /usr/local/bin/python-config
+  smtpd.py: /usr/local/bin/smtpd.py

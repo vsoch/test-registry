@@ -1,0 +1,54 @@
+url: https://biocontainers.pro/tools/chisel
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for chisel
+latest:
+  1.1.3--pyhdfd78af_0: sha256:6c2c6da2c9563444f1373fe04fe0e85999a4be5c13b92dbfbe717738388f91d6
+tags:
+  1.1.3--pyhdfd78af_0: sha256:6c2c6da2c9563444f1373fe04fe0e85999a4be5c13b92dbfbe717738388f91d6
+docker: quay.io/biocontainers/chisel
+aliases:
+  aln2bed.pl: /usr/local/bin/aln2bed.pl
+  art_454: /usr/local/bin/art_454
+  art_SOLiD: /usr/local/bin/art_SOLiD
+  art_illumina: /usr/local/bin/art_illumina
+  art_profiler_454: /usr/local/bin/art_profiler_454
+  art_profiler_illumina: /usr/local/bin/art_profiler_illumina
+  chisel: /usr/local/bin/chisel
+  chisel_bedding: /usr/local/bin/chisel_bedding
+  chisel_calling: /usr/local/bin/chisel_calling
+  chisel_cloning: /usr/local/bin/chisel_cloning
+  chisel_nonormal: /usr/local/bin/chisel_nonormal
+  chisel_plotting: /usr/local/bin/chisel_plotting
+  chisel_prep: /usr/local/bin/chisel_prep
+  chisel_pseudonormal: /usr/local/bin/chisel_pseudonormal
+  chisel_rdr: /usr/local/bin/chisel_rdr
+  combinedAvg.pl: /usr/local/bin/combinedAvg.pl
+  empDist.pl: /usr/local/bin/empDist.pl
+  fastqReadAvg.pl: /usr/local/bin/fastqReadAvg.pl
+  map2bed.pl: /usr/local/bin/map2bed.pl
+  summation.pl: /usr/local/bin/summation.pl
+  gff2gff.py: /usr/local/bin/gff2gff.py
+  gawk-5.1.0: /usr/local/bin/gawk-5.1.0
+  awk: /usr/local/bin/awk
+  gawk: /usr/local/bin/gawk
+  f2py2: /usr/local/bin/f2py2
+  f2py2.7: /usr/local/bin/f2py2.7
+  qualfa2fq.pl: /usr/local/bin/qualfa2fq.pl
+  xa2multi.pl: /usr/local/bin/xa2multi.pl
+  bwa: /usr/local/bin/bwa
+  guess-ploidy.py: /usr/local/bin/guess-ploidy.py
+  plot-roh.py: /usr/local/bin/plot-roh.py
+  run-roh.pl: /usr/local/bin/run-roh.pl
+  color-chrs.pl: /usr/local/bin/color-chrs.pl
+  plot-vcfstats: /usr/local/bin/plot-vcfstats
+  bcftools: /usr/local/bin/bcftools
+  vcfutils.pl: /usr/local/bin/vcfutils.pl
+  fasta-sanitize.pl: /usr/local/bin/fasta-sanitize.pl
+  plot-ampliconstats: /usr/local/bin/plot-ampliconstats
+  python2-config: /usr/local/bin/python2-config
+  python2.7-config: /usr/local/bin/python2.7-config
+  python2: /usr/local/bin/python2
+  python2.7: /usr/local/bin/python2.7
+  idle: /usr/local/bin/idle
+  python-config: /usr/local/bin/python-config
+  smtpd.py: /usr/local/bin/smtpd.py

@@ -1,0 +1,74 @@
+url: https://biocontainers.pro/tools/rop
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for rop
+latest:
+  1.1.2--py27heb79e2c_3: sha256:faf170b3f75a72462539626a48068207786057f0c00a5d9f23e47a6d94783754
+tags:
+  1.1.2--py27heb79e2c_3: sha256:faf170b3f75a72462539626a48068207786057f0c00a5d9f23e47a6d94783754
+docker: quay.io/biocontainers/rop
+aliases:
+  bam2fastx: /usr/local/bin/bam2fastx
+  bam_merge: /usr/local/bin/bam_merge
+  bed_to_juncs: /usr/local/bin/bed_to_juncs
+  contig_to_chr_coords: /usr/local/bin/contig_to_chr_coords
+  fasta_clipping_histogram.pl: /usr/local/bin/fasta_clipping_histogram.pl
+  fasta_formatter: /usr/local/bin/fasta_formatter
+  fasta_nucleotide_changer: /usr/local/bin/fasta_nucleotide_changer
+  fastq_masker: /usr/local/bin/fastq_masker
+  fastq_quality_boxplot_graph.sh: /usr/local/bin/fastq_quality_boxplot_graph.sh
+  fastq_quality_converter: /usr/local/bin/fastq_quality_converter
+  fastq_quality_filter: /usr/local/bin/fastq_quality_filter
+  fastq_quality_trimmer: /usr/local/bin/fastq_quality_trimmer
+  fastq_to_fasta: /usr/local/bin/fastq_to_fasta
+  fastx_artifacts_filter: /usr/local/bin/fastx_artifacts_filter
+  fastx_barcode_splitter.pl: /usr/local/bin/fastx_barcode_splitter.pl
+  fastx_clipper: /usr/local/bin/fastx_clipper
+  fastx_collapser: /usr/local/bin/fastx_collapser
+  fastx_nucleotide_distribution_graph.sh: /usr/local/bin/fastx_nucleotide_distribution_graph.sh
+  fastx_nucleotide_distribution_line_graph.sh: /usr/local/bin/fastx_nucleotide_distribution_line_graph.sh
+  fastx_quality_stats: /usr/local/bin/fastx_quality_stats
+  fastx_renamer: /usr/local/bin/fastx_renamer
+  fastx_reverse_complement: /usr/local/bin/fastx_reverse_complement
+  fastx_trimmer: /usr/local/bin/fastx_trimmer
+  fastx_uncollapser: /usr/local/bin/fastx_uncollapser
+  fix_map_ordering: /usr/local/bin/fix_map_ordering
+  gtf_juncs: /usr/local/bin/gtf_juncs
+  gtf_to_fasta: /usr/local/bin/gtf_to_fasta
+  juncs_db: /usr/local/bin/juncs_db
+  long_spanning_reads: /usr/local/bin/long_spanning_reads
+  map2gtf: /usr/local/bin/map2gtf
+  prep_reads: /usr/local/bin/prep_reads
+  rop: /usr/local/bin/rop
+  sam_juncs: /usr/local/bin/sam_juncs
+  samtools_0.1.18: /usr/local/bin/samtools_0.1.18
+  segment_juncs: /usr/local/bin/segment_juncs
+  sra_to_solid: /usr/local/bin/sra_to_solid
+  tophat: /usr/local/bin/tophat
+  tophat-fusion-post: /usr/local/bin/tophat-fusion-post
+  tophat2: /usr/local/bin/tophat2
+  tophat_reports: /usr/local/bin/tophat_reports
+  jellyfish: /usr/local/bin/jellyfish
+  nosetests: /usr/local/bin/nosetests
+  CA.pm: /usr/local/bin/CA.pm
+  cacert.pem: /usr/local/bin/cacert.pem
+  index-themes: /usr/local/bin/index-themes
+  fetch-extras: /usr/local/bin/fetch-extras
+  go.mod: /usr/local/bin/go.mod
+  go.sum: /usr/local/bin/go.sum
+  hlp-xtract.txt: /usr/local/bin/hlp-xtract.txt
+  index-extras: /usr/local/bin/index-extras
+  pm-collect: /usr/local/bin/pm-collect
+  readme.pdf: /usr/local/bin/readme.pdf
+  cygdb: /usr/local/bin/cygdb
+  cython: /usr/local/bin/cython
+  cythonize: /usr/local/bin/cythonize
+  bt-context.txt: /usr/local/bin/bt-context.txt
+  bt-link: /usr/local/bin/bt-link
+  bt-load: /usr/local/bin/bt-load
+  bt-save: /usr/local/bin/bt-save
+  bt-srch: /usr/local/bin/bt-srch
+  eblast: /usr/local/bin/eblast
+  pm-index: /usr/local/bin/pm-index
+  pm-invert: /usr/local/bin/pm-invert
+  pm-merge: /usr/local/bin/pm-merge
+  pm-prepare: /usr/local/bin/pm-prepare

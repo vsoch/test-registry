@@ -1,0 +1,21 @@
+url: https://biocontainers.pro/tools/fastqsplitter
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for fastqsplitter
+latest:
+  1.2.0--py38hbff2b2d_3: sha256:9bd62e637a0a1f968653282b334a4fba2879fced60855cee971dcfd4ed7fc39a
+tags:
+  1.2.0--py38hbff2b2d_3: sha256:9bd62e637a0a1f968653282b334a4fba2879fced60855cee971dcfd4ed7fc39a
+docker: quay.io/biocontainers/fastqsplitter
+aliases:
+  fastqsplitter: /usr/local/bin/fastqsplitter
+  igzip: /usr/local/bin/igzip
+  pbunzip2: /usr/local/bin/pbunzip2
+  pbzcat: /usr/local/bin/pbzcat
+  pbzip2: /usr/local/bin/pbzip2
+  pigz: /usr/local/bin/pigz
+  unpigz: /usr/local/bin/unpigz
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config

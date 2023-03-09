@@ -1,0 +1,41 @@
+url: https://biocontainers.pro/tools/qcumber
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for qcumber
+latest:
+  2.0.4--0: sha256:845d27828cb84f919edd50358802c569a4c5b851e766cb84e900757a744b6942
+tags:
+  2.0.4--0: sha256:845d27828cb84f919edd50358802c569a4c5b851e766cb84e900757a744b6942
+docker: quay.io/biocontainers/qcumber
+aliases:
+  QCumber-2: /usr/local/bin/QCumber-2
+  kraken: /usr/local/bin/kraken
+  kraken-build: /usr/local/bin/kraken-build
+  kraken-filter: /usr/local/bin/kraken-filter
+  kraken-mpa-report: /usr/local/bin/kraken-mpa-report
+  kraken-report: /usr/local/bin/kraken-report
+  kraken-translate: /usr/local/bin/kraken-translate
+  jemalloc-config: /usr/local/bin/jemalloc-config
+  jeprof: /usr/local/bin/jeprof
+  jemalloc.sh: /usr/local/bin/jemalloc.sh
+  chrpath: /usr/local/bin/chrpath
+  ktClassifyBLAST: /usr/local/bin/ktClassifyBLAST
+  ktGetContigMagnitudes: /usr/local/bin/ktGetContigMagnitudes
+  ktGetLCA: /usr/local/bin/ktGetLCA
+  ktGetLibPath: /usr/local/bin/ktGetLibPath
+  ktGetTaxIDFromAcc: /usr/local/bin/ktGetTaxIDFromAcc
+  ktGetTaxInfo: /usr/local/bin/ktGetTaxInfo
+  ktImportBLAST: /usr/local/bin/ktImportBLAST
+  ktImportDiskUsage: /usr/local/bin/ktImportDiskUsage
+  ktImportEC: /usr/local/bin/ktImportEC
+  ktImportFCP: /usr/local/bin/ktImportFCP
+  ktImportGalaxy: /usr/local/bin/ktImportGalaxy
+  ktImportKrona: /usr/local/bin/ktImportKrona
+  ktImportMETAREP-BLAST: /usr/local/bin/ktImportMETAREP-BLAST
+  ktImportMETAREP-EC: /usr/local/bin/ktImportMETAREP-EC
+  ktImportMGRAST: /usr/local/bin/ktImportMGRAST
+  ktImportPhymmBL: /usr/local/bin/ktImportPhymmBL
+  ktImportRDP: /usr/local/bin/ktImportRDP
+  ktImportRDPComparison: /usr/local/bin/ktImportRDPComparison
+  ktImportTaxonomy: /usr/local/bin/ktImportTaxonomy
+  ktImportText: /usr/local/bin/ktImportText
+  ktImportXML: /usr/local/bin/ktImportXML

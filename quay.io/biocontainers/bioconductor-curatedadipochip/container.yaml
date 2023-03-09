@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-curatedadipochip
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-curatedadipochip
+latest:
+  1.8.0--r41hdfd78af_0: sha256:6b1ce9eccf017acdb6b74087bf6c9baf0af2c3572f8bbd8e88dd5689c7624747
+tags:
+  1.8.0--r41hdfd78af_0: sha256:6b1ce9eccf017acdb6b74087bf6c9baf0af2c3572f8bbd8e88dd5689c7624747
+docker: quay.io/biocontainers/bioconductor-curatedadipochip
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

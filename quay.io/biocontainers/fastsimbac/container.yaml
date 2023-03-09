@@ -1,0 +1,18 @@
+url: https://biocontainers.pro/tools/fastsimbac
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for fastsimbac
+latest:
+  1.0.1_bd3ad13d8f79--h72a8191_3: sha256:485c722038a6d6dd632323fbda32ec5c06fab95bf62d6724135286800eff5523
+tags:
+  1.0.1_bd3ad13d8f79--h72a8191_3: sha256:485c722038a6d6dd632323fbda32ec5c06fab95bf62d6724135286800eff5523
+docker: quay.io/biocontainers/fastsimbac
+aliases:
+  fastSimBac: /usr/local/bin/fastSimBac
+  msformatter: /usr/local/bin/msformatter
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

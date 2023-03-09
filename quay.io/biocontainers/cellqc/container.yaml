@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/cellqc
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for cellqc
+latest:
+  0.0.4--pyh7cba7a3_0: sha256:8c58b8245fa141c0e133e1d7c1d9a55e8ad9198ea3ba76f685526b0ec058a7ca
+tags:
+  0.0.4--pyh7cba7a3_0: sha256:8c58b8245fa141c0e133e1d7c1d9a55e8ad9198ea3ba76f685526b0ec058a7ca
+docker: quay.io/biocontainers/cellqc
+aliases:
+  cellqc: /usr/local/bin/cellqc
+  hwloc-gather-cpuid: /usr/local/bin/hwloc-gather-cpuid
+  hwloc-annotate: /usr/local/bin/hwloc-annotate
+  hwloc-bind: /usr/local/bin/hwloc-bind
+  hwloc-calc: /usr/local/bin/hwloc-calc
+  hwloc-compress-dir: /usr/local/bin/hwloc-compress-dir
+  hwloc-diff: /usr/local/bin/hwloc-diff
+  hwloc-distrib: /usr/local/bin/hwloc-distrib
+  hwloc-gather-topology: /usr/local/bin/hwloc-gather-topology
+  hwloc-info: /usr/local/bin/hwloc-info
+  hwloc-ls: /usr/local/bin/hwloc-ls
+  hwloc-patch: /usr/local/bin/hwloc-patch
+  hwloc-ps: /usr/local/bin/hwloc-ps
+  lstopo: /usr/local/bin/lstopo
+  lstopo-no-graphics: /usr/local/bin/lstopo-no-graphics
+  scanpy: /usr/local/bin/scanpy
+  stone: /usr/local/bin/stone
+  aec: /usr/local/bin/aec
+  yte: /usr/local/bin/yte
+  geosop: /usr/local/bin/geosop
+  plac_runner.py: /usr/local/bin/plac_runner.py
+  docutils: /usr/local/bin/docutils
+  cmark: /usr/local/bin/cmark
+  geos-config: /usr/local/bin/geos-config
+  pulptest: /usr/local/bin/pulptest
+  grpc_cpp_plugin: /usr/local/bin/grpc_cpp_plugin

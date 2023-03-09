@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/pyani
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pyani
+latest:
+  0.2.9--pyh24bf2e0_0: sha256:e95fbb3cfbeff44d6f0a1f7934d685ed3e1acc93f0eaae4a5c1d22fb7d84896f
+tags:
+  0.2.9--pyh24bf2e0_0: sha256:e95fbb3cfbeff44d6f0a1f7934d685ed3e1acc93f0eaae4a5c1d22fb7d84896f
+docker: quay.io/biocontainers/pyani
+aliases:
+  average_nucleotide_identity.py: /usr/local/bin/average_nucleotide_identity.py
+  delta_filter_wrapper.py: /usr/local/bin/delta_filter_wrapper.py
+  genbank_get_genomes_by_taxon.py: /usr/local/bin/genbank_get_genomes_by_taxon.py
+  bl2seq: /usr/local/bin/bl2seq
+  blastall: /usr/local/bin/blastall
+  blastclust: /usr/local/bin/blastclust
+  blastpgp: /usr/local/bin/blastpgp
+  copymat: /usr/local/bin/copymat
+  fastacmd: /usr/local/bin/fastacmd
+  formatdb: /usr/local/bin/formatdb
+  formatrpsdb: /usr/local/bin/formatrpsdb
+  impala: /usr/local/bin/impala
+  makemat: /usr/local/bin/makemat
+  megablast: /usr/local/bin/megablast
+  test_pcre: /usr/local/bin/test_pcre
+  mapview: /usr/local/bin/mapview
+  mgaps: /usr/local/bin/mgaps
+  run-mummer1: /usr/local/bin/run-mummer1
+  run-mummer3: /usr/local/bin/run-mummer3
+  blastdbcp: /usr/local/bin/blastdbcp
+  gene_info_reader: /usr/local/bin/gene_info_reader
+  seqdb_demo: /usr/local/bin/seqdb_demo
+  seqdb_perf: /usr/local/bin/seqdb_perf
+  combineMUMs: /usr/local/bin/combineMUMs
+  delta-filter: /usr/local/bin/delta-filter
+  dnadiff: /usr/local/bin/dnadiff
+  exact-tandems: /usr/local/bin/exact-tandems
+  mummer: /usr/local/bin/mummer

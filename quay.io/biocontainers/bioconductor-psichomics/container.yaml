@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-psichomics
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-psichomics
+latest:
+  1.8.1--r351hf484d3e_0: sha256:b163cdc3837ace65e841e675949727823aa6f26d2539b0600da6ae602dd51ba4
+tags:
+  1.8.1--r351hf484d3e_0: sha256:b163cdc3837ace65e841e675949727823aa6f26d2539b0600da6ae602dd51ba4
+docker: quay.io/biocontainers/bioconductor-psichomics
+aliases:
+  wget: /usr/local/bin/wget
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

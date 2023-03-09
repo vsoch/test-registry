@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-ahcytobands
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-ahcytobands
+latest:
+  0.99.1--r41hdfd78af_1: sha256:5e9593d2a59d55700e9b7c552a1dad0ec851b3f29a7efbef99c0d41847a04d74
+tags:
+  0.99.1--r41hdfd78af_1: sha256:5e9593d2a59d55700e9b7c552a1dad0ec851b3f29a7efbef99c0d41847a04d74
+docker: quay.io/biocontainers/bioconductor-ahcytobands

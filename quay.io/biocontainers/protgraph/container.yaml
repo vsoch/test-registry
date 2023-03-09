@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/protgraph
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for protgraph
+latest:
+  0.3.4--pyhdfd78af_0: sha256:85a8697b47b0c2b3a3b2f6507586f6f55c35801c3c79ddf42fa944d5fd311f8d
+tags:
+  0.3.4--pyhdfd78af_0: sha256:85a8697b47b0c2b3a3b2f6507586f6f55c35801c3c79ddf42fa944d5fd311f8d
+docker: quay.io/biocontainers/protgraph
+aliases:
+  geomet: /usr/local/bin/geomet
+  protgraph: /usr/local/bin/protgraph
+  protgraph_compact_fasta: /usr/local/bin/protgraph_compact_fasta
+  protgraph_generate_fasta_decoys: /usr/local/bin/protgraph_generate_fasta_decoys
+  protgraph_pepsqlite_to_fasta: /usr/local/bin/protgraph_pepsqlite_to_fasta
+  protgraph_print_sums: /usr/local/bin/protgraph_print_sums
+  protgraph_replace_fasta_header: /usr/local/bin/protgraph_replace_fasta_header
+  igraph: /usr/local/bin/igraph
+  cmpfillin: /usr/local/bin/cmpfillin
+  gpmetis: /usr/local/bin/gpmetis
+  graphchk: /usr/local/bin/graphchk
+  m2gmetis: /usr/local/bin/m2gmetis
+  mpmetis: /usr/local/bin/mpmetis
+  ndmetis: /usr/local/bin/ndmetis
+  glpsol: /usr/local/bin/glpsol
+  protoc: /usr/local/bin/protoc
+  tqdm: /usr/local/bin/tqdm
+  normalizer: /usr/local/bin/normalizer
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

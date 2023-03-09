@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-splinter
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-splinter
+latest:
+  1.8.0--r351_0: sha256:f431a2faedad5d022be40af055c53ea69cddfabf2009738939e0924ebb7e7d1a
+tags:
+  1.8.0--r351_0: sha256:f431a2faedad5d022be40af055c53ea69cddfabf2009738939e0924ebb7e7d1a
+docker: quay.io/biocontainers/bioconductor-splinter
+aliases:
+  wget: /usr/local/bin/wget
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

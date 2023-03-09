@@ -1,0 +1,58 @@
+url: https://biocontainers.pro/tools/snvphyl-tools
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for snvphyl-tools
+latest:
+  1.8.2--pl5321hec16e2b_7: sha256:fe1f048582277dc804e194a3dab05e8e7f1286478b04d01af204733932d8cca9
+tags:
+  1.8.2--pl5321hec16e2b_7: sha256:fe1f048582277dc804e194a3dab05e8e7f1286478b04d01af204733932d8cca9
+docker: quay.io/biocontainers/snvphyl-tools
+aliases:
+  consolidate_vcfs.pl: /usr/local/bin/consolidate_vcfs.pl
+  core-only.pl: /usr/local/bin/core-only.pl
+  extract_snvs_metaalign.pl: /usr/local/bin/extract_snvs_metaalign.pl
+  filter-positions.pl: /usr/local/bin/filter-positions.pl
+  filter-stats.pl: /usr/local/bin/filter-stats.pl
+  filterVcf.pl: /usr/local/bin/filterVcf.pl
+  filter_unique_basepairs.pl: /usr/local/bin/filter_unique_basepairs.pl
+  find-positions-used.pl: /usr/local/bin/find-positions-used.pl
+  find-repeats.pl: /usr/local/bin/find-repeats.pl
+  positions2phyloviz.pl: /usr/local/bin/positions2phyloviz.pl
+  positions2snv_alignment.pl: /usr/local/bin/positions2snv_alignment.pl
+  positions2snv_invariant_alignment.pl: /usr/local/bin/positions2snv_invariant_alignment.pl
+  rearrange_snv_matrix.pl: /usr/local/bin/rearrange_snv_matrix.pl
+  ref_stats.pl: /usr/local/bin/ref_stats.pl
+  reporter.pl: /usr/local/bin/reporter.pl
+  snv_matrix.pl: /usr/local/bin/snv_matrix.pl
+  tab-to-vcf: /usr/local/bin/tab-to-vcf
+  tsvToVcf.pl: /usr/local/bin/tsvToVcf.pl
+  vcf-haplotypes: /usr/local/bin/vcf-haplotypes
+  vcf2snv_alignment.pl: /usr/local/bin/vcf2snv_alignment.pl
+  vcftools: /usr/local/bin/vcftools
+  verify_excess_coverage.pl: /usr/local/bin/verify_excess_coverage.pl
+  verify_low_depth.pl: /usr/local/bin/verify_low_depth.pl
+  verify_mapping_quality.pl: /usr/local/bin/verify_mapping_quality.pl
+  fill-aa: /usr/local/bin/fill-aa
+  fill-an-ac: /usr/local/bin/fill-an-ac
+  fill-fs: /usr/local/bin/fill-fs
+  fill-ref-md5: /usr/local/bin/fill-ref-md5
+  vcf-annotate: /usr/local/bin/vcf-annotate
+  vcf-compare: /usr/local/bin/vcf-compare
+  vcf-concat: /usr/local/bin/vcf-concat
+  vcf-consensus: /usr/local/bin/vcf-consensus
+  vcf-contrast: /usr/local/bin/vcf-contrast
+  vcf-convert: /usr/local/bin/vcf-convert
+  vcf-fix-newlines: /usr/local/bin/vcf-fix-newlines
+  vcf-fix-ploidy: /usr/local/bin/vcf-fix-ploidy
+  vcf-indel-stats: /usr/local/bin/vcf-indel-stats
+  vcf-isec: /usr/local/bin/vcf-isec
+  vcf-merge: /usr/local/bin/vcf-merge
+  vcf-phased-join: /usr/local/bin/vcf-phased-join
+  vcf-query: /usr/local/bin/vcf-query
+  vcf-shuffle-cols: /usr/local/bin/vcf-shuffle-cols
+  vcf-sort: /usr/local/bin/vcf-sort
+  vcf-stats: /usr/local/bin/vcf-stats
+  vcf-subset: /usr/local/bin/vcf-subset
+  vcf-to-tab: /usr/local/bin/vcf-to-tab
+  vcf-tstv: /usr/local/bin/vcf-tstv
+  vcf-validator: /usr/local/bin/vcf-validator
+  egrep: /usr/local/bin/egrep

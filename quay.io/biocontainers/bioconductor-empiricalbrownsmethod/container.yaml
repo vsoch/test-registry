@@ -1,0 +1,11 @@
+url: https://biocontainers.pro/tools/bioconductor-empiricalbrownsmethod
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-empiricalbrownsmethod
+latest:
+  1.8.0--r341_0: sha256:0fa56e514741d38ae3ea67d97a6782258353267a287703bdb777d9a513cb660c
+tags:
+  1.8.0--r341_0: sha256:0fa56e514741d38ae3ea67d97a6782258353267a287703bdb777d9a513cb660c
+docker: quay.io/biocontainers/bioconductor-empiricalbrownsmethod
+aliases:
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config

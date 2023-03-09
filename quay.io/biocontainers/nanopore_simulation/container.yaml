@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/nanopore_simulation
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for nanopore_simulation
+latest:
+  0.3--py_2: sha256:ef8d3204821b2b68160448f907f15d21d81fa743f4088fc21d6bca489fc73503
+tags:
+  0.3--py_2: sha256:ef8d3204821b2b68160448f907f15d21d81fa743f4088fc21d6bca489fc73503
+docker: quay.io/biocontainers/nanopore_simulation
+aliases:
+  simulatION: /usr/local/bin/simulatION
+  compile-et.pl: /usr/local/bin/compile-et.pl
+  prerr.properties: /usr/local/bin/prerr.properties
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview
+  qvkgen: /usr/local/bin/qvkgen
+  certutil: /usr/local/bin/certutil
+  nspr-config: /usr/local/bin/nspr-config
+  nss-config: /usr/local/bin/nss-config
+  pk12util: /usr/local/bin/pk12util
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  sip: /usr/local/bin/sip
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc
+  gst-device-monitor-1.0: /usr/local/bin/gst-device-monitor-1.0
+  gst-discoverer-1.0: /usr/local/bin/gst-discoverer-1.0
+  gst-play-1.0: /usr/local/bin/gst-play-1.0
+  fixqt4headers.pl: /usr/local/bin/fixqt4headers.pl

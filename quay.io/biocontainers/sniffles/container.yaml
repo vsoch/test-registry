@@ -1,0 +1,15 @@
+url: https://biocontainers.pro/tools/sniffles
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for sniffles
+latest:
+  2.0.7--pyhdfd78af_0: sha256:94157be1208ad01a748e68fd6a5d88b29c515136c31908fcf51bee11f687a769
+tags:
+  2.0.7--pyhdfd78af_0: sha256:94157be1208ad01a748e68fd6a5d88b29c515136c31908fcf51bee11f687a769
+docker: quay.io/biocontainers/sniffles
+aliases:
+  sniffles: /usr/local/bin/sniffles
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config

@@ -1,0 +1,59 @@
+url: https://biocontainers.pro/tools/hicbrowser
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for hicbrowser
+latest:
+  1.0--py27_1: sha256:dc78bb421a0a7564d908c347ad789959a7662ac50115fa5a6398474758cbbd39
+tags:
+  1.0--py27_1: sha256:dc78bb421a0a7564d908c347ad789959a7662ac50115fa5a6398474758cbbd39
+docker: quay.io/biocontainers/hicbrowser
+aliases:
+  dask-mpi: /usr/local/bin/dask-mpi
+  dask-remote: /usr/local/bin/dask-remote
+  dask-submit: /usr/local/bin/dask-submit
+  findRestSite: /usr/local/bin/findRestSite
+  hicAggregateContacts: /usr/local/bin/hicAggregateContacts
+  hicBuildMatrix: /usr/local/bin/hicBuildMatrix
+  hicCompareMatrices: /usr/local/bin/hicCompareMatrices
+  hicCorrectMatrix: /usr/local/bin/hicCorrectMatrix
+  hicCorrelate: /usr/local/bin/hicCorrelate
+  hicExport: /usr/local/bin/hicExport
+  hicFindEnrichedContacts: /usr/local/bin/hicFindEnrichedContacts
+  hicFindTADs: /usr/local/bin/hicFindTADs
+  hicInfo: /usr/local/bin/hicInfo
+  hicLog2Ratio: /usr/local/bin/hicLog2Ratio
+  hicMergeMatrixBins: /usr/local/bin/hicMergeMatrixBins
+  hicPCA: /usr/local/bin/hicPCA
+  hicPlotDistVsCounts: /usr/local/bin/hicPlotDistVsCounts
+  hicPlotMatrix: /usr/local/bin/hicPlotMatrix
+  hicPlotTADs: /usr/local/bin/hicPlotTADs
+  hicPlotViewpoint: /usr/local/bin/hicPlotViewpoint
+  hicQC: /usr/local/bin/hicQC
+  hicSumMatrices: /usr/local/bin/hicSumMatrices
+  hicTransform: /usr/local/bin/hicTransform
+  hicexplorer: /usr/local/bin/hicexplorer
+  runBrowser: /usr/local/bin/runBrowser
+  unit2: /usr/local/bin/unit2
+  createfontdatachunk.py: /usr/local/bin/createfontdatachunk.py
+  unidecode: /usr/local/bin/unidecode
+  cooler: /usr/local/bin/cooler
+  bam2pairs: /usr/local/bin/bam2pairs
+  column_remover.pl: /usr/local/bin/column_remover.pl
+  duplicate_header_remover.pl: /usr/local/bin/duplicate_header_remover.pl
+  enhancer.py: /usr/local/bin/enhancer.py
+  explode.py: /usr/local/bin/explode.py
+  fragment_4dnpairs.pl: /usr/local/bin/fragment_4dnpairs.pl
+  gifmaker.py: /usr/local/bin/gifmaker.py
+  juicer_shortform2pairs.pl: /usr/local/bin/juicer_shortform2pairs.pl
+  merge-pairs.sh: /usr/local/bin/merge-pairs.sh
+  merged_nodup2pairs.pl: /usr/local/bin/merged_nodup2pairs.pl
+  old_merged_nodup2pairs.pl: /usr/local/bin/old_merged_nodup2pairs.pl
+  painter.py: /usr/local/bin/painter.py
+  pairix: /usr/local/bin/pairix
+  pairs_merger: /usr/local/bin/pairs_merger
+  player.py: /usr/local/bin/player.py
+  process_merged_nodup.sh: /usr/local/bin/process_merged_nodup.sh
+  process_old_merged_nodup.sh: /usr/local/bin/process_old_merged_nodup.sh
+  streamer_1d: /usr/local/bin/streamer_1d
+  thresholder.py: /usr/local/bin/thresholder.py
+  viewer.py: /usr/local/bin/viewer.py
+  pilconvert.py: /usr/local/bin/pilconvert.py

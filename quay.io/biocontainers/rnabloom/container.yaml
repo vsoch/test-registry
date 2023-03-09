@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/rnabloom
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for rnabloom
+latest:
+  2.0.0--hdfd78af_0: sha256:e18997e0f9a2c89461315cedaddd1f540ca59ba6d112c8c1bec113e74ab3bb87
+tags:
+  2.0.0--hdfd78af_0: sha256:e18997e0f9a2c89461315cedaddd1f540ca59ba6d112c8c1bec113e74ab3bb87
+docker: quay.io/biocontainers/rnabloom
+aliases:
+  ntcard: /usr/local/bin/ntcard
+  nthll: /usr/local/bin/nthll
+  rnabloom: /usr/local/bin/rnabloom
+  rampler: /usr/local/bin/rampler
+  racon: /usr/local/bin/racon
+  racon_wrapper: /usr/local/bin/racon_wrapper
+  cups-config: /usr/local/bin/cups-config
+  ippeveprinter: /usr/local/bin/ippeveprinter
+  ipptool: /usr/local/bin/ipptool
+  sdust: /usr/local/bin/sdust
+  k8: /usr/local/bin/k8
+  paftools.js: /usr/local/bin/paftools.js
+  minimap2: /usr/local/bin/minimap2
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps

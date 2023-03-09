@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/kopt
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for kopt
+latest:
+  0.1.0--pyh145b6a8_2: sha256:718867578adabf2f9bf94a160c494fcc0ae40d6b03fbad5497bbe503c9bcb259
+tags:
+  0.1.0--pyh145b6a8_2: sha256:718867578adabf2f9bf94a160c494fcc0ae40d6b03fbad5497bbe503c9bcb259
+docker: quay.io/biocontainers/kopt
+aliases:
+  hyperopt-mongo-worker: /usr/local/bin/hyperopt-mongo-worker
+  theano-cache: /usr/local/bin/theano-cache
+  theano-nose: /usr/local/bin/theano-nose
+  freeze_graph: /usr/local/bin/freeze_graph
+  mako-render: /usr/local/bin/mako-render
+  tf_upgrade_v2: /usr/local/bin/tf_upgrade_v2
+  tflite_convert: /usr/local/bin/tflite_convert
+  saved_model_cli: /usr/local/bin/saved_model_cli
+  toco: /usr/local/bin/toco
+  toco_from_protos: /usr/local/bin/toco_from_protos
+  tensorboard: /usr/local/bin/tensorboard
+  markdown_py: /usr/local/bin/markdown_py
+  protoc: /usr/local/bin/protoc
+  futurize: /usr/local/bin/futurize
+  pasteurize: /usr/local/bin/pasteurize
+  tqdm: /usr/local/bin/tqdm
+  f2py3.7: /usr/local/bin/f2py3.7
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  h5clear: /usr/local/bin/h5clear

@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/stream
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for stream
+latest:
+  0.4.0--py37r36hc99cbb1_0: sha256:59ebb094505a21d0fe38825be15c968aeda821dc94bc924080cf799e3a420f0a
+tags:
+  0.4.0--py37r36hc99cbb1_0: sha256:59ebb094505a21d0fe38825be15c968aeda821dc94bc924080cf799e3a420f0a
+docker: quay.io/biocontainers/stream
+aliases:
+  gunicorn: /usr/local/bin/gunicorn
+  slugify: /usr/local/bin/slugify
+  stream: /usr/local/bin/stream
+  stream_run_test: /usr/local/bin/stream_run_test
+  zip: /usr/local/bin/zip
+  unidecode: /usr/local/bin/unidecode
+  unzip: /usr/local/bin/unzip
+  jupyter-bundlerextension: /usr/local/bin/jupyter-bundlerextension
+  jupyter-nbextension: /usr/local/bin/jupyter-nbextension
+  jupyter-notebook: /usr/local/bin/jupyter-notebook
+  jupyter-serverextension: /usr/local/bin/jupyter-serverextension
+  jupyter-nbconvert: /usr/local/bin/jupyter-nbconvert
+  iptest3: /usr/local/bin/iptest3
+  jupyter-kernel: /usr/local/bin/jupyter-kernel
+  jupyter-kernelspec: /usr/local/bin/jupyter-kernelspec
+  jupyter-run: /usr/local/bin/jupyter-run
+  iptest: /usr/local/bin/iptest
+  geos-config: /usr/local/bin/geos-config
+  curve_keygen: /usr/local/bin/curve_keygen
+  pandoc-citeproc: /usr/local/bin/pandoc-citeproc
+  ipython3: /usr/local/bin/ipython3
+  ipython: /usr/local/bin/ipython
+  numba: /usr/local/bin/numba
+  pycc: /usr/local/bin/pycc
+  jupyter-trust: /usr/local/bin/jupyter-trust
+  natsort: /usr/local/bin/natsort
+  jupyter: /usr/local/bin/jupyter
+  jupyter-migrate: /usr/local/bin/jupyter-migrate
+  jupyter-troubleshoot: /usr/local/bin/jupyter-troubleshoot

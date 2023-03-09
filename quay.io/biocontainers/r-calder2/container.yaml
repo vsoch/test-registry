@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/r-calder2
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-calder2
+latest:
+  0.3--r41hdfd78af_0: sha256:5b7418c4363afc83719f1ccae41daf587668cd5e6a46c1da214baf94a9caafdb
+tags:
+  0.3--r41hdfd78af_0: sha256:5b7418c4363afc83719f1ccae41daf587668cd5e6a46c1da214baf94a9caafdb
+docker: quay.io/biocontainers/r-calder2
+aliases:
+  calder: /usr/local/bin/calder
+  dask: /usr/local/bin/dask
+  dask scheduler: /usr/local/bin/dask scheduler
+  dask ssh: /usr/local/bin/dask ssh
+  dask worker: /usr/local/bin/dask worker
+  cooler: /usr/local/bin/cooler
+  bam2pairs: /usr/local/bin/bam2pairs
+  column_remover.pl: /usr/local/bin/column_remover.pl
+  duplicate_header_remover.pl: /usr/local/bin/duplicate_header_remover.pl
+  fragment_4dnpairs.pl: /usr/local/bin/fragment_4dnpairs.pl
+  juicer_shortform2pairs.pl: /usr/local/bin/juicer_shortform2pairs.pl
+  merge-pairs.sh: /usr/local/bin/merge-pairs.sh
+  merged_nodup2pairs.pl: /usr/local/bin/merged_nodup2pairs.pl
+  old_merged_nodup2pairs.pl: /usr/local/bin/old_merged_nodup2pairs.pl
+  pairix: /usr/local/bin/pairix
+  pairs_merger: /usr/local/bin/pairs_merger
+  process_merged_nodup.sh: /usr/local/bin/process_merged_nodup.sh
+  process_old_merged_nodup.sh: /usr/local/bin/process_old_merged_nodup.sh
+  streamer_1d: /usr/local/bin/streamer_1d
+  dask-scheduler: /usr/local/bin/dask-scheduler
+  dask-ssh: /usr/local/bin/dask-ssh
+  dask-worker: /usr/local/bin/dask-worker
+  get_objgraph: /usr/local/bin/get_objgraph
+  undill: /usr/local/bin/undill
+  bokeh: /usr/local/bin/bokeh
+  vcf_sample_filter.py: /usr/local/bin/vcf_sample_filter.py
+  vcf_filter.py: /usr/local/bin/vcf_filter.py
+  vcf_melt: /usr/local/bin/vcf_melt
+  faidx: /usr/local/bin/faidx
+  color-chrs.pl: /usr/local/bin/color-chrs.pl

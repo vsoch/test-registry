@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/msmetaenhancer
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for msmetaenhancer
+latest:
+  0.2.5--pyhdfd78af_0: sha256:ff09e6c18c69be623dae7a7063d3bf031ba0e7eea721be8eae918e282e74d48d
+tags:
+  0.2.5--pyhdfd78af_0: sha256:ff09e6c18c69be623dae7a7063d3bf031ba0e7eea721be8eae918e282e74d48d
+docker: quay.io/biocontainers/msmetaenhancer
+aliases:
+  xml2-config.bak: /usr/local/bin/xml2-config.bak
+  numba: /usr/local/bin/numba
+  pycc: /usr/local/bin/pycc
+  tabulate: /usr/local/bin/tabulate
+  xslt-config: /usr/local/bin/xslt-config
+  xsltproc: /usr/local/bin/xsltproc
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  brotli: /usr/local/bin/brotli
+  normalizer: /usr/local/bin/normalizer
+  f2py3.10: /usr/local/bin/f2py3.10
+  opj_compress: /usr/local/bin/opj_compress
+  opj_decompress: /usr/local/bin/opj_decompress
+  opj_dump: /usr/local/bin/opj_dump
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1
+  jpgicc: /usr/local/bin/jpgicc
+  linkicc: /usr/local/bin/linkicc
+  psicc: /usr/local/bin/psicc

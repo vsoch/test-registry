@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-rarevariantvis
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-rarevariantvis
+latest:
+  2.8.0--r351_0: sha256:06f5b5b2a8be0eaad0a3a56b2553cbb01d8ba236eda1edb27c1dc608d8ca5ecd
+tags:
+  2.8.0--r351_0: sha256:06f5b5b2a8be0eaad0a3a56b2553cbb01d8ba236eda1edb27c1dc608d8ca5ecd
+docker: quay.io/biocontainers/bioconductor-rarevariantvis
+aliases:
+  wget: /usr/local/bin/wget

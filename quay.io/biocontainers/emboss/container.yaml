@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/emboss
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for emboss
+latest:
+  6.6.0--haa49230_5: sha256:51a26af4f2349bcb017855d7e797bcdb787e9177b3067ff439ccdeac550991ab
+tags:
+  6.6.0--haa49230_5: sha256:51a26af4f2349bcb017855d7e797bcdb787e9177b3067ff439ccdeac550991ab
+docker: quay.io/biocontainers/emboss
+aliases:
+  embossdata: /usr/local/bin/embossdata
+  embossupdate: /usr/local/bin/embossupdate
+  embossversion: /usr/local/bin/embossversion
+  jembossctl: /usr/local/bin/jembossctl
+  runJemboss.sh: /usr/local/bin/runJemboss.sh
+  xmlget: /usr/local/bin/xmlget
+  xmltext: /usr/local/bin/xmltext
+  aaindexextract: /usr/local/bin/aaindexextract
+  abiview: /usr/local/bin/abiview
+  acdc: /usr/local/bin/acdc
+  acdgalaxy: /usr/local/bin/acdgalaxy
+  acdlog: /usr/local/bin/acdlog
+  acdpretty: /usr/local/bin/acdpretty
+  acdtable: /usr/local/bin/acdtable
+  acdtrace: /usr/local/bin/acdtrace
+  acdvalid: /usr/local/bin/acdvalid
+  aligncopy: /usr/local/bin/aligncopy
+  aligncopypair: /usr/local/bin/aligncopypair
+  antigenic: /usr/local/bin/antigenic
+  assemblyget: /usr/local/bin/assemblyget
+  backtranambig: /usr/local/bin/backtranambig
+  backtranseq: /usr/local/bin/backtranseq
+  banana: /usr/local/bin/banana
+  biosed: /usr/local/bin/biosed
+  btwisted: /usr/local/bin/btwisted
+  cachedas: /usr/local/bin/cachedas
+  cachedbfetch: /usr/local/bin/cachedbfetch
+  cacheebeyesearch: /usr/local/bin/cacheebeyesearch
+  cacheensembl: /usr/local/bin/cacheensembl
+  chaos: /usr/local/bin/chaos

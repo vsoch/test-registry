@@ -1,0 +1,44 @@
+url: https://biocontainers.pro/tools/tobias
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for tobias
+latest:
+  0.9.0--py36hc1659b7_0: sha256:66a68d1bef15ab6b78de28a74ad94833244bae1c8caf6f823e3095e47c45d9df
+tags:
+  0.9.0--py36hc1659b7_0: sha256:66a68d1bef15ab6b78de28a74ad94833244bae1c8caf6f823e3095e47c45d9df
+docker: quay.io/biocontainers/tobias
+aliases:
+  TOBIAS: /usr/local/bin/TOBIAS
+  ccache-swig: /usr/local/bin/ccache-swig
+  croco-0.6-config: /usr/local/bin/croco-0.6-config
+  csslint-0.6: /usr/local/bin/csslint-0.6
+  filter_important_factors.py: /usr/local/bin/filter_important_factors.py
+  moods-dna.py: /usr/local/bin/moods-dna.py
+  svist4get: /usr/local/bin/svist4get
+  svist4get_copier: /usr/local/bin/svist4get_copier
+  swig: /usr/local/bin/swig
+  x86_64-conda_cos6-linux-gnu-pkg-config: /usr/local/bin/x86_64-conda_cos6-linux-gnu-pkg-config
+  g-ir-doc-tool: /usr/local/bin/g-ir-doc-tool
+  giffilter: /usr/local/bin/giffilter
+  gifsponge: /usr/local/bin/gifsponge
+  g-ir-annotation-tool: /usr/local/bin/g-ir-annotation-tool
+  g-ir-compiler: /usr/local/bin/g-ir-compiler
+  g-ir-generate: /usr/local/bin/g-ir-generate
+  g-ir-inspect: /usr/local/bin/g-ir-inspect
+  g-ir-scanner: /usr/local/bin/g-ir-scanner
+  vba_extract.py: /usr/local/bin/vba_extract.py
+  intersection_matrix.py: /usr/local/bin/intersection_matrix.py
+  intron_exon_reads.py: /usr/local/bin/intron_exon_reads.py
+  pbt_plotting_example.py: /usr/local/bin/pbt_plotting_example.py
+  peak_pie.py: /usr/local/bin/peak_pie.py
+  pybedtools: /usr/local/bin/pybedtools
+  venn_gchart.py: /usr/local/bin/venn_gchart.py
+  venn_mpl.py: /usr/local/bin/venn_mpl.py
+  annotate.py: /usr/local/bin/annotate.py
+  gifecho: /usr/local/bin/gifecho
+  gifinto: /usr/local/bin/gifinto
+  compile-et.pl: /usr/local/bin/compile-et.pl
+  prerr.properties: /usr/local/bin/prerr.properties
+  Magick++-config: /usr/local/bin/Magick++-config
+  MagickCore-config: /usr/local/bin/MagickCore-config
+  MagickWand-config: /usr/local/bin/MagickWand-config
+  animate: /usr/local/bin/animate

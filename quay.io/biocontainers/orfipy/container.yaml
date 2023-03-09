@@ -1,0 +1,16 @@
+url: https://biocontainers.pro/tools/orfipy
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for orfipy
+latest:
+  0.0.4--py38h4a32c8e_1: sha256:991017f28253f56f6a29f588d1e4317aa769c35f21d9cbf270cc048cbf4695bb
+tags:
+  0.0.4--py38h4a32c8e_1: sha256:991017f28253f56f6a29f588d1e4317aa769c35f21d9cbf270cc048cbf4695bb
+docker: quay.io/biocontainers/orfipy
+aliases:
+  orfipy: /usr/local/bin/orfipy
+  pyfastx: /usr/local/bin/pyfastx
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config

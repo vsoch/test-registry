@@ -1,0 +1,16 @@
+url: https://biocontainers.pro/tools/genomescope2
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for genomescope2
+latest:
+  2.0--py310r41hdfd78af_5: sha256:454960962859687312ec23f6382cff0ae5eb4ae4dc0603cc3463b3d2e90524b5
+tags:
+  2.0--py310r41hdfd78af_5: sha256:454960962859687312ec23f6382cff0ae5eb4ae4dc0603cc3463b3d2e90524b5
+docker: quay.io/biocontainers/genomescope2
+aliases:
+  genomescope2: /usr/local/bin/genomescope2
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/kcalign
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for kcalign
+latest:
+  1.0.2--py_0: sha256:b1a49ecffa20b85267456b048e3baf616868b808839bc87e7f030732353da17c
+tags:
+  1.0.2--py_0: sha256:b1a49ecffa20b85267456b048e3baf616868b808839bc87e7f030732353da17c
+docker: quay.io/biocontainers/kcalign
+aliases:
+  kalign: /usr/local/bin/kalign
+  kc-align: /usr/local/bin/kc-align
+  timescorealn: /usr/local/bin/timescorealn
+  mafft-sparsecore.rb: /usr/local/bin/mafft-sparsecore.rb
+  einsi: /usr/local/bin/einsi
+  fftns: /usr/local/bin/fftns
+  fftnsi: /usr/local/bin/fftnsi
+  ginsi: /usr/local/bin/ginsi
+  linsi: /usr/local/bin/linsi
+  mafft-distance: /usr/local/bin/mafft-distance
+  mafft-einsi: /usr/local/bin/mafft-einsi
+  mafft-fftns: /usr/local/bin/mafft-fftns
+  mafft-fftnsi: /usr/local/bin/mafft-fftnsi
+  mafft-ginsi: /usr/local/bin/mafft-ginsi
+  mafft-homologs.rb: /usr/local/bin/mafft-homologs.rb
+  mafft-linsi: /usr/local/bin/mafft-linsi
+  mafft-nwns: /usr/local/bin/mafft-nwns
+  mafft-nwnsi: /usr/local/bin/mafft-nwnsi
+  mafft-profile: /usr/local/bin/mafft-profile
+  mafft-qinsi: /usr/local/bin/mafft-qinsi
+  mafft-xinsi: /usr/local/bin/mafft-xinsi
+  nwns: /usr/local/bin/nwns
+  nwnsi: /usr/local/bin/nwnsi
+  mafft: /usr/local/bin/mafft
+  f2py3.8: /usr/local/bin/f2py3.8
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8

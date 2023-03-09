@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-bcellviper
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-bcellviper
+latest:
+  1.30.0--r41hdfd78af_1: sha256:a8a979f5220e7eb2ef61d0d4cd6ebf98858ceefdc664194f671a86b366e88356
+tags:
+  1.30.0--r41hdfd78af_1: sha256:a8a979f5220e7eb2ef61d0d4cd6ebf98858ceefdc664194f671a86b366e88356
+docker: quay.io/biocontainers/bioconductor-bcellviper

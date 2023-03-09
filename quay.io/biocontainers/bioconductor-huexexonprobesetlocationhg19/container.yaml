@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-huexexonprobesetlocationhg19
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-huexexonprobesetlocationhg19
+latest:
+  0.0.3--r41hdfd78af_9: sha256:641465091828550b682ec971a6475026fae67bfde330a217fdd91dc528633ed6
+tags:
+  0.0.3--r41hdfd78af_9: sha256:641465091828550b682ec971a6475026fae67bfde330a217fdd91dc528633ed6
+docker: quay.io/biocontainers/bioconductor-huexexonprobesetlocationhg19

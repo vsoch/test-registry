@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-ga4ghshiny
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-ga4ghshiny
+latest:
+  1.8.0--r36_0: sha256:a19bc8b63a4a7faf4ad57319e9714fa5f6cf791941f00e555c1fbf6c633c4664
+tags:
+  1.8.0--r36_0: sha256:a19bc8b63a4a7faf4ad57319e9714fa5f6cf791941f00e555c1fbf6c633c4664
+docker: quay.io/biocontainers/bioconductor-ga4ghshiny
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/metasnv
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for metasnv
+latest:
+  2.0.4--py37h47940ae_4: sha256:b6e0ebfa3b6260e5e05d5a9382608ee99db96f65e7f33df6b498b18e822a5604
+tags:
+  2.0.4--py37h47940ae_4: sha256:b6e0ebfa3b6260e5e05d5a9382608ee99db96f65e7f33df6b498b18e822a5604
+docker: quay.io/biocontainers/metasnv
+aliases:
+  metaSNV.py: /usr/local/bin/metaSNV.py
+  metaSNV_DistDiv.py: /usr/local/bin/metaSNV_DistDiv.py
+  metaSNV_Filtering.py: /usr/local/bin/metaSNV_Filtering.py
+  metaSNV_subpopr.R: /usr/local/bin/metaSNV_subpopr.R
+  pandoc-server: /usr/local/bin/pandoc-server
+  pandoc: /usr/local/bin/pandoc
+  f2py3.7: /usr/local/bin/f2py3.7
+  fasta-sanitize.pl: /usr/local/bin/fasta-sanitize.pl
+  plot-ampliconstats: /usr/local/bin/plot-ampliconstats
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  ace2sam: /usr/local/bin/ace2sam
+  blast2sam.pl: /usr/local/bin/blast2sam.pl
+  bowtie2sam.pl: /usr/local/bin/bowtie2sam.pl
+  export2sam.pl: /usr/local/bin/export2sam.pl
+  interpolate_sam.pl: /usr/local/bin/interpolate_sam.pl
+  maq2sam-long: /usr/local/bin/maq2sam-long
+  maq2sam-short: /usr/local/bin/maq2sam-short
+  md5fa: /usr/local/bin/md5fa
+  md5sum-lite: /usr/local/bin/md5sum-lite
+  plot-bamstats: /usr/local/bin/plot-bamstats
+  psl2sam.pl: /usr/local/bin/psl2sam.pl
+  sam2vcf.pl: /usr/local/bin/sam2vcf.pl

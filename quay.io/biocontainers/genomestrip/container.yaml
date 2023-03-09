@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/genomestrip
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for genomestrip
+latest:
+  2.00.1833--hdfd78af_4: sha256:8b10af529781c89854549ca2e66e585e48553c94e761bf6ed4fbb34af57c7134
+tags:
+  2.00.1833--hdfd78af_4: sha256:8b10af529781c89854549ca2e66e585e48553c94e761bf6ed4fbb34af57c7134
+docker: quay.io/biocontainers/genomestrip
+aliases:
+  genomestrip: /usr/local/bin/genomestrip
+  fasta-sanitize.pl: /usr/local/bin/fasta-sanitize.pl
+  plot-ampliconstats: /usr/local/bin/plot-ampliconstats
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  ace2sam: /usr/local/bin/ace2sam
+  blast2sam.pl: /usr/local/bin/blast2sam.pl
+  bowtie2sam.pl: /usr/local/bin/bowtie2sam.pl
+  export2sam.pl: /usr/local/bin/export2sam.pl
+  interpolate_sam.pl: /usr/local/bin/interpolate_sam.pl
+  maq2sam-long: /usr/local/bin/maq2sam-long
+  maq2sam-short: /usr/local/bin/maq2sam-short
+  md5fa: /usr/local/bin/md5fa
+  md5sum-lite: /usr/local/bin/md5sum-lite

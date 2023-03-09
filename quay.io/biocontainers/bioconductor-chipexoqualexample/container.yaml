@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-chipexoqualexample
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-chipexoqualexample
+latest:
+  1.8.0--r36_1: sha256:ed284a73f9f99f4dd6a8d6a73dc5d4a05d1e17a416bf61609568254205563ed2
+tags:
+  1.8.0--r36_1: sha256:ed284a73f9f99f4dd6a8d6a73dc5d4a05d1e17a416bf61609568254205563ed2
+docker: quay.io/biocontainers/bioconductor-chipexoqualexample
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

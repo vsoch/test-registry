@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-vanillaice
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-vanillaice
+latest:
+  1.56.3--r41hc0cfd56_1: sha256:716427b3995a872dbde820fca58432860828fc22340cf310bf034909a2b0f9cf
+tags:
+  1.56.3--r41hc0cfd56_1: sha256:716427b3995a872dbde820fca58432860828fc22340cf310bf034909a2b0f9cf
+docker: quay.io/biocontainers/bioconductor-vanillaice

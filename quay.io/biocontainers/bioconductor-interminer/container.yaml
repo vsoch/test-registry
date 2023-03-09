@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-interminer
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-interminer
+latest:
+  1.8.0--r36_0: sha256:4cc6ed718c683a1643f1f80db43b76a8147b0ece23b63edbb56d1f66e0175d81
+tags:
+  1.8.0--r36_0: sha256:4cc6ed718c683a1643f1f80db43b76a8147b0ece23b63edbb56d1f66e0175d81
+docker: quay.io/biocontainers/bioconductor-interminer
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

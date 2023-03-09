@@ -1,0 +1,18 @@
+url: https://biocontainers.pro/tools/parmed
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for parmed
+latest:
+  3.4.3: sha256:50c5c71a21e8122c280844405b5a8c105511e563735eeaa65cb81f9f146e5ee4
+tags:
+  3.4.3: sha256:50c5c71a21e8122c280844405b5a8c105511e563735eeaa65cb81f9f146e5ee4
+docker: quay.io/biocontainers/parmed
+aliases:
+  parmed: /usr/local/bin/parmed
+  xparmed: /usr/local/bin/xparmed
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

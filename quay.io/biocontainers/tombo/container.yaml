@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/tombo
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for tombo
+latest:
+  1.0--py27_0: sha256:6f93d035e4d3bdd641e0b7e3070dcbce909ea115befa72af6f9c0b47d34fabdb
+tags:
+  1.0--py27_0: sha256:6f93d035e4d3bdd641e0b7e3070dcbce909ea115befa72af6f9c0b47d34fabdb
+docker: quay.io/biocontainers/tombo
+aliases:
+  graphmap: /usr/local/bin/graphmap
+  tombo: /usr/local/bin/tombo
+  perl5.22.0: /usr/local/bin/perl5.22.0
+  c2ph: /usr/local/bin/c2ph
+  pstruct: /usr/local/bin/pstruct
+  cygdb: /usr/local/bin/cygdb
+  cython: /usr/local/bin/cython
+  cythonize: /usr/local/bin/cythonize
+  qualfa2fq.pl: /usr/local/bin/qualfa2fq.pl
+  xa2multi.pl: /usr/local/bin/xa2multi.pl
+  minimap2: /usr/local/bin/minimap2
+  bwa: /usr/local/bin/bwa
+  python2-config: /usr/local/bin/python2-config
+  python2.7-config: /usr/local/bin/python2.7-config
+  python2: /usr/local/bin/python2
+  python2.7: /usr/local/bin/python2.7
+  idle: /usr/local/bin/idle
+  python-config: /usr/local/bin/python-config
+  smtpd.py: /usr/local/bin/smtpd.py
+  podselect: /usr/local/bin/podselect
+  h5fc: /usr/local/bin/h5fc
+  gif2h5: /usr/local/bin/gif2h5
+  h52gif: /usr/local/bin/h52gif
+  h5c++: /usr/local/bin/h5c++
+  h5copy: /usr/local/bin/h5copy
+  h5debug: /usr/local/bin/h5debug
+  h5diff: /usr/local/bin/h5diff

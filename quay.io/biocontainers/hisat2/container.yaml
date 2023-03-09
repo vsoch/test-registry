@@ -1,0 +1,32 @@
+url: https://biocontainers.pro/tools/hisat2
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for hisat2
+latest:
+  2.2.1--h87f3376_4: sha256:21be9c91bf66404e677bc2c70e986e39ce9a40e7950d5034e3561bb992e82ec6
+tags:
+  2.2.1--h87f3376_4: sha256:21be9c91bf66404e677bc2c70e986e39ce9a40e7950d5034e3561bb992e82ec6
+docker: quay.io/biocontainers/hisat2
+aliases:
+  extract_exons.py: /usr/local/bin/extract_exons.py
+  extract_splice_sites.py: /usr/local/bin/extract_splice_sites.py
+  hisat2: /usr/local/bin/hisat2
+  hisat2-align-l: /usr/local/bin/hisat2-align-l
+  hisat2-align-s: /usr/local/bin/hisat2-align-s
+  hisat2-build: /usr/local/bin/hisat2-build
+  hisat2-build-l: /usr/local/bin/hisat2-build-l
+  hisat2-build-s: /usr/local/bin/hisat2-build-s
+  hisat2-inspect: /usr/local/bin/hisat2-inspect
+  hisat2-inspect-l: /usr/local/bin/hisat2-inspect-l
+  hisat2-inspect-s: /usr/local/bin/hisat2-inspect-s
+  hisat2_extract_exons.py: /usr/local/bin/hisat2_extract_exons.py
+  hisat2_extract_snps_haplotypes_UCSC.py: /usr/local/bin/hisat2_extract_snps_haplotypes_UCSC.py
+  hisat2_extract_snps_haplotypes_VCF.py: /usr/local/bin/hisat2_extract_snps_haplotypes_VCF.py
+  hisat2_extract_splice_sites.py: /usr/local/bin/hisat2_extract_splice_sites.py
+  hisat2_read_statistics.py: /usr/local/bin/hisat2_read_statistics.py
+  hisat2_simulate_reads.py: /usr/local/bin/hisat2_simulate_reads.py
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

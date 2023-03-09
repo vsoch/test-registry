@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/libssw
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for libssw
+latest:
+  1.1--py27h8f2a353_5: sha256:a4b0a269e5ba2624b99c68ad36456749d95186ec8071c81a31e26559aae696d6
+tags:
+  1.1--py27h8f2a353_5: sha256:a4b0a269e5ba2624b99c68ad36456749d95186ec8071c81a31e26559aae696d6
+docker: quay.io/biocontainers/libssw
+aliases:
+  example_cpp: /usr/local/bin/example_cpp
+  pyssw.py: /usr/local/bin/pyssw.py
+  ssw.jar: /usr/local/bin/ssw.jar
+  ssw_lib.py: /usr/local/bin/ssw_lib.py
+  ssw_test: /usr/local/bin/ssw_test
+  jaotc: /usr/local/bin/jaotc
+  python2-config: /usr/local/bin/python2-config
+  python2.7-config: /usr/local/bin/python2.7-config
+  python2: /usr/local/bin/python2
+  python2.7: /usr/local/bin/python2.7
+  idle: /usr/local/bin/idle
+  python-config: /usr/local/bin/python-config
+  smtpd.py: /usr/local/bin/smtpd.py
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc

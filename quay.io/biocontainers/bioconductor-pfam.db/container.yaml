@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-pfam.db
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-pfam.db
+latest:
+  3.8.2--r36_1: sha256:be2ba30b7307531062c70e611d4c57822f27913dc8bbd00b4875bff18e93c3a7
+tags:
+  3.8.2--r36_1: sha256:be2ba30b7307531062c70e611d4c57822f27913dc8bbd00b4875bff18e93c3a7
+docker: quay.io/biocontainers/bioconductor-pfam.db
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

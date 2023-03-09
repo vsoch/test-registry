@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/chromosight
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for chromosight
+latest:
+  1.6.2--pyhdfd78af_0: sha256:c27a352add95980e57ea0eb6c87fbaf16c4c4a277ec3ddd20caa6dcb3dacb4d3
+tags:
+  1.6.2--pyhdfd78af_0: sha256:c27a352add95980e57ea0eb6c87fbaf16c4c4a277ec3ddd20caa6dcb3dacb4d3
+docker: quay.io/biocontainers/chromosight
+aliases:
+  chromosight: /usr/local/bin/chromosight
+  cooler: /usr/local/bin/cooler
+  bam2pairs: /usr/local/bin/bam2pairs
+  column_remover.pl: /usr/local/bin/column_remover.pl
+  duplicate_header_remover.pl: /usr/local/bin/duplicate_header_remover.pl
+  fragment_4dnpairs.pl: /usr/local/bin/fragment_4dnpairs.pl
+  juicer_shortform2pairs.pl: /usr/local/bin/juicer_shortform2pairs.pl
+  merge-pairs.sh: /usr/local/bin/merge-pairs.sh
+  merged_nodup2pairs.pl: /usr/local/bin/merged_nodup2pairs.pl
+  old_merged_nodup2pairs.pl: /usr/local/bin/old_merged_nodup2pairs.pl
+  pairix: /usr/local/bin/pairix
+  pairs_merger: /usr/local/bin/pairs_merger
+  process_merged_nodup.sh: /usr/local/bin/process_merged_nodup.sh
+  process_old_merged_nodup.sh: /usr/local/bin/process_old_merged_nodup.sh
+  streamer_1d: /usr/local/bin/streamer_1d
+  dask-scheduler: /usr/local/bin/dask-scheduler
+  dask-ssh: /usr/local/bin/dask-ssh
+  dask-worker: /usr/local/bin/dask-worker
+  get_objgraph: /usr/local/bin/get_objgraph
+  undill: /usr/local/bin/undill
+  bokeh: /usr/local/bin/bokeh
+  faidx: /usr/local/bin/faidx
+  mirror_server: /usr/local/bin/mirror_server
+  mirror_server_stop: /usr/local/bin/mirror_server_stop
+  jsonschema: /usr/local/bin/jsonschema
+  fonttools: /usr/local/bin/fonttools

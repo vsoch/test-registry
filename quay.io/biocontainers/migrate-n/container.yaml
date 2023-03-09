@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/migrate-n
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for migrate-n
+latest:
+  3.6.11--hde308d1_4: sha256:a70dc735d72cef1097e750ee8e6b555efddb8a229e9fcfadb1e1c1b0c34e3804
+tags:
+  3.6.11--hde308d1_4: sha256:a70dc735d72cef1097e750ee8e6b555efddb8a229e9fcfadb1e1c1b0c34e3804
+docker: quay.io/biocontainers/migrate-n
+aliases:
+  migrate-n: /usr/local/bin/migrate-n
+  migrate-n-mpi: /usr/local/bin/migrate-n-mpi
+  oshCC: /usr/local/bin/oshCC
+  oshc++: /usr/local/bin/oshc++
+  oshcxx: /usr/local/bin/oshcxx
+  shmemCC: /usr/local/bin/shmemCC
+  shmemc++: /usr/local/bin/shmemc++
+  shmemcxx: /usr/local/bin/shmemcxx
+  oshcc: /usr/local/bin/oshcc
+  oshfort: /usr/local/bin/oshfort
+  oshmem_info: /usr/local/bin/oshmem_info
+  oshrun: /usr/local/bin/oshrun
+  shmemcc: /usr/local/bin/shmemcc
+  shmemfort: /usr/local/bin/shmemfort
+  shmemrun: /usr/local/bin/shmemrun
+  aggregate_profile.pl: /usr/local/bin/aggregate_profile.pl
+  profile2mat.pl: /usr/local/bin/profile2mat.pl
+  mpiCC: /usr/local/bin/mpiCC
+  ompi-clean: /usr/local/bin/ompi-clean
+  ompi-server: /usr/local/bin/ompi-server
+  ompi_info: /usr/local/bin/ompi_info
+  opal_wrapper: /usr/local/bin/opal_wrapper
+  orte-clean: /usr/local/bin/orte-clean
+  orte-info: /usr/local/bin/orte-info
+  orte-server: /usr/local/bin/orte-server
+  ortecc: /usr/local/bin/ortecc
+  orted: /usr/local/bin/orted

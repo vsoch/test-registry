@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-moda
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-moda
+latest:
+  1.8.0--r351_0: sha256:962bc57acd9cd1a43034297819db9c3d9987871dd1762916aad10ce695df775c
+tags:
+  1.8.0--r351_0: sha256:962bc57acd9cd1a43034297819db9c3d9987871dd1762916aad10ce695df775c
+docker: quay.io/biocontainers/bioconductor-moda
+aliases:
+  wget: /usr/local/bin/wget
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

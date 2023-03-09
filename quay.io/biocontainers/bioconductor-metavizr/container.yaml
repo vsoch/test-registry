@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-metavizr
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-metavizr
+latest:
+  1.8.0--r36_1: sha256:28b1a334059b5d607da3b6a04189cb8033b8d87d78e567cf4abb650bba9a8cc5
+tags:
+  1.8.0--r36_1: sha256:28b1a334059b5d607da3b6a04189cb8033b8d87d78e567cf4abb650bba9a8cc5
+docker: quay.io/biocontainers/bioconductor-metavizr
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

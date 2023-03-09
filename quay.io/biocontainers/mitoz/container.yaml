@@ -1,0 +1,68 @@
+url: https://biocontainers.pro/tools/mitoz
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for mitoz
+latest:
+  3.5--pypl5321hdfd78af_0: sha256:19a0070bc18537fd73ea3327709cab94e978aeb0f0bd6bf03a4a896f23b8e589
+tags:
+  3.5--pypl5321hdfd78af_0: sha256:19a0070bc18537fd73ea3327709cab94e978aeb0f0bd6bf03a4a896f23b8e589
+docker: quay.io/biocontainers/mitoz
+aliases:
+  TMalign: /usr/local/bin/TMalign
+  coronaspades.py: /usr/local/bin/coronaspades.py
+  dba: /usr/local/bin/dba
+  dnal: /usr/local/bin/dnal
+  dumpsexp: /usr/local/bin/dumpsexp
+  estwise: /usr/local/bin/estwise
+  estwisedb: /usr/local/bin/estwisedb
+  genewise: /usr/local/bin/genewise
+  genewisedb: /usr/local/bin/genewisedb
+  gpg-error: /usr/local/bin/gpg-error
+  gpgrt-config: /usr/local/bin/gpgrt-config
+  hmac256: /usr/local/bin/hmac256
+  libgcrypt-config: /usr/local/bin/libgcrypt-config
+  make_pscores.pl: /usr/local/bin/make_pscores.pl
+  metaplasmidspades.py: /usr/local/bin/metaplasmidspades.py
+  metaviralspades.py: /usr/local/bin/metaviralspades.py
+  mitoz: /usr/local/bin/mitoz
+  mitoz-tools: /usr/local/bin/mitoz-tools
+  mpg123: /usr/local/bin/mpg123
+  mpg123-id3dump: /usr/local/bin/mpg123-id3dump
+  mpg123-strip: /usr/local/bin/mpg123-strip
+  mpicalc: /usr/local/bin/mpicalc
+  orc-bugreport: /usr/local/bin/orc-bugreport
+  orcc: /usr/local/bin/orcc
+  out123: /usr/local/bin/out123
+  pl2bat.pl: /usr/local/bin/pl2bat.pl
+  poa: /usr/local/bin/poa
+  promoterwise: /usr/local/bin/promoterwise
+  psw: /usr/local/bin/psw
+  pswdb: /usr/local/bin/pswdb
+  rnaviralspades.py: /usr/local/bin/rnaviralspades.py
+  scanwise: /usr/local/bin/scanwise
+  scanwise_server: /usr/local/bin/scanwise_server
+  yat2m: /usr/local/bin/yat2m
+  hmmc2: /usr/local/bin/hmmc2
+  hmmerfm-exactmatch: /usr/local/bin/hmmerfm-exactmatch
+  lame: /usr/local/bin/lame
+  RNAmultifold: /usr/local/bin/RNAmultifold
+  circos: /usr/local/bin/circos
+  circos.exe: /usr/local/bin/circos.exe
+  compile.bat: /usr/local/bin/compile.bat
+  compile.make: /usr/local/bin/compile.make
+  gddiag: /usr/local/bin/gddiag
+  list.modules: /usr/local/bin/list.modules
+  test.modules: /usr/local/bin/test.modules
+  clustalo: /usr/local/bin/clustalo
+  sip-build: /usr/local/bin/sip-build
+  sip-distinfo: /usr/local/bin/sip-distinfo
+  sip-install: /usr/local/bin/sip-install
+  sip-module: /usr/local/bin/sip-module
+  sip-sdist: /usr/local/bin/sip-sdist
+  sip-wheel: /usr/local/bin/sip-wheel
+  attr: /usr/local/bin/attr
+  balsam: /usr/local/bin/balsam
+  getfattr: /usr/local/bin/getfattr
+  jackd: /usr/local/bin/jackd
+  lprodump: /usr/local/bin/lprodump
+  lrelease-pro: /usr/local/bin/lrelease-pro
+  lupdate-pro: /usr/local/bin/lupdate-pro

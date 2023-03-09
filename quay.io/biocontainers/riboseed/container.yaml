@@ -1,0 +1,54 @@
+url: https://biocontainers.pro/tools/riboseed
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for riboseed
+latest:
+  0.4.90--py_0: sha256:fa2228d3f952cb968f6a09de4ce144055037b9cbf4834bce17861eadcaa045ec
+tags:
+  0.4.90--py_0: sha256:fa2228d3f952cb968f6a09de4ce144055037b9cbf4834bce17861eadcaa045ec
+docker: quay.io/biocontainers/riboseed
+aliases:
+  bwa-spades: /usr/local/bin/bwa-spades
+  corrector: /usr/local/bin/corrector
+  dipspades: /usr/local/bin/dipspades
+  dipspades.py: /usr/local/bin/dipspades.py
+  hammer: /usr/local/bin/hammer
+  icarus.py: /usr/local/bin/icarus.py
+  ionhammer: /usr/local/bin/ionhammer
+  metaquast: /usr/local/bin/metaquast
+  metaquast.py: /usr/local/bin/metaquast.py
+  quast: /usr/local/bin/quast
+  quast-download-busco: /usr/local/bin/quast-download-busco
+  quast-download-gridss: /usr/local/bin/quast-download-gridss
+  quast-download-silva: /usr/local/bin/quast-download-silva
+  quast-lg.py: /usr/local/bin/quast-lg.py
+  quast.py: /usr/local/bin/quast.py
+  ribo: /usr/local/bin/ribo
+  scaffold_correction: /usr/local/bin/scaffold_correction
+  seedRand.py: /usr/local/bin/seedRand.py
+  skesa: /usr/local/bin/skesa
+  spades: /usr/local/bin/spades
+  glimmerhmm: /usr/local/bin/glimmerhmm
+  glimmhmm.pl: /usr/local/bin/glimmhmm.pl
+  prank: /usr/local/bin/prank
+  trainGlimmerHMM: /usr/local/bin/trainGlimmerHMM
+  blast_report: /usr/local/bin/blast_report
+  blastdb_convert: /usr/local/bin/blastdb_convert
+  blastdb_path: /usr/local/bin/blastdb_path
+  circos: /usr/local/bin/circos
+  circos.exe: /usr/local/bin/circos.exe
+  compile.bat: /usr/local/bin/compile.bat
+  compile.make: /usr/local/bin/compile.make
+  coverage: /usr/local/bin/coverage
+  gddiag: /usr/local/bin/gddiag
+  list.modules: /usr/local/bin/list.modules
+  test.modules: /usr/local/bin/test.modules
+  giffilter: /usr/local/bin/giffilter
+  gifsponge: /usr/local/bin/gifsponge
+  certtool: /usr/local/bin/certtool
+  gnutls-cli: /usr/local/bin/gnutls-cli
+  gnutls-cli-debug: /usr/local/bin/gnutls-cli-debug
+  gnutls-serv: /usr/local/bin/gnutls-serv
+  nettle-hash: /usr/local/bin/nettle-hash
+  nettle-lfib-stream: /usr/local/bin/nettle-lfib-stream
+  nettle-pbkdf2: /usr/local/bin/nettle-pbkdf2
+  ocsptool: /usr/local/bin/ocsptool

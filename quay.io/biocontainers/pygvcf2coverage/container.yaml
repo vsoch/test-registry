@@ -1,0 +1,26 @@
+url: https://biocontainers.pro/tools/pygvcf2coverage
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pygvcf2coverage
+latest:
+  0.2--py_0: sha256:d61a128c38d272c93c79107a44c78123f965cb2680cca08ad88d055c8cfc4e4d
+tags:
+  0.2--py_0: sha256:d61a128c38d272c93c79107a44c78123f965cb2680cca08ad88d055c8cfc4e4d
+docker: quay.io/biocontainers/pygvcf2coverage
+aliases:
+  pygvcf2coverage: /usr/local/bin/pygvcf2coverage
+  cyvcf2: /usr/local/bin/cyvcf2
+  coloredlogs: /usr/local/bin/coloredlogs
+  humanfriendly: /usr/local/bin/humanfriendly
+  f2py3.7: /usr/local/bin/f2py3.7
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  htsfile: /usr/local/bin/htsfile
+  bgzip: /usr/local/bin/bgzip
+  tabix: /usr/local/bin/tabix
+  pyvenv: /usr/local/bin/pyvenv

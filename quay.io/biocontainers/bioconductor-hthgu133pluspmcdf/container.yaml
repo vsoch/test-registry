@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-hthgu133pluspmcdf
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-hthgu133pluspmcdf
+latest:
+  2.18.0--r41hdfd78af_9: sha256:b943f9867fdaca1e137136c11ac2cf2065dbde468d200823cb08194d7ea5742a
+tags:
+  2.18.0--r41hdfd78af_9: sha256:b943f9867fdaca1e137136c11ac2cf2065dbde468d200823cb08194d7ea5742a
+docker: quay.io/biocontainers/bioconductor-hthgu133pluspmcdf

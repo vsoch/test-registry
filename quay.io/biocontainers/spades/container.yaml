@@ -1,0 +1,32 @@
+url: https://biocontainers.pro/tools/spades
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for spades
+latest:
+  3.9.1--h9ee0642_1: sha256:fd23ddfae841eb045747193287761e61c8874e970c621803f22e9be936c2c2ab
+tags:
+  3.9.1--h9ee0642_1: sha256:fd23ddfae841eb045747193287761e61c8874e970c621803f22e9be936c2c2ab
+docker: quay.io/biocontainers/spades
+aliases:
+  bwa-spades: /usr/local/bin/bwa-spades
+  corrector: /usr/local/bin/corrector
+  dipspades: /usr/local/bin/dipspades
+  dipspades.py: /usr/local/bin/dipspades.py
+  hammer: /usr/local/bin/hammer
+  ionhammer: /usr/local/bin/ionhammer
+  metaspades.py: /usr/local/bin/metaspades.py
+  plasmidspades.py: /usr/local/bin/plasmidspades.py
+  rnaspades.py: /usr/local/bin/rnaspades.py
+  scaffold_correction: /usr/local/bin/scaffold_correction
+  spades: /usr/local/bin/spades
+  spades.py: /usr/local/bin/spades.py
+  spades_init.py: /usr/local/bin/spades_init.py
+  truspades.py: /usr/local/bin/truspades.py
+  2to3-3.5: /usr/local/bin/2to3-3.5
+  idle3.5: /usr/local/bin/idle3.5
+  pydoc3.5: /usr/local/bin/pydoc3.5
+  python3.5: /usr/local/bin/python3.5
+  python3.5-config: /usr/local/bin/python3.5-config
+  python3.5m: /usr/local/bin/python3.5m
+  python3.5m-config: /usr/local/bin/python3.5m-config
+  pyvenv-3.5: /usr/local/bin/pyvenv-3.5
+  pyvenv: /usr/local/bin/pyvenv

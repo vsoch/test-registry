@@ -1,0 +1,29 @@
+url: https://biocontainers.pro/tools/ncbimeta
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ncbimeta
+latest:
+  0.8.3--pyhdfd78af_0: "crane digest quay.io/biocontainers/ncbimeta:0.8.3--pyhdfd78af_0:\
+    \ unsupported status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML\
+    \ 3.2 Final//EN\">\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You\
+    \ should be redirected automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+tags:
+  0.8.3--pyhdfd78af_0: "crane digest quay.io/biocontainers/ncbimeta:0.8.3--pyhdfd78af_0:\
+    \ unsupported status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML\
+    \ 3.2 Final//EN\">\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You\
+    \ should be redirected automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+docker: quay.io/biocontainers/ncbimeta
+aliases:
+  NCBImeta: /usr/local/bin/NCBImeta
+  NCBImetaAnnotate: /usr/local/bin/NCBImetaAnnotate
+  NCBImetaExport: /usr/local/bin/NCBImetaExport
+  NCBImetaJoin: /usr/local/bin/NCBImetaJoin
+  xslt-config: /usr/local/bin/xslt-config
+  xsltproc: /usr/local/bin/xsltproc
+  f2py3.9: /usr/local/bin/f2py3.9
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config

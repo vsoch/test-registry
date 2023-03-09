@@ -1,0 +1,15 @@
+url: https://biocontainers.pro/tools/convert_zero_one_based
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for convert_zero_one_based
+latest:
+  0.0.1--py_1: sha256:913506f1e34ba715850487940e3a92d1f7ad76f0ba742320dfa830dab8bfdb53
+tags:
+  0.0.1--py_1: sha256:913506f1e34ba715850487940e3a92d1f7ad76f0ba742320dfa830dab8bfdb53
+docker: quay.io/biocontainers/convert_zero_one_based
+aliases:
+  convert_zero_one_based: /usr/local/bin/convert_zero_one_based
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config

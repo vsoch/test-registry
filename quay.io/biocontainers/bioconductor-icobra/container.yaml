@@ -1,0 +1,11 @@
+url: https://biocontainers.pro/tools/bioconductor-icobra
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-icobra
+latest:
+  1.8.0--r341_0: sha256:4464bbc7059ba1af906216dab9582c5c7b568c212bce2f6715d7251948fc38c9
+tags:
+  1.8.0--r341_0: sha256:4464bbc7059ba1af906216dab9582c5c7b568c212bce2f6715d7251948fc38c9
+docker: quay.io/biocontainers/bioconductor-icobra
+aliases:
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config

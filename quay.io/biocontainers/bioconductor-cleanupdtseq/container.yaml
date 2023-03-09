@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-cleanupdtseq
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-cleanupdtseq
+latest:
+  1.32.0--r41hdfd78af_0: sha256:8591744f7f053f53dc7b21efa54f484f65ac3dbb4d6163cc563c34dea5e6d173
+tags:
+  1.32.0--r41hdfd78af_0: sha256:8591744f7f053f53dc7b21efa54f484f65ac3dbb4d6163cc563c34dea5e6d173
+docker: quay.io/biocontainers/bioconductor-cleanupdtseq

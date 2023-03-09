@@ -1,0 +1,52 @@
+url: https://biocontainers.pro/tools/freyja
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for freyja
+latest:
+  1.3.9--pyhdfd78af_0: sha256:d5a2f3350b27d0fbe1fcf26567a92512545d3ef99d31f0c52a9ddb42a6f8c225
+tags:
+  1.3.9--pyhdfd78af_0: sha256:d5a2f3350b27d0fbe1fcf26567a92512545d3ef99d31f0c52a9ddb42a6f8c225
+docker: quay.io/biocontainers/freyja
+aliases:
+  faToVcf: /usr/local/bin/faToVcf
+  fido2-assert: /usr/local/bin/fido2-assert
+  fido2-cred: /usr/local/bin/fido2-cred
+  fido2-token: /usr/local/bin/fido2-token
+  freyja: /usr/local/bin/freyja
+  ivar: /usr/local/bin/ivar
+  matOptimize: /usr/local/bin/matOptimize
+  matUtils: /usr/local/bin/matUtils
+  ripples: /usr/local/bin/ripples
+  scp: /usr/local/bin/scp
+  sftp: /usr/local/bin/sftp
+  ssh: /usr/local/bin/ssh
+  ssh-add: /usr/local/bin/ssh-add
+  ssh-agent: /usr/local/bin/ssh-agent
+  ssh-keygen: /usr/local/bin/ssh-keygen
+  ssh-keyscan: /usr/local/bin/ssh-keyscan
+  sshd: /usr/local/bin/sshd
+  usher: /usr/local/bin/usher
+  oshCC: /usr/local/bin/oshCC
+  oshc++: /usr/local/bin/oshc++
+  oshcxx: /usr/local/bin/oshcxx
+  shmemCC: /usr/local/bin/shmemCC
+  shmemc++: /usr/local/bin/shmemc++
+  shmemcxx: /usr/local/bin/shmemcxx
+  oshcc: /usr/local/bin/oshcc
+  oshfort: /usr/local/bin/oshfort
+  oshmem_info: /usr/local/bin/oshmem_info
+  oshrun: /usr/local/bin/oshrun
+  shmemcc: /usr/local/bin/shmemcc
+  shmemfort: /usr/local/bin/shmemfort
+  shmemrun: /usr/local/bin/shmemrun
+  igzip: /usr/local/bin/igzip
+  aggregate_profile.pl: /usr/local/bin/aggregate_profile.pl
+  profile2mat.pl: /usr/local/bin/profile2mat.pl
+  mpiCC: /usr/local/bin/mpiCC
+  ompi-clean: /usr/local/bin/ompi-clean
+  ompi-server: /usr/local/bin/ompi-server
+  ompi_info: /usr/local/bin/ompi_info
+  opal_wrapper: /usr/local/bin/opal_wrapper
+  orte-clean: /usr/local/bin/orte-clean
+  orte-info: /usr/local/bin/orte-info
+  orte-server: /usr/local/bin/orte-server
+  ortecc: /usr/local/bin/ortecc

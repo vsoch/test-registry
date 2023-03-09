@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/fastq-screen
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for fastq-screen
+latest:
+  0.5.2--1: sha256:185edd8b53542a657ebe4e4a90a0ad949c25abe10392c8859729a60c7c71ac55
+tags:
+  0.5.2--1: sha256:185edd8b53542a657ebe4e4a90a0ad949c25abe10392c8859729a60c7c71ac55
+docker: quay.io/biocontainers/fastq-screen
+aliases:
+  bdf2gdfont.PLS: /usr/local/bin/bdf2gdfont.PLS
+  cvtbdf.pl: /usr/local/bin/cvtbdf.pl
+  fastq_screen: /usr/local/bin/fastq_screen
+  bowtie-align-l: /usr/local/bin/bowtie-align-l
+  bowtie-align-s: /usr/local/bin/bowtie-align-s
+  bowtie-build-l: /usr/local/bin/bowtie-build-l
+  bowtie-build-s: /usr/local/bin/bowtie-build-s
+  bowtie-inspect-l: /usr/local/bin/bowtie-inspect-l
+  bowtie-inspect-s: /usr/local/bin/bowtie-inspect-s
+  bowtie: /usr/local/bin/bowtie
+  bowtie-build: /usr/local/bin/bowtie-build
+  bowtie-inspect: /usr/local/bin/bowtie-inspect
+  gdlib-config: /usr/local/bin/gdlib-config
+  perl5.22.0: /usr/local/bin/perl5.22.0
+  c2ph: /usr/local/bin/c2ph
+  pstruct: /usr/local/bin/pstruct
+  easy_install-3.5: /usr/local/bin/easy_install-3.5
+  bdf2gdfont.pl: /usr/local/bin/bdf2gdfont.pl
+  pngcp: /usr/local/bin/pngcp
+  bowtie2: /usr/local/bin/bowtie2
+  bowtie2-align-l: /usr/local/bin/bowtie2-align-l
+  bowtie2-align-s: /usr/local/bin/bowtie2-align-s
+  bowtie2-build: /usr/local/bin/bowtie2-build
+  bowtie2-build-l: /usr/local/bin/bowtie2-build-l
+  bowtie2-build-s: /usr/local/bin/bowtie2-build-s
+  bowtie2-inspect: /usr/local/bin/bowtie2-inspect
+  bowtie2-inspect-l: /usr/local/bin/bowtie2-inspect-l
+  bowtie2-inspect-s: /usr/local/bin/bowtie2-inspect-s

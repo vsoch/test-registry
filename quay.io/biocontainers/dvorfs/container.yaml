@@ -1,0 +1,56 @@
+url: https://biocontainers.pro/tools/dvorfs
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for dvorfs
+latest:
+  1.0.1--pyhdfd78af_0: sha256:32cd4ae9df453f3c687b7a9aa7bf9491752711c940fa60f2cb720399b529e37f
+tags:
+  1.0.1--pyhdfd78af_0: sha256:32cd4ae9df453f3c687b7a9aa7bf9491752711c940fa60f2cb720399b529e37f
+docker: quay.io/biocontainers/dvorfs
+aliases:
+  dba: /usr/local/bin/dba
+  dnal: /usr/local/bin/dnal
+  dvorfs: /usr/local/bin/dvorfs
+  estwise: /usr/local/bin/estwise
+  estwisedb: /usr/local/bin/estwisedb
+  genewise: /usr/local/bin/genewise
+  genewisedb: /usr/local/bin/genewisedb
+  hmmalign2: /usr/local/bin/hmmalign2
+  hmmbuild2: /usr/local/bin/hmmbuild2
+  hmmcalibrate2: /usr/local/bin/hmmcalibrate2
+  hmmconvert2: /usr/local/bin/hmmconvert2
+  hmmemit2: /usr/local/bin/hmmemit2
+  hmmfetch2: /usr/local/bin/hmmfetch2
+  hmmindex2: /usr/local/bin/hmmindex2
+  hmmpfam2: /usr/local/bin/hmmpfam2
+  hmmsearch2: /usr/local/bin/hmmsearch2
+  process-genewise: /usr/local/bin/process-genewise
+  promoterwise: /usr/local/bin/promoterwise
+  psw: /usr/local/bin/psw
+  pswdb: /usr/local/bin/pswdb
+  scanwise: /usr/local/bin/scanwise
+  scanwise_server: /usr/local/bin/scanwise_server
+  xmlget: /usr/local/bin/xmlget
+  xmltext: /usr/local/bin/xmltext
+  aaindexextract: /usr/local/bin/aaindexextract
+  abiview: /usr/local/bin/abiview
+  acdc: /usr/local/bin/acdc
+  acdgalaxy: /usr/local/bin/acdgalaxy
+  acdlog: /usr/local/bin/acdlog
+  acdpretty: /usr/local/bin/acdpretty
+  acdtable: /usr/local/bin/acdtable
+  acdtrace: /usr/local/bin/acdtrace
+  acdvalid: /usr/local/bin/acdvalid
+  aligncopy: /usr/local/bin/aligncopy
+  aligncopypair: /usr/local/bin/aligncopypair
+  antigenic: /usr/local/bin/antigenic
+  assemblyget: /usr/local/bin/assemblyget
+  backtranambig: /usr/local/bin/backtranambig
+  backtranseq: /usr/local/bin/backtranseq
+  banana: /usr/local/bin/banana
+  biosed: /usr/local/bin/biosed
+  btwisted: /usr/local/bin/btwisted
+  cachedas: /usr/local/bin/cachedas
+  cachedbfetch: /usr/local/bin/cachedbfetch
+  cacheebeyesearch: /usr/local/bin/cacheebeyesearch
+  cacheensembl: /usr/local/bin/cacheensembl
+  chaos: /usr/local/bin/chaos

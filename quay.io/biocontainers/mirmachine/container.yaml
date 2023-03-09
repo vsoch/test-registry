@@ -1,0 +1,51 @@
+url: https://biocontainers.pro/tools/mirmachine
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for mirmachine
+latest:
+  0.2.11.2022--pyhdfd78af_0: sha256:401cdcd5fbc7c0065a7e3b18749252bf033370089fead42299f68f8c520b2dc7
+tags:
+  0.2.11.2022--pyhdfd78af_0: sha256:401cdcd5fbc7c0065a7e3b18749252bf033370089fead42299f68f8c520b2dc7
+docker: quay.io/biocontainers/mirmachine
+aliases:
+  MirMachine.py: /usr/local/bin/MirMachine.py
+  chronic: /usr/local/bin/chronic
+  combine: /usr/local/bin/combine
+  errno: /usr/local/bin/errno
+  gff_sort_and_compete.sh: /usr/local/bin/gff_sort_and_compete.sh
+  ifdata: /usr/local/bin/ifdata
+  ifne: /usr/local/bin/ifne
+  isutf8: /usr/local/bin/isutf8
+  lckdo: /usr/local/bin/lckdo
+  mirmachine-tree-parser.py: /usr/local/bin/mirmachine-tree-parser.py
+  mispipe: /usr/local/bin/mispipe
+  pee: /usr/local/bin/pee
+  sponge: /usr/local/bin/sponge
+  ts: /usr/local/bin/ts
+  vidir: /usr/local/bin/vidir
+  vipe: /usr/local/bin/vipe
+  zrun: /usr/local/bin/zrun
+  yte: /usr/local/bin/yte
+  plac_runner.py: /usr/local/bin/plac_runner.py
+  cmalign: /usr/local/bin/cmalign
+  cmbuild: /usr/local/bin/cmbuild
+  cmcalibrate: /usr/local/bin/cmcalibrate
+  cmconvert: /usr/local/bin/cmconvert
+  cmemit: /usr/local/bin/cmemit
+  cmfetch: /usr/local/bin/cmfetch
+  cmpress: /usr/local/bin/cmpress
+  cmscan: /usr/local/bin/cmscan
+  cmsearch: /usr/local/bin/cmsearch
+  cmstat: /usr/local/bin/cmstat
+  cmark: /usr/local/bin/cmark
+  gawk-5.1.0: /usr/local/bin/gawk-5.1.0
+  pulptest: /usr/local/bin/pulptest
+  cbc: /usr/local/bin/cbc
+  awk: /usr/local/bin/awk
+  clp: /usr/local/bin/clp
+  gawk: /usr/local/bin/gawk
+  basenc: /usr/local/bin/basenc
+  b2sum: /usr/local/bin/b2sum
+  ls: /usr/local/bin/ls
+  base32: /usr/local/bin/base32
+  base64: /usr/local/bin/base64
+  basename: /usr/local/bin/basename

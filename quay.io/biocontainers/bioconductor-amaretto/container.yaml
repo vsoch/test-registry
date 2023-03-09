@@ -1,0 +1,11 @@
+url: https://biocontainers.pro/tools/bioconductor-amaretto
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-amaretto
+latest:
+  1.8.0--r41h399db7b_0: sha256:49355276bdea97b7e66499fe76661ebe36d729e51f05642cbb6f6e54279a198b
+tags:
+  1.8.0--r41h399db7b_0: sha256:49355276bdea97b7e66499fe76661ebe36d729e51f05642cbb6f6e54279a198b
+docker: quay.io/biocontainers/bioconductor-amaretto
+aliases:
+  pandoc: /usr/local/bin/pandoc
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

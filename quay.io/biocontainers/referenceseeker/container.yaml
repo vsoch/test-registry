@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/referenceseeker
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for referenceseeker
+latest:
+  1.8.0--pyhdfd78af_0: sha256:a350dac172356cc3f9720f6f8ed9610662a84b9247ad7f01c2fa4153aa4dfabb
+tags:
+  1.8.0--pyhdfd78af_0: sha256:a350dac172356cc3f9720f6f8ed9610662a84b9247ad7f01c2fa4153aa4dfabb
+docker: quay.io/biocontainers/referenceseeker
+aliases:
+  referenceseeker: /usr/local/bin/referenceseeker
+  referenceseeker_db: /usr/local/bin/referenceseeker_db
+  delta2vcf: /usr/local/bin/delta2vcf
+  capnp: /usr/local/bin/capnp
+  capnpc: /usr/local/bin/capnpc
+  capnpc-c++: /usr/local/bin/capnpc-c++
+  capnpc-capnp: /usr/local/bin/capnpc-capnp
+  mash: /usr/local/bin/mash
+  combineMUMs: /usr/local/bin/combineMUMs
+  delta-filter: /usr/local/bin/delta-filter
+  dnadiff: /usr/local/bin/dnadiff
+  exact-tandems: /usr/local/bin/exact-tandems
+  mummer: /usr/local/bin/mummer
+  mummerplot: /usr/local/bin/mummerplot
+  nucmer: /usr/local/bin/nucmer
+  promer: /usr/local/bin/promer
+  repeat-match: /usr/local/bin/repeat-match
+  show-aligns: /usr/local/bin/show-aligns
+  show-coords: /usr/local/bin/show-coords
+  show-diff: /usr/local/bin/show-diff
+  show-snps: /usr/local/bin/show-snps
+  show-tiling: /usr/local/bin/show-tiling
+  igzip: /usr/local/bin/igzip
+  pbunzip2: /usr/local/bin/pbunzip2
+  pbzcat: /usr/local/bin/pbzcat
+  pbzip2: /usr/local/bin/pbzip2
+  pigz: /usr/local/bin/pigz

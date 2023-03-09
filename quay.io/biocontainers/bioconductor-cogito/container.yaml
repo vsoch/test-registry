@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-cogito
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-cogito
+latest:
+  1.0.0--r41hdfd78af_0: sha256:a7e1aaae7f25d70c9e4d46e347855bff1e5ffac979d6a51e39b032cdbd3ee085
+tags:
+  1.0.0--r41hdfd78af_0: sha256:a7e1aaae7f25d70c9e4d46e347855bff1e5ffac979d6a51e39b032cdbd3ee085
+docker: quay.io/biocontainers/bioconductor-cogito
+aliases:
+  pandoc: /usr/local/bin/pandoc

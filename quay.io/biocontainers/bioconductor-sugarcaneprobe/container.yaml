@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-sugarcaneprobe
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-sugarcaneprobe
+latest:
+  2.18.0--r41hdfd78af_9: sha256:53f28be5637da45715f7653550687debb1df806a6a5481b9471d398dbb372abd
+tags:
+  2.18.0--r41hdfd78af_9: sha256:53f28be5637da45715f7653550687debb1df806a6a5481b9471d398dbb372abd
+docker: quay.io/biocontainers/bioconductor-sugarcaneprobe

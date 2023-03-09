@@ -1,0 +1,17 @@
+url: https://biocontainers.pro/tools/tendo
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for tendo
+latest:
+  0.3.0--pyh7cba7a3_0: sha256:1ac0d4aa9ce5cedc61ec0046cbdc57cfe465a7511082831d1f065dfb53896293
+tags:
+  0.3.0--pyh7cba7a3_0: sha256:1ac0d4aa9ce5cedc61ec0046cbdc57cfe465a7511082831d1f065dfb53896293
+docker: quay.io/biocontainers/tendo
+aliases:
+  pbr: /usr/local/bin/pbr
+  x86_64-conda_cos7-linux-gnu-ld: /usr/local/bin/x86_64-conda_cos7-linux-gnu-ld
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

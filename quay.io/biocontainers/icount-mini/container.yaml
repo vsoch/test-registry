@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/icount-mini
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for icount-mini
+latest:
+  2.0.3--pyh5e36f6f_0: sha256:9071849890d4ccaa35100215d3060529764919953267d47eeeec1234bd3e6da2
+tags:
+  2.0.3--pyh5e36f6f_0: sha256:9071849890d4ccaa35100215d3060529764919953267d47eeeec1234bd3e6da2
+docker: quay.io/biocontainers/icount-mini
+aliases:
+  iCount-Mini: /usr/local/bin/iCount-Mini
+  cutadapt: /usr/local/bin/cutadapt
+  sphinx-apidoc: /usr/local/bin/sphinx-apidoc
+  sphinx-autogen: /usr/local/bin/sphinx-autogen
+  sphinx-build: /usr/local/bin/sphinx-build
+  sphinx-quickstart: /usr/local/bin/sphinx-quickstart
+  pybabel: /usr/local/bin/pybabel
+  igzip: /usr/local/bin/igzip
+  pigz: /usr/local/bin/pigz
+  unpigz: /usr/local/bin/unpigz
+  rst2html4.py: /usr/local/bin/rst2html4.py
+  rst2html5.py: /usr/local/bin/rst2html5.py
+  rst2html.py: /usr/local/bin/rst2html.py
+  rst2latex.py: /usr/local/bin/rst2latex.py
+  rst2man.py: /usr/local/bin/rst2man.py
+  rst2odt.py: /usr/local/bin/rst2odt.py
+  rst2odt_prepstyles.py: /usr/local/bin/rst2odt_prepstyles.py
+  rst2pseudoxml.py: /usr/local/bin/rst2pseudoxml.py
+  rst2s5.py: /usr/local/bin/rst2s5.py
+  rst2xetex.py: /usr/local/bin/rst2xetex.py
+  rst2xml.py: /usr/local/bin/rst2xml.py
+  rstpep2html.py: /usr/local/bin/rstpep2html.py
+  pygmentize: /usr/local/bin/pygmentize
+  shiftBed: /usr/local/bin/shiftBed
+  annotateBed: /usr/local/bin/annotateBed
+  bamToBed: /usr/local/bin/bamToBed

@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-ragene11sttranscriptcluster.db
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-ragene11sttranscriptcluster.db
+latest:
+  8.8.0--r41hdfd78af_1: sha256:92df2c006287931614075cc75b5810d0c020b9ab2825d2ea70bde6394712882c
+tags:
+  8.8.0--r41hdfd78af_1: sha256:92df2c006287931614075cc75b5810d0c020b9ab2825d2ea70bde6394712882c
+docker: quay.io/biocontainers/bioconductor-ragene11sttranscriptcluster.db

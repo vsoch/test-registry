@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/perl-xml-namespacesupport
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for perl-xml-namespacesupport
+latest:
+  1.12--pl5321hdfd78af_1: 'crane digest quay.io/biocontainers/perl-xml-namespacesupport:1.12--pl5321hdfd78af_1:
+    unrecognized HTTP status: 502 Bad Gateway'
+tags:
+  1.12--pl5321hdfd78af_1: 'crane digest quay.io/biocontainers/perl-xml-namespacesupport:1.12--pl5321hdfd78af_1:
+    unrecognized HTTP status: 502 Bad Gateway'
+docker: quay.io/biocontainers/perl-xml-namespacesupport

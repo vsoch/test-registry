@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/perl-aceperl
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for perl-aceperl
+latest:
+  1.92--pl5321hec16e2b_4: 'crane digest quay.io/biocontainers/perl-aceperl:1.92--pl5321hec16e2b_4:
+    unrecognized HTTP status: 502 Bad Gateway'
+tags:
+  1.92--pl5321hec16e2b_4: 'crane digest quay.io/biocontainers/perl-aceperl:1.92--pl5321hec16e2b_4:
+    unrecognized HTTP status: 502 Bad Gateway'
+docker: quay.io/biocontainers/perl-aceperl
+aliases:
+  ace.pl: /usr/local/bin/ace.pl

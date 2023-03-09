@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-ragene10stprobeset.db
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-ragene10stprobeset.db
+latest:
+  8.8.0--r41hdfd78af_1: sha256:9877183c5b386e39f04b4705860ffe2ce2d75aee44d42b370178c907d1a4188d
+tags:
+  8.8.0--r41hdfd78af_1: sha256:9877183c5b386e39f04b4705860ffe2ce2d75aee44d42b370178c907d1a4188d
+docker: quay.io/biocontainers/bioconductor-ragene10stprobeset.db

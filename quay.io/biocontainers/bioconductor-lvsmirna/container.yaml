@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-lvsmirna
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-lvsmirna
+latest:
+  1.36.0--r36h516909a_0: sha256:6de008f3084413b53dff3b96ac43c89e2ca402cb91cb8f1b0ea6f4d414f0e29c
+tags:
+  1.36.0--r36h516909a_0: sha256:6de008f3084413b53dff3b96ac43c89e2ca402cb91cb8f1b0ea6f4d414f0e29c
+docker: quay.io/biocontainers/bioconductor-lvsmirna
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

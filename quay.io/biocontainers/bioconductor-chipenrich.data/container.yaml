@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-chipenrich.data
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-chipenrich.data
+latest:
+  2.8.0--r36_1: sha256:6178e60ed4d52731cf252cd73220232f85b4ee2451d28b48ef4c800a3a6c5d1b
+tags:
+  2.8.0--r36_1: sha256:6178e60ed4d52731cf252cd73220232f85b4ee2451d28b48ef4c800a3a6c5d1b
+docker: quay.io/biocontainers/bioconductor-chipenrich.data
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

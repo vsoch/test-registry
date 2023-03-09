@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/rmats2sashimiplot
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for rmats2sashimiplot
+latest:
+  2.0.4--py27h21c881e_2: sha256:f9847503f54c249ec84ff20cd23184f93da09be654c6745d951860b3485b31c5
+tags:
+  2.0.4--py27h21c881e_2: sha256:f9847503f54c249ec84ff20cd23184f93da09be654c6745d951860b3485b31c5
+docker: quay.io/biocontainers/rmats2sashimiplot
+aliases:
+  index_gff: /usr/local/bin/index_gff
+  rmats2sashimiplot: /usr/local/bin/rmats2sashimiplot
+  sashimi_plot: /usr/local/bin/sashimi_plot
+  f2py2: /usr/local/bin/f2py2
+  f2py2.7: /usr/local/bin/f2py2.7
+  shiftBed: /usr/local/bin/shiftBed
+  annotateBed: /usr/local/bin/annotateBed
+  bamToBed: /usr/local/bin/bamToBed
+  bamToFastq: /usr/local/bin/bamToFastq
+  bed12ToBed6: /usr/local/bin/bed12ToBed6
+  bedToBam: /usr/local/bin/bedToBam
+  bedToIgv: /usr/local/bin/bedToIgv
+  bedpeToBam: /usr/local/bin/bedpeToBam
+  bedtools: /usr/local/bin/bedtools
+  closestBed: /usr/local/bin/closestBed
+  clusterBed: /usr/local/bin/clusterBed
+  complementBed: /usr/local/bin/complementBed
+  coverageBed: /usr/local/bin/coverageBed
+  expandCols: /usr/local/bin/expandCols
+  fastaFromBed: /usr/local/bin/fastaFromBed
+  flankBed: /usr/local/bin/flankBed
+  genomeCoverageBed: /usr/local/bin/genomeCoverageBed
+  getOverlap: /usr/local/bin/getOverlap
+  groupBy: /usr/local/bin/groupBy
+  intersectBed: /usr/local/bin/intersectBed
+  linksBed: /usr/local/bin/linksBed
+  mapBed: /usr/local/bin/mapBed
+  maskFastaFromBed: /usr/local/bin/maskFastaFromBed

@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/sis
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for sis
+latest:
+  0.1.2--py_3: sha256:6db3656db5e8d810254f9b05c69069ede3e5c5aab1f20ed3c7e61b0928388d8e
+tags:
+  0.1.2--py_3: sha256:6db3656db5e8d810254f9b05c69069ede3e5c5aab1f20ed3c7e61b0928388d8e
+docker: quay.io/biocontainers/sis
+aliases:
+  multifasta.py: /usr/local/bin/multifasta.py
+  sis.py: /usr/local/bin/sis.py
+  mapview: /usr/local/bin/mapview
+  mgaps: /usr/local/bin/mgaps
+  run-mummer1: /usr/local/bin/run-mummer1
+  run-mummer3: /usr/local/bin/run-mummer3
+  combineMUMs: /usr/local/bin/combineMUMs
+  delta-filter: /usr/local/bin/delta-filter
+  dnadiff: /usr/local/bin/dnadiff
+  exact-tandems: /usr/local/bin/exact-tandems
+  mummer: /usr/local/bin/mummer
+  mummerplot: /usr/local/bin/mummerplot
+  nucmer: /usr/local/bin/nucmer
+  promer: /usr/local/bin/promer
+  repeat-match: /usr/local/bin/repeat-match
+  show-aligns: /usr/local/bin/show-aligns
+  show-coords: /usr/local/bin/show-coords
+  show-diff: /usr/local/bin/show-diff
+  show-snps: /usr/local/bin/show-snps
+  show-tiling: /usr/local/bin/show-tiling
+  perl5.26.2: /usr/local/bin/perl5.26.2
+  podselect: /usr/local/bin/podselect
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config

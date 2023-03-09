@@ -1,0 +1,28 @@
+url: https://biocontainers.pro/tools/chunked-scatter
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for chunked-scatter
+latest:
+  1.0.0--py_0: "crane digest quay.io/biocontainers/chunked-scatter:1.0.0--py_0: unsupported\
+    \ status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\"\
+    >\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You should be redirected\
+    \ automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+tags:
+  1.0.0--py_0: "crane digest quay.io/biocontainers/chunked-scatter:1.0.0--py_0: unsupported\
+    \ status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\"\
+    >\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You should be redirected\
+    \ automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+docker: quay.io/biocontainers/chunked-scatter
+aliases:
+  chunked-scatter: /usr/local/bin/chunked-scatter
+  scatter-regions: /usr/local/bin/scatter-regions
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  pyvenv: /usr/local/bin/pyvenv

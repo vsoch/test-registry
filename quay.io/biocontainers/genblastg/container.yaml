@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/genblastg
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for genblastg
+latest:
+  1.39--1: sha256:2f1f5f2632e46840f6e2a05470493e13b52c7a86e3a4b2b218793022162f4d38
+tags:
+  1.39--1: sha256:2f1f5f2632e46840f6e2a05470493e13b52c7a86e3a4b2b218793022162f4d38
+docker: quay.io/biocontainers/genblastg
+aliases:
+  genblastG: /usr/local/bin/genblastG
+  test_pcre: /usr/local/bin/test_pcre
+  blastdbcp: /usr/local/bin/blastdbcp
+  gene_info_reader: /usr/local/bin/gene_info_reader
+  seqdb_demo: /usr/local/bin/seqdb_demo
+  seqdb_perf: /usr/local/bin/seqdb_perf
+  seedtop: /usr/local/bin/seedtop
+  blast_formatter: /usr/local/bin/blast_formatter
+  blastdb_aliastool: /usr/local/bin/blastdb_aliastool
+  blastdbcheck: /usr/local/bin/blastdbcheck
+  blastdbcmd: /usr/local/bin/blastdbcmd
+  blastn: /usr/local/bin/blastn
+  blastp: /usr/local/bin/blastp
+  blastx: /usr/local/bin/blastx
+  convert2blastmask: /usr/local/bin/convert2blastmask
+  datatool: /usr/local/bin/datatool
+  deltablast: /usr/local/bin/deltablast
+  dustmasker: /usr/local/bin/dustmasker
+  legacy_blast.pl: /usr/local/bin/legacy_blast.pl
+  makembindex: /usr/local/bin/makembindex
+  makeprofiledb: /usr/local/bin/makeprofiledb
+  project_tree_builder: /usr/local/bin/project_tree_builder
+  psiblast: /usr/local/bin/psiblast
+  rpstblastn: /usr/local/bin/rpstblastn
+  segmasker: /usr/local/bin/segmasker
+  tblastn: /usr/local/bin/tblastn

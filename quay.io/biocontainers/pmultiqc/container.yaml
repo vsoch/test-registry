@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/pmultiqc
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pmultiqc
+latest:
+  0.0.9--pyhdfd78af_0: sha256:5a090cd18ad36694211f29ff1102d887b5404596ae3009e39a8b8cec8b4bde4a
+tags:
+  0.0.9--pyhdfd78af_0: sha256:5a090cd18ad36694211f29ff1102d887b5404596ae3009e39a8b8cec8b4bde4a
+docker: quay.io/biocontainers/pmultiqc
+aliases:
+  parse_sdrf: /usr/local/bin/parse_sdrf
+  multiqc: /usr/local/bin/multiqc
+  cmark: /usr/local/bin/cmark
+  coloredlogs: /usr/local/bin/coloredlogs
+  humanfriendly: /usr/local/bin/humanfriendly
+  markdown_py: /usr/local/bin/markdown_py
+  py.test: /usr/local/bin/py.test
+  pytest: /usr/local/bin/pytest
+  pygmentize: /usr/local/bin/pygmentize
+  futurize: /usr/local/bin/futurize
+  pasteurize: /usr/local/bin/pasteurize
+  xslt-config: /usr/local/bin/xslt-config
+  xsltproc: /usr/local/bin/xsltproc
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  chardetect: /usr/local/bin/chardetect
+  brotli: /usr/local/bin/brotli
+  f2py3.10: /usr/local/bin/f2py3.10
+  opj_compress: /usr/local/bin/opj_compress
+  opj_decompress: /usr/local/bin/opj_decompress
+  opj_dump: /usr/local/bin/opj_dump
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10

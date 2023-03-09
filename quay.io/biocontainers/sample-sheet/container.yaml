@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/sample-sheet
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for sample-sheet
+latest:
+  0.9.4--py_0: sha256:a8da80e55e8585bc6ae1299686364839bdf9d3b46fe92e1c7ff8257ee92ba42e
+tags:
+  0.9.4--py_0: sha256:a8da80e55e8585bc6ae1299686364839bdf9d3b46fe92e1c7ff8257ee92ba42e
+docker: quay.io/biocontainers/sample-sheet
+aliases:
+  sample-sheet: /usr/local/bin/sample-sheet
+  asadmin: /usr/local/bin/asadmin
+  bundle_image: /usr/local/bin/bundle_image
+  cfadmin: /usr/local/bin/cfadmin
+  cq: /usr/local/bin/cq
+  cwutil: /usr/local/bin/cwutil
+  dynamodb_dump: /usr/local/bin/dynamodb_dump
+  dynamodb_load: /usr/local/bin/dynamodb_load
+  elbadmin: /usr/local/bin/elbadmin
+  fetch_file: /usr/local/bin/fetch_file
+  glacier: /usr/local/bin/glacier
+  instance_events: /usr/local/bin/instance_events
+  kill_instance: /usr/local/bin/kill_instance
+  launch_instance: /usr/local/bin/launch_instance
+  list_instances: /usr/local/bin/list_instances
+  lss3: /usr/local/bin/lss3
+  mturk: /usr/local/bin/mturk
+  pyami_sendmail: /usr/local/bin/pyami_sendmail
+  route53: /usr/local/bin/route53
+  s3put: /usr/local/bin/s3put
+  sdbadmin: /usr/local/bin/sdbadmin
+  taskadmin: /usr/local/bin/taskadmin
+  jp.py: /usr/local/bin/jp.py
+  tabulate: /usr/local/bin/tabulate
+  rst2html4.py: /usr/local/bin/rst2html4.py
+  rst2html5.py: /usr/local/bin/rst2html5.py

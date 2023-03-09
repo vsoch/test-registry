@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/staphb_toolkit
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for staphb_toolkit
+latest:
+  2.0.0--pyhdfd78af_0: sha256:6d3b3371b8b029af19b919e842efc036cd74bf809f8a84a9aa027d8d25805ed0
+tags:
+  2.0.0--pyhdfd78af_0: sha256:6d3b3371b8b029af19b919e842efc036cd74bf809f8a84a9aa027d8d25805ed0
+docker: quay.io/biocontainers/staphb_toolkit
+aliases:
+  pyfiglet: /usr/local/bin/pyfiglet
+  pysemver: /usr/local/bin/pysemver
+  spython: /usr/local/bin/spython
+  staphb-tk: /usr/local/bin/staphb-tk
+  wsdump: /usr/local/bin/wsdump
+  cmark: /usr/local/bin/cmark
+  jpackage: /usr/local/bin/jpackage
+  cups-config: /usr/local/bin/cups-config
+  ippeveprinter: /usr/local/bin/ippeveprinter
+  ipptool: /usr/local/bin/ipptool
+  pygmentize: /usr/local/bin/pygmentize
+  futurize: /usr/local/bin/futurize
+  pasteurize: /usr/local/bin/pasteurize
+  normalizer: /usr/local/bin/normalizer
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd

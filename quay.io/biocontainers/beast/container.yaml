@@ -1,0 +1,40 @@
+url: https://biocontainers.pro/tools/beast
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for beast
+latest:
+  1.8.4--0: sha256:d84f6fe2fe5eb2ea703425045a5d5ab6aa7cb169398407176149ec26d1297645
+tags:
+  1.8.4--0: sha256:d84f6fe2fe5eb2ea703425045a5d5ab6aa7cb169398407176149ec26d1297645
+docker: quay.io/biocontainers/beast
+aliases:
+  beast: /usr/local/bin/beast
+  beauti: /usr/local/bin/beauti
+  loganalyser: /usr/local/bin/loganalyser
+  logcombiner: /usr/local/bin/logcombiner
+  treeannotator: /usr/local/bin/treeannotator
+  treestat: /usr/local/bin/treestat
+  extcheck: /usr/local/bin/extcheck
+  java-rmi.cgi: /usr/local/bin/java-rmi.cgi
+  javah: /usr/local/bin/javah
+  jhat: /usr/local/bin/jhat
+  jsadebugd: /usr/local/bin/jsadebugd
+  native2ascii: /usr/local/bin/native2ascii
+  policytool: /usr/local/bin/policytool
+  appletviewer: /usr/local/bin/appletviewer
+  idlj: /usr/local/bin/idlj
+  orbd: /usr/local/bin/orbd
+  schemagen: /usr/local/bin/schemagen
+  servertool: /usr/local/bin/servertool
+  tnameserv: /usr/local/bin/tnameserv
+  wsgen: /usr/local/bin/wsgen
+  wsimport: /usr/local/bin/wsimport
+  xjc: /usr/local/bin/xjc
+  libtoolize: /usr/local/bin/libtoolize
+  libtool: /usr/local/bin/libtool
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar

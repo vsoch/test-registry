@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/r-intego
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-intego
+latest:
+  2.0--r41h9ee0642_3: sha256:d515275f7baa3550f31f59481973e07e102057c910ace137763a2bb529733823
+tags:
+  2.0--r41h9ee0642_3: sha256:d515275f7baa3550f31f59481973e07e102057c910ace137763a2bb529733823
+docker: quay.io/biocontainers/r-intego
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

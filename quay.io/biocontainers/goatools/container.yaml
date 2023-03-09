@@ -1,0 +1,44 @@
+url: https://biocontainers.pro/tools/goatools
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for goatools
+latest:
+  1.2.3--pyh7cba7a3_2: sha256:945dd097fc598d527e8c8e6b1defef3d48d05deb0ca4e3bd0be73ab0a6768745
+tags:
+  1.2.3--pyh7cba7a3_2: sha256:945dd097fc598d527e8c8e6b1defef3d48d05deb0ca4e3bd0be73ab0a6768745
+docker: quay.io/biocontainers/goatools
+aliases:
+  compare_gos.py: /usr/local/bin/compare_gos.py
+  fetch_associations.py: /usr/local/bin/fetch_associations.py
+  find_enrichment.py: /usr/local/bin/find_enrichment.py
+  go_plot.py: /usr/local/bin/go_plot.py
+  map_to_slim.py: /usr/local/bin/map_to_slim.py
+  ncbi_gene_results_to_python.py: /usr/local/bin/ncbi_gene_results_to_python.py
+  plot_go_term.py: /usr/local/bin/plot_go_term.py
+  prt_terms.py: /usr/local/bin/prt_terms.py
+  wr_hier.py: /usr/local/bin/wr_hier.py
+  wr_sections.py: /usr/local/bin/wr_sections.py
+  vba_extract.py: /usr/local/bin/vba_extract.py
+  diffimg: /usr/local/bin/diffimg
+  delaunay: /usr/local/bin/delaunay
+  gts-config: /usr/local/bin/gts-config
+  gts2dxf: /usr/local/bin/gts2dxf
+  gts2oogl: /usr/local/bin/gts2oogl
+  gts2stl: /usr/local/bin/gts2stl
+  gtscheck: /usr/local/bin/gtscheck
+  gtscompare: /usr/local/bin/gtscompare
+  gtstemplate: /usr/local/bin/gtstemplate
+  stl2gts: /usr/local/bin/stl2gts
+  transform: /usr/local/bin/transform
+  rsvg-convert: /usr/local/bin/rsvg-convert
+  gtk-builder-convert: /usr/local/bin/gtk-builder-convert
+  gtk-demo: /usr/local/bin/gtk-demo
+  gtk-query-immodules-2.0: /usr/local/bin/gtk-query-immodules-2.0
+  gtk-update-icon-cache: /usr/local/bin/gtk-update-icon-cache
+  acyclic: /usr/local/bin/acyclic
+  bcomps: /usr/local/bin/bcomps
+  ccomps: /usr/local/bin/ccomps
+  circo: /usr/local/bin/circo
+  dijkstra: /usr/local/bin/dijkstra
+  dot: /usr/local/bin/dot
+  dot2gxl: /usr/local/bin/dot2gxl
+  dot_builtins: /usr/local/bin/dot_builtins

@@ -1,0 +1,13 @@
+url: https://biocontainers.pro/tools/bioconductor-flowploidy
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-flowploidy
+latest:
+  1.8.0--r351_0: sha256:98394452fa90e7614ed010b11cf07863bd9790d115db4046f0c352c69f6225fe
+tags:
+  1.8.0--r351_0: sha256:98394452fa90e7614ed010b11cf07863bd9790d115db4046f0c352c69f6225fe
+docker: quay.io/biocontainers/bioconductor-flowploidy
+aliases:
+  pandoc-citeproc: /usr/local/bin/pandoc-citeproc
+  pandoc: /usr/local/bin/pandoc
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

@@ -1,0 +1,29 @@
+url: https://biocontainers.pro/tools/abacas
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for abacas
+latest:
+  1.3.1--pl5321hdfd78af_2: sha256:18c1fd4874883f331b3578ec2448ab36ab213c156a863495debf8a8e956a83b2
+tags:
+  1.3.1--pl5321hdfd78af_2: sha256:18c1fd4874883f331b3578ec2448ab36ab213c156a863495debf8a8e956a83b2
+docker: quay.io/biocontainers/abacas
+aliases:
+  abacas.1.3.1.pl: /usr/local/bin/abacas.1.3.1.pl
+  abacas.pl: /usr/local/bin/abacas.pl
+  mapview: /usr/local/bin/mapview
+  mgaps: /usr/local/bin/mgaps
+  run-mummer1: /usr/local/bin/run-mummer1
+  run-mummer3: /usr/local/bin/run-mummer3
+  combineMUMs: /usr/local/bin/combineMUMs
+  delta-filter: /usr/local/bin/delta-filter
+  dnadiff: /usr/local/bin/dnadiff
+  exact-tandems: /usr/local/bin/exact-tandems
+  mummer: /usr/local/bin/mummer
+  mummerplot: /usr/local/bin/mummerplot
+  nucmer: /usr/local/bin/nucmer
+  promer: /usr/local/bin/promer
+  repeat-match: /usr/local/bin/repeat-match
+  show-aligns: /usr/local/bin/show-aligns
+  show-coords: /usr/local/bin/show-coords
+  show-diff: /usr/local/bin/show-diff
+  show-snps: /usr/local/bin/show-snps
+  show-tiling: /usr/local/bin/show-tiling
