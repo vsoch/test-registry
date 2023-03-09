@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/bioconductor-rchemcpp
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-rchemcpp
+latest:
+  2.21.1--r36he1b5a44_1: sha256:e02c93c7489e1f074ea45cdd37e6b2f48c604bd597de7b19c10f694abc142ad0
+tags:
+  2.21.1--r36he1b5a44_1: sha256:e02c93c7489e1f074ea45cdd37e6b2f48c604bd597de7b19c10f694abc142ad0
+docker: quay.io/biocontainers/bioconductor-rchemcpp
+aliases:
+  croco-0.6-config: /usr/local/bin/croco-0.6-config
+  csslint-0.6: /usr/local/bin/csslint-0.6
+  g-ir-doc-tool: /usr/local/bin/g-ir-doc-tool
+  g-ir-annotation-tool: /usr/local/bin/g-ir-annotation-tool
+  g-ir-compiler: /usr/local/bin/g-ir-compiler
+  g-ir-generate: /usr/local/bin/g-ir-generate
+  g-ir-inspect: /usr/local/bin/g-ir-inspect
+  g-ir-scanner: /usr/local/bin/g-ir-scanner
+  rsvg-convert: /usr/local/bin/rsvg-convert
+  gdk-pixbuf-thumbnailer: /usr/local/bin/gdk-pixbuf-thumbnailer
+  gdk-pixbuf-csource: /usr/local/bin/gdk-pixbuf-csource
+  gdk-pixbuf-pixdata: /usr/local/bin/gdk-pixbuf-pixdata
+  gdk-pixbuf-query-loaders: /usr/local/bin/gdk-pixbuf-query-loaders
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99
+  pyvenv: /usr/local/bin/pyvenv

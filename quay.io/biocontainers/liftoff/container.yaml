@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/liftoff
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for liftoff
+latest:
+  1.6.3--pyhdfd78af_0: sha256:63d9a69375519259f155e2f0b0a61b4c95287684f324c7193e2cead7e4ef5894
+tags:
+  1.6.3--pyhdfd78af_0: sha256:63d9a69375519259f155e2f0b0a61b4c95287684f324c7193e2cead7e4ef5894
+docker: quay.io/biocontainers/liftoff
+aliases:
+  liftoff: /usr/local/bin/liftoff
+  gffutils-cli: /usr/local/bin/gffutils-cli
+  faidx: /usr/local/bin/faidx
+  sdust: /usr/local/bin/sdust
+  k8: /usr/local/bin/k8
+  paftools.js: /usr/local/bin/paftools.js
+  minimap2: /usr/local/bin/minimap2
+  activate-global-python-argcomplete: /usr/local/bin/activate-global-python-argcomplete
+  python-argcomplete-check-easy-install-script: /usr/local/bin/python-argcomplete-check-easy-install-script
+  python-argcomplete-tcsh: /usr/local/bin/python-argcomplete-tcsh
+  register-python-argcomplete: /usr/local/bin/register-python-argcomplete
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  brotli: /usr/local/bin/brotli
+  img2webp: /usr/local/bin/img2webp
+  cwebp: /usr/local/bin/cwebp
+  dwebp: /usr/local/bin/dwebp
+  gif2webp: /usr/local/bin/gif2webp
+  f2py3.9: /usr/local/bin/f2py3.9
+  opj_compress: /usr/local/bin/opj_compress
+  opj_decompress: /usr/local/bin/opj_decompress
+  opj_dump: /usr/local/bin/opj_dump
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9

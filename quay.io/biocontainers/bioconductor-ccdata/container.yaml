@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-ccdata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-ccdata
+latest:
+  1.8.0--r351_0: sha256:d229e9a26968a39afff6544f39e76cf2e15e544a0ef4ce0377aba8ad977cd46f
+tags:
+  1.8.0--r351_0: sha256:d229e9a26968a39afff6544f39e76cf2e15e544a0ef4ce0377aba8ad977cd46f
+docker: quay.io/biocontainers/bioconductor-ccdata
+aliases:
+  wget: /usr/local/bin/wget

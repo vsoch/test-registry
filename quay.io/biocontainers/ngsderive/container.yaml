@@ -1,0 +1,25 @@
+url: https://biocontainers.pro/tools/ngsderive
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ngsderive
+latest:
+  2.2.0--pyhdfd78af_0: sha256:4ba72e81999e11fce4dfb90453d33c82c2d07f0880ef8c2df14f54887f3bf8af
+tags:
+  2.2.0--pyhdfd78af_0: sha256:4ba72e81999e11fce4dfb90453d33c82c2d07f0880ef8c2df14f54887f3bf8af
+docker: quay.io/biocontainers/ngsderive
+aliases:
+  ngsderive: /usr/local/bin/ngsderive
+  pkginfo: /usr/local/bin/pkginfo
+  poetry: /usr/local/bin/poetry
+  doesitcache: /usr/local/bin/doesitcache
+  jsonschema: /usr/local/bin/jsonschema
+  f2py3.7: /usr/local/bin/f2py3.7
+  chardetect: /usr/local/bin/chardetect
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  pyvenv: /usr/local/bin/pyvenv

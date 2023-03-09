@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/biopet-extractadaptersfastqc
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for biopet-extractadaptersfastqc
+latest:
+  0.2--hdfd78af_3: sha256:21e18cb23477e460b7ac555b91be2d4583f7f52a737d40da59ae9a43ebb658e6
+tags:
+  0.2--hdfd78af_3: sha256:21e18cb23477e460b7ac555b91be2d4583f7f52a737d40da59ae9a43ebb658e6
+docker: quay.io/biocontainers/biopet-extractadaptersfastqc
+aliases:
+  biopet-extractadaptersfastqc: /usr/local/bin/biopet-extractadaptersfastqc
+  clhsdb: /usr/local/bin/clhsdb
+  hsdb: /usr/local/bin/hsdb
+  extcheck: /usr/local/bin/extcheck
+  java-rmi.cgi: /usr/local/bin/java-rmi.cgi
+  javah: /usr/local/bin/javah
+  jhat: /usr/local/bin/jhat
+  jsadebugd: /usr/local/bin/jsadebugd
+  native2ascii: /usr/local/bin/native2ascii
+  policytool: /usr/local/bin/policytool
+  appletviewer: /usr/local/bin/appletviewer
+  idlj: /usr/local/bin/idlj
+  orbd: /usr/local/bin/orbd
+  schemagen: /usr/local/bin/schemagen
+  servertool: /usr/local/bin/servertool
+  tnameserv: /usr/local/bin/tnameserv
+  wsgen: /usr/local/bin/wsgen
+  wsimport: /usr/local/bin/wsimport
+  xjc: /usr/local/bin/xjc
+  jfr: /usr/local/bin/jfr
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps

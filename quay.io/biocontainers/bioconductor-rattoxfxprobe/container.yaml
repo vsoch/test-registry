@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-rattoxfxprobe
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-rattoxfxprobe
+latest:
+  2.18.0--r41hdfd78af_9: sha256:a6e18d1d3436005a8482ba1e3bfa5e18f2133e690efa5dade5374bb71dc66123
+tags:
+  2.18.0--r41hdfd78af_9: sha256:a6e18d1d3436005a8482ba1e3bfa5e18f2133e690efa5dade5374bb71dc66123
+docker: quay.io/biocontainers/bioconductor-rattoxfxprobe

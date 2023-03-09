@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-saureuscdf
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-saureuscdf
+latest:
+  2.18.0--r41hdfd78af_9: sha256:589e9e85a501cf1747826441091c4f3c00baeb6f735405c024deb730697da284
+tags:
+  2.18.0--r41hdfd78af_9: sha256:589e9e85a501cf1747826441091c4f3c00baeb6f735405c024deb730697da284
+docker: quay.io/biocontainers/bioconductor-saureuscdf

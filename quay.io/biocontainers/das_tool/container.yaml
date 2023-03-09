@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/das_tool
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for das_tool
+latest:
+  1.1.5--r41hdfd78af_0: sha256:9562292c560d3d4602d917561e0efe7ea9698b6c7973112c5662f1dba996dfab
+tags:
+  1.1.5--r41hdfd78af_0: sha256:9562292c560d3d4602d917561e0efe7ea9698b6c7973112c5662f1dba996dfab
+docker: quay.io/biocontainers/das_tool
+aliases:
+  Contigs2Bin_to_Fasta.sh: /usr/local/bin/Contigs2Bin_to_Fasta.sh
+  DAS_Tool: /usr/local/bin/DAS_Tool
+  Fasta_to_Contig2Bin.sh: /usr/local/bin/Fasta_to_Contig2Bin.sh
+  pullseq: /usr/local/bin/pullseq
+  seqdiff: /usr/local/bin/seqdiff
+  funzip: /usr/local/bin/funzip
+  unzipsfx: /usr/local/bin/unzipsfx
+  zipgrep: /usr/local/bin/zipgrep
+  zipinfo: /usr/local/bin/zipinfo
+  erb: /usr/local/bin/erb
+  gem: /usr/local/bin/gem
+  irb: /usr/local/bin/irb
+  rake: /usr/local/bin/rake
+  rdoc: /usr/local/bin/rdoc
+  ri: /usr/local/bin/ri
+  ruby: /usr/local/bin/ruby
+  unzip: /usr/local/bin/unzip
+  gawk-5.1.0: /usr/local/bin/gawk-5.1.0
+  awk: /usr/local/bin/awk
+  gawk: /usr/local/bin/gawk
+  diamond: /usr/local/bin/diamond
+  prodigal: /usr/local/bin/prodigal
+  edirect.py: /usr/local/bin/edirect.py
+  filter-columns: /usr/local/bin/filter-columns
+  fuse-segments: /usr/local/bin/fuse-segments
+  gene2range: /usr/local/bin/gene2range
+  tbl2prod: /usr/local/bin/tbl2prod
+  uniq-table: /usr/local/bin/uniq-table
+  align-columns: /usr/local/bin/align-columns
+  blst2tkns: /usr/local/bin/blst2tkns

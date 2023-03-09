@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/cgcloud-lib
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for cgcloud-lib
+latest:
+  1.6.0--py_4: sha256:e1d7dadf1dc7c60836c39c5b1eeb60ddea1a2b4ac05850a7aa16f789889294c6
+tags:
+  1.6.0--py_4: sha256:e1d7dadf1dc7c60836c39c5b1eeb60ddea1a2b4ac05850a7aa16f789889294c6
+docker: quay.io/biocontainers/cgcloud-lib
+aliases:
+  asadmin: /usr/local/bin/asadmin
+  bundle_image: /usr/local/bin/bundle_image
+  cfadmin: /usr/local/bin/cfadmin
+  cq: /usr/local/bin/cq
+  cwutil: /usr/local/bin/cwutil
+  dynamodb_dump: /usr/local/bin/dynamodb_dump
+  dynamodb_load: /usr/local/bin/dynamodb_load
+  elbadmin: /usr/local/bin/elbadmin
+  fetch_file: /usr/local/bin/fetch_file
+  glacier: /usr/local/bin/glacier
+  instance_events: /usr/local/bin/instance_events
+  kill_instance: /usr/local/bin/kill_instance
+  launch_instance: /usr/local/bin/launch_instance
+  list_instances: /usr/local/bin/list_instances
+  lss3: /usr/local/bin/lss3
+  mturk: /usr/local/bin/mturk
+  pyami_sendmail: /usr/local/bin/pyami_sendmail
+  route53: /usr/local/bin/route53
+  s3put: /usr/local/bin/s3put
+  sdbadmin: /usr/local/bin/sdbadmin
+  taskadmin: /usr/local/bin/taskadmin
+  futurize: /usr/local/bin/futurize
+  pasteurize: /usr/local/bin/pasteurize
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8

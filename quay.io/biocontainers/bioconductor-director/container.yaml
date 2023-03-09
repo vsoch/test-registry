@@ -1,0 +1,11 @@
+url: https://biocontainers.pro/tools/bioconductor-director
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-director
+latest:
+  1.8.0--r351_0: sha256:f0b06b839bf1e8c21935078af372f8eafccf46ac3799e4fe086f09610521742d
+tags:
+  1.8.0--r351_0: sha256:f0b06b839bf1e8c21935078af372f8eafccf46ac3799e4fe086f09610521742d
+docker: quay.io/biocontainers/bioconductor-director
+aliases:
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/amptk
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for amptk
+latest:
+  1.5.4--pyh5e36f6f_0: sha256:483ed2ba22bf02b2c776dba9084e5242d43733bc7a8fe34a75ca54c62a9fd84b
+tags:
+  1.5.4--pyh5e36f6f_0: sha256:483ed2ba22bf02b2c776dba9084e5242d43733bc7a8fe34a75ca54c62a9fd84b
+docker: quay.io/biocontainers/amptk
+aliases:
+  amptk: /usr/local/bin/amptk
+  amptk_synthetic_mock.py: /usr/local/bin/amptk_synthetic_mock.py
+  bold2utax.py: /usr/local/bin/bold2utax.py
+  distro: /usr/local/bin/distro
+  pyfastx: /usr/local/bin/pyfastx
+  FastTree-2.1.10.c: /usr/local/bin/FastTree-2.1.10.c
+  biom: /usr/local/bin/biom
+  vsearch: /usr/local/bin/vsearch
+  FastTreeMP: /usr/local/bin/FastTreeMP
+  FastTree: /usr/local/bin/FastTree
+  fasttree: /usr/local/bin/fasttree
+  mafft-sparsecore.rb: /usr/local/bin/mafft-sparsecore.rb
+  einsi: /usr/local/bin/einsi
+  fftns: /usr/local/bin/fftns
+  fftnsi: /usr/local/bin/fftnsi
+  ginsi: /usr/local/bin/ginsi
+  linsi: /usr/local/bin/linsi
+  mafft-distance: /usr/local/bin/mafft-distance
+  mafft-einsi: /usr/local/bin/mafft-einsi
+  mafft-fftns: /usr/local/bin/mafft-fftns
+  mafft-fftnsi: /usr/local/bin/mafft-fftnsi
+  mafft-ginsi: /usr/local/bin/mafft-ginsi
+  mafft-homologs.rb: /usr/local/bin/mafft-homologs.rb
+  mafft-linsi: /usr/local/bin/mafft-linsi
+  mafft-nwns: /usr/local/bin/mafft-nwns
+  mafft-nwnsi: /usr/local/bin/mafft-nwnsi
+  mafft-profile: /usr/local/bin/mafft-profile
+  mafft-qinsi: /usr/local/bin/mafft-qinsi
+  mafft-xinsi: /usr/local/bin/mafft-xinsi
+  nwns: /usr/local/bin/nwns

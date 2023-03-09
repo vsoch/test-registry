@@ -1,0 +1,48 @@
+url: https://biocontainers.pro/tools/ephemeris
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ephemeris
+latest:
+  0.9.0--py_0: sha256:7377ee47f373a1cf566ff3f8431132c79818f3904e76a1fcb9b2c64b00e401d2
+tags:
+  0.9.0--py_0: sha256:7377ee47f373a1cf566ff3f8431132c79818f3904e76a1fcb9b2c64b00e401d2
+docker: quay.io/biocontainers/ephemeris
+aliases:
+  bioblend-galaxy-tests: /usr/local/bin/bioblend-galaxy-tests
+  galaxy-tool-test: /usr/local/bin/galaxy-tool-test
+  galaxy-wait: /usr/local/bin/galaxy-wait
+  get-tool-list: /usr/local/bin/get-tool-list
+  mulled-build: /usr/local/bin/mulled-build
+  mulled-build-channel: /usr/local/bin/mulled-build-channel
+  mulled-build-files: /usr/local/bin/mulled-build-files
+  mulled-build-tool: /usr/local/bin/mulled-build-tool
+  mulled-search: /usr/local/bin/mulled-search
+  run-data-managers: /usr/local/bin/run-data-managers
+  setup-data-libraries: /usr/local/bin/setup-data-libraries
+  shed-tools: /usr/local/bin/shed-tools
+  workflow-install: /usr/local/bin/workflow-install
+  workflow-to-tools: /usr/local/bin/workflow-to-tools
+  asadmin: /usr/local/bin/asadmin
+  bundle_image: /usr/local/bin/bundle_image
+  cfadmin: /usr/local/bin/cfadmin
+  cq: /usr/local/bin/cq
+  cwutil: /usr/local/bin/cwutil
+  dynamodb_dump: /usr/local/bin/dynamodb_dump
+  dynamodb_load: /usr/local/bin/dynamodb_load
+  elbadmin: /usr/local/bin/elbadmin
+  fetch_file: /usr/local/bin/fetch_file
+  glacier: /usr/local/bin/glacier
+  instance_events: /usr/local/bin/instance_events
+  kill_instance: /usr/local/bin/kill_instance
+  launch_instance: /usr/local/bin/launch_instance
+  list_instances: /usr/local/bin/list_instances
+  lss3: /usr/local/bin/lss3
+  mturk: /usr/local/bin/mturk
+  pyami_sendmail: /usr/local/bin/pyami_sendmail
+  route53: /usr/local/bin/route53
+  s3put: /usr/local/bin/s3put
+  sdbadmin: /usr/local/bin/sdbadmin
+  taskadmin: /usr/local/bin/taskadmin
+  rst2html4.py: /usr/local/bin/rst2html4.py
+  rst2html5.py: /usr/local/bin/rst2html5.py
+  rst2html.py: /usr/local/bin/rst2html.py
+  rst2latex.py: /usr/local/bin/rst2latex.py

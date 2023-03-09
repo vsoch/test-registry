@@ -1,0 +1,87 @@
+url: https://biocontainers.pro/tools/coprarna
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for coprarna
+latest:
+  2.1.4--hdfd78af_0: sha256:bfb26f26c82780b4744c1045cabc9ea717f8fb5d91af9ea211f80ffd2bc3e4ce
+tags:
+  2.1.4--hdfd78af_0: sha256:bfb26f26c82780b4744c1045cabc9ea717f8fb5d91af9ea211f80ffd2bc3e4ce
+docker: quay.io/biocontainers/coprarna
+aliases:
+  CopraRNA2.pl: /usr/local/bin/CopraRNA2.pl
+  IntaRNA: /usr/local/bin/IntaRNA
+  IntaRNA_1ui.pl: /usr/local/bin/IntaRNA_1ui.pl
+  IntaRNA_up_1ui.pl: /usr/local/bin/IntaRNA_up_1ui.pl
+  addtit.pl: /usr/local/bin/addtit.pl
+  blast2homfile.pl: /usr/local/bin/blast2homfile.pl
+  bp_einfo: /usr/local/bin/bp_einfo
+  bp_genbank_ref_extractor: /usr/local/bin/bp_genbank_ref_extractor
+  cmpr.pl: /usr/local/bin/cmpr.pl
+  convgraph.pl: /usr/local/bin/convgraph.pl
+  domclust: /usr/local/bin/domclust
+  fasta2genefile.pl: /usr/local/bin/fasta2genefile.pl
+  fclique: /usr/local/bin/fclique
+  fconsense: /usr/local/bin/fconsense
+  fcontml: /usr/local/bin/fcontml
+  fcontrast: /usr/local/bin/fcontrast
+  fdiscboot: /usr/local/bin/fdiscboot
+  fdnacomp: /usr/local/bin/fdnacomp
+  fdnadist: /usr/local/bin/fdnadist
+  fdnainvar: /usr/local/bin/fdnainvar
+  fdnaml: /usr/local/bin/fdnaml
+  fdnamlk: /usr/local/bin/fdnamlk
+  fdnamove: /usr/local/bin/fdnamove
+  fdnapars: /usr/local/bin/fdnapars
+  fdnapenny: /usr/local/bin/fdnapenny
+  fdollop: /usr/local/bin/fdollop
+  fdolmove: /usr/local/bin/fdolmove
+  fdolpenny: /usr/local/bin/fdolpenny
+  fdrawgram: /usr/local/bin/fdrawgram
+  fdrawtree: /usr/local/bin/fdrawtree
+  ffactor: /usr/local/bin/ffactor
+  ffitch: /usr/local/bin/ffitch
+  ffreqboot: /usr/local/bin/ffreqboot
+  fgendist: /usr/local/bin/fgendist
+  fkitsch: /usr/local/bin/fkitsch
+  fmix: /usr/local/bin/fmix
+  fmove: /usr/local/bin/fmove
+  fneighbor: /usr/local/bin/fneighbor
+  fpars: /usr/local/bin/fpars
+  fpenny: /usr/local/bin/fpenny
+  fproml: /usr/local/bin/fproml
+  fpromlk: /usr/local/bin/fpromlk
+  fprotdist: /usr/local/bin/fprotdist
+  fprotpars: /usr/local/bin/fprotpars
+  frestboot: /usr/local/bin/frestboot
+  frestdist: /usr/local/bin/frestdist
+  frestml: /usr/local/bin/frestml
+  fretree: /usr/local/bin/fretree
+  fseqboot: /usr/local/bin/fseqboot
+  fseqbootall: /usr/local/bin/fseqbootall
+  ftreedist: /usr/local/bin/ftreedist
+  ftreedistpair: /usr/local/bin/ftreedistpair
+  phantomjs: /usr/local/bin/phantomjs
+  RNAmultifold: /usr/local/bin/RNAmultifold
+  egrep: /usr/local/bin/egrep
+  fgrep: /usr/local/bin/fgrep
+  grep: /usr/local/bin/grep
+  xmlget: /usr/local/bin/xmlget
+  xmltext: /usr/local/bin/xmltext
+  clustalo: /usr/local/bin/clustalo
+  aaindexextract: /usr/local/bin/aaindexextract
+  abiview: /usr/local/bin/abiview
+  acdc: /usr/local/bin/acdc
+  acdgalaxy: /usr/local/bin/acdgalaxy
+  acdlog: /usr/local/bin/acdlog
+  acdpretty: /usr/local/bin/acdpretty
+  acdtable: /usr/local/bin/acdtable
+  acdtrace: /usr/local/bin/acdtrace
+  acdvalid: /usr/local/bin/acdvalid
+  aligncopy: /usr/local/bin/aligncopy
+  aligncopypair: /usr/local/bin/aligncopypair
+  antigenic: /usr/local/bin/antigenic
+  assemblyget: /usr/local/bin/assemblyget
+  backtranambig: /usr/local/bin/backtranambig
+  backtranseq: /usr/local/bin/backtranseq
+  banana: /usr/local/bin/banana
+  biosed: /usr/local/bin/biosed
+  btwisted: /usr/local/bin/btwisted

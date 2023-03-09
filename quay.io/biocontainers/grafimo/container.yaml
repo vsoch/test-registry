@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/grafimo
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for grafimo
+latest:
+  1.1.6--py39h5371cbf_0: sha256:c1aac609e9056ed7b9aa3428234568a6068547f82568f5822aebfece8c2e47dd
+tags:
+  1.1.6--py39h5371cbf_0: sha256:c1aac609e9056ed7b9aa3428234568a6068547f82568f5822aebfece8c2e47dd
+docker: quay.io/biocontainers/grafimo
+aliases:
+  grafimo: /usr/local/bin/grafimo
+  vg: /usr/local/bin/vg
+  numba: /usr/local/bin/numba
+  pycc: /usr/local/bin/pycc
+  diffimg: /usr/local/bin/diffimg
+  delaunay: /usr/local/bin/delaunay
+  gts-config: /usr/local/bin/gts-config
+  gts2dxf: /usr/local/bin/gts2dxf
+  gts2oogl: /usr/local/bin/gts2oogl
+  gts2stl: /usr/local/bin/gts2stl
+  gtscheck: /usr/local/bin/gtscheck
+  gtscompare: /usr/local/bin/gtscompare
+  gtstemplate: /usr/local/bin/gtstemplate
+  stl2gts: /usr/local/bin/stl2gts
+  transform: /usr/local/bin/transform
+  rsvg-convert: /usr/local/bin/rsvg-convert
+  gtk-builder-convert: /usr/local/bin/gtk-builder-convert
+  gtk-demo: /usr/local/bin/gtk-demo
+  gtk-query-immodules-2.0: /usr/local/bin/gtk-query-immodules-2.0
+  gtk-update-icon-cache: /usr/local/bin/gtk-update-icon-cache
+  acyclic: /usr/local/bin/acyclic
+  bcomps: /usr/local/bin/bcomps
+  ccomps: /usr/local/bin/ccomps
+  circo: /usr/local/bin/circo
+  dijkstra: /usr/local/bin/dijkstra
+  dot: /usr/local/bin/dot
+  dot2gxl: /usr/local/bin/dot2gxl

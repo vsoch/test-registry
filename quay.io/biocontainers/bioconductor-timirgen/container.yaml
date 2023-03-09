@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/bioconductor-timirgen
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-timirgen
+latest:
+  1.4.0--r41hdfd78af_0: sha256:3692e4cba844c0294a5f90d191c0a56833a498c6b75cef5a760e72441e11792b
+tags:
+  1.4.0--r41hdfd78af_0: sha256:3692e4cba844c0294a5f90d191c0a56833a498c6b75cef5a760e72441e11792b
+docker: quay.io/biocontainers/bioconductor-timirgen
+aliases:
+  Cytoscape: /usr/local/bin/Cytoscape
+  cytoscape.sh: /usr/local/bin/cytoscape.sh
+  gen_vmoptions.sh: /usr/local/bin/gen_vmoptions.sh
+  curve_keygen: /usr/local/bin/curve_keygen
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap

@@ -1,0 +1,23 @@
+url: https://biocontainers.pro/tools/httplib2
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for httplib2
+latest:
+  0.9.2--py35_0: sha256:e284f75641d99f3954482c0ae8cdb29cc98e794309ed619253fbd2d4b22f3152
+tags:
+  0.9.2--py35_0: sha256:e284f75641d99f3954482c0ae8cdb29cc98e794309ed619253fbd2d4b22f3152
+docker: quay.io/biocontainers/httplib2
+aliases:
+  easy_install-3.5: /usr/local/bin/easy_install-3.5
+  2to3-3.5: /usr/local/bin/2to3-3.5
+  idle3.5: /usr/local/bin/idle3.5
+  pydoc3.5: /usr/local/bin/pydoc3.5
+  python3.5: /usr/local/bin/python3.5
+  python3.5-config: /usr/local/bin/python3.5-config
+  python3.5m: /usr/local/bin/python3.5m
+  python3.5m-config: /usr/local/bin/python3.5m-config
+  pyvenv-3.5: /usr/local/bin/pyvenv-3.5
+  tclsh8.5: /usr/local/bin/tclsh8.5
+  wish8.5: /usr/local/bin/wish8.5
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config
+  pyvenv: /usr/local/bin/pyvenv

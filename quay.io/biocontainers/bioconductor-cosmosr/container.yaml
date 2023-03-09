@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-cosmosr
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-cosmosr
+latest:
+  1.2.0--r41hdfd78af_0: sha256:0818dde3e37d6f3041ec115d6951fe266c1d7dc0515bdea4ba8e40f65ecd71b0
+tags:
+  1.2.0--r41hdfd78af_0: sha256:0818dde3e37d6f3041ec115d6951fe266c1d7dc0515bdea4ba8e40f65ecd71b0
+docker: quay.io/biocontainers/bioconductor-cosmosr
+aliases:
+  pandoc: /usr/local/bin/pandoc

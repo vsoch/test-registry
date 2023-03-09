@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/r-hierfstat
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-hierfstat
+latest:
+  0.04_22--r351h6115d3f_0: sha256:2247c2857856dbbf36a8a1ca9e788aecc76a251e911b7f9bd1065e9fd87c62d4
+tags:
+  0.04_22--r351h6115d3f_0: sha256:2247c2857856dbbf36a8a1ca9e788aecc76a251e911b7f9bd1065e9fd87c62d4
+docker: quay.io/biocontainers/r-hierfstat
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

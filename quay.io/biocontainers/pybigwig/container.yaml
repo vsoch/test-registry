@@ -1,0 +1,28 @@
+url: https://biocontainers.pro/tools/pybigwig
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pybigwig
+latest:
+  0.3.9--np113py35_0: "crane digest quay.io/biocontainers/pybigwig:0.3.9--np113py35_0:\
+    \ unsupported status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML\
+    \ 3.2 Final//EN\">\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You\
+    \ should be redirected automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+tags:
+  0.3.9--np113py35_0: "crane digest quay.io/biocontainers/pybigwig:0.3.9--np113py35_0:\
+    \ unsupported status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML\
+    \ 3.2 Final//EN\">\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You\
+    \ should be redirected automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+docker: quay.io/biocontainers/pybigwig
+aliases:
+  2to3-3.5: /usr/local/bin/2to3-3.5
+  idle3.5: /usr/local/bin/idle3.5
+  pydoc3.5: /usr/local/bin/pydoc3.5
+  python3.5: /usr/local/bin/python3.5
+  python3.5-config: /usr/local/bin/python3.5-config
+  python3.5m: /usr/local/bin/python3.5m
+  python3.5m-config: /usr/local/bin/python3.5m-config
+  pyvenv-3.5: /usr/local/bin/pyvenv-3.5
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config
+  pyvenv: /usr/local/bin/pyvenv

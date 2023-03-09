@@ -1,0 +1,18 @@
+url: https://biocontainers.pro/tools/smudgeplot_rn
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for smudgeplot_rn
+latest:
+  0.2.5_RN--py310r41h779adbc_2: sha256:65153eb99b634041fe41c4ea1fe070367b2dc23ddae94d7fe260a95d28defefb
+tags:
+  0.2.5_RN--py310r41h779adbc_2: sha256:65153eb99b634041fe41c4ea1fe070367b2dc23ddae94d7fe260a95d28defefb
+docker: quay.io/biocontainers/smudgeplot_rn
+aliases:
+  smudgeplot.py: /usr/local/bin/smudgeplot.py
+  smudgeplot_plot.R: /usr/local/bin/smudgeplot_plot.R
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-porcine.db
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-porcine.db
+latest:
+  3.2.3--r41hdfd78af_8: sha256:9ccebb0ddd6750a38056cff3d26213ee9b5fd77546a4fec4408194ed4ba2bc90
+tags:
+  3.2.3--r41hdfd78af_8: sha256:9ccebb0ddd6750a38056cff3d26213ee9b5fd77546a4fec4408194ed4ba2bc90
+docker: quay.io/biocontainers/bioconductor-porcine.db
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

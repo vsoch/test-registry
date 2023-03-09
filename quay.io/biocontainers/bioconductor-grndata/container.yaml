@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-grndata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-grndata
+latest:
+  1.26.0--r41hdfd78af_1: sha256:1a0c8ad51000e9e40a154f706b2f1e8dbea1150a168361af08bce45c73886759
+tags:
+  1.26.0--r41hdfd78af_1: sha256:1a0c8ad51000e9e40a154f706b2f1e8dbea1150a168361af08bce45c73886759
+docker: quay.io/biocontainers/bioconductor-grndata

@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/megalodon
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for megalodon
+latest:
+  2.3.1--py37h73a75cf_0: sha256:880cf1cc1fd5b1a16eb94a579dc0e7d30348bf9ec1b4b0b12adaac3de4a6e33e
+tags:
+  2.3.1--py37h73a75cf_0: sha256:880cf1cc1fd5b1a16eb94a579dc0e7d30348bf9ec1b4b0b12adaac3de4a6e33e
+docker: quay.io/biocontainers/megalodon
+aliases:
+  check_compression: /usr/local/bin/check_compression
+  compress_fast5: /usr/local/bin/compress_fast5
+  megalodon: /usr/local/bin/megalodon
+  megalodon_extras: /usr/local/bin/megalodon_extras
+  fast5_subset: /usr/local/bin/fast5_subset
+  multi_to_single_fast5: /usr/local/bin/multi_to_single_fast5
+  single_to_multi_fast5: /usr/local/bin/single_to_multi_fast5
+  minimap2.py: /usr/local/bin/minimap2.py
+  tar: /usr/local/bin/tar
+  tqdm: /usr/local/bin/tqdm
+  f2py3.7: /usr/local/bin/f2py3.7
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  h5clear: /usr/local/bin/h5clear
+  h5format_convert: /usr/local/bin/h5format_convert
+  h5watch: /usr/local/bin/h5watch
+  h5fc: /usr/local/bin/h5fc
+  gif2h5: /usr/local/bin/gif2h5
+  h52gif: /usr/local/bin/h52gif
+  h5c++: /usr/local/bin/h5c++
+  h5copy: /usr/local/bin/h5copy
+  h5debug: /usr/local/bin/h5debug
+  h5diff: /usr/local/bin/h5diff

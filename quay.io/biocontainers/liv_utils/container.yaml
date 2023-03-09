@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/liv_utils
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for liv_utils
+latest:
+  0.0.1--pyhdfd78af_0: sha256:69a9523849752659e6b87d129efc44cd805354e3c379437a8cb24b6586d31326
+tags:
+  0.0.1--pyhdfd78af_0: sha256:69a9523849752659e6b87d129efc44cd805354e3c379437a8cb24b6586d31326
+docker: quay.io/biocontainers/liv_utils
+aliases:
+  filter-table: /usr/local/bin/filter-table
+  spdi2prod: /usr/local/bin/spdi2prod
+  csv2rdf: /usr/local/bin/csv2rdf
+  rdf2dot: /usr/local/bin/rdf2dot
+  rdfgraphisomorphism: /usr/local/bin/rdfgraphisomorphism
+  rdfpipe: /usr/local/bin/rdfpipe
+  rdfs2dot: /usr/local/bin/rdfs2dot
+  align-columns: /usr/local/bin/align-columns
+  blst2tkns: /usr/local/bin/blst2tkns
+  csv2xml: /usr/local/bin/csv2xml
+  disambiguate-nucleotides: /usr/local/bin/disambiguate-nucleotides
+  download-ncbi-software: /usr/local/bin/download-ncbi-software
+  ecommon.sh: /usr/local/bin/ecommon.sh
+  find-in-gene: /usr/local/bin/find-in-gene
+  fuse-ranges: /usr/local/bin/fuse-ranges
+  hgvs2spdi: /usr/local/bin/hgvs2spdi
+  json2xml: /usr/local/bin/json2xml
+  print-columns: /usr/local/bin/print-columns
+  snp2hgvs: /usr/local/bin/snp2hgvs
+  snp2tbl: /usr/local/bin/snp2tbl
+  sort-table: /usr/local/bin/sort-table
+  spdi2tbl: /usr/local/bin/spdi2tbl
+  split-at-intron: /usr/local/bin/split-at-intron
+  tbl2xml: /usr/local/bin/tbl2xml
+  transmute.Linux: /usr/local/bin/transmute.Linux

@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/nanocomp
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for nanocomp
+latest:
+  1.9.2--py_1: sha256:a89340a72ef720c08a6360d00eda2b59f2a2e59c5f8e701fe3fa81077a8124f5
+tags:
+  1.9.2--py_1: sha256:a89340a72ef720c08a6360d00eda2b59f2a2e59c5f8e701fe3fa81077a8124f5
+docker: quay.io/biocontainers/nanocomp
+aliases:
+  NanoComp: /usr/local/bin/NanoComp
+  NanoPlot: /usr/local/bin/NanoPlot
+  orca-server: /usr/local/bin/orca-server
+  pauvre: /usr/local/bin/pauvre
+  flask: /usr/local/bin/flask
+  compile-et.pl: /usr/local/bin/compile-et.pl
+  prerr.properties: /usr/local/bin/prerr.properties
+  pt2to3: /usr/local/bin/pt2to3
+  ptdump: /usr/local/bin/ptdump
+  ptrepack: /usr/local/bin/ptrepack
+  pttree: /usr/local/bin/pttree
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview
+  qvkgen: /usr/local/bin/qvkgen
+  certutil: /usr/local/bin/certutil
+  nspr-config: /usr/local/bin/nspr-config
+  nss-config: /usr/local/bin/nss-config
+  pk12util: /usr/local/bin/pk12util
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  sip: /usr/local/bin/sip
+  pygmentize: /usr/local/bin/pygmentize
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5

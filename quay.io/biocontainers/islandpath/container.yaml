@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/islandpath
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for islandpath
+latest:
+  1.0.6--hdfd78af_0: sha256:aaeac1727ebbd2c2bc4c872f0ccfaa99a639834af95975ea326a514b2e080c17
+tags:
+  1.0.6--hdfd78af_0: sha256:aaeac1727ebbd2c2bc4c872f0ccfaa99a639834af95975ea326a514b2e080c17
+docker: quay.io/biocontainers/islandpath
+aliases:
+  islandpath: /usr/local/bin/islandpath
+  l4p-tmpl: /usr/local/bin/l4p-tmpl
+  bam2bedgraph: /usr/local/bin/bam2bedgraph
+  bp_find-blast-matches.pl: /usr/local/bin/bp_find-blast-matches.pl
+  bp_pairwise_kaks: /usr/local/bin/bp_pairwise_kaks
+  ace.pl: /usr/local/bin/ace.pl
+  ccconfig: /usr/local/bin/ccconfig
+  SOAPsh.pl: /usr/local/bin/SOAPsh.pl
+  map: /usr/local/bin/map
+  mirrorMappings: /usr/local/bin/mirrorMappings
+  mkCSGB2312: /usr/local/bin/mkCSGB2312
+  mkmapfile: /usr/local/bin/mkmapfile
+  stubmaker.pl: /usr/local/bin/stubmaker.pl
+  baseml: /usr/local/bin/baseml
+  basemlg: /usr/local/bin/basemlg
+  chartex: /usr/local/bin/chartex
+  chi2: /usr/local/bin/chi2
+  codeml: /usr/local/bin/codeml
+  evolver: /usr/local/bin/evolver
+  infinitesites: /usr/local/bin/infinitesites
+  mcmctree: /usr/local/bin/mcmctree
+  pamp: /usr/local/bin/pamp
+  yn00: /usr/local/bin/yn00
+  binhex.pl: /usr/local/bin/binhex.pl
+  debinhex.pl: /usr/local/bin/debinhex.pl
+  t_coffee: /usr/local/bin/t_coffee

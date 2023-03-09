@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/smcounter2
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for smcounter2
+latest:
+  0.1.2018.08.28--2: sha256:ebd4f6babb6734fc5c53f35d2a93c8a2d790f64b27f32d337604faaa2677b1a0
+tags:
+  0.1.2018.08.28--2: sha256:ebd4f6babb6734fc5c53f35d2a93c8a2d790f64b27f32d337604faaa2677b1a0
+docker: quay.io/biocontainers/smcounter2
+aliases:
+  smCounter2: /usr/local/bin/smCounter2
+  f2py2: /usr/local/bin/f2py2
+  f2py2.7: /usr/local/bin/f2py2.7
+  rst2html4.py: /usr/local/bin/rst2html4.py
+  guess-ploidy.py: /usr/local/bin/guess-ploidy.py
+  plot-roh.py: /usr/local/bin/plot-roh.py
+  run-roh.pl: /usr/local/bin/run-roh.pl
+  rst2html5.py: /usr/local/bin/rst2html5.py
+  rst2html.py: /usr/local/bin/rst2html.py
+  rst2latex.py: /usr/local/bin/rst2latex.py
+  rst2man.py: /usr/local/bin/rst2man.py
+  rst2odt.py: /usr/local/bin/rst2odt.py
+  rst2odt_prepstyles.py: /usr/local/bin/rst2odt_prepstyles.py
+  rst2pseudoxml.py: /usr/local/bin/rst2pseudoxml.py
+  rst2s5.py: /usr/local/bin/rst2s5.py
+  rst2xetex.py: /usr/local/bin/rst2xetex.py
+  rst2xml.py: /usr/local/bin/rst2xml.py
+  rstpep2html.py: /usr/local/bin/rstpep2html.py
+  color-chrs.pl: /usr/local/bin/color-chrs.pl
+  plot-vcfstats: /usr/local/bin/plot-vcfstats
+  bcftools: /usr/local/bin/bcftools
+  vcfutils.pl: /usr/local/bin/vcfutils.pl
+  shiftBed: /usr/local/bin/shiftBed
+  annotateBed: /usr/local/bin/annotateBed
+  bamToBed: /usr/local/bin/bamToBed
+  bamToFastq: /usr/local/bin/bamToFastq

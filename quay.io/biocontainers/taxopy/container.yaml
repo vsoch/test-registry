@@ -1,0 +1,17 @@
+url: https://biocontainers.pro/tools/taxopy
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for taxopy
+latest:
+  0.9.2--pyhdfd78af_0: 'crane digest quay.io/biocontainers/taxopy:0.9.2--pyhdfd78af_0:
+    unrecognized HTTP status: 502 Bad Gateway'
+tags:
+  0.9.2--pyhdfd78af_0: 'crane digest quay.io/biocontainers/taxopy:0.9.2--pyhdfd78af_0:
+    unrecognized HTTP status: 502 Bad Gateway'
+docker: quay.io/biocontainers/taxopy
+aliases:
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

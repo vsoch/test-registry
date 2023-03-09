@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/bioconductor-pth2o2lipids
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-pth2o2lipids
+latest:
+  1.8.0--r351_0: sha256:17ae112b6e99c3d686a1e12495545fbf300b1e88f2f2fd5c42f04796d8a0a679
+tags:
+  1.8.0--r351_0: sha256:17ae112b6e99c3d686a1e12495545fbf300b1e88f2f2fd5c42f04796d8a0a679
+docker: quay.io/biocontainers/bioconductor-pth2o2lipids
+aliases:
+  gif2hdf: /usr/local/bin/gif2hdf
+  h4_ncdump: /usr/local/bin/h4_ncdump
+  h4_ncgen: /usr/local/bin/h4_ncgen
+  h4cc: /usr/local/bin/h4cc
+  h4redeploy: /usr/local/bin/h4redeploy
+  hdf24to8: /usr/local/bin/hdf24to8
+  hdf2gif: /usr/local/bin/hdf2gif
+  hdf2jpeg: /usr/local/bin/hdf2jpeg
+  hdf8to24: /usr/local/bin/hdf8to24
+  hdfcomp: /usr/local/bin/hdfcomp
+  hdfed: /usr/local/bin/hdfed
+  hdfimport: /usr/local/bin/hdfimport
+  hdfls: /usr/local/bin/hdfls
+  hdfpack: /usr/local/bin/hdfpack
+  hdftopal: /usr/local/bin/hdftopal
+  hdftor8: /usr/local/bin/hdftor8
+  hdfunpac: /usr/local/bin/hdfunpac
+  hdiff: /usr/local/bin/hdiff
+  hdp: /usr/local/bin/hdp
+  hrepack: /usr/local/bin/hrepack
+  jpeg2hdf: /usr/local/bin/jpeg2hdf
+  paltohdf: /usr/local/bin/paltohdf
+  r8tohdf: /usr/local/bin/r8tohdf
+  ristosds: /usr/local/bin/ristosds
+  vmake: /usr/local/bin/vmake

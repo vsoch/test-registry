@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/pygresql
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pygresql
+latest:
+  5.0.1--py36_1: sha256:cd80b3cbd6a025f61da39d2f58373f3687d72dcdb6ae6774d255aefa31e5d38f
+tags:
+  5.0.1--py36_1: sha256:cd80b3cbd6a025f61da39d2f58373f3687d72dcdb6ae6774d255aefa31e5d38f
+docker: quay.io/biocontainers/pygresql
+aliases:
+  pg_standby: /usr/local/bin/pg_standby
+  oid2name: /usr/local/bin/oid2name
+  pg_receivewal: /usr/local/bin/pg_receivewal
+  pg_resetwal: /usr/local/bin/pg_resetwal
+  pg_waldump: /usr/local/bin/pg_waldump
+  vacuumlo: /usr/local/bin/vacuumlo
+  clusterdb: /usr/local/bin/clusterdb
+  createdb: /usr/local/bin/createdb
+  createuser: /usr/local/bin/createuser
+  dropdb: /usr/local/bin/dropdb
+  dropuser: /usr/local/bin/dropuser
+  ecpg: /usr/local/bin/ecpg
+  initdb: /usr/local/bin/initdb
+  pg_archivecleanup: /usr/local/bin/pg_archivecleanup
+  pg_basebackup: /usr/local/bin/pg_basebackup
+  pg_controldata: /usr/local/bin/pg_controldata
+  pg_ctl: /usr/local/bin/pg_ctl
+  pg_dump: /usr/local/bin/pg_dump
+  pg_dumpall: /usr/local/bin/pg_dumpall
+  pg_isready: /usr/local/bin/pg_isready
+  pg_recvlogical: /usr/local/bin/pg_recvlogical
+  pg_restore: /usr/local/bin/pg_restore
+  pg_rewind: /usr/local/bin/pg_rewind
+  pg_test_fsync: /usr/local/bin/pg_test_fsync
+  pg_test_timing: /usr/local/bin/pg_test_timing

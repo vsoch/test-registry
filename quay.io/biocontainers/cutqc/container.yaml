@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/cutqc
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for cutqc
+latest:
+  0.07--hdfd78af_0: sha256:164a0dcee4bfba8cfa346948f7492139310765baa5d44a219fa864d14f893629
+tags:
+  0.07--hdfd78af_0: sha256:164a0dcee4bfba8cfa346948f7492139310765baa5d44a219fa864d14f893629
+docker: quay.io/biocontainers/cutqc
+aliases:
+  cutqc: /usr/local/bin/cutqc
+  fastqc_report.Rmd: /usr/local/bin/fastqc_report.Rmd
+  fastqc_single_report.Rmd: /usr/local/bin/fastqc_single_report.Rmd
+  cutadapt: /usr/local/bin/cutadapt
+  fastqc: /usr/local/bin/fastqc
+  gawk-5.1.0: /usr/local/bin/gawk-5.1.0
+  igzip: /usr/local/bin/igzip
+  pbunzip2: /usr/local/bin/pbunzip2
+  pbzcat: /usr/local/bin/pbzcat
+  pbzip2: /usr/local/bin/pbzip2
+  awk: /usr/local/bin/awk
+  gawk: /usr/local/bin/gawk
+  pigz: /usr/local/bin/pigz
+  unpigz: /usr/local/bin/unpigz
+  pandoc: /usr/local/bin/pandoc
+  jaotc: /usr/local/bin/jaotc
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps

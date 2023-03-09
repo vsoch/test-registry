@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/hitea
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for hitea
+latest:
+  0.1.5--hdfd78af_1: sha256:da9a6e7d5dd48da1d698ffae243a1a24f5088a7fe37260291c381790f25f06d6
+tags:
+  0.1.5--hdfd78af_1: sha256:da9a6e7d5dd48da1d698ffae243a1a24f5088a7fe37260291c381790f25f06d6
+docker: quay.io/biocontainers/hitea
+aliases:
+  hitea: /usr/local/bin/hitea
+  pairtools: /usr/local/bin/pairtools
+  pbgzip: /usr/local/bin/pbgzip
+  perl5.32.0: /usr/local/bin/perl5.32.0
+  basenc: /usr/local/bin/basenc
+  parsort: /usr/local/bin/parsort
+  b2sum: /usr/local/bin/b2sum
+  ls: /usr/local/bin/ls
+  base32: /usr/local/bin/base32
+  base64: /usr/local/bin/base64
+  basename: /usr/local/bin/basename
+  cat: /usr/local/bin/cat
+  chcon: /usr/local/bin/chcon
+  chgrp: /usr/local/bin/chgrp
+  chmod: /usr/local/bin/chmod
+  chown: /usr/local/bin/chown
+  chroot: /usr/local/bin/chroot
+  cksum: /usr/local/bin/cksum
+  comm: /usr/local/bin/comm
+  cp: /usr/local/bin/cp
+  csplit: /usr/local/bin/csplit
+  cut: /usr/local/bin/cut
+  date: /usr/local/bin/date
+  dd: /usr/local/bin/dd
+  df: /usr/local/bin/df
+  dir: /usr/local/bin/dir
+  dircolors: /usr/local/bin/dircolors
+  dirname: /usr/local/bin/dirname

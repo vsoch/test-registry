@@ -1,0 +1,14 @@
+url: https://biocontainers.pro/tools/tinyalign
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for tinyalign
+latest:
+  0.2--py38h4a8c8d9_2: sha256:54cc4668419374e3874c4741df9b0d01614199522bcb5f6601d87fb80b42db2e
+tags:
+  0.2--py38h4a8c8d9_2: sha256:54cc4668419374e3874c4741df9b0d01614199522bcb5f6601d87fb80b42db2e
+docker: quay.io/biocontainers/tinyalign
+aliases:
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config

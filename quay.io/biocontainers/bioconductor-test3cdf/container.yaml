@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-test3cdf
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-test3cdf
+latest:
+  2.18.0--r41hdfd78af_9: sha256:b5fcea5595b4116d8430d92e3fa5fbe413a9c09ff8b821b00b1b1deea7985a14
+tags:
+  2.18.0--r41hdfd78af_9: sha256:b5fcea5595b4116d8430d92e3fa5fbe413a9c09ff8b821b00b1b1deea7985a14
+docker: quay.io/biocontainers/bioconductor-test3cdf

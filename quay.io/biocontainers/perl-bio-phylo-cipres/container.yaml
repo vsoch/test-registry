@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/perl-bio-phylo-cipres
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for perl-bio-phylo-cipres
+latest:
+  v0.2.1--pl5321hdfd78af_2: sha256:a2dc08e700c19273c2d80a0c8b688cdd3c474b5b22906d10c534beb21ae0e9ce
+tags:
+  v0.2.1--pl5321hdfd78af_2: sha256:a2dc08e700c19273c2d80a0c8b688cdd3c474b5b22906d10c534beb21ae0e9ce
+docker: quay.io/biocontainers/perl-bio-phylo-cipres
+aliases:
+  cipresrun: /usr/local/bin/cipresrun
+  imgsize: /usr/local/bin/imgsize
+  xml_grep: /usr/local/bin/xml_grep
+  xml_merge: /usr/local/bin/xml_merge
+  xml_pp: /usr/local/bin/xml_pp
+  xml_spellcheck: /usr/local/bin/xml_spellcheck
+  xml_split: /usr/local/bin/xml_split
+  tpage: /usr/local/bin/tpage
+  ttree: /usr/local/bin/ttree
+  webtidy: /usr/local/bin/webtidy
+  tidyp: /usr/local/bin/tidyp
+  bdf2gdfont.pl: /usr/local/bin/bdf2gdfont.pl
+  htmltree: /usr/local/bin/htmltree
+  lwp-download: /usr/local/bin/lwp-download
+  lwp-dump: /usr/local/bin/lwp-dump
+  lwp-mirror: /usr/local/bin/lwp-mirror
+  lwp-request: /usr/local/bin/lwp-request
+  bdftogd: /usr/local/bin/bdftogd
+  gd2copypal: /usr/local/bin/gd2copypal
+  gd2togif: /usr/local/bin/gd2togif
+  gd2topng: /usr/local/bin/gd2topng
+  gdcmpgif: /usr/local/bin/gdcmpgif
+  gdparttopng: /usr/local/bin/gdparttopng
+  gdtopng: /usr/local/bin/gdtopng
+  giftogd2: /usr/local/bin/giftogd2
+  pngtogd: /usr/local/bin/pngtogd

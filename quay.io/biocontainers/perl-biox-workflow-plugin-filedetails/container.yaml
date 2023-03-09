@@ -1,0 +1,20 @@
+url: https://biocontainers.pro/tools/perl-biox-workflow-plugin-filedetails
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for perl-biox-workflow-plugin-filedetails
+latest:
+  0.11--0: sha256:d7210c1b7b046de3924d5c297765cd673fb156aafdf442d4a9b4c86b65cf3114
+tags:
+  0.11--0: sha256:d7210c1b7b046de3924d5c297765cd673fb156aafdf442d4a9b4c86b65cf3114
+docker: quay.io/biocontainers/perl-biox-workflow-plugin-filedetails
+aliases:
+  biox-workflow.pl: /usr/local/bin/biox-workflow.pl
+  filedetails.pl: /usr/local/bin/filedetails.pl
+  findrule: /usr/local/bin/findrule
+  config_data: /usr/local/bin/config_data
+  perl5.22.0: /usr/local/bin/perl5.22.0
+  c2ph: /usr/local/bin/c2ph
+  pstruct: /usr/local/bin/pstruct
+  moose-outdated: /usr/local/bin/moose-outdated
+  package-stash-conflicts: /usr/local/bin/package-stash-conflicts
+  cpanm: /usr/local/bin/cpanm
+  podselect: /usr/local/bin/podselect

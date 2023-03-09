@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/gcnvkernel
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for gcnvkernel
+latest:
+  0.7--py_0: sha256:0581c320698d99ef0625710ae602087e68d17a9689943232c92cfa4c716c8a93
+tags:
+  0.7--py_0: sha256:0581c320698d99ef0625710ae602087e68d17a9689943232c92cfa4c716c8a93
+docker: quay.io/biocontainers/gcnvkernel
+aliases:
+  theano-cache: /usr/local/bin/theano-cache
+  theano-nose: /usr/local/bin/theano-nose
+  mako-render: /usr/local/bin/mako-render
+  compile-et.pl: /usr/local/bin/compile-et.pl
+  prerr.properties: /usr/local/bin/prerr.properties
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview
+  qvkgen: /usr/local/bin/qvkgen
+  f2py3.6: /usr/local/bin/f2py3.6
+  certutil: /usr/local/bin/certutil
+  nspr-config: /usr/local/bin/nspr-config
+  nss-config: /usr/local/bin/nss-config
+  pk12util: /usr/local/bin/pk12util
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  sip: /usr/local/bin/sip
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc

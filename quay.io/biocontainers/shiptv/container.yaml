@@ -1,0 +1,21 @@
+url: https://biocontainers.pro/tools/shiptv
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for shiptv
+latest:
+  0.4.1--pyh5e36f6f_0: sha256:65a52f30f9565e58f530267806c332d5226a6a2bd93560e3b7ee422b643809ca
+tags:
+  0.4.1--pyh5e36f6f_0: sha256:65a52f30f9565e58f530267806c332d5226a6a2bd93560e3b7ee422b643809ca
+docker: quay.io/biocontainers/shiptv
+aliases:
+  shiptv: /usr/local/bin/shiptv
+  cmark: /usr/local/bin/cmark
+  pygmentize: /usr/local/bin/pygmentize
+  futurize: /usr/local/bin/futurize
+  pasteurize: /usr/local/bin/pasteurize
+  chardetect: /usr/local/bin/chardetect
+  f2py3.9: /usr/local/bin/f2py3.9
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config

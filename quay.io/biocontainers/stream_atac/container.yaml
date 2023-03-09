@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/stream_atac
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for stream_atac
+latest:
+  0.3.5--py_5: sha256:5f33f127d097a5d4a3f3bd3492e8dc4b4a53c8757a183e22bbf6f90d9cf9b7c5
+tags:
+  0.3.5--py_5: sha256:5f33f127d097a5d4a3f3bd3492e8dc4b4a53c8757a183e22bbf6f90d9cf9b7c5
+docker: quay.io/biocontainers/stream_atac
+aliases:
+  stream_atac: /usr/local/bin/stream_atac
+  zip: /usr/local/bin/zip
+  funzip: /usr/local/bin/funzip
+  unzipsfx: /usr/local/bin/unzipsfx
+  zipgrep: /usr/local/bin/zipgrep
+  zipinfo: /usr/local/bin/zipinfo
+  unzip: /usr/local/bin/unzip
+  jupyter-bundlerextension: /usr/local/bin/jupyter-bundlerextension
+  jupyter-nbextension: /usr/local/bin/jupyter-nbextension
+  jupyter-notebook: /usr/local/bin/jupyter-notebook
+  jupyter-serverextension: /usr/local/bin/jupyter-serverextension
+  jupyter-nbconvert: /usr/local/bin/jupyter-nbconvert
+  iptest3: /usr/local/bin/iptest3
+  jupyter-kernel: /usr/local/bin/jupyter-kernel
+  jupyter-kernelspec: /usr/local/bin/jupyter-kernelspec
+  jupyter-run: /usr/local/bin/jupyter-run
+  iptest: /usr/local/bin/iptest
+  curve_keygen: /usr/local/bin/curve_keygen
+  pandoc-citeproc: /usr/local/bin/pandoc-citeproc
+  ipython3: /usr/local/bin/ipython3
+  ipython: /usr/local/bin/ipython
+  jupyter-trust: /usr/local/bin/jupyter-trust
+  natsort: /usr/local/bin/natsort
+  jupyter: /usr/local/bin/jupyter
+  jupyter-migrate: /usr/local/bin/jupyter-migrate
+  jupyter-troubleshoot: /usr/local/bin/jupyter-troubleshoot

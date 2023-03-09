@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-tvtb
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-tvtb
+latest:
+  1.8.0--r351_0: sha256:5b06f2bbb52cafe3dcfef8eba452f22918409991e1264cb26da186c7434e2329
+tags:
+  1.8.0--r351_0: sha256:5b06f2bbb52cafe3dcfef8eba452f22918409991e1264cb26da186c7434e2329
+docker: quay.io/biocontainers/bioconductor-tvtb
+aliases:
+  wget: /usr/local/bin/wget
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

@@ -1,0 +1,26 @@
+url: https://biocontainers.pro/tools/htseq
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for htseq
+latest:
+  0.9.1--py37h70f9b12_3: sha256:f10c9c62602ecef7b4c32ed64e506b4dc4d024d3d07aa45498fd18a684c17464
+tags:
+  0.9.1--py37h70f9b12_3: sha256:f10c9c62602ecef7b4c32ed64e506b4dc4d024d3d07aa45498fd18a684c17464
+docker: quay.io/biocontainers/htseq
+aliases:
+  htseq-count: /usr/local/bin/htseq-count
+  htseq-qa: /usr/local/bin/htseq-qa
+  f2py3.7: /usr/local/bin/f2py3.7
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  jpgicc: /usr/local/bin/jpgicc
+  linkicc: /usr/local/bin/linkicc
+  psicc: /usr/local/bin/psicc
+  tificc: /usr/local/bin/tificc
+  transicc: /usr/local/bin/transicc
+  pyvenv: /usr/local/bin/pyvenv

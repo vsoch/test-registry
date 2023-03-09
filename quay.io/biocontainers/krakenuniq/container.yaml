@@ -1,0 +1,33 @@
+url: https://biocontainers.pro/tools/krakenuniq
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for krakenuniq
+latest:
+  1.0.1a--pl5321h19e8d03_1: sha256:6e3e0ae1accf6002e746fe4bb3de8e81bcb206ceeaf5ee59f0cb299c4a90d11e
+tags:
+  1.0.1a--pl5321h19e8d03_1: sha256:6e3e0ae1accf6002e746fe4bb3de8e81bcb206ceeaf5ee59f0cb299c4a90d11e
+docker: quay.io/biocontainers/krakenuniq
+aliases:
+  build_taxdb: /usr/local/bin/build_taxdb
+  krakenuniq: /usr/local/bin/krakenuniq
+  krakenuniq-build: /usr/local/bin/krakenuniq-build
+  krakenuniq-download: /usr/local/bin/krakenuniq-download
+  krakenuniq-extract-reads: /usr/local/bin/krakenuniq-extract-reads
+  krakenuniq-filter: /usr/local/bin/krakenuniq-filter
+  krakenuniq-mpa-report: /usr/local/bin/krakenuniq-mpa-report
+  krakenuniq-report: /usr/local/bin/krakenuniq-report
+  krakenuniq-translate: /usr/local/bin/krakenuniq-translate
+  read_merger.pl: /usr/local/bin/read_merger.pl
+  rsync-ssl: /usr/local/bin/rsync-ssl
+  rsync: /usr/local/bin/rsync
+  xxh128sum: /usr/local/bin/xxh128sum
+  xxh32sum: /usr/local/bin/xxh32sum
+  xxh64sum: /usr/local/bin/xxh64sum
+  xxhsum: /usr/local/bin/xxhsum
+  jellyfish: /usr/local/bin/jellyfish
+  tar: /usr/local/bin/tar
+  lwp-download: /usr/local/bin/lwp-download
+  lwp-dump: /usr/local/bin/lwp-dump
+  lwp-mirror: /usr/local/bin/lwp-mirror
+  lwp-request: /usr/local/bin/lwp-request
+  idn2: /usr/local/bin/idn2
+  wget: /usr/local/bin/wget

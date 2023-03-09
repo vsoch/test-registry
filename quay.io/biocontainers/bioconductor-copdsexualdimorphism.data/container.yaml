@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-copdsexualdimorphism.data
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-copdsexualdimorphism.data
+latest:
+  1.30.0--r41hdfd78af_1: sha256:8dae0cf09b7edc153098992d48f5ad975d5742ac871d03c21f034c357d4ffb5c
+tags:
+  1.30.0--r41hdfd78af_1: sha256:8dae0cf09b7edc153098992d48f5ad975d5742ac871d03c21f034c357d4ffb5c
+docker: quay.io/biocontainers/bioconductor-copdsexualdimorphism.data

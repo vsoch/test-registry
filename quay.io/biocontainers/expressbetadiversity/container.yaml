@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/expressbetadiversity
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for expressbetadiversity
+latest:
+  1.0.10--h9f5acd7_3: sha256:76a28028846c5b78d430ff2646a91fa980827269c99c22b15fd791eff6c00d90
+tags:
+  1.0.10--h9f5acd7_3: sha256:76a28028846c5b78d430ff2646a91fa980827269c99c22b15fd791eff6c00d90
+docker: quay.io/biocontainers/expressbetadiversity
+aliases:
+  AbstractPlot.py: /usr/local/bin/AbstractPlot.py
+  ExpressBetaDiversity: /usr/local/bin/ExpressBetaDiversity
+  convertToEBD.py: /usr/local/bin/convertToEBD.py
+  convertToFullMatrix.py: /usr/local/bin/convertToFullMatrix.py
+  pcoaPlot.py: /usr/local/bin/pcoaPlot.py
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  brotli: /usr/local/bin/brotli
+  img2webp: /usr/local/bin/img2webp
+  cwebp: /usr/local/bin/cwebp
+  dwebp: /usr/local/bin/dwebp
+  gif2webp: /usr/local/bin/gif2webp
+  f2py3.10: /usr/local/bin/f2py3.10
+  opj_compress: /usr/local/bin/opj_compress
+  opj_decompress: /usr/local/bin/opj_decompress
+  opj_dump: /usr/local/bin/opj_dump
+  gif2rgb: /usr/local/bin/gif2rgb
+  gifbuild: /usr/local/bin/gifbuild
+  gifclrmp: /usr/local/bin/gifclrmp
+  giffix: /usr/local/bin/giffix
+  giftext: /usr/local/bin/giftext
+  giftool: /usr/local/bin/giftool
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

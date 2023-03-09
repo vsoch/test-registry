@@ -1,0 +1,25 @@
+url: https://biocontainers.pro/tools/python-goenrichment
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for python-goenrichment
+latest:
+  1.0.3--pyh5e36f6f_0: sha256:54dcc4c1acb4f47a62b86c72276c9d5a85034d1f3c802922a6a6e83c813155f7
+tags:
+  1.0.3--pyh5e36f6f_0: sha256:54dcc4c1acb4f47a62b86c72276c9d5a85034d1f3c802922a6a6e83c813155f7
+docker: quay.io/biocontainers/python-goenrichment
+aliases:
+  goenrich: /usr/local/bin/goenrich
+  goenrich_createdb: /usr/local/bin/goenrich_createdb
+  f2py3.9: /usr/local/bin/f2py3.9
+  opj_compress: /usr/local/bin/opj_compress
+  opj_decompress: /usr/local/bin/opj_decompress
+  opj_dump: /usr/local/bin/opj_dump
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config
+  jpgicc: /usr/local/bin/jpgicc
+  linkicc: /usr/local/bin/linkicc
+  psicc: /usr/local/bin/psicc
+  tificc: /usr/local/bin/tificc
+  transicc: /usr/local/bin/transicc

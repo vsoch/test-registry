@@ -1,0 +1,54 @@
+url: https://biocontainers.pro/tools/scanpy-scripts
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for scanpy-scripts
+latest:
+  1.1.2--pypyhdfd78af_1: sha256:c58b780539347faadb9073bebde291e5ae029457ec43f8754ad248b1f09fc085
+tags:
+  1.1.2--pypyhdfd78af_1: sha256:c58b780539347faadb9073bebde291e5ae029457ec43f8754ad248b1f09fc085
+docker: quay.io/biocontainers/scanpy-scripts
+aliases:
+  dunamai: /usr/local/bin/dunamai
+  loompy: /usr/local/bin/loompy
+  scanpy-cli: /usr/local/bin/scanpy-cli
+  scanpy-filter-cells: /usr/local/bin/scanpy-filter-cells
+  scanpy-filter-genes: /usr/local/bin/scanpy-filter-genes
+  scanpy-find-cluster: /usr/local/bin/scanpy-find-cluster
+  scanpy-find-markers: /usr/local/bin/scanpy-find-markers
+  scanpy-find-variable-genes: /usr/local/bin/scanpy-find-variable-genes
+  scanpy-integrate: /usr/local/bin/scanpy-integrate
+  scanpy-multiplet: /usr/local/bin/scanpy-multiplet
+  scanpy-neighbors: /usr/local/bin/scanpy-neighbors
+  scanpy-normalise-data: /usr/local/bin/scanpy-normalise-data
+  scanpy-read-10x: /usr/local/bin/scanpy-read-10x
+  scanpy-regress: /usr/local/bin/scanpy-regress
+  scanpy-run-pca: /usr/local/bin/scanpy-run-pca
+  scanpy-run-tsne: /usr/local/bin/scanpy-run-tsne
+  scanpy-run-umap: /usr/local/bin/scanpy-run-umap
+  scanpy-scale-data: /usr/local/bin/scanpy-scale-data
+  scanpy-scripts-tests.bats: /usr/local/bin/scanpy-scripts-tests.bats
+  tiff2fsspec: /usr/local/bin/tiff2fsspec
+  tiffcomment: /usr/local/bin/tiffcomment
+  JxrDecApp: /usr/local/bin/JxrDecApp
+  JxrEncApp: /usr/local/bin/JxrEncApp
+  cbrunsli: /usr/local/bin/cbrunsli
+  dbrunsli: /usr/local/bin/dbrunsli
+  imagecodecs: /usr/local/bin/imagecodecs
+  lsm2bin: /usr/local/bin/lsm2bin
+  tifffile: /usr/local/bin/tifffile
+  zfp: /usr/local/bin/zfp
+  zopfli: /usr/local/bin/zopfli
+  zopflipng: /usr/local/bin/zopflipng
+  imageio_download_bin: /usr/local/bin/imageio_download_bin
+  imageio_remove_bin: /usr/local/bin/imageio_remove_bin
+  skivi: /usr/local/bin/skivi
+  git: /usr/local/bin/git
+  git-cvsserver: /usr/local/bin/git-cvsserver
+  git-receive-pack: /usr/local/bin/git-receive-pack
+  git-shell: /usr/local/bin/git-shell
+  git-upload-archive: /usr/local/bin/git-upload-archive
+  git-upload-pack: /usr/local/bin/git-upload-pack
+  gitk: /usr/local/bin/gitk
+  scanpy: /usr/local/bin/scanpy
+  aec: /usr/local/bin/aec
+  igraph: /usr/local/bin/igraph
+  sphinx-apidoc: /usr/local/bin/sphinx-apidoc

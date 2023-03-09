@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/perl-dbd-pg
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for perl-dbd-pg
+latest:
+  3.8.1--pl526h14c3975_0: sha256:f4d5310c024fdaccdeb31dc97051644b09183b63c55366d4151989a6437a2845
+tags:
+  3.8.1--pl526h14c3975_0: sha256:f4d5310c024fdaccdeb31dc97051644b09183b63c55366d4151989a6437a2845
+docker: quay.io/biocontainers/perl-dbd-pg
+aliases:
+  pg_verify_checksums: /usr/local/bin/pg_verify_checksums
+  pg_standby: /usr/local/bin/pg_standby
+  tzselect: /usr/local/bin/tzselect
+  zdump: /usr/local/bin/zdump
+  zic: /usr/local/bin/zic
+  oid2name: /usr/local/bin/oid2name
+  pg_receivewal: /usr/local/bin/pg_receivewal
+  pg_resetwal: /usr/local/bin/pg_resetwal
+  pg_waldump: /usr/local/bin/pg_waldump
+  vacuumlo: /usr/local/bin/vacuumlo
+  clusterdb: /usr/local/bin/clusterdb
+  createdb: /usr/local/bin/createdb
+  createuser: /usr/local/bin/createuser
+  dropdb: /usr/local/bin/dropdb
+  dropuser: /usr/local/bin/dropuser
+  ecpg: /usr/local/bin/ecpg
+  initdb: /usr/local/bin/initdb
+  pg_archivecleanup: /usr/local/bin/pg_archivecleanup
+  pg_basebackup: /usr/local/bin/pg_basebackup
+  pg_controldata: /usr/local/bin/pg_controldata
+  pg_ctl: /usr/local/bin/pg_ctl
+  pg_dump: /usr/local/bin/pg_dump
+  pg_dumpall: /usr/local/bin/pg_dumpall
+  pg_isready: /usr/local/bin/pg_isready
+  pg_recvlogical: /usr/local/bin/pg_recvlogical
+  pg_restore: /usr/local/bin/pg_restore

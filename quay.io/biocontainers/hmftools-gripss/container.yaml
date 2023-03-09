@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/hmftools-gripss
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for hmftools-gripss
+latest:
+  2.2--hdfd78af_0: sha256:fe16bb19af8b567a95e3f5f06f0c86fa255fb80a3d0dd7268b75c1bea19e4d01
+tags:
+  2.2--hdfd78af_0: sha256:fe16bb19af8b567a95e3f5f06f0c86fa255fb80a3d0dd7268b75c1bea19e4d01
+docker: quay.io/biocontainers/hmftools-gripss
+aliases:
+  gripss: /usr/local/bin/gripss
+  cups-config: /usr/local/bin/cups-config
+  ippeveprinter: /usr/local/bin/ippeveprinter
+  ipptool: /usr/local/bin/ipptool
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd

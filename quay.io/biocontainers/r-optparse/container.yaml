@@ -1,0 +1,17 @@
+url: https://biocontainers.pro/tools/r-optparse
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-optparse
+latest:
+  1.6.0: sha256:8611f18446d462dd0ff557857322ab56fd3fff2004160ef73c737e3cf5b11886
+tags:
+  1.6.0: sha256:8611f18446d462dd0ff557857322ab56fd3fff2004160ef73c737e3cf5b11886
+docker: quay.io/biocontainers/r-optparse
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

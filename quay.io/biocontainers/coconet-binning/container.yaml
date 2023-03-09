@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/coconet-binning
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for coconet-binning
+latest:
+  1.1.0--py_0: sha256:a6f0996c05cb22d39afc382b114ee1ea528c6e2421a711d51a1a73f0d59de8da
+tags:
+  1.1.0--py_0: sha256:a6f0996c05cb22d39afc382b114ee1ea528c6e2421a711d51a1a73f0d59de8da
+docker: quay.io/biocontainers/coconet-binning
+aliases:
+  coconet: /usr/local/bin/coconet
+  pybind11-config: /usr/local/bin/pybind11-config
+  convert-caffe2-to-onnx: /usr/local/bin/convert-caffe2-to-onnx
+  convert-onnx-to-caffe2: /usr/local/bin/convert-onnx-to-caffe2
+  ninja: /usr/local/bin/ninja
+  igraph: /usr/local/bin/igraph
+  doesitcache: /usr/local/bin/doesitcache
+  iptest3: /usr/local/bin/iptest3
+  iptest: /usr/local/bin/iptest
+  ipython3: /usr/local/bin/ipython3
+  cygdb: /usr/local/bin/cygdb
+  cython: /usr/local/bin/cython
+  cythonize: /usr/local/bin/cythonize
+  ipython: /usr/local/bin/ipython
+  natsort: /usr/local/bin/natsort
+  py.test: /usr/local/bin/py.test
+  pytest: /usr/local/bin/pytest
+  pygmentize: /usr/local/bin/pygmentize
+  f2py3.7: /usr/local/bin/f2py3.7
+  chardetect: /usr/local/bin/chardetect
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7

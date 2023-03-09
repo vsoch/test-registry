@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-genie3
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-genie3
+latest:
+  1.8.0--r36h516909a_0: sha256:329e18138e2cc4eb4d826fb8dbbb896b6e9308229c996c617d8e8eca6eb689ce
+tags:
+  1.8.0--r36h516909a_0: sha256:329e18138e2cc4eb4d826fb8dbbb896b6e9308229c996c617d8e8eca6eb689ce
+docker: quay.io/biocontainers/bioconductor-genie3
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

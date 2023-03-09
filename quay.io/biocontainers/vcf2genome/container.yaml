@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/vcf2genome
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for vcf2genome
+latest:
+  0.91--hdfd78af_2: sha256:ea94a9e9ec29e3969578516d1b779079416dab82e00c97f4fb2b878e3b77a75c
+tags:
+  0.91--hdfd78af_2: sha256:ea94a9e9ec29e3969578516d1b779079416dab82e00c97f4fb2b878e3b77a75c
+docker: quay.io/biocontainers/vcf2genome
+aliases:
+  vcf2genome: /usr/local/bin/vcf2genome
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd
+  jconsole: /usr/local/bin/jconsole
+  jdb: /usr/local/bin/jdb
+  jinfo: /usr/local/bin/jinfo

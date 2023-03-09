@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/bcbio-rnaseq
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bcbio-rnaseq
+latest:
+  1.2.0--r3.4.1_3: sha256:1b63d9dad99ac80f3f6c157bb00c520a024f30675242c9a6474b1fca58a0a950
+tags:
+  1.2.0--r3.4.1_3: sha256:1b63d9dad99ac80f3f6c157bb00c520a024f30675242c9a6474b1fca58a0a950
+docker: quay.io/biocontainers/bcbio-rnaseq
+aliases:
+  bcbio-rnaseq: /usr/local/bin/bcbio-rnaseq
+  pandoc-citeproc: /usr/local/bin/pandoc-citeproc
+  extcheck: /usr/local/bin/extcheck
+  java-rmi.cgi: /usr/local/bin/java-rmi.cgi
+  javah: /usr/local/bin/javah
+  jhat: /usr/local/bin/jhat
+  jsadebugd: /usr/local/bin/jsadebugd
+  native2ascii: /usr/local/bin/native2ascii
+  policytool: /usr/local/bin/policytool
+  appletviewer: /usr/local/bin/appletviewer
+  idlj: /usr/local/bin/idlj
+  orbd: /usr/local/bin/orbd
+  schemagen: /usr/local/bin/schemagen
+  servertool: /usr/local/bin/servertool
+  tnameserv: /usr/local/bin/tnameserv
+  wsgen: /usr/local/bin/wsgen
+  wsimport: /usr/local/bin/wsimport
+  xjc: /usr/local/bin/xjc
+  bmp2tiff: /usr/local/bin/bmp2tiff
+  gif2tiff: /usr/local/bin/gif2tiff
+  ras2tiff: /usr/local/bin/ras2tiff
+  rgb2ycbcr: /usr/local/bin/rgb2ycbcr
+  thumbnail: /usr/local/bin/thumbnail
+  pandoc: /usr/local/bin/pandoc
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200

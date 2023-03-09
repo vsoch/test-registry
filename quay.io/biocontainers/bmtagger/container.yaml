@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/bmtagger
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bmtagger
+latest:
+  3.101--h470a237_4: sha256:12d6761b05b473971e38cf4ff438e6614c7e39128a51bec3073f7158c2d3ef97
+tags:
+  3.101--h470a237_4: sha256:12d6761b05b473971e38cf4ff438e6614c7e39128a51bec3073f7158c2d3ef97
+docker: quay.io/biocontainers/bmtagger
+aliases:
+  bmfilter: /usr/local/bin/bmfilter
+  bmtagger.sh: /usr/local/bin/bmtagger.sh
+  bmtool: /usr/local/bin/bmtool
+  extract_fullseq: /usr/local/bin/extract_fullseq
+  srprism: /usr/local/bin/srprism
+  test_pcre: /usr/local/bin/test_pcre
+  blastdbcp: /usr/local/bin/blastdbcp
+  gene_info_reader: /usr/local/bin/gene_info_reader
+  seqdb_demo: /usr/local/bin/seqdb_demo
+  seqdb_perf: /usr/local/bin/seqdb_perf
+  seedtop: /usr/local/bin/seedtop
+  run_with_lock: /usr/local/bin/run_with_lock
+  blast_formatter: /usr/local/bin/blast_formatter
+  blastdb_aliastool: /usr/local/bin/blastdb_aliastool
+  blastdbcheck: /usr/local/bin/blastdbcheck
+  blastdbcmd: /usr/local/bin/blastdbcmd
+  blastn: /usr/local/bin/blastn
+  blastp: /usr/local/bin/blastp
+  blastx: /usr/local/bin/blastx
+  convert2blastmask: /usr/local/bin/convert2blastmask
+  datatool: /usr/local/bin/datatool
+  deltablast: /usr/local/bin/deltablast
+  dustmasker: /usr/local/bin/dustmasker
+  legacy_blast.pl: /usr/local/bin/legacy_blast.pl
+  makembindex: /usr/local/bin/makembindex
+  makeprofiledb: /usr/local/bin/makeprofiledb
+  project_tree_builder: /usr/local/bin/project_tree_builder
+  psiblast: /usr/local/bin/psiblast
+  rpstblastn: /usr/local/bin/rpstblastn
+  segmasker: /usr/local/bin/segmasker

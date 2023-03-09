@@ -1,0 +1,19 @@
+url: https://biocontainers.pro/tools/pydownsampler
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pydownsampler
+latest:
+  1.0--py_0: sha256:9cdc7691bed5e28a1dbc4a2baa9bf4bb6d4f13b43392e97655db50314ddb90e9
+tags:
+  1.0--py_0: sha256:9cdc7691bed5e28a1dbc4a2baa9bf4bb6d4f13b43392e97655db50314ddb90e9
+docker: quay.io/biocontainers/pydownsampler
+aliases:
+  pydownsampler: /usr/local/bin/pydownsampler
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  pyvenv: /usr/local/bin/pyvenv

@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/wbuild
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for wbuild
+latest:
+  1.8.0--pyhdfd78af_1: sha256:52b2860b4b52abf59ae4be85990d5ce46b995c40876188f86e36693fd1da471f
+tags:
+  1.8.0--pyhdfd78af_1: sha256:52b2860b4b52abf59ae4be85990d5ce46b995c40876188f86e36693fd1da471f
+docker: quay.io/biocontainers/wbuild
+aliases:
+  wbuild: /usr/local/bin/wbuild
+  pulptest: /usr/local/bin/pulptest
+  cbc: /usr/local/bin/cbc
+  clp: /usr/local/bin/clp
+  snakemake: /usr/local/bin/snakemake
+  snakemake-bash-completion: /usr/local/bin/snakemake-bash-completion
+  tabulate: /usr/local/bin/tabulate
+  jupyter-trust: /usr/local/bin/jupyter-trust
+  jupyter: /usr/local/bin/jupyter
+  jupyter-migrate: /usr/local/bin/jupyter-migrate
+  jupyter-troubleshoot: /usr/local/bin/jupyter-troubleshoot
+  rst2html4.py: /usr/local/bin/rst2html4.py
+  rst2html5.py: /usr/local/bin/rst2html5.py
+  rst2html.py: /usr/local/bin/rst2html.py
+  rst2latex.py: /usr/local/bin/rst2latex.py
+  rst2man.py: /usr/local/bin/rst2man.py
+  rst2odt.py: /usr/local/bin/rst2odt.py
+  rst2odt_prepstyles.py: /usr/local/bin/rst2odt_prepstyles.py
+  rst2pseudoxml.py: /usr/local/bin/rst2pseudoxml.py
+  rst2s5.py: /usr/local/bin/rst2s5.py
+  rst2xetex.py: /usr/local/bin/rst2xetex.py
+  rst2xml.py: /usr/local/bin/rst2xml.py
+  rstpep2html.py: /usr/local/bin/rstpep2html.py
+  jsonschema: /usr/local/bin/jsonschema
+  chardetect: /usr/local/bin/chardetect
+  2to3-3.9: /usr/local/bin/2to3-3.9

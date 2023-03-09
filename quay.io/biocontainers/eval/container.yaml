@@ -1,0 +1,49 @@
+url: https://biocontainers.pro/tools/eval
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for eval
+latest:
+  2.2.8--pl526_1: sha256:8fc80165439a7328b8332e38f4063047bf60204244a6dcac9e499abff5bec2d9
+tags:
+  2.2.8--pl526_1: sha256:8fc80165439a7328b8332e38f4063047bf60204244a6dcac9e499abff5bec2d9
+docker: quay.io/biocontainers/eval
+aliases:
+  RangeFinder.py: /usr/local/bin/RangeFinder.py
+  combine_eval_reports.pl: /usr/local/bin/combine_eval_reports.pl
+  eval.pl: /usr/local/bin/eval.pl
+  evaluate_gtf.pl: /usr/local/bin/evaluate_gtf.pl
+  filter_badlist.pl: /usr/local/bin/filter_badlist.pl
+  filter_gtfs.pl: /usr/local/bin/filter_gtfs.pl
+  get_distribution.pl: /usr/local/bin/get_distribution.pl
+  get_general_stats.pl: /usr/local/bin/get_general_stats.pl
+  get_overlap_stats.pl: /usr/local/bin/get_overlap_stats.pl
+  gff3_to_gtf.pl: /usr/local/bin/gff3_to_gtf.pl
+  graph_gtfs.pl: /usr/local/bin/graph_gtfs.pl
+  make_intron_lenght_vs_performance_graph.pl: /usr/local/bin/make_intron_lenght_vs_performance_graph.pl
+  merge_gtf_transcripts.py: /usr/local/bin/merge_gtf_transcripts.py
+  validate_gtf.pl: /usr/local/bin/validate_gtf.pl
+  validate_splice_sites.pl: /usr/local/bin/validate_splice_sites.pl
+  bp_pairwise_kaks.pl: /usr/local/bin/bp_pairwise_kaks.pl
+  bp_search2BSML.pl: /usr/local/bin/bp_search2BSML.pl
+  bp_aacomp.pl: /usr/local/bin/bp_aacomp.pl
+  bp_biofetch_genbank_proxy.pl: /usr/local/bin/bp_biofetch_genbank_proxy.pl
+  bp_bioflat_index.pl: /usr/local/bin/bp_bioflat_index.pl
+  bp_biogetseq.pl: /usr/local/bin/bp_biogetseq.pl
+  bp_blast2tree.pl: /usr/local/bin/bp_blast2tree.pl
+  bp_bulk_load_gff.pl: /usr/local/bin/bp_bulk_load_gff.pl
+  bp_chaos_plot.pl: /usr/local/bin/bp_chaos_plot.pl
+  bp_classify_hits_kingdom.pl: /usr/local/bin/bp_classify_hits_kingdom.pl
+  bp_composite_LD.pl: /usr/local/bin/bp_composite_LD.pl
+  bp_das_server.pl: /usr/local/bin/bp_das_server.pl
+  bp_dbsplit.pl: /usr/local/bin/bp_dbsplit.pl
+  bp_download_query_genbank.pl: /usr/local/bin/bp_download_query_genbank.pl
+  bp_extract_feature_seq.pl: /usr/local/bin/bp_extract_feature_seq.pl
+  bp_fast_load_gff.pl: /usr/local/bin/bp_fast_load_gff.pl
+  bp_fastam9_to_table.pl: /usr/local/bin/bp_fastam9_to_table.pl
+  bp_fetch.pl: /usr/local/bin/bp_fetch.pl
+  bp_filter_search.pl: /usr/local/bin/bp_filter_search.pl
+  bp_flanks.pl: /usr/local/bin/bp_flanks.pl
+  bp_gccalc.pl: /usr/local/bin/bp_gccalc.pl
+  bp_genbank2gff.pl: /usr/local/bin/bp_genbank2gff.pl
+  bp_genbank2gff3.pl: /usr/local/bin/bp_genbank2gff3.pl
+  bp_generate_histogram.pl: /usr/local/bin/bp_generate_histogram.pl
+  bp_heterogeneity_test.pl: /usr/local/bin/bp_heterogeneity_test.pl

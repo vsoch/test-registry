@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/vcfkit
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for vcfkit
+latest:
+  0.2.9--pyh5bfb8f1_0: sha256:e536f8da2dfa08ba638070f9c69de2dd5981b1e8116a394d059b8b4fbbe0f342
+tags:
+  0.2.9--pyh5bfb8f1_0: sha256:e536f8da2dfa08ba638070f9c69de2dd5981b1e8116a394d059b8b4fbbe0f342
+docker: quay.io/biocontainers/vcfkit
+aliases:
+  vk: /usr/local/bin/vk
+  unidecode: /usr/local/bin/unidecode
+  cyvcf2: /usr/local/bin/cyvcf2
+  muscle: /usr/local/bin/muscle
+  CA.pm: /usr/local/bin/CA.pm
+  cacert.pem: /usr/local/bin/cacert.pem
+  index-themes: /usr/local/bin/index-themes
+  coloredlogs: /usr/local/bin/coloredlogs
+  humanfriendly: /usr/local/bin/humanfriendly
+  fetch-extras: /usr/local/bin/fetch-extras
+  go.mod: /usr/local/bin/go.mod
+  go.sum: /usr/local/bin/go.sum
+  hlp-xtract.txt: /usr/local/bin/hlp-xtract.txt
+  index-extras: /usr/local/bin/index-extras
+  pm-collect: /usr/local/bin/pm-collect
+  readme.pdf: /usr/local/bin/readme.pdf
+  cygdb: /usr/local/bin/cygdb
+  cython: /usr/local/bin/cython
+  cythonize: /usr/local/bin/cythonize
+  bt-context.txt: /usr/local/bin/bt-context.txt
+  bt-link: /usr/local/bin/bt-link
+  bt-load: /usr/local/bin/bt-load
+  bt-save: /usr/local/bin/bt-save
+  bt-srch: /usr/local/bin/bt-srch
+  eblast: /usr/local/bin/eblast
+  pm-index: /usr/local/bin/pm-index

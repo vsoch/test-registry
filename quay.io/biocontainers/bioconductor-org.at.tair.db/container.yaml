@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-org.at.tair.db
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-org.at.tair.db
+latest:
+  3.8.2--r36_1: sha256:730005cd5c94a85888a574fc7874b3a4a27870e700d6825e074a69a8c93492fc
+tags:
+  3.8.2--r36_1: sha256:730005cd5c94a85888a574fc7874b3a4a27870e700d6825e074a69a8c93492fc
+docker: quay.io/biocontainers/bioconductor-org.at.tair.db
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

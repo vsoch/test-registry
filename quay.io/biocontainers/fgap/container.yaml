@@ -1,0 +1,45 @@
+url: https://biocontainers.pro/tools/fgap
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for fgap
+latest:
+  1.8.1--0: sha256:89d4f3d30391da72a2a4f15c4d85ed244b3ae25a4678c5acac1e7454824a660f
+tags:
+  1.8.1--0: sha256:89d4f3d30391da72a2a4f15c4d85ed244b3ae25a4678c5acac1e7454824a660f
+docker: quay.io/biocontainers/fgap
+aliases:
+  FGAP: /usr/local/bin/FGAP
+  fgap.m: /usr/local/bin/fgap.m
+  mkoctfile: /usr/local/bin/mkoctfile
+  mkoctfile-4.2.1: /usr/local/bin/mkoctfile-4.2.1
+  octave: /usr/local/bin/octave
+  octave-4.2.1: /usr/local/bin/octave-4.2.1
+  octave-cli: /usr/local/bin/octave-cli
+  octave-cli-4.2.1: /usr/local/bin/octave-cli-4.2.1
+  octave-config: /usr/local/bin/octave-config
+  octave-config-4.2.1: /usr/local/bin/octave-config-4.2.1
+  sndfile-regtest: /usr/local/bin/sndfile-regtest
+  flac: /usr/local/bin/flac
+  metaflac: /usr/local/bin/metaflac
+  sndfile-cmp: /usr/local/bin/sndfile-cmp
+  sndfile-concat: /usr/local/bin/sndfile-concat
+  sndfile-convert: /usr/local/bin/sndfile-convert
+  sndfile-deinterleave: /usr/local/bin/sndfile-deinterleave
+  sndfile-info: /usr/local/bin/sndfile-info
+  sndfile-interleave: /usr/local/bin/sndfile-interleave
+  sndfile-metadata-get: /usr/local/bin/sndfile-metadata-get
+  sndfile-metadata-set: /usr/local/bin/sndfile-metadata-set
+  sndfile-play: /usr/local/bin/sndfile-play
+  sndfile-salvage: /usr/local/bin/sndfile-salvage
+  gnuplot: /usr/local/bin/gnuplot
+  test_pcre: /usr/local/bin/test_pcre
+  gifecho: /usr/local/bin/gifecho
+  gifinto: /usr/local/bin/gifinto
+  gdlib-config: /usr/local/bin/gdlib-config
+  blastdbcp: /usr/local/bin/blastdbcp
+  gene_info_reader: /usr/local/bin/gene_info_reader
+  seqdb_demo: /usr/local/bin/seqdb_demo
+  seqdb_perf: /usr/local/bin/seqdb_perf
+  cmpfillin: /usr/local/bin/cmpfillin
+  gpmetis: /usr/local/bin/gpmetis
+  graphchk: /usr/local/bin/graphchk
+  m2gmetis: /usr/local/bin/m2gmetis

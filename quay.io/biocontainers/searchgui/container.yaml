@@ -1,0 +1,44 @@
+url: https://biocontainers.pro/tools/searchgui
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for searchgui
+latest:
+  3.3.9--1: sha256:aa164bf07a166fcc397a07cd5d9b51df9162a3253ea9ab0bbabcac420a3cdbce
+tags:
+  3.3.9--1: sha256:aa164bf07a166fcc397a07cd5d9b51df9162a3253ea9ab0bbabcac420a3cdbce
+docker: quay.io/biocontainers/searchgui
+aliases:
+  csc: /usr/local/bin/csc
+  csc-dim: /usr/local/bin/csc-dim
+  csi: /usr/local/bin/csi
+  illinkanalyzer: /usr/local/bin/illinkanalyzer
+  monograph: /usr/local/bin/monograph
+  nunit-console: /usr/local/bin/nunit-console
+  nunit-console2: /usr/local/bin/nunit-console2
+  nunit-console4: /usr/local/bin/nunit-console4
+  searchgui: /usr/local/bin/searchgui
+  vbc: /usr/local/bin/vbc
+  mono-package-runtime: /usr/local/bin/mono-package-runtime
+  sgen-grep-binprot: /usr/local/bin/sgen-grep-binprot
+  al: /usr/local/bin/al
+  al2: /usr/local/bin/al2
+  caspol: /usr/local/bin/caspol
+  cccheck: /usr/local/bin/cccheck
+  ccrewrite: /usr/local/bin/ccrewrite
+  cert-sync: /usr/local/bin/cert-sync
+  cert2spc: /usr/local/bin/cert2spc
+  certmgr: /usr/local/bin/certmgr
+  chktrust: /usr/local/bin/chktrust
+  crlupdate: /usr/local/bin/crlupdate
+  csharp: /usr/local/bin/csharp
+  dmcs: /usr/local/bin/dmcs
+  dtd2rng: /usr/local/bin/dtd2rng
+  dtd2xsd: /usr/local/bin/dtd2xsd
+  gacutil: /usr/local/bin/gacutil
+  gacutil2: /usr/local/bin/gacutil2
+  genxs: /usr/local/bin/genxs
+  httpcfg: /usr/local/bin/httpcfg
+  ikdasm: /usr/local/bin/ikdasm
+  ilasm: /usr/local/bin/ilasm
+  installvst: /usr/local/bin/installvst
+  lc: /usr/local/bin/lc
+  macpack: /usr/local/bin/macpack

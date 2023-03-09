@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/anadama2
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for anadama2
+latest:
+  0.8.0--pyhdfd78af_0: sha256:eb63964c5eda4d732e554f5aca4374f2f77e71e51dfc8311873a1f568e80cba4
+tags:
+  0.8.0--pyhdfd78af_0: sha256:eb63964c5eda4d732e554f5aca4374f2f77e71e51dfc8311873a1f568e80cba4
+docker: quay.io/biocontainers/anadama2
+aliases:
+  anadama2_aws_batch_task: /usr/local/bin/anadama2_aws_batch_task
+  ptangle: /usr/local/bin/ptangle
+  pweave: /usr/local/bin/pweave
+  pweave-convert: /usr/local/bin/pweave-convert
+  pypublish: /usr/local/bin/pypublish
+  jupyter-nbconvert: /usr/local/bin/jupyter-nbconvert
+  iptest3: /usr/local/bin/iptest3
+  jupyter-kernel: /usr/local/bin/jupyter-kernel
+  jupyter-kernelspec: /usr/local/bin/jupyter-kernelspec
+  jupyter-run: /usr/local/bin/jupyter-run
+  iptest: /usr/local/bin/iptest
+  curve_keygen: /usr/local/bin/curve_keygen
+  ipython3: /usr/local/bin/ipython3
+  ipython: /usr/local/bin/ipython
+  markdown_py: /usr/local/bin/markdown_py
+  jupyter-trust: /usr/local/bin/jupyter-trust
+  jupyter: /usr/local/bin/jupyter
+  jupyter-migrate: /usr/local/bin/jupyter-migrate
+  jupyter-troubleshoot: /usr/local/bin/jupyter-troubleshoot
+  jsonschema: /usr/local/bin/jsonschema
+  pygmentize: /usr/local/bin/pygmentize
+  pandoc: /usr/local/bin/pandoc
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config

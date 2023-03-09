@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/digestiflow-demux
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for digestiflow-demux
+latest:
+  0.5.2--py_0: sha256:9ff7c24380e4ab456d3651f13ce15af623c794b66f386378e529119c63480ee5
+tags:
+  0.5.2--py_0: sha256:9ff7c24380e4ab456d3651f13ce15af623c794b66f386378e529119c63480ee5
+docker: quay.io/biocontainers/digestiflow-demux
+aliases:
+  digestiflow-demux: /usr/local/bin/digestiflow-demux
+  git: /usr/local/bin/git
+  git-cvsserver: /usr/local/bin/git-cvsserver
+  git-receive-pack: /usr/local/bin/git-receive-pack
+  git-shell: /usr/local/bin/git-shell
+  git-upload-archive: /usr/local/bin/git-upload-archive
+  git-upload-pack: /usr/local/bin/git-upload-pack
+  gitk: /usr/local/bin/gitk
+  cxpm: /usr/local/bin/cxpm
+  sxpm: /usr/local/bin/sxpm
+  coloredlogs: /usr/local/bin/coloredlogs
+  humanfriendly: /usr/local/bin/humanfriendly
+  snakemake: /usr/local/bin/snakemake
+  snakemake-bash-completion: /usr/local/bin/snakemake-bash-completion
+  jp.py: /usr/local/bin/jp.py
+  pyrsa-decrypt: /usr/local/bin/pyrsa-decrypt
+  pyrsa-encrypt: /usr/local/bin/pyrsa-encrypt
+  pyrsa-keygen: /usr/local/bin/pyrsa-keygen
+  pyrsa-priv2pub: /usr/local/bin/pyrsa-priv2pub
+  pyrsa-sign: /usr/local/bin/pyrsa-sign
+  pyrsa-verify: /usr/local/bin/pyrsa-verify
+  rst2html4.py: /usr/local/bin/rst2html4.py
+  rst2html5.py: /usr/local/bin/rst2html5.py
+  rst2html.py: /usr/local/bin/rst2html.py
+  rst2latex.py: /usr/local/bin/rst2latex.py
+  rst2man.py: /usr/local/bin/rst2man.py

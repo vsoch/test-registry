@@ -1,0 +1,40 @@
+url: https://biocontainers.pro/tools/pegasuspy
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pegasuspy
+latest:
+  1.7.1--py39hbf8eff0_0: sha256:97d2aee83385e763406e04bfe198d6a5dd63d454e115174c16397775c9c92ce0
+tags:
+  1.7.1--py39hbf8eff0_0: sha256:97d2aee83385e763406e04bfe198d6a5dd63d454e115174c16397775c9c92ce0
+docker: quay.io/biocontainers/pegasuspy
+aliases:
+  demuxEM: /usr/local/bin/demuxEM
+  loompy: /usr/local/bin/loompy
+  pegasus: /usr/local/bin/pegasus
+  pegasusio: /usr/local/bin/pegasusio
+  pybind11-config: /usr/local/bin/pybind11-config
+  wordcloud_cli: /usr/local/bin/wordcloud_cli
+  torchrun: /usr/local/bin/torchrun
+  csv-import: /usr/local/bin/csv-import
+  orc-memory: /usr/local/bin/orc-memory
+  orc-scan: /usr/local/bin/orc-scan
+  timezone-dump: /usr/local/bin/timezone-dump
+  orc-contents: /usr/local/bin/orc-contents
+  orc-metadata: /usr/local/bin/orc-metadata
+  orc-statistics: /usr/local/bin/orc-statistics
+  plasma-store-server: /usr/local/bin/plasma-store-server
+  plasma_store: /usr/local/bin/plasma_store
+  sha256_profile: /usr/local/bin/sha256_profile
+  gflags_completions.sh: /usr/local/bin/gflags_completions.sh
+  convert-caffe2-to-onnx: /usr/local/bin/convert-caffe2-to-onnx
+  convert-onnx-to-caffe2: /usr/local/bin/convert-onnx-to-caffe2
+  ninja: /usr/local/bin/ninja
+  igraph: /usr/local/bin/igraph
+  vba_extract.py: /usr/local/bin/vba_extract.py
+  cmpfillin: /usr/local/bin/cmpfillin
+  gpmetis: /usr/local/bin/gpmetis
+  graphchk: /usr/local/bin/graphchk
+  m2gmetis: /usr/local/bin/m2gmetis
+  mpmetis: /usr/local/bin/mpmetis
+  ndmetis: /usr/local/bin/ndmetis
+  grpc_cpp_plugin: /usr/local/bin/grpc_cpp_plugin
+  grpc_csharp_plugin: /usr/local/bin/grpc_csharp_plugin

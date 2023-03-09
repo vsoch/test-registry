@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/plasflow
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for plasflow
+latest:
+  1.1.0--py35_0: 'crane digest quay.io/biocontainers/plasflow:1.1.0--py35_0: unrecognized
+    HTTP status: 502 Bad Gateway'
+tags:
+  1.1.0--py35_0: 'crane digest quay.io/biocontainers/plasflow:1.1.0--py35_0: unrecognized
+    HTTP status: 502 Bad Gateway'
+docker: quay.io/biocontainers/plasflow
+aliases:
+  PlasFlow.py: /usr/local/bin/PlasFlow.py
+  enhancer.py: /usr/local/bin/enhancer.py
+  explode.py: /usr/local/bin/explode.py
+  gifmaker.py: /usr/local/bin/gifmaker.py
+  painter.py: /usr/local/bin/painter.py
+  player.py: /usr/local/bin/player.py
+  thresholder.py: /usr/local/bin/thresholder.py
+  viewer.py: /usr/local/bin/viewer.py
+  pilconvert.py: /usr/local/bin/pilconvert.py
+  pildriver.py: /usr/local/bin/pildriver.py
+  pilfile.py: /usr/local/bin/pilfile.py
+  pilfont.py: /usr/local/bin/pilfont.py
+  pilprint.py: /usr/local/bin/pilprint.py
+  freeze_graph: /usr/local/bin/freeze_graph
+  sample: /usr/local/bin/sample
+  tflite_convert: /usr/local/bin/tflite_convert
+  saved_model_cli: /usr/local/bin/saved_model_cli
+  toco: /usr/local/bin/toco
+  toco_from_protos: /usr/local/bin/toco_from_protos
+  tensorboard: /usr/local/bin/tensorboard
+  markdown_py: /usr/local/bin/markdown_py
+  2to3-3.5: /usr/local/bin/2to3-3.5
+  idle3.5: /usr/local/bin/idle3.5
+  pydoc3.5: /usr/local/bin/pydoc3.5
+  python3.5: /usr/local/bin/python3.5
+  python3.5-config: /usr/local/bin/python3.5-config

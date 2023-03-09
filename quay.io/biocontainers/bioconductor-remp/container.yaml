@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-remp
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-remp
+latest:
+  1.8.1--r36_1: sha256:2226aacfbc6f34f9f10250ad1769c872398e69ff992d9d91495ef85559b1090a
+tags:
+  1.8.1--r36_1: sha256:2226aacfbc6f34f9f10250ad1769c872398e69ff992d9d91495ef85559b1090a
+docker: quay.io/biocontainers/bioconductor-remp
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

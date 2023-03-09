@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-wiggleplotr
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-wiggleplotr
+latest:
+  1.8.0--r36_1: sha256:4ef14dec7eb0e3b31934c99b9ca2cf2f4cf293bf32cfbe2c474f74ae73456e8b
+tags:
+  1.8.0--r36_1: sha256:4ef14dec7eb0e3b31934c99b9ca2cf2f4cf293bf32cfbe2c474f74ae73456e8b
+docker: quay.io/biocontainers/bioconductor-wiggleplotr
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

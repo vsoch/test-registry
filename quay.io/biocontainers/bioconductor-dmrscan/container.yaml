@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-dmrscan
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-dmrscan
+latest:
+  1.8.0--r351_0: sha256:0c0d295e6bd53ab970bf7f6bf48cb2b1ebec08c949acf8e8baf092b69e119f87
+tags:
+  1.8.0--r351_0: sha256:0c0d295e6bd53ab970bf7f6bf48cb2b1ebec08c949acf8e8baf092b69e119f87
+docker: quay.io/biocontainers/bioconductor-dmrscan
+aliases:
+  wget: /usr/local/bin/wget
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

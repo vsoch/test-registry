@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/qsignature
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for qsignature
+latest:
+  0.1pre--hdfd78af_5: sha256:d3498ae1ab91cab4c06fb2e6c502ddd332ba0ae89903311b13f34879058a6bff
+tags:
+  0.1pre--hdfd78af_5: sha256:d3498ae1ab91cab4c06fb2e6c502ddd332ba0ae89903311b13f34879058a6bff
+docker: quay.io/biocontainers/qsignature
+aliases:
+  qsignature: /usr/local/bin/qsignature
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd
+  jconsole: /usr/local/bin/jconsole
+  jdb: /usr/local/bin/jdb
+  jinfo: /usr/local/bin/jinfo

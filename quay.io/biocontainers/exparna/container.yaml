@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/exparna
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for exparna
+latest:
+  1.0.1--pl5321h9f5acd7_5: sha256:b49fb292fb9b0cb3806ed7ae453b997759f188f2a76a7500af2c83286bf0849d
+tags:
+  1.0.1--pl5321h9f5acd7_5: sha256:b49fb292fb9b0cb3806ed7ae453b997759f188f2a76a7500af2c83286bf0849d
+docker: quay.io/biocontainers/exparna
+aliases:
+  ExpaRNA: /usr/local/bin/ExpaRNA
+  RNAmultifold: /usr/local/bin/RNAmultifold
+  RNAdos: /usr/local/bin/RNAdos
+  AnalyseDists: /usr/local/bin/AnalyseDists
+  AnalyseSeqs: /usr/local/bin/AnalyseSeqs
+  RNAlocmin: /usr/local/bin/RNAlocmin
+  RNApvmin: /usr/local/bin/RNApvmin
+  b2ct: /usr/local/bin/b2ct
+  ct2db: /usr/local/bin/ct2db
+  kinwalker: /usr/local/bin/kinwalker
+  popt: /usr/local/bin/popt
+  RNA2Dfold: /usr/local/bin/RNA2Dfold
+  RNALalifold: /usr/local/bin/RNALalifold
+  RNAPKplex: /usr/local/bin/RNAPKplex
+  RNAparconv: /usr/local/bin/RNAparconv
+  RNAplex: /usr/local/bin/RNAplex
+  RNAsnoop: /usr/local/bin/RNAsnoop
+  RNAfold: /usr/local/bin/RNAfold
+  Kinfold: /usr/local/bin/Kinfold
+  RNALfold: /usr/local/bin/RNALfold
+  RNAaliduplex: /usr/local/bin/RNAaliduplex
+  RNAalifold: /usr/local/bin/RNAalifold
+  RNAcofold: /usr/local/bin/RNAcofold
+  RNAdistance: /usr/local/bin/RNAdistance
+  RNAduplex: /usr/local/bin/RNAduplex
+  RNAeval: /usr/local/bin/RNAeval

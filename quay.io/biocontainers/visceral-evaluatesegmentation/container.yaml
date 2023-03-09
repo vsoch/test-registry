@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/visceral-evaluatesegmentation
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for visceral-evaluatesegmentation
+latest:
+  2015.07.03--hc9558a2_1: sha256:878d55b6079e105e7a1ce323e9045cf0bcb1b95f744a3f8968d525bac7a73c32
+tags:
+  2015.07.03--hc9558a2_1: sha256:878d55b6079e105e7a1ce323e9045cf0bcb1b95f744a3f8968d525bac7a73c32
+docker: quay.io/biocontainers/visceral-evaluatesegmentation
+aliases:
+  EvaluateSegmentation: /usr/local/bin/EvaluateSegmentation
+  itkTestDriver: /usr/local/bin/itkTestDriver
+  fftw-wisdom: /usr/local/bin/fftw-wisdom
+  fftw-wisdom-to-conf: /usr/local/bin/fftw-wisdom-to-conf
+  fftwf-wisdom: /usr/local/bin/fftwf-wisdom
+  fftwl-wisdom: /usr/local/bin/fftwl-wisdom
+  h5clear: /usr/local/bin/h5clear
+  h5format_convert: /usr/local/bin/h5format_convert
+  h5watch: /usr/local/bin/h5watch
+  h5fc: /usr/local/bin/h5fc
+  gif2h5: /usr/local/bin/gif2h5
+  h52gif: /usr/local/bin/h52gif
+  h5c++: /usr/local/bin/h5c++
+  h5copy: /usr/local/bin/h5copy
+  h5debug: /usr/local/bin/h5debug
+  h5diff: /usr/local/bin/h5diff
+  h5import: /usr/local/bin/h5import
+  h5jam: /usr/local/bin/h5jam
+  h5ls: /usr/local/bin/h5ls
+  h5mkgrp: /usr/local/bin/h5mkgrp
+  h5perf_serial: /usr/local/bin/h5perf_serial
+  h5redeploy: /usr/local/bin/h5redeploy
+  h5repack: /usr/local/bin/h5repack
+  h5repart: /usr/local/bin/h5repart
+  h5stat: /usr/local/bin/h5stat
+  h5unjam: /usr/local/bin/h5unjam
+  h5dump: /usr/local/bin/h5dump

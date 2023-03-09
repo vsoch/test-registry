@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/mydbfinder
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for mydbfinder
+latest:
+  1.0.5--hdfd78af_0: sha256:c6cba933ac6348f1cb532533a060f16debc740a86c604dd7d14da09ef6b86d42
+tags:
+  1.0.5--hdfd78af_0: sha256:c6cba933ac6348f1cb532533a060f16debc740a86c604dd7d14da09ef6b86d42
+docker: quay.io/biocontainers/mydbfinder
+aliases:
+  curate_database.py: /usr/local/bin/curate_database.py
+  mydbfinder.py: /usr/local/bin/mydbfinder.py
+  kma: /usr/local/bin/kma
+  kma_index: /usr/local/bin/kma_index
+  kma_shm: /usr/local/bin/kma_shm
+  kma_update: /usr/local/bin/kma_update
+  tabulate: /usr/local/bin/tabulate
+  f2py3.6: /usr/local/bin/f2py3.6
+  edirect.py: /usr/local/bin/edirect.py
+  filter-columns: /usr/local/bin/filter-columns
+  fuse-segments: /usr/local/bin/fuse-segments
+  gene2range: /usr/local/bin/gene2range
+  tbl2prod: /usr/local/bin/tbl2prod
+  uniq-table: /usr/local/bin/uniq-table
+  align-columns: /usr/local/bin/align-columns
+  blst2tkns: /usr/local/bin/blst2tkns
+  csv2xml: /usr/local/bin/csv2xml
+  disambiguate-nucleotides: /usr/local/bin/disambiguate-nucleotides
+  download-ncbi-software: /usr/local/bin/download-ncbi-software
+  ecommon.sh: /usr/local/bin/ecommon.sh
+  find-in-gene: /usr/local/bin/find-in-gene
+  fuse-ranges: /usr/local/bin/fuse-ranges
+  hgvs2spdi: /usr/local/bin/hgvs2spdi
+  json2xml: /usr/local/bin/json2xml
+  print-columns: /usr/local/bin/print-columns
+  snp2hgvs: /usr/local/bin/snp2hgvs
+  snp2tbl: /usr/local/bin/snp2tbl

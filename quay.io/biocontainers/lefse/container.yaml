@@ -1,0 +1,41 @@
+url: https://biocontainers.pro/tools/lefse
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for lefse
+latest:
+  1.1.2--pyhdfd78af_0: sha256:6d7acc8bae889c9dd32295783ef17e5c8b75d00a27012283ad95af3dcae7bc27
+tags:
+  1.1.2--pyhdfd78af_0: sha256:6d7acc8bae889c9dd32295783ef17e5c8b75d00a27012283ad95af3dcae7bc27
+docker: quay.io/biocontainers/lefse
+aliases:
+  lefse2circlader.py: /usr/local/bin/lefse2circlader.py
+  lefse_format_input.py: /usr/local/bin/lefse_format_input.py
+  lefse_plot_cladogram.py: /usr/local/bin/lefse_plot_cladogram.py
+  lefse_plot_features.py: /usr/local/bin/lefse_plot_features.py
+  lefse_plot_res.py: /usr/local/bin/lefse_plot_res.py
+  lefse_run.py: /usr/local/bin/lefse_run.py
+  qiime2lefse.py: /usr/local/bin/qiime2lefse.py
+  biom: /usr/local/bin/biom
+  mirror_server: /usr/local/bin/mirror_server
+  mirror_server_stop: /usr/local/bin/mirror_server_stop
+  futurize: /usr/local/bin/futurize
+  pasteurize: /usr/local/bin/pasteurize
+  f2py3.9: /usr/local/bin/f2py3.9
+  h5clear: /usr/local/bin/h5clear
+  h5format_convert: /usr/local/bin/h5format_convert
+  h5watch: /usr/local/bin/h5watch
+  h5fc: /usr/local/bin/h5fc
+  gif2h5: /usr/local/bin/gif2h5
+  h52gif: /usr/local/bin/h52gif
+  h5c++: /usr/local/bin/h5c++
+  h5copy: /usr/local/bin/h5copy
+  h5debug: /usr/local/bin/h5debug
+  h5diff: /usr/local/bin/h5diff
+  h5import: /usr/local/bin/h5import
+  h5jam: /usr/local/bin/h5jam
+  h5ls: /usr/local/bin/h5ls
+  h5mkgrp: /usr/local/bin/h5mkgrp
+  h5perf_serial: /usr/local/bin/h5perf_serial
+  h5redeploy: /usr/local/bin/h5redeploy
+  h5repack: /usr/local/bin/h5repack
+  h5repart: /usr/local/bin/h5repart
+  h5stat: /usr/local/bin/h5stat

@@ -1,0 +1,15 @@
+url: https://biocontainers.pro/tools/wheezy.template
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for wheezy.template
+latest:
+  0.1.178--pyh864c0ab_0: sha256:a2e4541efe3190724d90cf74b0af03e1c558622871641539065379ffe8f5b09d
+tags:
+  0.1.178--pyh864c0ab_0: sha256:a2e4541efe3190724d90cf74b0af03e1c558622871641539065379ffe8f5b09d
+docker: quay.io/biocontainers/wheezy.template
+aliases:
+  wheezy.template: /usr/local/bin/wheezy.template
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config

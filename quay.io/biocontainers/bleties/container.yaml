@@ -1,0 +1,52 @@
+url: https://biocontainers.pro/tools/bleties
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bleties
+latest:
+  0.1.9--pyhdfd78af_0: sha256:15d5ec60cc4117788297db9e6a3d07c1a508ff6e6a947a1c27a0d8bf240ef22d
+tags:
+  0.1.9--pyhdfd78af_0: sha256:15d5ec60cc4117788297db9e6a3d07c1a508ff6e6a947a1c27a0d8bf240ef22d
+docker: quay.io/biocontainers/bleties
+aliases:
+  NCRF: /usr/local/bin/NCRF
+  bleties: /usr/local/bin/bleties
+  milcor_plot.py: /usr/local/bin/milcor_plot.py
+  milraa_plot.py: /usr/local/bin/milraa_plot.py
+  ncrf_cat: /usr/local/bin/ncrf_cat
+  ncrf_cat.py: /usr/local/bin/ncrf_cat.py
+  ncrf_consensus_filter: /usr/local/bin/ncrf_consensus_filter
+  ncrf_consensus_filter.py: /usr/local/bin/ncrf_consensus_filter.py
+  ncrf_parse.py: /usr/local/bin/ncrf_parse.py
+  ncrf_resolve_overlaps: /usr/local/bin/ncrf_resolve_overlaps
+  ncrf_resolve_overlaps.py: /usr/local/bin/ncrf_resolve_overlaps.py
+  ncrf_sort: /usr/local/bin/ncrf_sort
+  ncrf_sort.py: /usr/local/bin/ncrf_sort.py
+  ncrf_summary: /usr/local/bin/ncrf_summary
+  ncrf_summary.py: /usr/local/bin/ncrf_summary.py
+  ncrf_to_bed: /usr/local/bin/ncrf_to_bed
+  ncrf_to_bed.py: /usr/local/bin/ncrf_to_bed.py
+  spoa: /usr/local/bin/spoa
+  muscle: /usr/local/bin/muscle
+  f2py3.7: /usr/local/bin/f2py3.7
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  ace2sam: /usr/local/bin/ace2sam
+  blast2sam.pl: /usr/local/bin/blast2sam.pl
+  bowtie2sam.pl: /usr/local/bin/bowtie2sam.pl
+  export2sam.pl: /usr/local/bin/export2sam.pl
+  interpolate_sam.pl: /usr/local/bin/interpolate_sam.pl
+  maq2sam-long: /usr/local/bin/maq2sam-long
+  maq2sam-short: /usr/local/bin/maq2sam-short
+  md5fa: /usr/local/bin/md5fa
+  md5sum-lite: /usr/local/bin/md5sum-lite
+  plot-bamstats: /usr/local/bin/plot-bamstats
+  psl2sam.pl: /usr/local/bin/psl2sam.pl
+  sam2vcf.pl: /usr/local/bin/sam2vcf.pl
+  samtools.pl: /usr/local/bin/samtools.pl
+  seq_cache_populate.pl: /usr/local/bin/seq_cache_populate.pl
+  soap2sam.pl: /usr/local/bin/soap2sam.pl

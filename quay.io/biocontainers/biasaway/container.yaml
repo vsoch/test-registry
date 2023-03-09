@@ -1,0 +1,21 @@
+url: https://biocontainers.pro/tools/biasaway
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for biasaway
+latest:
+  3.3.0--py_0: sha256:7451e7ea4a3c0e6358182966f2f91c3a7416f7250533bff7b4fc46d86801ba8c
+tags:
+  3.3.0--py_0: sha256:7451e7ea4a3c0e6358182966f2f91c3a7416f7250533bff7b4fc46d86801ba8c
+docker: quay.io/biocontainers/biasaway
+aliases:
+  biasaway: /usr/local/bin/biasaway
+  f2py3.8: /usr/local/bin/f2py3.8
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config
+  jpgicc: /usr/local/bin/jpgicc
+  linkicc: /usr/local/bin/linkicc
+  psicc: /usr/local/bin/psicc
+  tificc: /usr/local/bin/tificc
+  transicc: /usr/local/bin/transicc

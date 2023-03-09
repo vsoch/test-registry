@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/seq-to-first-iso
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for seq-to-first-iso
+latest:
+  1.1.0--py_0: sha256:de73757335e1e42d6408eea65c52e5f8347f0412239260552dac3337b5e13950
+tags:
+  1.1.0--py_0: sha256:de73757335e1e42d6408eea65c52e5f8347f0412239260552dac3337b5e13950
+docker: quay.io/biocontainers/seq-to-first-iso
+aliases:
+  seq-to-first-iso: /usr/local/bin/seq-to-first-iso
+  compile-et.pl: /usr/local/bin/compile-et.pl
+  prerr.properties: /usr/local/bin/prerr.properties
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview
+  qvkgen: /usr/local/bin/qvkgen
+  certutil: /usr/local/bin/certutil
+  nspr-config: /usr/local/bin/nspr-config
+  nss-config: /usr/local/bin/nss-config
+  pk12util: /usr/local/bin/pk12util
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  sip: /usr/local/bin/sip
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc
+  gst-device-monitor-1.0: /usr/local/bin/gst-device-monitor-1.0
+  gst-discoverer-1.0: /usr/local/bin/gst-discoverer-1.0
+  gst-play-1.0: /usr/local/bin/gst-play-1.0
+  fixqt4headers.pl: /usr/local/bin/fixqt4headers.pl

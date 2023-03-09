@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-ahpathbankdbs
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-ahpathbankdbs
+latest:
+  0.99.5--r41hdfd78af_2: sha256:567ecb8989f79ce36d7cce929135cee42fc9289e1bcf7df406cd9caec8696069
+tags:
+  0.99.5--r41hdfd78af_2: sha256:567ecb8989f79ce36d7cce929135cee42fc9289e1bcf7df406cd9caec8696069
+docker: quay.io/biocontainers/bioconductor-ahpathbankdbs

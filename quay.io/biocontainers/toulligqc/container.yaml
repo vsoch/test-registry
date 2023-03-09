@@ -1,0 +1,43 @@
+url: https://biocontainers.pro/tools/toulligqc
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for toulligqc
+latest:
+  2.2.2--pyhdfd78af_0: "crane digest quay.io/biocontainers/toulligqc:2.2.2--pyhdfd78af_0:\
+    \ unsupported status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML\
+    \ 3.2 Final//EN\">\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You\
+    \ should be redirected automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+tags:
+  2.2.2--pyhdfd78af_0: "crane digest quay.io/biocontainers/toulligqc:2.2.2--pyhdfd78af_0:\
+    \ unsupported status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML\
+    \ 3.2 Final//EN\">\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You\
+    \ should be redirected automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+docker: quay.io/biocontainers/toulligqc
+aliases:
+  toulligqc: /usr/local/bin/toulligqc
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  brotli: /usr/local/bin/brotli
+  f2py3.10: /usr/local/bin/f2py3.10
+  h5clear: /usr/local/bin/h5clear
+  h5format_convert: /usr/local/bin/h5format_convert
+  h5watch: /usr/local/bin/h5watch
+  h5fc: /usr/local/bin/h5fc
+  gif2h5: /usr/local/bin/gif2h5
+  h52gif: /usr/local/bin/h52gif
+  h5c++: /usr/local/bin/h5c++
+  h5copy: /usr/local/bin/h5copy
+  h5debug: /usr/local/bin/h5debug
+  h5diff: /usr/local/bin/h5diff
+  h5import: /usr/local/bin/h5import
+  h5jam: /usr/local/bin/h5jam
+  h5ls: /usr/local/bin/h5ls
+  h5mkgrp: /usr/local/bin/h5mkgrp
+  h5perf_serial: /usr/local/bin/h5perf_serial
+  h5redeploy: /usr/local/bin/h5redeploy
+  h5repack: /usr/local/bin/h5repack
+  h5repart: /usr/local/bin/h5repart
+  h5stat: /usr/local/bin/h5stat

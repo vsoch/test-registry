@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-shinymethyldata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-shinymethyldata
+latest:
+  1.9.0--r40_0: sha256:01635ba91ffa3b891fdadde837242c16b228c6badb6a4779d8cb56f1a0713546
+tags:
+  1.9.0--r40_0: sha256:01635ba91ffa3b891fdadde837242c16b228c6badb6a4779d8cb56f1a0713546
+docker: quay.io/biocontainers/bioconductor-shinymethyldata
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

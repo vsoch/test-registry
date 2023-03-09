@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/cromshell
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for cromshell
+latest:
+  0.5.2--hdfd78af_0: sha256:c399ad57321b0564b48fb06beed6e2dc7736032d50d623baefe1e83f8ee14300
+tags:
+  0.5.2--hdfd78af_0: sha256:c399ad57321b0564b48fb06beed6e2dc7736032d50d623baefe1e83f8ee14300
+docker: quay.io/biocontainers/cromshell
+aliases:
+  cromshell: /usr/local/bin/cromshell
+  womtool: /usr/local/bin/womtool
+  clhsdb: /usr/local/bin/clhsdb
+  hsdb: /usr/local/bin/hsdb
+  extcheck: /usr/local/bin/extcheck
+  java-rmi.cgi: /usr/local/bin/java-rmi.cgi
+  javah: /usr/local/bin/javah
+  jhat: /usr/local/bin/jhat
+  jsadebugd: /usr/local/bin/jsadebugd
+  native2ascii: /usr/local/bin/native2ascii
+  policytool: /usr/local/bin/policytool
+  appletviewer: /usr/local/bin/appletviewer
+  idlj: /usr/local/bin/idlj
+  orbd: /usr/local/bin/orbd
+  schemagen: /usr/local/bin/schemagen
+  servertool: /usr/local/bin/servertool
+  tnameserv: /usr/local/bin/tnameserv
+  wsgen: /usr/local/bin/wsgen
+  wsimport: /usr/local/bin/wsimport
+  xjc: /usr/local/bin/xjc
+  jq: /usr/local/bin/jq
+  onig-config: /usr/local/bin/onig-config
+  jfr: /usr/local/bin/jfr
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid

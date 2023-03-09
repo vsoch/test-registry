@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-drosophila2cdf
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-drosophila2cdf
+latest:
+  2.18.0--r41hdfd78af_9: sha256:11452b0f23ea09fcb3534a72f9ddad646d0281a6c2c8030fe82a1c2ea92d4014
+tags:
+  2.18.0--r41hdfd78af_9: sha256:11452b0f23ea09fcb3534a72f9ddad646d0281a6c2c8030fe82a1c2ea92d4014
+docker: quay.io/biocontainers/bioconductor-drosophila2cdf

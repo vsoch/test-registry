@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/ncbi-amr
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ncbi-amr
+latest:
+  1.04--h6bb024c_0: sha256:eb29efa68cad2a265644df477e68774ff04f8bc497e2476ca640a16c36a82cb2
+tags:
+  1.04--h6bb024c_0: sha256:eb29efa68cad2a265644df477e68774ff04f8bc497e2476ca640a16c36a82cb2
+docker: quay.io/biocontainers/ncbi-amr
+aliases:
+  amr_report: /usr/local/bin/amr_report
+  amrfinder.pl: /usr/local/bin/amrfinder.pl
+  fasta_check: /usr/local/bin/fasta_check
+  gff_check: /usr/local/bin/gff_check
+  blast_report: /usr/local/bin/blast_report
+  blastdb_convert: /usr/local/bin/blastdb_convert
+  blastdb_path: /usr/local/bin/blastdb_path
+  certtool: /usr/local/bin/certtool
+  gnutls-cli: /usr/local/bin/gnutls-cli
+  gnutls-cli-debug: /usr/local/bin/gnutls-cli-debug
+  gnutls-serv: /usr/local/bin/gnutls-serv
+  nettle-hash: /usr/local/bin/nettle-hash
+  nettle-lfib-stream: /usr/local/bin/nettle-lfib-stream
+  nettle-pbkdf2: /usr/local/bin/nettle-pbkdf2
+  ocsptool: /usr/local/bin/ocsptool
+  pkcs1-conv: /usr/local/bin/pkcs1-conv
+  psktool: /usr/local/bin/psktool
+  sexp-conv: /usr/local/bin/sexp-conv
+  srptool: /usr/local/bin/srptool
+  blastdbcp: /usr/local/bin/blastdbcp
+  gene_info_reader: /usr/local/bin/gene_info_reader
+  seqdb_demo: /usr/local/bin/seqdb_demo
+  seqdb_perf: /usr/local/bin/seqdb_perf
+  seedtop: /usr/local/bin/seedtop
+  esl-alimanip: /usr/local/bin/esl-alimanip
+  esl-alimap: /usr/local/bin/esl-alimap
+  esl-alimask: /usr/local/bin/esl-alimask
+  esl-alimerge: /usr/local/bin/esl-alimerge
+  esl-alipid: /usr/local/bin/esl-alipid

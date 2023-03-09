@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-scpdata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-scpdata
+latest:
+  1.2.0--r41hdfd78af_1: sha256:97c24d199ce9fbe9602b03ad0d658c9b98382377b01eadae5822aeaa476d6ccc
+tags:
+  1.2.0--r41hdfd78af_1: sha256:97c24d199ce9fbe9602b03ad0d658c9b98382377b01eadae5822aeaa476d6ccc
+docker: quay.io/biocontainers/bioconductor-scpdata
+aliases:
+  glpsol: /usr/local/bin/glpsol

@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/bioconductor-rcpi
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-rcpi
+latest:
+  1.30.0--r41hdfd78af_0: sha256:e6773a20075628e2bf4f367009457f3fb3497408b5d6943bbf9a1cd894c87bb7
+tags:
+  1.30.0--r41hdfd78af_0: sha256:e6773a20075628e2bf4f367009457f3fb3497408b5d6943bbf9a1cd894c87bb7
+docker: quay.io/biocontainers/bioconductor-rcpi
+aliases:
+  rsvg-convert: /usr/local/bin/rsvg-convert
+  gdk-pixbuf-thumbnailer: /usr/local/bin/gdk-pixbuf-thumbnailer
+  gdk-pixbuf-csource: /usr/local/bin/gdk-pixbuf-csource
+  gdk-pixbuf-pixdata: /usr/local/bin/gdk-pixbuf-pixdata
+  gdk-pixbuf-query-loaders: /usr/local/bin/gdk-pixbuf-query-loaders
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc

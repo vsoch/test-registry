@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-clumsiddata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-clumsiddata
+latest:
+  1.8.0--r41hdfd78af_0: sha256:ac369c324b15ddc4226c3357422e34cd74c2a89cbf54f4f2a07586b3ae072de6
+tags:
+  1.8.0--r41hdfd78af_0: sha256:ac369c324b15ddc4226c3357422e34cd74c2a89cbf54f4f2a07586b3ae072de6
+docker: quay.io/biocontainers/bioconductor-clumsiddata
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

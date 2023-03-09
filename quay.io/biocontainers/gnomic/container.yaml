@@ -1,0 +1,15 @@
+url: https://biocontainers.pro/tools/gnomic
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for gnomic
+latest:
+  1.0.1--pyh864c0ab_1: sha256:9c656d5c4c8f3611078ae40bc1a4acf8f7428959a3b701d6d289fbc415ef9408
+tags:
+  1.0.1--pyh864c0ab_1: sha256:9c656d5c4c8f3611078ae40bc1a4acf8f7428959a3b701d6d289fbc415ef9408
+docker: quay.io/biocontainers/gnomic
+aliases:
+  grako: /usr/local/bin/grako
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config

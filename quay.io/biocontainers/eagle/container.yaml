@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/eagle
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for eagle
+latest:
+  0.9.4.6--pyh5ca1d4c_0: sha256:4fa74d66cc6dc1274361a3e8e85a0e1c6182766e038994b48eab05e0d0a19220
+tags:
+  0.9.4.6--pyh5ca1d4c_0: sha256:4fa74d66cc6dc1274361a3e8e85a0e1c6182766e038994b48eab05e0d0a19220
+docker: quay.io/biocontainers/eagle
+aliases:
+  eagle: /usr/local/bin/eagle
+  sqt: /usr/local/bin/sqt
+  cyvcf2: /usr/local/bin/cyvcf2
+  cutadapt: /usr/local/bin/cutadapt
+  intersection_matrix.py: /usr/local/bin/intersection_matrix.py
+  intron_exon_reads.py: /usr/local/bin/intron_exon_reads.py
+  pbt_plotting_example.py: /usr/local/bin/pbt_plotting_example.py
+  peak_pie.py: /usr/local/bin/peak_pie.py
+  pybedtools: /usr/local/bin/pybedtools
+  venn_gchart.py: /usr/local/bin/venn_gchart.py
+  venn_mpl.py: /usr/local/bin/venn_mpl.py
+  annotate.py: /usr/local/bin/annotate.py
+  flask: /usr/local/bin/flask
+  coloredlogs: /usr/local/bin/coloredlogs
+  humanfriendly: /usr/local/bin/humanfriendly
+  pigz: /usr/local/bin/pigz
+  unpigz: /usr/local/bin/unpigz
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  f2py3.6: /usr/local/bin/f2py3.6
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  sip: /usr/local/bin/sip

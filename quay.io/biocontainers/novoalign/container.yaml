@@ -1,0 +1,58 @@
+url: https://biocontainers.pro/tools/novoalign
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for novoalign
+latest:
+  4.03.04--h5b5514e_1: sha256:2bb7ac3cb85142370801a9c6db466b23d820fe1777b6e5a9d54e2cfdfea1c0ed
+tags:
+  4.03.04--h5b5514e_1: sha256:2bb7ac3cb85142370801a9c6db466b23d820fe1777b6e5a9d54e2cfdfea1c0ed
+docker: quay.io/biocontainers/novoalign
+aliases:
+  IONTorrent.R: /usr/local/bin/IONTorrent.R
+  installpackages.R: /usr/local/bin/installpackages.R
+  irqtop: /usr/local/bin/irqtop
+  isnovoindex: /usr/local/bin/isnovoindex
+  lsirq: /usr/local/bin/lsirq
+  novo2maq: /usr/local/bin/novo2maq
+  novo2paf: /usr/local/bin/novo2paf
+  novoalign: /usr/local/bin/novoalign
+  novoalign-license-register: /usr/local/bin/novoalign-license-register
+  novoalignMPI: /usr/local/bin/novoalignMPI
+  novobarcode: /usr/local/bin/novobarcode
+  novoindex: /usr/local/bin/novoindex
+  novolrcleaver: /usr/local/bin/novolrcleaver
+  novolrcorrector: /usr/local/bin/novolrcorrector
+  novolrpolish: /usr/local/bin/novolrpolish
+  novomethyl: /usr/local/bin/novomethyl
+  novope2bed.pl: /usr/local/bin/novope2bed.pl
+  novorun.pl: /usr/local/bin/novorun.pl
+  novosort: /usr/local/bin/novosort
+  novoutil: /usr/local/bin/novoutil
+  nsenter: /usr/local/bin/nsenter
+  prlimit: /usr/local/bin/prlimit
+  qcalplot.R: /usr/local/bin/qcalplot.R
+  rrbsreference: /usr/local/bin/rrbsreference
+  scriptlive: /usr/local/bin/scriptlive
+  cal: /usr/local/bin/cal
+  chmem: /usr/local/bin/chmem
+  choom: /usr/local/bin/choom
+  chrt: /usr/local/bin/chrt
+  col: /usr/local/bin/col
+  colcrt: /usr/local/bin/colcrt
+  colrm: /usr/local/bin/colrm
+  column: /usr/local/bin/column
+  dmesg: /usr/local/bin/dmesg
+  eject: /usr/local/bin/eject
+  fallocate: /usr/local/bin/fallocate
+  fincore: /usr/local/bin/fincore
+  findmnt: /usr/local/bin/findmnt
+  getopt: /usr/local/bin/getopt
+  hardlink: /usr/local/bin/hardlink
+  hexdump: /usr/local/bin/hexdump
+  i386: /usr/local/bin/i386
+  ionice: /usr/local/bin/ionice
+  ipcmk: /usr/local/bin/ipcmk
+  ipcrm: /usr/local/bin/ipcrm
+  ipcs: /usr/local/bin/ipcs
+  isosize: /usr/local/bin/isosize
+  last: /usr/local/bin/last
+  lastb: /usr/local/bin/lastb

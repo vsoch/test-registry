@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/r-recetox-aplcms
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-recetox-aplcms
+latest:
+  0.9.4--r41hdfd78af_0: sha256:99b0b84eed1ed66dd9793caa02eeb5062ad1e543f32e1209835d2314ef41016e
+tags:
+  0.9.4--r41hdfd78af_0: sha256:99b0b84eed1ed66dd9793caa02eeb5062ad1e543f32e1209835d2314ef41016e
+docker: quay.io/biocontainers/r-recetox-aplcms
+aliases:
+  elasticurl: /usr/local/bin/elasticurl
+  elasticurl_cpp: /usr/local/bin/elasticurl_cpp
+  elastipubsub: /usr/local/bin/elastipubsub
+  csv-import: /usr/local/bin/csv-import
+  orc-memory: /usr/local/bin/orc-memory
+  orc-scan: /usr/local/bin/orc-scan
+  timezone-dump: /usr/local/bin/timezone-dump
+  orc-contents: /usr/local/bin/orc-contents
+  orc-metadata: /usr/local/bin/orc-metadata
+  orc-statistics: /usr/local/bin/orc-statistics
+  plasma-store-server: /usr/local/bin/plasma-store-server
+  sha256_profile: /usr/local/bin/sha256_profile
+  gflags_completions.sh: /usr/local/bin/gflags_completions.sh
+  grpc_cpp_plugin: /usr/local/bin/grpc_cpp_plugin
+  grpc_csharp_plugin: /usr/local/bin/grpc_csharp_plugin
+  grpc_node_plugin: /usr/local/bin/grpc_node_plugin
+  grpc_objective_c_plugin: /usr/local/bin/grpc_objective_c_plugin
+  grpc_php_plugin: /usr/local/bin/grpc_php_plugin
+  grpc_python_plugin: /usr/local/bin/grpc_python_plugin
+  grpc_ruby_plugin: /usr/local/bin/grpc_ruby_plugin
+  zipcmp: /usr/local/bin/zipcmp
+  zipmerge: /usr/local/bin/zipmerge
+  ziptool: /usr/local/bin/ziptool
+  gif2hdf: /usr/local/bin/gif2hdf
+  h4_ncdump: /usr/local/bin/h4_ncdump

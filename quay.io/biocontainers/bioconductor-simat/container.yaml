@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/bioconductor-simat
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-simat
+latest:
+  1.26.0--r41hc247a5b_2: sha256:eb99a9cb119d1b9764d753e33536187980f366f741e152a2cecdc36ec9bfe4eb
+tags:
+  1.26.0--r41hc247a5b_2: sha256:eb99a9cb119d1b9764d753e33536187980f366f741e152a2cecdc36ec9bfe4eb
+docker: quay.io/biocontainers/bioconductor-simat
+aliases:
+  zipcmp: /usr/local/bin/zipcmp
+  zipmerge: /usr/local/bin/zipmerge
+  ziptool: /usr/local/bin/ziptool
+  gif2hdf: /usr/local/bin/gif2hdf
+  h4_ncdump: /usr/local/bin/h4_ncdump
+  h4_ncgen: /usr/local/bin/h4_ncgen
+  h4cc: /usr/local/bin/h4cc
+  h4redeploy: /usr/local/bin/h4redeploy
+  hdf24to8: /usr/local/bin/hdf24to8
+  hdf2gif: /usr/local/bin/hdf2gif
+  hdf2jpeg: /usr/local/bin/hdf2jpeg
+  hdf8to24: /usr/local/bin/hdf8to24
+  hdfcomp: /usr/local/bin/hdfcomp
+  hdfed: /usr/local/bin/hdfed
+  hdfimport: /usr/local/bin/hdfimport
+  hdfls: /usr/local/bin/hdfls
+  hdfpack: /usr/local/bin/hdfpack
+  hdftopal: /usr/local/bin/hdftopal
+  hdftor8: /usr/local/bin/hdftor8
+  hdfunpac: /usr/local/bin/hdfunpac
+  hdiff: /usr/local/bin/hdiff
+  hdp: /usr/local/bin/hdp
+  hrepack: /usr/local/bin/hrepack
+  jpeg2hdf: /usr/local/bin/jpeg2hdf
+  paltohdf: /usr/local/bin/paltohdf

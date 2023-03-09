@@ -1,0 +1,31 @@
+url: https://biocontainers.pro/tools/crisprbact
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for crisprbact
+latest:
+  0.3.9--py_0: sha256:2ce2d89e8ffb88a3dfff9554f7f2247d0b3009bd9fdfa76dc965e04b39b87def
+tags:
+  0.3.9--py_0: sha256:2ce2d89e8ffb88a3dfff9554f7f2247d0b3009bd9fdfa76dc965e04b39b87def
+docker: quay.io/biocontainers/crisprbact
+aliases:
+  crisprbact: /usr/local/bin/crisprbact
+  keyring: /usr/local/bin/keyring
+  pkginfo: /usr/local/bin/pkginfo
+  poetry: /usr/local/bin/poetry
+  doesitcache: /usr/local/bin/doesitcache
+  jsonschema: /usr/local/bin/jsonschema
+  dbus-cleanup-sockets: /usr/local/bin/dbus-cleanup-sockets
+  dbus-daemon: /usr/local/bin/dbus-daemon
+  dbus-launch: /usr/local/bin/dbus-launch
+  dbus-monitor: /usr/local/bin/dbus-monitor
+  dbus-run-session: /usr/local/bin/dbus-run-session
+  dbus-send: /usr/local/bin/dbus-send
+  dbus-test-tool: /usr/local/bin/dbus-test-tool
+  dbus-update-activation-environment: /usr/local/bin/dbus-update-activation-environment
+  dbus-uuidgen: /usr/local/bin/dbus-uuidgen
+  f2py3.8: /usr/local/bin/f2py3.8
+  chardetect: /usr/local/bin/chardetect
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config

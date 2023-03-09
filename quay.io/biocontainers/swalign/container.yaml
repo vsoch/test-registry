@@ -1,0 +1,16 @@
+url: https://biocontainers.pro/tools/swalign
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for swalign
+latest:
+  0.3.7--pyhdfd78af_0: sha256:166488124869bccf16d9ded70ed1a0c4e8c073a594ba7f28dcbc9a5762838e56
+tags:
+  0.3.7--pyhdfd78af_0: sha256:166488124869bccf16d9ded70ed1a0c4e8c073a594ba7f28dcbc9a5762838e56
+docker: quay.io/biocontainers/swalign
+aliases:
+  swalign: /usr/local/bin/swalign
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

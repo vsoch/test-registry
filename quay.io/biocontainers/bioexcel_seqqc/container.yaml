@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/bioexcel_seqqc
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioexcel_seqqc
+latest:
+  0.6--py_0: sha256:8d73cba29606e8c33db85b94e8122a0bf9d065fa0a708c5d87575b2424cbd84f
+tags:
+  0.6--py_0: sha256:8d73cba29606e8c33db85b94e8122a0bf9d065fa0a708c5d87575b2424cbd84f
+docker: quay.io/biocontainers/bioexcel_seqqc
+aliases:
+  bxcl_seqqc: /usr/local/bin/bxcl_seqqc
+  cutadapt: /usr/local/bin/cutadapt
+  fastqc: /usr/local/bin/fastqc
+  pigz: /usr/local/bin/pigz
+  unpigz: /usr/local/bin/unpigz
+  jaotc: /usr/local/bin/jaotc
+  2to3-3.6: /usr/local/bin/2to3-3.6
+  idle3.6: /usr/local/bin/idle3.6
+  pydoc3.6: /usr/local/bin/pydoc3.6
+  python3.6: /usr/local/bin/python3.6
+  python3.6-config: /usr/local/bin/python3.6-config
+  python3.6m: /usr/local/bin/python3.6m
+  python3.6m-config: /usr/local/bin/python3.6m-config
+  pyvenv-3.6: /usr/local/bin/pyvenv-3.6
+  perl5.26.2: /usr/local/bin/perl5.26.2
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200

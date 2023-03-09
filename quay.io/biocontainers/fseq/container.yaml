@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/fseq
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for fseq
+latest:
+  1.84--py36pl5.22.0_0: sha256:521bc849fbef9eec4a457087f1f6a7c33ae1cc8a8293a1d63231b573544b3231
+tags:
+  1.84--py36pl5.22.0_0: sha256:521bc849fbef9eec4a457087f1f6a7c33ae1cc8a8293a1d63231b573544b3231
+docker: quay.io/biocontainers/fseq
+aliases:
+  fseq: /usr/local/bin/fseq
+  mapviewToBed.pl: /usr/local/bin/mapviewToBed.pl
+  perl5.22.0: /usr/local/bin/perl5.22.0
+  c2ph: /usr/local/bin/c2ph
+  pstruct: /usr/local/bin/pstruct
+  extcheck: /usr/local/bin/extcheck
+  java-rmi.cgi: /usr/local/bin/java-rmi.cgi
+  javah: /usr/local/bin/javah
+  jhat: /usr/local/bin/jhat
+  jsadebugd: /usr/local/bin/jsadebugd
+  native2ascii: /usr/local/bin/native2ascii
+  policytool: /usr/local/bin/policytool
+  appletviewer: /usr/local/bin/appletviewer
+  idlj: /usr/local/bin/idlj
+  orbd: /usr/local/bin/orbd
+  schemagen: /usr/local/bin/schemagen
+  servertool: /usr/local/bin/servertool
+  tnameserv: /usr/local/bin/tnameserv
+  wsgen: /usr/local/bin/wsgen
+  wsimport: /usr/local/bin/wsimport
+  xjc: /usr/local/bin/xjc
+  2to3-3.6: /usr/local/bin/2to3-3.6
+  idle3.6: /usr/local/bin/idle3.6
+  pydoc3.6: /usr/local/bin/pydoc3.6
+  python3.6: /usr/local/bin/python3.6
+  python3.6-config: /usr/local/bin/python3.6-config
+  python3.6m: /usr/local/bin/python3.6m

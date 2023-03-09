@@ -1,0 +1,27 @@
+url: https://biocontainers.pro/tools/pyscaf
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pyscaf
+latest:
+  0.12a4--py_3: "crane digest quay.io/biocontainers/pyscaf:0.12a4--py_3: unsupported\
+    \ status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\"\
+    >\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You should be redirected\
+    \ automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+tags:
+  0.12a4--py_3: "crane digest quay.io/biocontainers/pyscaf:0.12a4--py_3: unsupported\
+    \ status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\"\
+    >\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You should be redirected\
+    \ automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+docker: quay.io/biocontainers/pyscaf
+aliases:
+  FastaIndex: /usr/local/bin/FastaIndex
+  fasta_stats: /usr/local/bin/fasta_stats
+  pyScaf: /usr/local/bin/pyScaf
+  python2-config: /usr/local/bin/python2-config
+  python2.7-config: /usr/local/bin/python2.7-config
+  python2: /usr/local/bin/python2
+  python2.7: /usr/local/bin/python2.7
+  idle: /usr/local/bin/idle
+  python-config: /usr/local/bin/python-config
+  smtpd.py: /usr/local/bin/smtpd.py

@@ -1,0 +1,22 @@
+url: https://biocontainers.pro/tools/psm_fragments
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for psm_fragments
+latest:
+  1.0.3--py_0: sha256:babc648defb2b0eea2e96d18176590b0aa94858f8bb23e71671e8f798e722532
+tags:
+  1.0.3--py_0: sha256:babc648defb2b0eea2e96d18176590b0aa94858f8bb23e71671e8f798e722532
+docker: quay.io/biocontainers/psm_fragments
+aliases:
+  xslt-config: /usr/local/bin/xslt-config
+  xsltproc: /usr/local/bin/xsltproc
+  f2py3.9: /usr/local/bin/f2py3.9
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config
+  jpgicc: /usr/local/bin/jpgicc
+  linkicc: /usr/local/bin/linkicc
+  psicc: /usr/local/bin/psicc
+  tificc: /usr/local/bin/tificc
+  transicc: /usr/local/bin/transicc

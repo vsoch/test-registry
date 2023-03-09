@@ -1,0 +1,44 @@
+url: https://biocontainers.pro/tools/haplogrep
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for haplogrep
+latest:
+  2.4.0--hdfd78af_0: "crane digest quay.io/biocontainers/haplogrep:2.4.0--hdfd78af_0:\
+    \ unsupported status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML\
+    \ 3.2 Final//EN\">\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You\
+    \ should be redirected automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+tags:
+  2.4.0--hdfd78af_0: "crane digest quay.io/biocontainers/haplogrep:2.4.0--hdfd78af_0:\
+    \ unsupported status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML\
+    \ 3.2 Final//EN\">\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You\
+    \ should be redirected automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+docker: quay.io/biocontainers/haplogrep
+aliases:
+  haplogrep: /usr/local/bin/haplogrep
+  haplogrep.jar: /usr/local/bin/haplogrep.jar
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd
+  jconsole: /usr/local/bin/jconsole
+  jdb: /usr/local/bin/jdb
+  jinfo: /usr/local/bin/jinfo

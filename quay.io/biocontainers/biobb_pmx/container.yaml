@@ -1,0 +1,42 @@
+url: https://biocontainers.pro/tools/biobb_pmx
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for biobb_pmx
+latest:
+  3.8.1--pyhdfd78af_0: sha256:c25e06f154b5294239498065229e08b4dc736a2f3a0f81cc67d0632d57007b78
+tags:
+  3.8.1--pyhdfd78af_0: sha256:c25e06f154b5294239498065229e08b4dc736a2f3a0f81cc67d0632d57007b78
+docker: quay.io/biocontainers/biobb_pmx
+aliases:
+  pmx: /usr/local/bin/pmx
+  pmxanalyse: /usr/local/bin/pmxanalyse
+  pmxatom_mapping: /usr/local/bin/pmxatom_mapping
+  pmxcreate_top: /usr/local/bin/pmxcreate_top
+  pmxgentop: /usr/local/bin/pmxgentop
+  pmxligand_hybrid: /usr/local/bin/pmxligand_hybrid
+  pmxmerge_ff: /usr/local/bin/pmxmerge_ff
+  pmxmutate: /usr/local/bin/pmxmutate
+  futurize: /usr/local/bin/futurize
+  pasteurize: /usr/local/bin/pasteurize
+  f2py3.7: /usr/local/bin/f2py3.7
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  brotli: /usr/local/bin/brotli
+  normalizer: /usr/local/bin/normalizer
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  opj_compress: /usr/local/bin/opj_compress
+  opj_decompress: /usr/local/bin/opj_decompress
+  opj_dump: /usr/local/bin/opj_dump
+  jpgicc: /usr/local/bin/jpgicc
+  linkicc: /usr/local/bin/linkicc
+  psicc: /usr/local/bin/psicc
+  tificc: /usr/local/bin/tificc
+  transicc: /usr/local/bin/transicc

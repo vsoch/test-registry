@@ -1,0 +1,27 @@
+url: https://biocontainers.pro/tools/virstrain
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for virstrain
+latest:
+  1.9--pyhdfd78af_0: sha256:aa540a48ebce9f12e99fdcec7241bba20158af862f83802a3396b32e413617bf
+tags:
+  1.9--pyhdfd78af_0: sha256:aa540a48ebce9f12e99fdcec7241bba20158af862f83802a3396b32e413617bf
+docker: quay.io/biocontainers/virstrain
+aliases:
+  virstrain: /usr/local/bin/virstrain
+  virstrain_build: /usr/local/bin/virstrain_build
+  jupyter-trust: /usr/local/bin/jupyter-trust
+  jupyter: /usr/local/bin/jupyter
+  jupyter-migrate: /usr/local/bin/jupyter-migrate
+  jupyter-troubleshoot: /usr/local/bin/jupyter-troubleshoot
+  jsonschema: /usr/local/bin/jsonschema
+  f2py3.7: /usr/local/bin/f2py3.7
+  chardetect: /usr/local/bin/chardetect
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  pyvenv: /usr/local/bin/pyvenv

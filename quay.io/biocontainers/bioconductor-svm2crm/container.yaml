@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-svm2crm
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-svm2crm
+latest:
+  1.16.0--r36_0: sha256:1cd46f4dd9a124eeafc6971494c801faf0415e0f41e0c9c8d0ed04f683d30f49
+tags:
+  1.16.0--r36_0: sha256:1cd46f4dd9a124eeafc6971494c801faf0415e0f41e0c9c8d0ed04f683d30f49
+docker: quay.io/biocontainers/bioconductor-svm2crm
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

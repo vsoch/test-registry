@@ -1,0 +1,25 @@
+url: https://biocontainers.pro/tools/bamsnap
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bamsnap
+latest:
+  0.2.19--py_0: sha256:54a4ca9802065fd5a856c01b5e8729d1740f13ce7ee2cc43d2dc9d708c38ec41
+tags:
+  0.2.19--py_0: sha256:54a4ca9802065fd5a856c01b5e8729d1740f13ce7ee2cc43d2dc9d708c38ec41
+docker: quay.io/biocontainers/bamsnap
+aliases:
+  bamsnap: /usr/local/bin/bamsnap
+  faidx: /usr/local/bin/faidx
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  jpgicc: /usr/local/bin/jpgicc
+  linkicc: /usr/local/bin/linkicc
+  psicc: /usr/local/bin/psicc
+  tificc: /usr/local/bin/tificc
+  transicc: /usr/local/bin/transicc
+  pyvenv: /usr/local/bin/pyvenv

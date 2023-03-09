@@ -1,0 +1,18 @@
+url: https://biocontainers.pro/tools/itolapi
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for itolapi
+latest:
+  4.1.0--pyhdfd78af_0: sha256:838b9352c44c9ccae46e3117888c95b0349bcf3fd78061842cb45584d6a9c256
+tags:
+  4.1.0--pyhdfd78af_0: sha256:838b9352c44c9ccae46e3117888c95b0349bcf3fd78061842cb45584d6a9c256
+docker: quay.io/biocontainers/itolapi
+aliases:
+  itol.py: /usr/local/bin/itol.py
+  itolexport.py: /usr/local/bin/itolexport.py
+  normalizer: /usr/local/bin/normalizer
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/berokka
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for berokka
+latest:
+  0.2.3--hdfd78af_3: sha256:1fea82109bc0ebd7f2abe7a1f36b5798ce54114f14ae8941339d360de793f7d8
+tags:
+  0.2.3--hdfd78af_3: sha256:1fea82109bc0ebd7f2abe7a1f36b5798ce54114f14ae8941339d360de793f7d8
+docker: quay.io/biocontainers/berokka
+aliases:
+  berokka: /usr/local/bin/berokka
+  bam2bedgraph: /usr/local/bin/bam2bedgraph
+  bp_find-blast-matches.pl: /usr/local/bin/bp_find-blast-matches.pl
+  bp_pairwise_kaks: /usr/local/bin/bp_pairwise_kaks
+  ace.pl: /usr/local/bin/ace.pl
+  ccconfig: /usr/local/bin/ccconfig
+  CA.pm: /usr/local/bin/CA.pm
+  SOAPsh.pl: /usr/local/bin/SOAPsh.pl
+  cacert.pem: /usr/local/bin/cacert.pem
+  index-themes: /usr/local/bin/index-themes
+  map: /usr/local/bin/map
+  mirrorMappings: /usr/local/bin/mirrorMappings
+  mkCSGB2312: /usr/local/bin/mkCSGB2312
+  mkmapfile: /usr/local/bin/mkmapfile
+  stubmaker.pl: /usr/local/bin/stubmaker.pl
+  baseml: /usr/local/bin/baseml
+  basemlg: /usr/local/bin/basemlg
+  chartex: /usr/local/bin/chartex
+  chi2: /usr/local/bin/chi2
+  codeml: /usr/local/bin/codeml
+  evolver: /usr/local/bin/evolver
+  infinitesites: /usr/local/bin/infinitesites
+  mcmctree: /usr/local/bin/mcmctree
+  pamp: /usr/local/bin/pamp
+  yn00: /usr/local/bin/yn00
+  binhex.pl: /usr/local/bin/binhex.pl

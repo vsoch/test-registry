@@ -1,0 +1,51 @@
+url: https://biocontainers.pro/tools/ragtag
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ragtag
+latest:
+  2.1.0--pyhb7b1952_0: sha256:88e12e008e8301df8b3797b4bfff551534accf92f194daae65dbb3ed78da1580
+tags:
+  2.1.0--pyhb7b1952_0: sha256:88e12e008e8301df8b3797b4bfff551534accf92f194daae65dbb3ed78da1580
+docker: quay.io/biocontainers/ragtag
+aliases:
+  ragtag.py: /usr/local/bin/ragtag.py
+  ragtag_agp2fa.py: /usr/local/bin/ragtag_agp2fa.py
+  ragtag_agpcheck.py: /usr/local/bin/ragtag_agpcheck.py
+  ragtag_asmstats.py: /usr/local/bin/ragtag_asmstats.py
+  ragtag_break_query.py: /usr/local/bin/ragtag_break_query.py
+  ragtag_correct.py: /usr/local/bin/ragtag_correct.py
+  ragtag_create_links.py: /usr/local/bin/ragtag_create_links.py
+  ragtag_delta2paf.py: /usr/local/bin/ragtag_delta2paf.py
+  ragtag_merge.py: /usr/local/bin/ragtag_merge.py
+  ragtag_paf2delta.py: /usr/local/bin/ragtag_paf2delta.py
+  ragtag_patch.py: /usr/local/bin/ragtag_patch.py
+  ragtag_rename.py: /usr/local/bin/ragtag_rename.py
+  ragtag_scaffold.py: /usr/local/bin/ragtag_scaffold.py
+  ragtag_splitasm.py: /usr/local/bin/ragtag_splitasm.py
+  ragtag_stats.py: /usr/local/bin/ragtag_stats.py
+  ragtag_update_gff.py: /usr/local/bin/ragtag_update_gff.py
+  setup.py: /usr/local/bin/setup.py
+  mapview: /usr/local/bin/mapview
+  mgaps: /usr/local/bin/mgaps
+  run-mummer1: /usr/local/bin/run-mummer1
+  run-mummer3: /usr/local/bin/run-mummer3
+  combineMUMs: /usr/local/bin/combineMUMs
+  delta-filter: /usr/local/bin/delta-filter
+  dnadiff: /usr/local/bin/dnadiff
+  exact-tandems: /usr/local/bin/exact-tandems
+  mummer: /usr/local/bin/mummer
+  mummerplot: /usr/local/bin/mummerplot
+  nucmer: /usr/local/bin/nucmer
+  promer: /usr/local/bin/promer
+  repeat-match: /usr/local/bin/repeat-match
+  show-aligns: /usr/local/bin/show-aligns
+  show-coords: /usr/local/bin/show-coords
+  show-diff: /usr/local/bin/show-diff
+  show-snps: /usr/local/bin/show-snps
+  show-tiling: /usr/local/bin/show-tiling
+  sdust: /usr/local/bin/sdust
+  k8: /usr/local/bin/k8
+  paftools.js: /usr/local/bin/paftools.js
+  minimap2: /usr/local/bin/minimap2
+  f2py3.9: /usr/local/bin/f2py3.9
+  opj_compress: /usr/local/bin/opj_compress
+  opj_decompress: /usr/local/bin/opj_decompress

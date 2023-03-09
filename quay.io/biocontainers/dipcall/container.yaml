@@ -1,0 +1,45 @@
+url: https://biocontainers.pro/tools/dipcall
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for dipcall
+latest:
+  0.3--0: sha256:3bde49fdb0ff0bb2ad6b64483acd5be92ab520253e359e0ee7009819d6762fa0
+tags:
+  0.3--0: sha256:3bde49fdb0ff0bb2ad6b64483acd5be92ab520253e359e0ee7009819d6762fa0
+docker: quay.io/biocontainers/dipcall
+aliases:
+  bedtk: /usr/local/bin/bedtk
+  dipcall-aux.js: /usr/local/bin/dipcall-aux.js
+  htsbox: /usr/local/bin/htsbox
+  meryl-analyze: /usr/local/bin/meryl-analyze
+  meryl-check: /usr/local/bin/meryl-check
+  meryl-import: /usr/local/bin/meryl-import
+  meryl-lookup: /usr/local/bin/meryl-lookup
+  meryl-simple: /usr/local/bin/meryl-simple
+  run-dipcall: /usr/local/bin/run-dipcall
+  unimap: /usr/local/bin/unimap
+  winnowmap: /usr/local/bin/winnowmap
+  meryl: /usr/local/bin/meryl
+  perl5.32.0: /usr/local/bin/perl5.32.0
+  sdust: /usr/local/bin/sdust
+  k8: /usr/local/bin/k8
+  paftools.js: /usr/local/bin/paftools.js
+  minimap2: /usr/local/bin/minimap2
+  fasta-sanitize.pl: /usr/local/bin/fasta-sanitize.pl
+  plot-ampliconstats: /usr/local/bin/plot-ampliconstats
+  ace2sam: /usr/local/bin/ace2sam
+  blast2sam.pl: /usr/local/bin/blast2sam.pl
+  bowtie2sam.pl: /usr/local/bin/bowtie2sam.pl
+  export2sam.pl: /usr/local/bin/export2sam.pl
+  interpolate_sam.pl: /usr/local/bin/interpolate_sam.pl
+  maq2sam-long: /usr/local/bin/maq2sam-long
+  maq2sam-short: /usr/local/bin/maq2sam-short
+  md5fa: /usr/local/bin/md5fa
+  md5sum-lite: /usr/local/bin/md5sum-lite
+  plot-bamstats: /usr/local/bin/plot-bamstats
+  psl2sam.pl: /usr/local/bin/psl2sam.pl
+  sam2vcf.pl: /usr/local/bin/sam2vcf.pl
+  samtools.pl: /usr/local/bin/samtools.pl
+  seq_cache_populate.pl: /usr/local/bin/seq_cache_populate.pl
+  soap2sam.pl: /usr/local/bin/soap2sam.pl
+  zoom2sam.pl: /usr/local/bin/zoom2sam.pl
+  novo2sam.pl: /usr/local/bin/novo2sam.pl

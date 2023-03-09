@@ -1,0 +1,50 @@
+url: https://biocontainers.pro/tools/ctat-metagenomics
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ctat-metagenomics
+latest:
+  1.0.1--hdfd78af_4: sha256:69ce538bcc6fd685d8f429720febc4b74cca9ec93516e5a630d555c475495918
+tags:
+  1.0.1--hdfd78af_4: sha256:69ce538bcc6fd685d8f429720febc4b74cca9ec93516e5a630d555c475495918
+docker: quay.io/biocontainers/ctat-metagenomics
+aliases:
+  centrifuge: /usr/local/bin/centrifuge
+  centrifuge-BuildSharedSequence.pl: /usr/local/bin/centrifuge-BuildSharedSequence.pl
+  centrifuge-RemoveEmptySequence.pl: /usr/local/bin/centrifuge-RemoveEmptySequence.pl
+  centrifuge-RemoveN.pl: /usr/local/bin/centrifuge-RemoveN.pl
+  centrifuge-build: /usr/local/bin/centrifuge-build
+  centrifuge-build-bin: /usr/local/bin/centrifuge-build-bin
+  centrifuge-class: /usr/local/bin/centrifuge-class
+  centrifuge-compress.pl: /usr/local/bin/centrifuge-compress.pl
+  centrifuge-download: /usr/local/bin/centrifuge-download
+  centrifuge-inspect: /usr/local/bin/centrifuge-inspect
+  centrifuge-inspect-bin: /usr/local/bin/centrifuge-inspect-bin
+  centrifuge-kreport: /usr/local/bin/centrifuge-kreport
+  centrifuge-sort-nt.pl: /usr/local/bin/centrifuge-sort-nt.pl
+  centrifuge_evaluate.py: /usr/local/bin/centrifuge_evaluate.py
+  centrifuge_simulate_reads.py: /usr/local/bin/centrifuge_simulate_reads.py
+  metagenomics: /usr/local/bin/metagenomics
+  tar: /usr/local/bin/tar
+  CA.pm: /usr/local/bin/CA.pm
+  cacert.pem: /usr/local/bin/cacert.pem
+  index-themes: /usr/local/bin/index-themes
+  fetch-extras: /usr/local/bin/fetch-extras
+  go.mod: /usr/local/bin/go.mod
+  go.sum: /usr/local/bin/go.sum
+  hlp-xtract.txt: /usr/local/bin/hlp-xtract.txt
+  index-extras: /usr/local/bin/index-extras
+  pm-collect: /usr/local/bin/pm-collect
+  readme.pdf: /usr/local/bin/readme.pdf
+  bt-context.txt: /usr/local/bin/bt-context.txt
+  bt-link: /usr/local/bin/bt-link
+  bt-load: /usr/local/bin/bt-load
+  bt-save: /usr/local/bin/bt-save
+  bt-srch: /usr/local/bin/bt-srch
+  eblast: /usr/local/bin/eblast
+  pm-index: /usr/local/bin/pm-index
+  pm-invert: /usr/local/bin/pm-invert
+  pm-merge: /usr/local/bin/pm-merge
+  pm-prepare: /usr/local/bin/pm-prepare
+  pm-promote: /usr/local/bin/pm-promote
+  pm-refresh: /usr/local/bin/pm-refresh
+  pm-stash: /usr/local/bin/pm-stash
+  protein-neighbors: /usr/local/bin/protein-neighbors

@@ -1,0 +1,18 @@
+url: https://biocontainers.pro/tools/ncbi-acc-download
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ncbi-acc-download
+latest:
+  0.2.8--pyh5e36f6f_0: sha256:3b70fe4c32c73012cfdb022db314f58becd4eba9f8d9a97f0985a64d0985a4bb
+tags:
+  0.2.8--pyh5e36f6f_0: sha256:3b70fe4c32c73012cfdb022db314f58becd4eba9f8d9a97f0985a64d0985a4bb
+docker: quay.io/biocontainers/ncbi-acc-download
+aliases:
+  nad: /usr/local/bin/nad
+  ncbi-acc-download: /usr/local/bin/ncbi-acc-download
+  chardetect: /usr/local/bin/chardetect
+  f2py3.9: /usr/local/bin/f2py3.9
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config

@@ -1,0 +1,55 @@
+url: https://biocontainers.pro/tools/deeptools
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for deeptools
+latest:
+  3.1.3--py37h14c3975_1: sha256:2bf9fbdd82da72ae0a1e4b0fe8e634215b9bbc02bfa510c175e2f15ee3a2a1a8
+tags:
+  3.1.3--py37h14c3975_1: sha256:2bf9fbdd82da72ae0a1e4b0fe8e634215b9bbc02bfa510c175e2f15ee3a2a1a8
+docker: quay.io/biocontainers/deeptools
+aliases:
+  alignmentSieve: /usr/local/bin/alignmentSieve
+  bamCompare: /usr/local/bin/bamCompare
+  bamCoverage: /usr/local/bin/bamCoverage
+  bamPEFragmentSize: /usr/local/bin/bamPEFragmentSize
+  bigwigCompare: /usr/local/bin/bigwigCompare
+  computeGCBias: /usr/local/bin/computeGCBias
+  computeMatrix: /usr/local/bin/computeMatrix
+  computeMatrixOperations: /usr/local/bin/computeMatrixOperations
+  correctGCBias: /usr/local/bin/correctGCBias
+  deeptools: /usr/local/bin/deeptools
+  estimateReadFiltering: /usr/local/bin/estimateReadFiltering
+  estimateScaleFactor: /usr/local/bin/estimateScaleFactor
+  multiBamSummary: /usr/local/bin/multiBamSummary
+  multiBigwigSummary: /usr/local/bin/multiBigwigSummary
+  plotCorrelation: /usr/local/bin/plotCorrelation
+  plotCoverage: /usr/local/bin/plotCoverage
+  plotEnrichment: /usr/local/bin/plotEnrichment
+  plotFingerprint: /usr/local/bin/plotFingerprint
+  plotHeatmap: /usr/local/bin/plotHeatmap
+  plotPCA: /usr/local/bin/plotPCA
+  plotProfile: /usr/local/bin/plotProfile
+  g-ir-doc-tool: /usr/local/bin/g-ir-doc-tool
+  g-ir-annotation-tool: /usr/local/bin/g-ir-annotation-tool
+  g-ir-compiler: /usr/local/bin/g-ir-compiler
+  g-ir-generate: /usr/local/bin/g-ir-generate
+  g-ir-inspect: /usr/local/bin/g-ir-inspect
+  g-ir-scanner: /usr/local/bin/g-ir-scanner
+  jupyter-trust: /usr/local/bin/jupyter-trust
+  jupyter: /usr/local/bin/jupyter
+  jupyter-migrate: /usr/local/bin/jupyter-migrate
+  jupyter-troubleshoot: /usr/local/bin/jupyter-troubleshoot
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  guess-ploidy.py: /usr/local/bin/guess-ploidy.py
+  plot-roh.py: /usr/local/bin/plot-roh.py
+  run-roh.pl: /usr/local/bin/run-roh.pl
+  color-chrs.pl: /usr/local/bin/color-chrs.pl
+  plot-vcfstats: /usr/local/bin/plot-vcfstats
+  jsonschema: /usr/local/bin/jsonschema
+  gtk-builder-convert: /usr/local/bin/gtk-builder-convert
+  gtk-demo: /usr/local/bin/gtk-demo
+  gtk-query-immodules-2.0: /usr/local/bin/gtk-query-immodules-2.0
+  gtk-update-icon-cache: /usr/local/bin/gtk-update-icon-cache
+  bcftools: /usr/local/bin/bcftools
+  vcfutils.pl: /usr/local/bin/vcfutils.pl
+  sip: /usr/local/bin/sip
+  gdk-pixbuf-thumbnailer: /usr/local/bin/gdk-pixbuf-thumbnailer

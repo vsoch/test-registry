@@ -1,0 +1,43 @@
+url: https://biocontainers.pro/tools/hmtnote
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for hmtnote
+latest:
+  0.7.2--pyhdfd78af_0: "crane digest quay.io/biocontainers/hmtnote:0.7.2--pyhdfd78af_0:\
+    \ unsupported status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML\
+    \ 3.2 Final//EN\">\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You\
+    \ should be redirected automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+tags:
+  0.7.2--pyhdfd78af_0: "crane digest quay.io/biocontainers/hmtnote:0.7.2--pyhdfd78af_0:\
+    \ unsupported status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML\
+    \ 3.2 Final//EN\">\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You\
+    \ should be redirected automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+docker: quay.io/biocontainers/hmtnote
+aliases:
+  hmtnote: /usr/local/bin/hmtnote
+  dask-scheduler: /usr/local/bin/dask-scheduler
+  dask-ssh: /usr/local/bin/dask-ssh
+  dask-worker: /usr/local/bin/dask-worker
+  bokeh: /usr/local/bin/bokeh
+  mirror_server: /usr/local/bin/mirror_server
+  mirror_server_stop: /usr/local/bin/mirror_server_stop
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  brotli: /usr/local/bin/brotli
+  normalizer: /usr/local/bin/normalizer
+  img2webp: /usr/local/bin/img2webp
+  cwebp: /usr/local/bin/cwebp
+  dwebp: /usr/local/bin/dwebp
+  gif2webp: /usr/local/bin/gif2webp
+  f2py3.9: /usr/local/bin/f2py3.9
+  h5clear: /usr/local/bin/h5clear
+  h5format_convert: /usr/local/bin/h5format_convert
+  h5watch: /usr/local/bin/h5watch
+  h5fc: /usr/local/bin/h5fc
+  gif2h5: /usr/local/bin/gif2h5
+  h52gif: /usr/local/bin/h52gif
+  h5c++: /usr/local/bin/h5c++
+  h5copy: /usr/local/bin/h5copy

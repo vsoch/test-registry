@@ -1,0 +1,44 @@
+url: https://biocontainers.pro/tools/rilseq
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for rilseq
+latest:
+  0.82--pyhdfd78af_0: sha256:4ea40a494d6b70358559d977fb17e836019dc41ab87693514d6ef804e640d18c
+tags:
+  0.82--pyhdfd78af_0: sha256:4ea40a494d6b70358559d977fb17e836019dc41ab87693514d6ef804e640d18c
+docker: quay.io/biocontainers/rilseq
+aliases:
+  RILseq_significant_regions.py: /usr/local/bin/RILseq_significant_regions.py
+  count_chimeric_reads_per_gene.py: /usr/local/bin/count_chimeric_reads_per_gene.py
+  generate_BED_file_of_endpoints.py: /usr/local/bin/generate_BED_file_of_endpoints.py
+  generate_genes_gff.py: /usr/local/bin/generate_genes_gff.py
+  generate_transcripts_gff.py: /usr/local/bin/generate_transcripts_gff.py
+  get_sequences_for_meme.py: /usr/local/bin/get_sequences_for_meme.py
+  map_chimeric_fragments.py: /usr/local/bin/map_chimeric_fragments.py
+  map_single_fragments.py: /usr/local/bin/map_single_fragments.py
+  plot_circos_plot.py: /usr/local/bin/plot_circos_plot.py
+  plot_regions_interactions.py: /usr/local/bin/plot_regions_interactions.py
+  qualfa2fq.pl: /usr/local/bin/qualfa2fq.pl
+  xa2multi.pl: /usr/local/bin/xa2multi.pl
+  bwa: /usr/local/bin/bwa
+  fasta-sanitize.pl: /usr/local/bin/fasta-sanitize.pl
+  plot-ampliconstats: /usr/local/bin/plot-ampliconstats
+  f2py3.9: /usr/local/bin/f2py3.9
+  ace2sam: /usr/local/bin/ace2sam
+  blast2sam.pl: /usr/local/bin/blast2sam.pl
+  bowtie2sam.pl: /usr/local/bin/bowtie2sam.pl
+  export2sam.pl: /usr/local/bin/export2sam.pl
+  interpolate_sam.pl: /usr/local/bin/interpolate_sam.pl
+  maq2sam-long: /usr/local/bin/maq2sam-long
+  maq2sam-short: /usr/local/bin/maq2sam-short
+  md5fa: /usr/local/bin/md5fa
+  md5sum-lite: /usr/local/bin/md5sum-lite
+  plot-bamstats: /usr/local/bin/plot-bamstats
+  psl2sam.pl: /usr/local/bin/psl2sam.pl
+  sam2vcf.pl: /usr/local/bin/sam2vcf.pl
+  samtools.pl: /usr/local/bin/samtools.pl
+  seq_cache_populate.pl: /usr/local/bin/seq_cache_populate.pl
+  soap2sam.pl: /usr/local/bin/soap2sam.pl
+  zoom2sam.pl: /usr/local/bin/zoom2sam.pl
+  novo2sam.pl: /usr/local/bin/novo2sam.pl
+  wgsim: /usr/local/bin/wgsim
+  wgsim_eval.pl: /usr/local/bin/wgsim_eval.pl

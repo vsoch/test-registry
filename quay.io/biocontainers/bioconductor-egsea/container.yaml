@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-egsea
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-egsea
+latest:
+  1.8.0--r341_0: sha256:9d66d5cdd12359f3eba096d362d4dea82cb1866ad49752cbf941182593256651
+tags:
+  1.8.0--r341_0: sha256:9d66d5cdd12359f3eba096d362d4dea82cb1866ad49752cbf941182593256651
+docker: quay.io/biocontainers/bioconductor-egsea
+aliases:
+  wget: /usr/local/bin/wget
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config

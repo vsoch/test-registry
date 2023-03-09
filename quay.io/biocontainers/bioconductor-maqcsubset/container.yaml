@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-maqcsubset
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-maqcsubset
+latest:
+  1.32.0--r41hdfd78af_1: sha256:d1528716f1a628440a6a8f96b224f145d0c42dafdeaa46f1580ebcb95013cda9
+tags:
+  1.32.0--r41hdfd78af_1: sha256:d1528716f1a628440a6a8f96b224f145d0c42dafdeaa46f1580ebcb95013cda9
+docker: quay.io/biocontainers/bioconductor-maqcsubset

@@ -1,0 +1,20 @@
+url: https://biocontainers.pro/tools/argparse2tool
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for argparse2tool
+latest:
+  0.4.9--py_0: sha256:766e20ed8a92fabd023266fce3eac979381b8536858e94153180c92eb1d044c7
+tags:
+  0.4.9--py_0: sha256:766e20ed8a92fabd023266fce3eac979381b8536858e94153180c92eb1d044c7
+docker: quay.io/biocontainers/argparse2tool
+aliases:
+  argparse2tool: /usr/local/bin/argparse2tool
+  argparse2tool_check_path: /usr/local/bin/argparse2tool_check_path
+  futurize: /usr/local/bin/futurize
+  pasteurize: /usr/local/bin/pasteurize
+  xslt-config: /usr/local/bin/xslt-config
+  xsltproc: /usr/local/bin/xsltproc
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config

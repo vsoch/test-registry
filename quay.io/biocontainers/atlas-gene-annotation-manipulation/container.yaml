@@ -1,0 +1,18 @@
+url: https://biocontainers.pro/tools/atlas-gene-annotation-manipulation
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for atlas-gene-annotation-manipulation
+latest:
+  1.1.0--hdfd78af_0: "crane digest quay.io/biocontainers/atlas-gene-annotation-manipulation:1.1.0--hdfd78af_0:\
+    \ unsupported status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML\
+    \ 3.2 Final//EN\">\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You\
+    \ should be redirected automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+tags:
+  1.1.0--hdfd78af_0: "crane digest quay.io/biocontainers/atlas-gene-annotation-manipulation:1.1.0--hdfd78af_0:\
+    \ unsupported status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML\
+    \ 3.2 Final//EN\">\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You\
+    \ should be redirected automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+docker: quay.io/biocontainers/atlas-gene-annotation-manipulation
+aliases:
+  gtf2featureAnnotation.R: /usr/local/bin/gtf2featureAnnotation.R

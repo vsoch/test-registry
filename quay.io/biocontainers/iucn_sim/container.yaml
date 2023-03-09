@@ -1,0 +1,22 @@
+url: https://biocontainers.pro/tools/iucn_sim
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for iucn_sim
+latest:
+  2.2.0--pyr40_0: sha256:4ce938acfc1c76506558a872b9ca6646166b9078ff13a00c25c4f3d1906e473a
+tags:
+  2.2.0--pyr40_0: sha256:4ce938acfc1c76506558a872b9ca6646166b9078ff13a00c25c4f3d1906e473a
+docker: quay.io/biocontainers/iucn_sim
+aliases:
+  iucn_sim: /usr/local/bin/iucn_sim
+  f2py3.9: /usr/local/bin/f2py3.9
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config
+  jpgicc: /usr/local/bin/jpgicc
+  linkicc: /usr/local/bin/linkicc
+  psicc: /usr/local/bin/psicc
+  tificc: /usr/local/bin/tificc
+  transicc: /usr/local/bin/transicc

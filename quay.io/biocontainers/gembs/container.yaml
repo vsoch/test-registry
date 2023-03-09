@@ -1,0 +1,40 @@
+url: https://biocontainers.pro/tools/gembs
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for gembs
+latest:
+  3.5.5_IHEC--py310h125d12e_5: sha256:01005849bd3135f29d0ef6186cbad00314f0d8bcea39d5ecdc651f6886e31299
+tags:
+  3.5.5_IHEC--py310h125d12e_5: sha256:01005849bd3135f29d0ef6186cbad00314f0d8bcea39d5ecdc651f6886e31299
+docker: quay.io/biocontainers/gembs
+aliases:
+  bs_call: /usr/local/bin/bs_call
+  dbSNP_idx: /usr/local/bin/dbSNP_idx
+  gem-indexer: /usr/local/bin/gem-indexer
+  gem-mapper: /usr/local/bin/gem-mapper
+  gem-retriever: /usr/local/bin/gem-retriever
+  gemBS: /usr/local/bin/gemBS
+  wigToBigWig: /usr/local/bin/wigToBigWig
+  bedToBigBed: /usr/local/bin/bedToBigBed
+  get_objgraph: /usr/local/bin/get_objgraph
+  undill: /usr/local/bin/undill
+  gff2gff.py: /usr/local/bin/gff2gff.py
+  my_print_defaults: /usr/local/bin/my_print_defaults
+  mysql_config: /usr/local/bin/mysql_config
+  perror: /usr/local/bin/perror
+  pigz: /usr/local/bin/pigz
+  unpigz: /usr/local/bin/unpigz
+  guess-ploidy.py: /usr/local/bin/guess-ploidy.py
+  plot-roh.py: /usr/local/bin/plot-roh.py
+  run-roh.pl: /usr/local/bin/run-roh.pl
+  color-chrs.pl: /usr/local/bin/color-chrs.pl
+  plot-vcfstats: /usr/local/bin/plot-vcfstats
+  bcftools: /usr/local/bin/bcftools
+  vcfutils.pl: /usr/local/bin/vcfutils.pl
+  fasta-sanitize.pl: /usr/local/bin/fasta-sanitize.pl
+  plot-ampliconstats: /usr/local/bin/plot-ampliconstats
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  brotli: /usr/local/bin/brotli
+  img2webp: /usr/local/bin/img2webp

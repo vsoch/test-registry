@@ -1,0 +1,64 @@
+url: https://biocontainers.pro/tools/binsanity
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for binsanity
+latest:
+  0.5.4--pyh5e36f6f_0: sha256:f26930aa4e25a370288a7361a42844eaa7017c4b97c11642cfacff3113b99731
+tags:
+  0.5.4--pyh5e36f6f_0: sha256:f26930aa4e25a370288a7361a42844eaa7017c4b97c11642cfacff3113b99731
+docker: quay.io/biocontainers/binsanity
+aliases:
+  Binsanity: /usr/local/bin/Binsanity
+  Binsanity-lc: /usr/local/bin/Binsanity-lc
+  Binsanity-profile: /usr/local/bin/Binsanity-profile
+  Binsanity-refine: /usr/local/bin/Binsanity-refine
+  Binsanity-wf: /usr/local/bin/Binsanity-wf
+  Binsanity2-beta: /usr/local/bin/Binsanity2-beta
+  bin_evaluation: /usr/local/bin/bin_evaluation
+  checkm: /usr/local/bin/checkm
+  checkm_analysis: /usr/local/bin/checkm_analysis
+  concat: /usr/local/bin/concat
+  detectionCall: /usr/local/bin/detectionCall
+  exactSNP: /usr/local/bin/exactSNP
+  featureCounts: /usr/local/bin/featureCounts
+  flattenGTF: /usr/local/bin/flattenGTF
+  genRandomReads: /usr/local/bin/genRandomReads
+  get-ids: /usr/local/bin/get-ids
+  identifyHMM: /usr/local/bin/identifyHMM
+  propmapped: /usr/local/bin/propmapped
+  qualityScores: /usr/local/bin/qualityScores
+  removeDup: /usr/local/bin/removeDup
+  repair: /usr/local/bin/repair
+  simplify-fasta: /usr/local/bin/simplify-fasta
+  subindel: /usr/local/bin/subindel
+  subjunc: /usr/local/bin/subjunc
+  sublong: /usr/local/bin/sublong
+  subread-align: /usr/local/bin/subread-align
+  subread-buildindex: /usr/local/bin/subread-buildindex
+  subread-fullscan: /usr/local/bin/subread-fullscan
+  transform-coverage-profile: /usr/local/bin/transform-coverage-profile
+  txUnique: /usr/local/bin/txUnique
+  rppr: /usr/local/bin/rppr
+  guppy: /usr/local/bin/guppy
+  pplacer: /usr/local/bin/pplacer
+  dendropy-format: /usr/local/bin/dendropy-format
+  sumlabels.py: /usr/local/bin/sumlabels.py
+  sumtrees.py: /usr/local/bin/sumtrees.py
+  prodigal: /usr/local/bin/prodigal
+  hmmpgmd_shard: /usr/local/bin/hmmpgmd_shard
+  easel: /usr/local/bin/easel
+  esl-mixdchlet: /usr/local/bin/esl-mixdchlet
+  esl-alimanip: /usr/local/bin/esl-alimanip
+  esl-alimap: /usr/local/bin/esl-alimap
+  esl-alimask: /usr/local/bin/esl-alimask
+  esl-alimerge: /usr/local/bin/esl-alimerge
+  esl-alipid: /usr/local/bin/esl-alipid
+  esl-alirev: /usr/local/bin/esl-alirev
+  esl-alistat: /usr/local/bin/esl-alistat
+  esl-compalign: /usr/local/bin/esl-compalign
+  esl-compstruct: /usr/local/bin/esl-compstruct
+  esl-construct: /usr/local/bin/esl-construct
+  esl-histplot: /usr/local/bin/esl-histplot
+  esl-mask: /usr/local/bin/esl-mask
+  esl-selectn: /usr/local/bin/esl-selectn
+  esl-seqrange: /usr/local/bin/esl-seqrange
+  esl-seqstat: /usr/local/bin/esl-seqstat

@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/serotypefinder
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for serotypefinder
+latest:
+  2.0.1--py39hdfd78af_0: sha256:04d3dd31d77ca3f0d2d35dfb090c2beccad959f07fb9fe87a0c6db2d0650f99a
+tags:
+  2.0.1--py39hdfd78af_0: sha256:04d3dd31d77ca3f0d2d35dfb090c2beccad959f07fb9fe87a0c6db2d0650f99a
+docker: quay.io/biocontainers/serotypefinder
+aliases:
+  serotypefinder: /usr/local/bin/serotypefinder
+  update-serotypefinder-db: /usr/local/bin/update-serotypefinder-db
+  kma: /usr/local/bin/kma
+  kma_index: /usr/local/bin/kma_index
+  kma_shm: /usr/local/bin/kma_shm
+  kma_update: /usr/local/bin/kma_update
+  CA.pm: /usr/local/bin/CA.pm
+  cacert.pem: /usr/local/bin/cacert.pem
+  index-themes: /usr/local/bin/index-themes
+  fetch-extras: /usr/local/bin/fetch-extras
+  go.mod: /usr/local/bin/go.mod
+  go.sum: /usr/local/bin/go.sum
+  hlp-xtract.txt: /usr/local/bin/hlp-xtract.txt
+  index-extras: /usr/local/bin/index-extras
+  pm-collect: /usr/local/bin/pm-collect
+  readme.pdf: /usr/local/bin/readme.pdf
+  bt-context.txt: /usr/local/bin/bt-context.txt
+  bt-link: /usr/local/bin/bt-link
+  bt-load: /usr/local/bin/bt-load
+  bt-save: /usr/local/bin/bt-save
+  bt-srch: /usr/local/bin/bt-srch
+  eblast: /usr/local/bin/eblast
+  pm-index: /usr/local/bin/pm-index
+  pm-invert: /usr/local/bin/pm-invert
+  pm-merge: /usr/local/bin/pm-merge
+  pm-prepare: /usr/local/bin/pm-prepare
+  pm-promote: /usr/local/bin/pm-promote

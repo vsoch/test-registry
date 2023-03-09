@@ -1,0 +1,25 @@
+url: https://biocontainers.pro/tools/upimapi
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for upimapi
+latest:
+  1.8.5--hdfd78af_0: sha256:3959e0b860808cf09b3ed70734918ddcba3747ccafb9a6b184e1f1d2cb56a2c7
+tags:
+  1.8.5--hdfd78af_0: sha256:3959e0b860808cf09b3ed70734918ddcba3747ccafb9a6b184e1f1d2cb56a2c7
+docker: quay.io/biocontainers/upimapi
+aliases:
+  firefox: /usr/local/bin/firefox
+  geckodriver: /usr/local/bin/geckodriver
+  upimapi.py: /usr/local/bin/upimapi.py
+  xml2-config.bak: /usr/local/bin/xml2-config.bak
+  diamond: /usr/local/bin/diamond
+  xslt-config: /usr/local/bin/xslt-config
+  xsltproc: /usr/local/bin/xsltproc
+  tqdm: /usr/local/bin/tqdm
+  normalizer: /usr/local/bin/normalizer
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

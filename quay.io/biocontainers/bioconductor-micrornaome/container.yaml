@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-micrornaome
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-micrornaome
+latest:
+  1.8.0--r36_0: sha256:a557144d03190db977828dede7136307c87ca377b19e5fe4cf90eb0eb0f3a763
+tags:
+  1.8.0--r36_0: sha256:a557144d03190db977828dede7136307c87ca377b19e5fe4cf90eb0eb0f3a763
+docker: quay.io/biocontainers/bioconductor-micrornaome
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

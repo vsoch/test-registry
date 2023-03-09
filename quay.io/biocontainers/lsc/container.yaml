@@ -1,0 +1,46 @@
+url: https://biocontainers.pro/tools/lsc
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for lsc
+latest:
+  2.0--2: sha256:df78b2f0f3eaa400f7e7e7faa43de902f2995894c110b318cef0d38f8da248ab
+tags:
+  2.0--2: sha256:df78b2f0f3eaa400f7e7e7faa43de902f2995894c110b318cef0d38f8da248ab
+docker: quay.io/biocontainers/lsc
+aliases:
+  AlignmentBasics.py: /usr/local/bin/AlignmentBasics.py
+  CorrectFromMapBasics.py: /usr/local/bin/CorrectFromMapBasics.py
+  FileBasics.py: /usr/local/bin/FileBasics.py
+  NavToMapBasics.py: /usr/local/bin/NavToMapBasics.py
+  SamToNavBasics.py: /usr/local/bin/SamToNavBasics.py
+  SequenceBasics.py: /usr/local/bin/SequenceBasics.py
+  SequenceCompressionBasics.py: /usr/local/bin/SequenceCompressionBasics.py
+  explode_fasta.pl: /usr/local/bin/explode_fasta.pl
+  fasta_to_tsv.pl: /usr/local/bin/fasta_to_tsv.pl
+  fastq_to_tsv.pl: /usr/local/bin/fastq_to_tsv.pl
+  filter_corrected_reads.py: /usr/local/bin/filter_corrected_reads.py
+  runLSC.py: /usr/local/bin/runLSC.py
+  bowtie2: /usr/local/bin/bowtie2
+  bowtie2-align-l: /usr/local/bin/bowtie2-align-l
+  bowtie2-align-s: /usr/local/bin/bowtie2-align-s
+  bowtie2-build: /usr/local/bin/bowtie2-build
+  bowtie2-build-l: /usr/local/bin/bowtie2-build-l
+  bowtie2-build-s: /usr/local/bin/bowtie2-build-s
+  bowtie2-inspect: /usr/local/bin/bowtie2-inspect
+  bowtie2-inspect-l: /usr/local/bin/bowtie2-inspect-l
+  bowtie2-inspect-s: /usr/local/bin/bowtie2-inspect-s
+  python2-config: /usr/local/bin/python2-config
+  python2.7-config: /usr/local/bin/python2.7-config
+  python2: /usr/local/bin/python2
+  python2.7: /usr/local/bin/python2.7
+  idle: /usr/local/bin/idle
+  python-config: /usr/local/bin/python-config
+  smtpd.py: /usr/local/bin/smtpd.py
+  perl5.26.2: /usr/local/bin/perl5.26.2
+  podselect: /usr/local/bin/podselect
+  ace2sam: /usr/local/bin/ace2sam
+  blast2sam.pl: /usr/local/bin/blast2sam.pl
+  bowtie2sam.pl: /usr/local/bin/bowtie2sam.pl
+  export2sam.pl: /usr/local/bin/export2sam.pl
+  interpolate_sam.pl: /usr/local/bin/interpolate_sam.pl
+  maq2sam-long: /usr/local/bin/maq2sam-long
+  maq2sam-short: /usr/local/bin/maq2sam-short

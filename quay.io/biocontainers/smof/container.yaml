@@ -1,0 +1,16 @@
+url: https://biocontainers.pro/tools/smof
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for smof
+latest:
+  2.22.2--pyhdfd78af_0: sha256:5338621ccbbe58f42226b00f94dc91a4cf274f8464e556245330a4b7651a363e
+tags:
+  2.22.2--pyhdfd78af_0: sha256:5338621ccbbe58f42226b00f94dc91a4cf274f8464e556245330a4b7651a363e
+docker: quay.io/biocontainers/smof
+aliases:
+  smof: /usr/local/bin/smof
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

@@ -1,0 +1,18 @@
+url: https://biocontainers.pro/tools/bioconductor-hcadata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-hcadata
+latest:
+  1.8.0--r41hdfd78af_0: "crane digest quay.io/biocontainers/bioconductor-hcadata:1.8.0--r41hdfd78af_0:\
+    \ unsupported status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML\
+    \ 3.2 Final//EN\">\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You\
+    \ should be redirected automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+tags:
+  1.8.0--r41hdfd78af_0: "crane digest quay.io/biocontainers/bioconductor-hcadata:1.8.0--r41hdfd78af_0:\
+    \ unsupported status code 502; body: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML\
+    \ 3.2 Final//EN\">\n<title>Redirecting...</title>\n<h1>Redirecting...</h1>\n<p>You\
+    \ should be redirected automatically to target URL: <a href=\"https://quay.io/quay-registry/static/502.html/\"\
+    >https://quay.io/quay-registry/static/502.html/</a>.  If not click the link."
+docker: quay.io/biocontainers/bioconductor-hcadata
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

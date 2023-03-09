@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/hypercluster
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for hypercluster
+latest:
+  0.1.9--0: sha256:5afc687e7b82043c76d30d17a25458e8433324ba3f7774c478eb36aad449ea39
+tags:
+  0.1.9--0: sha256:5afc687e7b82043c76d30d17a25458e8433324ba3f7774c478eb36aad449ea39
+docker: quay.io/biocontainers/hypercluster
+aliases:
+  community: /usr/local/bin/community
+  croco-0.6-config: /usr/local/bin/croco-0.6-config
+  csslint-0.6: /usr/local/bin/csslint-0.6
+  x86_64-conda_cos6-linux-gnu-pkg-config: /usr/local/bin/x86_64-conda_cos6-linux-gnu-pkg-config
+  mpichversion: /usr/local/bin/mpichversion
+  mpivars: /usr/local/bin/mpivars
+  parkill: /usr/local/bin/parkill
+  hydra_nameserver: /usr/local/bin/hydra_nameserver
+  hydra_persist: /usr/local/bin/hydra_persist
+  hydra_pmi_proxy: /usr/local/bin/hydra_pmi_proxy
+  mpiexec.hydra: /usr/local/bin/mpiexec.hydra
+  g-ir-doc-tool: /usr/local/bin/g-ir-doc-tool
+  giffilter: /usr/local/bin/giffilter
+  gifsponge: /usr/local/bin/gifsponge
+  g-ir-annotation-tool: /usr/local/bin/g-ir-annotation-tool
+  g-ir-compiler: /usr/local/bin/g-ir-compiler
+  g-ir-generate: /usr/local/bin/g-ir-generate
+  g-ir-inspect: /usr/local/bin/g-ir-inspect
+  g-ir-scanner: /usr/local/bin/g-ir-scanner
+  gifecho: /usr/local/bin/gifecho
+  gifinto: /usr/local/bin/gifinto
+  compile-et.pl: /usr/local/bin/compile-et.pl
+  prerr.properties: /usr/local/bin/prerr.properties
+  Magick++-config: /usr/local/bin/Magick++-config
+  MagickCore-config: /usr/local/bin/MagickCore-config
+  MagickWand-config: /usr/local/bin/MagickWand-config
+  animate: /usr/local/bin/animate
+  composite: /usr/local/bin/composite
+  conjure: /usr/local/bin/conjure

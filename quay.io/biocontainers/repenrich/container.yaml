@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/repenrich
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for repenrich
+latest:
+  1.2--hdfd78af_3: sha256:31e724e00affc4320d30a2e1edb91095ef2b5275ac319033bfc5e8c55b4f045d
+tags:
+  1.2--hdfd78af_3: sha256:31e724e00affc4320d30a2e1edb91095ef2b5275ac319033bfc5e8c55b4f045d
+docker: quay.io/biocontainers/repenrich
+aliases:
+  RepEnrich.py: /usr/local/bin/RepEnrich.py
+  RepEnrich_setup.py: /usr/local/bin/RepEnrich_setup.py
+  bowtie-align-l: /usr/local/bin/bowtie-align-l
+  bowtie-align-s: /usr/local/bin/bowtie-align-s
+  bowtie-build-l: /usr/local/bin/bowtie-build-l
+  bowtie-build-s: /usr/local/bin/bowtie-build-s
+  bowtie-inspect-l: /usr/local/bin/bowtie-inspect-l
+  bowtie-inspect-s: /usr/local/bin/bowtie-inspect-s
+  bowtie: /usr/local/bin/bowtie
+  bowtie-build: /usr/local/bin/bowtie-build
+  bowtie-inspect: /usr/local/bin/bowtie-inspect
+  perl5.32.0: /usr/local/bin/perl5.32.0
+  f2py2: /usr/local/bin/f2py2
+  f2py2.7: /usr/local/bin/f2py2.7
+  annotateBed: /usr/local/bin/annotateBed
+  bamToBed: /usr/local/bin/bamToBed
+  bamToFastq: /usr/local/bin/bamToFastq
+  bed12ToBed6: /usr/local/bin/bed12ToBed6
+  bedToBam: /usr/local/bin/bedToBam
+  bedToIgv: /usr/local/bin/bedToIgv
+  bedpeToBam: /usr/local/bin/bedpeToBam
+  bedtools: /usr/local/bin/bedtools
+  closestBed: /usr/local/bin/closestBed
+  clusterBed: /usr/local/bin/clusterBed
+  complementBed: /usr/local/bin/complementBed
+  coverageBed: /usr/local/bin/coverageBed
+  expandCols: /usr/local/bin/expandCols

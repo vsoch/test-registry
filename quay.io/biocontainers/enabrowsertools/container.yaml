@@ -1,0 +1,27 @@
+url: https://biocontainers.pro/tools/enabrowsertools
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for enabrowsertools
+latest:
+  1.5.4--0: sha256:1374458c207e010b82b0b3f9aa084eb186ab361e00558c755a7bb4e8f0813b83
+tags:
+  1.5.4--0: sha256:1374458c207e010b82b0b3f9aa084eb186ab361e00558c755a7bb4e8f0813b83
+docker: quay.io/biocontainers/enabrowsertools
+aliases:
+  assemblyGet.py: /usr/local/bin/assemblyGet.py
+  enaDataGet: /usr/local/bin/enaDataGet
+  enaDataGet.py: /usr/local/bin/enaDataGet.py
+  enaGroupGet: /usr/local/bin/enaGroupGet
+  enaGroupGet.py: /usr/local/bin/enaGroupGet.py
+  readGet.py: /usr/local/bin/readGet.py
+  sequenceGet.py: /usr/local/bin/sequenceGet.py
+  utils.py: /usr/local/bin/utils.py
+  utils_py2.py: /usr/local/bin/utils_py2.py
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  pyvenv: /usr/local/bin/pyvenv

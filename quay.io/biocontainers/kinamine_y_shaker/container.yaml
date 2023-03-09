@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/kinamine_y_shaker
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for kinamine_y_shaker
+latest:
+  1.0.0--hdfd78af_1: sha256:56ef224245870b9d1ea0d7ce25ed8403eadbe1a81dd0e26ea9ff9b6e3f08c3a6
+tags:
+  1.0.0--hdfd78af_1: sha256:56ef224245870b9d1ea0d7ce25ed8403eadbe1a81dd0e26ea9ff9b6e3f08c3a6
+docker: quay.io/biocontainers/kinamine_y_shaker
+aliases:
+  KinamineY-shaker: /usr/local/bin/KinamineY-shaker
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd
+  jconsole: /usr/local/bin/jconsole
+  jdb: /usr/local/bin/jdb
+  jinfo: /usr/local/bin/jinfo

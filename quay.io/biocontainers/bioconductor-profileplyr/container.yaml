@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-profileplyr
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-profileplyr
+latest:
+  1.8.0--r41hdfd78af_0: sha256:c834dded7a708fa474d73436aa5f2c17676c641d4c5327bea8bc449d8686076d
+tags:
+  1.8.0--r41hdfd78af_0: sha256:c834dded7a708fa474d73436aa5f2c17676c641d4c5327bea8bc449d8686076d
+docker: quay.io/biocontainers/bioconductor-profileplyr
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

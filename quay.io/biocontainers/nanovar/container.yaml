@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/nanovar
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for nanovar
+latest:
+  1.4.1--py37h8902056_1: sha256:7ecf3a09a52418b6d2aaa01c176bfccea9ce7edcbbc4512e9a64e5d09f4a1706
+tags:
+  1.4.1--py37h8902056_1: sha256:7ecf3a09a52418b6d2aaa01c176bfccea9ce7edcbbc4512e9a64e5d09f4a1706
+docker: quay.io/biocontainers/nanovar
+aliases:
+  cytocad: /usr/local/bin/cytocad
+  hs-blastn: /usr/local/bin/hs-blastn
+  nanovar: /usr/local/bin/nanovar
+  rfmix2tagore.py: /usr/local/bin/rfmix2tagore.py
+  tagore: /usr/local/bin/tagore
+  import_pb_to_tensorboard: /usr/local/bin/import_pb_to_tensorboard
+  estimator_ckpt_converter: /usr/local/bin/estimator_ckpt_converter
+  google-oauthlib-tool: /usr/local/bin/google-oauthlib-tool
+  tf_upgrade_v2: /usr/local/bin/tf_upgrade_v2
+  tflite_convert: /usr/local/bin/tflite_convert
+  saved_model_cli: /usr/local/bin/saved_model_cli
+  toco: /usr/local/bin/toco
+  toco_from_protos: /usr/local/bin/toco_from_protos
+  grpc_cpp_plugin: /usr/local/bin/grpc_cpp_plugin
+  grpc_csharp_plugin: /usr/local/bin/grpc_csharp_plugin
+  grpc_node_plugin: /usr/local/bin/grpc_node_plugin
+  grpc_objective_c_plugin: /usr/local/bin/grpc_objective_c_plugin
+  grpc_php_plugin: /usr/local/bin/grpc_php_plugin
+  grpc_python_plugin: /usr/local/bin/grpc_python_plugin
+  grpc_ruby_plugin: /usr/local/bin/grpc_ruby_plugin
+  tensorboard: /usr/local/bin/tensorboard
+  markdown_py: /usr/local/bin/markdown_py
+  natsort: /usr/local/bin/natsort
+  pyrsa-decrypt: /usr/local/bin/pyrsa-decrypt
+  pyrsa-encrypt: /usr/local/bin/pyrsa-encrypt
+  pyrsa-keygen: /usr/local/bin/pyrsa-keygen
+  pyrsa-priv2pub: /usr/local/bin/pyrsa-priv2pub
+  pyrsa-sign: /usr/local/bin/pyrsa-sign
+  pyrsa-verify: /usr/local/bin/pyrsa-verify
+  sdust: /usr/local/bin/sdust

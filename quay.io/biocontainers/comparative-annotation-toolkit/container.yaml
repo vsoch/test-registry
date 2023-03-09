@@ -1,0 +1,78 @@
+url: https://biocontainers.pro/tools/comparative-annotation-toolkit
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for comparative-annotation-toolkit
+latest:
+  0.1--py_2: sha256:eced8ca5b7bb2dd4ad4bb0d2e1a089944f6b6c95ca6126ba1067a93f8075eb63
+tags:
+  0.1--py_2: sha256:eced8ca5b7bb2dd4ad4bb0d2e1a089944f6b6c95ca6126ba1067a93f8075eb63
+docker: quay.io/biocontainers/comparative-annotation-toolkit
+aliases:
+  autoRun.pathInfo: /usr/local/bin/autoRun.pathInfo
+  axtChain: /usr/local/bin/axtChain
+  bamToPsl: /usr/local/bin/bamToPsl
+  bamtools-2.4.1: /usr/local/bin/bamtools-2.4.1
+  bedSort: /usr/local/bin/bedSort
+  chainMergeSort: /usr/local/bin/chainMergeSort
+  clusterGenes: /usr/local/bin/clusterGenes
+  cwltest: /usr/local/bin/cwltest
+  cwltoil: /usr/local/bin/cwltoil
+  espoca: /usr/local/bin/espoca
+  filterGenesIn_mRNAname.pl.patch: /usr/local/bin/filterGenesIn_mRNAname.pl.patch
+  galaxy-tool-test: /usr/local/bin/galaxy-tool-test
+  genePredToBed: /usr/local/bin/genePredToBed
+  genePredToFakePsl: /usr/local/bin/genePredToFakePsl
+  genePredToGtf: /usr/local/bin/genePredToGtf
+  gff3ToGenePred: /usr/local/bin/gff3ToGenePred
+  gtf2gff.pl.origexit: /usr/local/bin/gtf2gff.pl.origexit
+  intron2exex.pl: /usr/local/bin/intron2exex.pl
+  luigi: /usr/local/bin/luigi
+  luigi-deps: /usr/local/bin/luigi-deps
+  luigi-deps-tree: /usr/local/bin/luigi-deps-tree
+  luigi-grep: /usr/local/bin/luigi-grep
+  luigid: /usr/local/bin/luigid
+  mock-cwl-runner: /usr/local/bin/mock-cwl-runner
+  mulled-build: /usr/local/bin/mulled-build
+  mulled-build-channel: /usr/local/bin/mulled-build-channel
+  mulled-build-files: /usr/local/bin/mulled-build-files
+  mulled-build-tool: /usr/local/bin/mulled-build-tool
+  mulled-search: /usr/local/bin/mulled-search
+  pslCDnaFilter: /usr/local/bin/pslCDnaFilter
+  pslCheck: /usr/local/bin/pslCheck
+  pslMap: /usr/local/bin/pslMap
+  pslMapPostChain: /usr/local/bin/pslMapPostChain
+  pslPosTarget: /usr/local/bin/pslPosTarget
+  pslRecalcMatch: /usr/local/bin/pslRecalcMatch
+  pslToBigPsl: /usr/local/bin/pslToBigPsl
+  pyfasta: /usr/local/bin/pyfasta
+  ratewig.pl: /usr/local/bin/ratewig.pl
+  toil: /usr/local/bin/toil
+  toil-cwl-runner: /usr/local/bin/toil-cwl-runner
+  toil-wdl-runner: /usr/local/bin/toil-wdl-runner
+  transMapPslToGenePred: /usr/local/bin/transMapPslToGenePred
+  webserver-results.body: /usr/local/bin/webserver-results.body
+  wsdump.py: /usr/local/bin/wsdump.py
+  cwltool: /usr/local/bin/cwltool
+  gtfToGenePred: /usr/local/bin/gtfToGenePred
+  SplicedAlignment.pm: /usr/local/bin/SplicedAlignment.pm
+  augustus2browser.pl: /usr/local/bin/augustus2browser.pl
+  augustus2gbrowse.pl: /usr/local/bin/augustus2gbrowse.pl
+  autoAug.pl: /usr/local/bin/autoAug.pl
+  autoAugPred.pl: /usr/local/bin/autoAugPred.pl
+  autoAugTrain.pl: /usr/local/bin/autoAugTrain.pl
+  bam2wig: /usr/local/bin/bam2wig
+  bedgraph2wig.pl: /usr/local/bin/bedgraph2wig.pl
+  blat2gbrowse.pl: /usr/local/bin/blat2gbrowse.pl
+  blat2hints.pl: /usr/local/bin/blat2hints.pl
+  block2prfl.pl: /usr/local/bin/block2prfl.pl
+  cegma2gff.pl: /usr/local/bin/cegma2gff.pl
+  checkParamArchive.pl: /usr/local/bin/checkParamArchive.pl
+  checkUTR: /usr/local/bin/checkUTR
+  cleanDOSfasta.pl: /usr/local/bin/cleanDOSfasta.pl
+  clusterAndSplitGenes.pl: /usr/local/bin/clusterAndSplitGenes.pl
+  createAugustusJoblist.pl: /usr/local/bin/createAugustusJoblist.pl
+  del_from_prfl.pl: /usr/local/bin/del_from_prfl.pl
+  evalCGP.pl: /usr/local/bin/evalCGP.pl
+  eval_dualdecomp.pl: /usr/local/bin/eval_dualdecomp.pl
+  exonerate2hints.pl: /usr/local/bin/exonerate2hints.pl
+  exoniphyDb2hints.pl: /usr/local/bin/exoniphyDb2hints.pl
+  extractTranscriptEnds.pl: /usr/local/bin/extractTranscriptEnds.pl

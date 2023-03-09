@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/methylpy
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for methylpy
+latest:
+  1.4.3--py27h41a55b7_0: sha256:c4b8fa9f4e0743dd78d19f9848ebf006a19cac5f0fd760843e75913eb0abab3e
+tags:
+  1.4.3--py27h41a55b7_0: sha256:c4b8fa9f4e0743dd78d19f9848ebf006a19cac5f0fd760843e75913eb0abab3e
+docker: quay.io/biocontainers/methylpy
+aliases:
+  methylpy: /usr/local/bin/methylpy
+  wigToBigWig: /usr/local/bin/wigToBigWig
+  picard: /usr/local/bin/picard
+  cutadapt: /usr/local/bin/cutadapt
+  bowtie-align-l: /usr/local/bin/bowtie-align-l
+  bowtie-align-s: /usr/local/bin/bowtie-align-s
+  bowtie-build-l: /usr/local/bin/bowtie-build-l
+  bowtie-build-s: /usr/local/bin/bowtie-build-s
+  bowtie-inspect-l: /usr/local/bin/bowtie-inspect-l
+  bowtie-inspect-s: /usr/local/bin/bowtie-inspect-s
+  bowtie: /usr/local/bin/bowtie
+  bowtie-build: /usr/local/bin/bowtie-build
+  bowtie-inspect: /usr/local/bin/bowtie-inspect
+  my_print_defaults: /usr/local/bin/my_print_defaults
+  mysql_config: /usr/local/bin/mysql_config
+  perror: /usr/local/bin/perror
+  pigz: /usr/local/bin/pigz
+  unpigz: /usr/local/bin/unpigz
+  bowtie2: /usr/local/bin/bowtie2
+  bowtie2-align-l: /usr/local/bin/bowtie2-align-l
+  bowtie2-align-s: /usr/local/bin/bowtie2-align-s
+  bowtie2-build: /usr/local/bin/bowtie2-build
+  bowtie2-build-l: /usr/local/bin/bowtie2-build-l
+  bowtie2-build-s: /usr/local/bin/bowtie2-build-s
+  bowtie2-inspect: /usr/local/bin/bowtie2-inspect
+  bowtie2-inspect-l: /usr/local/bin/bowtie2-inspect-l

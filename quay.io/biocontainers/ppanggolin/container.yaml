@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/ppanggolin
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ppanggolin
+latest:
+  v0.3.88--py36h516909a_1: sha256:042eac580f6968117ee323c4840d0478333a6c0595561c21632b08675b95e54a
+tags:
+  v0.3.88--py36h516909a_1: sha256:042eac580f6968117ee323c4840d0478333a6c0595561c21632b08675b95e54a
+docker: quay.io/biocontainers/ppanggolin
+aliases:
+  gawk-5.0.1: /usr/local/bin/gawk-5.0.1
+  ppanggolin: /usr/local/bin/ppanggolin
+  aragorn: /usr/local/bin/aragorn
+  mmseqs: /usr/local/bin/mmseqs
+  cmalign: /usr/local/bin/cmalign
+  cmbuild: /usr/local/bin/cmbuild
+  cmcalibrate: /usr/local/bin/cmcalibrate
+  cmconvert: /usr/local/bin/cmconvert
+  cmemit: /usr/local/bin/cmemit
+  cmfetch: /usr/local/bin/cmfetch
+  cmpress: /usr/local/bin/cmpress
+  cmscan: /usr/local/bin/cmscan
+  cmsearch: /usr/local/bin/cmsearch
+  cmstat: /usr/local/bin/cmstat
+  pt2to3: /usr/local/bin/pt2to3
+  ptdump: /usr/local/bin/ptdump
+  ptrepack: /usr/local/bin/ptrepack
+  pttree: /usr/local/bin/pttree
+  awk: /usr/local/bin/awk
+  gawk: /usr/local/bin/gawk
+  prodigal: /usr/local/bin/prodigal
+  f2py3.6: /usr/local/bin/f2py3.6
+  tqdm: /usr/local/bin/tqdm
+  2to3-3.6: /usr/local/bin/2to3-3.6
+  idle3.6: /usr/local/bin/idle3.6
+  pydoc3.6: /usr/local/bin/pydoc3.6
+  python3.6: /usr/local/bin/python3.6

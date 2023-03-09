@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/rdp_classifier
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for rdp_classifier
+latest:
+  2.2--2: sha256:94625e4e71c4c0534448ae393825f59c0b33c06555442cad9e226d956033c0d2
+tags:
+  2.2--2: sha256:94625e4e71c4c0534448ae393825f59c0b33c06555442cad9e226d956033c0d2
+docker: quay.io/biocontainers/rdp_classifier
+aliases:
+  rdp_classifier: /usr/local/bin/rdp_classifier
+  giffilter: /usr/local/bin/giffilter
+  gifsponge: /usr/local/bin/gifsponge
+  gifecho: /usr/local/bin/gifecho
+  gifinto: /usr/local/bin/gifinto
+  jaotc: /usr/local/bin/jaotc
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd

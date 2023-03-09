@@ -1,0 +1,49 @@
+url: https://biocontainers.pro/tools/chexmix
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for chexmix
+latest:
+  0.52--hdfd78af_0: sha256:ffd9cf92a820c25ccc05fd62e815aefb0519aa0da2313e1c36aa200a5f61a128
+tags:
+  0.52--hdfd78af_0: sha256:ffd9cf92a820c25ccc05fd62e815aefb0519aa0da2313e1c36aa200a5f61a128
+docker: quay.io/biocontainers/chexmix
+aliases:
+  centrimo-plots: /usr/local/bin/centrimo-plots
+  chexmix: /usr/local/bin/chexmix
+  dtc: /usr/local/bin/dtc
+  fasta-from-bed: /usr/local/bin/fasta-from-bed
+  fasta-holdout-set: /usr/local/bin/fasta-holdout-set
+  fasta-re-match: /usr/local/bin/fasta-re-match
+  index-fasta-file: /usr/local/bin/index-fasta-file
+  meme-chip_html_to_tsv: /usr/local/bin/meme-chip_html_to_tsv
+  momo: /usr/local/bin/momo
+  sea: /usr/local/bin/sea
+  streme: /usr/local/bin/streme
+  streme_xml_to_html: /usr/local/bin/streme_xml_to_html
+  tgene: /usr/local/bin/tgene
+  xstreme: /usr/local/bin/xstreme
+  xstreme_html_to_tsv: /usr/local/bin/xstreme_html_to_tsv
+  alphtype: /usr/local/bin/alphtype
+  ama: /usr/local/bin/ama
+  ama-qvalues: /usr/local/bin/ama-qvalues
+  ame: /usr/local/bin/ame
+  beeml2meme: /usr/local/bin/beeml2meme
+  centrimo: /usr/local/bin/centrimo
+  ceqlogo: /usr/local/bin/ceqlogo
+  chen2meme: /usr/local/bin/chen2meme
+  clustalw2fasta: /usr/local/bin/clustalw2fasta
+  clustalw2phylip: /usr/local/bin/clustalw2phylip
+  compute-prior-dist: /usr/local/bin/compute-prior-dist
+  compute-uniform-priors: /usr/local/bin/compute-uniform-priors
+  create-priors: /usr/local/bin/create-priors
+  dreme: /usr/local/bin/dreme
+  dreme_xml_to_html: /usr/local/bin/dreme_xml_to_html
+  dreme_xml_to_txt: /usr/local/bin/dreme_xml_to_txt
+  dust: /usr/local/bin/dust
+  elm2meme: /usr/local/bin/elm2meme
+  fasta-center: /usr/local/bin/fasta-center
+  fasta-dinucleotide-shuffle: /usr/local/bin/fasta-dinucleotide-shuffle
+  fasta-fetch: /usr/local/bin/fasta-fetch
+  fasta-get-markov: /usr/local/bin/fasta-get-markov
+  fasta-grep: /usr/local/bin/fasta-grep
+  fasta-hamming-enrich: /usr/local/bin/fasta-hamming-enrich
+  fasta-make-index: /usr/local/bin/fasta-make-index

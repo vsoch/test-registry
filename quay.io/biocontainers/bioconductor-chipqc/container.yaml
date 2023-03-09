@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-chipqc
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-chipqc
+latest:
+  1.30.0--r41hdfd78af_0: sha256:7231aedf5c9fd4a740daf85cc82687707b15890867de361154b9b493a349e7a5
+tags:
+  1.30.0--r41hdfd78af_0: sha256:7231aedf5c9fd4a740daf85cc82687707b15890867de361154b9b493a349e7a5
+docker: quay.io/biocontainers/bioconductor-chipqc

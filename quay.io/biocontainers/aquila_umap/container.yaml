@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/aquila_umap
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for aquila_umap
+latest:
+  1.0--pyh864c0ab_2: sha256:5e6d05e4c6544e2c7de5d1801e430c8beda54d05ece03ca88a0bc4198170d74f
+tags:
+  1.0--pyh864c0ab_2: sha256:5e6d05e4c6544e2c7de5d1801e430c8beda54d05ece03ca88a0bc4198170d74f
+docker: quay.io/biocontainers/aquila_umap
+aliases:
+  aquila_umap: /usr/local/bin/aquila_umap
+  bowtie2: /usr/local/bin/bowtie2
+  bowtie2-align-l: /usr/local/bin/bowtie2-align-l
+  bowtie2-align-s: /usr/local/bin/bowtie2-align-s
+  bowtie2-build: /usr/local/bin/bowtie2-build
+  bowtie2-build-l: /usr/local/bin/bowtie2-build-l
+  bowtie2-build-s: /usr/local/bin/bowtie2-build-s
+  bowtie2-inspect: /usr/local/bin/bowtie2-inspect
+  bowtie2-inspect-l: /usr/local/bin/bowtie2-inspect-l
+  bowtie2-inspect-s: /usr/local/bin/bowtie2-inspect-s
+  perl5.26.2: /usr/local/bin/perl5.26.2
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  podselect: /usr/local/bin/podselect
+  ace2sam: /usr/local/bin/ace2sam
+  blast2sam.pl: /usr/local/bin/blast2sam.pl
+  bowtie2sam.pl: /usr/local/bin/bowtie2sam.pl
+  export2sam.pl: /usr/local/bin/export2sam.pl
+  interpolate_sam.pl: /usr/local/bin/interpolate_sam.pl
+  maq2sam-long: /usr/local/bin/maq2sam-long

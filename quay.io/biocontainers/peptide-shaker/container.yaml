@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/peptide-shaker
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for peptide-shaker
+latest:
+  1.16.4--py27_0: sha256:1ee91304befdc6a6b3573eadfd25ff59ec64f4f08c909b0e95a3edfa4e3d0617
+tags:
+  1.16.4--py27_0: sha256:1ee91304befdc6a6b3573eadfd25ff59ec64f4f08c909b0e95a3edfa4e3d0617
+docker: quay.io/biocontainers/peptide-shaker
+aliases:
+  peptide-shaker: /usr/local/bin/peptide-shaker
+  easy_install-2.7: /usr/local/bin/easy_install-2.7
+  extcheck: /usr/local/bin/extcheck
+  java-rmi.cgi: /usr/local/bin/java-rmi.cgi
+  javah: /usr/local/bin/javah
+  jhat: /usr/local/bin/jhat
+  jsadebugd: /usr/local/bin/jsadebugd
+  native2ascii: /usr/local/bin/native2ascii
+  policytool: /usr/local/bin/policytool
+  appletviewer: /usr/local/bin/appletviewer
+  idlj: /usr/local/bin/idlj
+  orbd: /usr/local/bin/orbd
+  schemagen: /usr/local/bin/schemagen
+  servertool: /usr/local/bin/servertool
+  tnameserv: /usr/local/bin/tnameserv
+  wsgen: /usr/local/bin/wsgen
+  wsimport: /usr/local/bin/wsimport
+  xjc: /usr/local/bin/xjc
+  python2: /usr/local/bin/python2
+  python2.7: /usr/local/bin/python2.7
+  idle: /usr/local/bin/idle
+  python-config: /usr/local/bin/python-config
+  smtpd.py: /usr/local/bin/smtpd.py
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic

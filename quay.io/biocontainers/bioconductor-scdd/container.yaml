@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-scdd
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-scdd
+latest:
+  1.8.0--r36_1: sha256:0d0805ee8cd95829f7f8a1874fd19bc9da62615dd76e244a19a5d075abae4aec
+tags:
+  1.8.0--r36_1: sha256:0d0805ee8cd95829f7f8a1874fd19bc9da62615dd76e244a19a5d075abae4aec
+docker: quay.io/biocontainers/bioconductor-scdd
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

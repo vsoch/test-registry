@@ -1,0 +1,27 @@
+url: https://biocontainers.pro/tools/pyensembl
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pyensembl
+latest:
+  2.0.1--pyh5e36f6f_0: sha256:c35a3a654e49c7b48485c0d0904d24f814daa9c678d1c7ce9b52f2a853e707c7
+tags:
+  2.0.1--pyh5e36f6f_0: sha256:c35a3a654e49c7b48485c0d0904d24f814daa9c678d1c7ce9b52f2a853e707c7
+docker: quay.io/biocontainers/pyensembl
+aliases:
+  epylint: /usr/local/bin/epylint
+  isort: /usr/local/bin/isort
+  isort-identify-imports: /usr/local/bin/isort-identify-imports
+  pyensembl: /usr/local/bin/pyensembl
+  pylint: /usr/local/bin/pylint
+  pylint-config: /usr/local/bin/pylint-config
+  pyreverse: /usr/local/bin/pyreverse
+  symilar: /usr/local/bin/symilar
+  get_objgraph: /usr/local/bin/get_objgraph
+  undill: /usr/local/bin/undill
+  normalizer: /usr/local/bin/normalizer
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

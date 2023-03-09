@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-catalyst
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-catalyst
+latest:
+  1.8.6--r36_0: sha256:b82098dda8c583b8a9918a710eecb95fc48d1dd865f767ed04f0c19277e32cc9
+tags:
+  1.8.6--r36_0: sha256:b82098dda8c583b8a9918a710eecb95fc48d1dd865f767ed04f0c19277e32cc9
+docker: quay.io/biocontainers/bioconductor-catalyst
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

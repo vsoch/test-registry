@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/tb-profiler
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for tb-profiler
+latest:
+  4.0.3--pypyh5e36f6f_0: sha256:68bf8f25b462196c1ae5c8b340ee7026fd69f3ae01450e8a31314f494c73d85d
+tags:
+  4.0.3--pypyh5e36f6f_0: sha256:68bf8f25b462196c1ae5c8b340ee7026fd69f3ae01450e8a31314f494c73d85d
+docker: quay.io/biocontainers/tb-profiler
+aliases:
+  add_dummy_AD.py: /usr/local/bin/add_dummy_AD.py
+  combine_vcf_variants.py: /usr/local/bin/combine_vcf_variants.py
+  delly: /usr/local/bin/delly
+  rename_vcf_chrom.py: /usr/local/bin/rename_vcf_chrom.py
+  tb-profiler: /usr/local/bin/tb-profiler
+  gatk: /usr/local/bin/gatk
+  plotBfst.R: /usr/local/bin/plotBfst.R
+  plotHapLrt.R: /usr/local/bin/plotHapLrt.R
+  plotHaplotypes.R: /usr/local/bin/plotHaplotypes.R
+  plotPfst.R: /usr/local/bin/plotPfst.R
+  plotSmoothed.R: /usr/local/bin/plotSmoothed.R
+  plotWCfst.R: /usr/local/bin/plotWCfst.R
+  plotXPEHH.R: /usr/local/bin/plotXPEHH.R
+  plot_roc.r: /usr/local/bin/plot_roc.r
+  samclip: /usr/local/bin/samclip
+  tabix++: /usr/local/bin/tabix++
+  git: /usr/local/bin/git
+  git-cvsserver: /usr/local/bin/git-cvsserver
+  git-receive-pack: /usr/local/bin/git-receive-pack
+  git-shell: /usr/local/bin/git-shell
+  git-upload-archive: /usr/local/bin/git-upload-archive
+  git-upload-pack: /usr/local/bin/git-upload-pack
+  gitk: /usr/local/bin/gitk
+  snpEff: /usr/local/bin/snpEff
+  bamleftalign: /usr/local/bin/bamleftalign
+  bc: /usr/local/bin/bc
+  dc: /usr/local/bin/dc
+  freebayes: /usr/local/bin/freebayes
+  abba-baba: /usr/local/bin/abba-baba
+  bFst: /usr/local/bin/bFst

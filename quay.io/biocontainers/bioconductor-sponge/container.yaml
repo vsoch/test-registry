@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-sponge
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-sponge
+latest:
+  1.8.0--r36_0: sha256:4b049d2aa308b959da922bb979401739b2c6d47944f6281f586ca378ff9972ce
+tags:
+  1.8.0--r36_0: sha256:4b049d2aa308b959da922bb979401739b2c6d47944f6281f586ca378ff9972ce
+docker: quay.io/biocontainers/bioconductor-sponge
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

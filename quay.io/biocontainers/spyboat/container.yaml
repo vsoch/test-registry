@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/spyboat
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for spyboat
+latest:
+  0.1.1: sha256:7c4c33c199618678a3341dbbf93dce5b68d536ee510abe29e5be97bd37ca63d7
+tags:
+  0.1.1: sha256:7c4c33c199618678a3341dbbf93dce5b68d536ee510abe29e5be97bd37ca63d7
+docker: quay.io/biocontainers/spyboat
+aliases:
+  pyboat: /usr/local/bin/pyboat
+  imageio_download_bin: /usr/local/bin/imageio_download_bin
+  imageio_remove_bin: /usr/local/bin/imageio_remove_bin
+  skivi: /usr/local/bin/skivi
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  sip: /usr/local/bin/sip
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc
+  gst-device-monitor-1.0: /usr/local/bin/gst-device-monitor-1.0
+  gst-discoverer-1.0: /usr/local/bin/gst-discoverer-1.0
+  gst-play-1.0: /usr/local/bin/gst-play-1.0
+  fixqt4headers.pl: /usr/local/bin/fixqt4headers.pl
+  qlalr: /usr/local/bin/qlalr
+  qml: /usr/local/bin/qml
+  qmleasing: /usr/local/bin/qmleasing
+  qmlimportscanner: /usr/local/bin/qmlimportscanner
+  qmllint: /usr/local/bin/qmllint

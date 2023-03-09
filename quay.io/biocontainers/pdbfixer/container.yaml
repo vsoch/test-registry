@@ -1,0 +1,21 @@
+url: https://biocontainers.pro/tools/pdbfixer
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pdbfixer
+latest:
+  1.8.1: sha256:2ef51fa5f45cf68b64b3a5eb9a1e03ba70b4f9d3972c31ecb755cf55c5c74ba1
+tags:
+  1.8.1: sha256:2ef51fa5f45cf68b64b3a5eb9a1e03ba70b4f9d3972c31ecb755cf55c5c74ba1
+docker: quay.io/biocontainers/pdbfixer
+aliases:
+  pdbfixer: /usr/local/bin/pdbfixer
+  fftw-wisdom: /usr/local/bin/fftw-wisdom
+  fftw-wisdom-to-conf: /usr/local/bin/fftw-wisdom-to-conf
+  fftwf-wisdom: /usr/local/bin/fftwf-wisdom
+  fftwl-wisdom: /usr/local/bin/fftwl-wisdom
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

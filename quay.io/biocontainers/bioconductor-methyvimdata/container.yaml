@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-methyvimdata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-methyvimdata
+latest:
+  1.8.0--r36_0: sha256:62d45d9aa165b623bbe2f182159f079cfc3f67a56d61d639d7b8013fb1da3634
+tags:
+  1.8.0--r36_0: sha256:62d45d9aa165b623bbe2f182159f079cfc3f67a56d61d639d7b8013fb1da3634
+docker: quay.io/biocontainers/bioconductor-methyvimdata
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

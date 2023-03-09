@@ -1,0 +1,40 @@
+url: https://biocontainers.pro/tools/staramr
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for staramr
+latest:
+  0.8.0--pyhdfd78af_1: sha256:845264047df122c41e62d6236a2ddb0698f54ed893edbd56380544eb83ca5849
+tags:
+  0.8.0--pyhdfd78af_1: sha256:845264047df122c41e62d6236a2ddb0698f54ed893edbd56380544eb83ca5849
+docker: quay.io/biocontainers/staramr
+aliases:
+  file: /usr/local/bin/file
+  green: /usr/local/bin/green
+  green3: /usr/local/bin/green3
+  green3.10: /usr/local/bin/green3.10
+  mlst: /usr/local/bin/mlst
+  staramr: /usr/local/bin/staramr
+  unidecode: /usr/local/bin/unidecode
+  coverage: /usr/local/bin/coverage
+  git: /usr/local/bin/git
+  git-cvsserver: /usr/local/bin/git-cvsserver
+  git-receive-pack: /usr/local/bin/git-receive-pack
+  git-shell: /usr/local/bin/git-shell
+  git-upload-archive: /usr/local/bin/git-upload-archive
+  git-upload-pack: /usr/local/bin/git-upload-pack
+  gitk: /usr/local/bin/gitk
+  bp_pairwise_kaks.pl: /usr/local/bin/bp_pairwise_kaks.pl
+  bp_search2BSML.pl: /usr/local/bin/bp_search2BSML.pl
+  xml2-config.bak: /usr/local/bin/xml2-config.bak
+  vba_extract.py: /usr/local/bin/vba_extract.py
+  coloredlogs: /usr/local/bin/coloredlogs
+  humanfriendly: /usr/local/bin/humanfriendly
+  bp_aacomp.pl: /usr/local/bin/bp_aacomp.pl
+  bp_biofetch_genbank_proxy.pl: /usr/local/bin/bp_biofetch_genbank_proxy.pl
+  bp_bioflat_index.pl: /usr/local/bin/bp_bioflat_index.pl
+  bp_biogetseq.pl: /usr/local/bin/bp_biogetseq.pl
+  bp_blast2tree.pl: /usr/local/bin/bp_blast2tree.pl
+  bp_bulk_load_gff.pl: /usr/local/bin/bp_bulk_load_gff.pl
+  bp_chaos_plot.pl: /usr/local/bin/bp_chaos_plot.pl
+  bp_classify_hits_kingdom.pl: /usr/local/bin/bp_classify_hits_kingdom.pl
+  bp_composite_LD.pl: /usr/local/bin/bp_composite_LD.pl
+  bp_das_server.pl: /usr/local/bin/bp_das_server.pl

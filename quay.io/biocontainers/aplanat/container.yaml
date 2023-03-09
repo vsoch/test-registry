@@ -1,0 +1,30 @@
+url: https://biocontainers.pro/tools/aplanat
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for aplanat
+latest:
+  0.5.6--pyhfa5458b_0: sha256:552b0c20fa2f4c421661559e79af69a3a23e79550a4f6f650b4dba01b9cacfa7
+tags:
+  0.5.6--pyhfa5458b_0: sha256:552b0c20fa2f4c421661559e79af69a3a23e79550a4f6f650b4dba01b9cacfa7
+docker: quay.io/biocontainers/aplanat
+aliases:
+  aplanat: /usr/local/bin/aplanat
+  font-awesome-to-png: /usr/local/bin/font-awesome-to-png
+  icon-font-to-png: /usr/local/bin/icon-font-to-png
+  bokeh: /usr/local/bin/bokeh
+  markdown_py: /usr/local/bin/markdown_py
+  chardetect: /usr/local/bin/chardetect
+  f2py3.10: /usr/local/bin/f2py3.10
+  opj_compress: /usr/local/bin/opj_compress
+  opj_decompress: /usr/local/bin/opj_decompress
+  opj_dump: /usr/local/bin/opj_dump
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1
+  jpgicc: /usr/local/bin/jpgicc
+  linkicc: /usr/local/bin/linkicc
+  psicc: /usr/local/bin/psicc
+  tificc: /usr/local/bin/tificc
+  transicc: /usr/local/bin/transicc

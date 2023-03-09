@@ -1,0 +1,43 @@
+url: https://biocontainers.pro/tools/hiddendomains
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for hiddendomains
+latest:
+  3.1--pl5321r41hdfd78af_3: sha256:7f1f3ef74f2ef848a9c40afbba74006d011223ca747dda1716e7c419525f633c
+tags:
+  3.1--pl5321r41hdfd78af_3: sha256:7f1f3ef74f2ef848a9c40afbba74006d011223ca747dda1716e7c419525f633c
+docker: quay.io/biocontainers/hiddendomains
+aliases:
+  binReads.pl: /usr/local/bin/binReads.pl
+  centersToGEM.pl: /usr/local/bin/centersToGEM.pl
+  domainsMergeToBed.pl: /usr/local/bin/domainsMergeToBed.pl
+  domainsToBed.pl: /usr/local/bin/domainsToBed.pl
+  hiddenDomains: /usr/local/bin/hiddenDomains
+  hiddenDomains.R: /usr/local/bin/hiddenDomains.R
+  peakCenters: /usr/local/bin/peakCenters
+  run_hiddenDomains.R: /usr/local/bin/run_hiddenDomains.R
+  run_hiddenDomains_no_control.R: /usr/local/bin/run_hiddenDomains_no_control.R
+  shiftBed: /usr/local/bin/shiftBed
+  annotateBed: /usr/local/bin/annotateBed
+  bamToBed: /usr/local/bin/bamToBed
+  bamToFastq: /usr/local/bin/bamToFastq
+  bed12ToBed6: /usr/local/bin/bed12ToBed6
+  bedToBam: /usr/local/bin/bedToBam
+  bedToIgv: /usr/local/bin/bedToIgv
+  bedpeToBam: /usr/local/bin/bedpeToBam
+  bedtools: /usr/local/bin/bedtools
+  closestBed: /usr/local/bin/closestBed
+  clusterBed: /usr/local/bin/clusterBed
+  complementBed: /usr/local/bin/complementBed
+  coverageBed: /usr/local/bin/coverageBed
+  expandCols: /usr/local/bin/expandCols
+  fastaFromBed: /usr/local/bin/fastaFromBed
+  flankBed: /usr/local/bin/flankBed
+  genomeCoverageBed: /usr/local/bin/genomeCoverageBed
+  getOverlap: /usr/local/bin/getOverlap
+  groupBy: /usr/local/bin/groupBy
+  intersectBed: /usr/local/bin/intersectBed
+  linksBed: /usr/local/bin/linksBed
+  mapBed: /usr/local/bin/mapBed
+  maskFastaFromBed: /usr/local/bin/maskFastaFromBed
+  mergeBed: /usr/local/bin/mergeBed
+  multiBamCov: /usr/local/bin/multiBamCov

@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/weblogo
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for weblogo
+latest:
+  3.7.9--pyhdfd78af_0: sha256:0a19729ee0a95b8d566c76b36e42a13c390fe0e3b46bcb5d8ce7f8d1608d3546
+tags:
+  3.7.9--pyhdfd78af_0: sha256:0a19729ee0a95b8d566c76b36e42a13c390fe0e3b46bcb5d8ce7f8d1608d3546
+docker: quay.io/biocontainers/weblogo
+aliases:
+  weblogo: /usr/local/bin/weblogo
+  transformseq: /usr/local/bin/transformseq
+  dvipdf: /usr/local/bin/dvipdf
+  eps2eps: /usr/local/bin/eps2eps
+  gs: /usr/local/bin/gs
+  gsbj: /usr/local/bin/gsbj
+  gsdj: /usr/local/bin/gsdj
+  gsdj500: /usr/local/bin/gsdj500
+  gslj: /usr/local/bin/gslj
+  gslp: /usr/local/bin/gslp
+  gsnd: /usr/local/bin/gsnd
+  lprsetup.sh: /usr/local/bin/lprsetup.sh
+  pdf2dsc: /usr/local/bin/pdf2dsc
+  pdf2ps: /usr/local/bin/pdf2ps
+  pf2afm: /usr/local/bin/pf2afm
+  pfbtopfa: /usr/local/bin/pfbtopfa
+  pphs: /usr/local/bin/pphs
+  printafm: /usr/local/bin/printafm
+  ps2ascii: /usr/local/bin/ps2ascii
+  ps2epsi: /usr/local/bin/ps2epsi
+  ps2pdf: /usr/local/bin/ps2pdf
+  ps2pdf12: /usr/local/bin/ps2pdf12
+  ps2pdf13: /usr/local/bin/ps2pdf13
+  ps2pdf14: /usr/local/bin/ps2pdf14
+  ps2pdfwr: /usr/local/bin/ps2pdfwr
+  ps2ps: /usr/local/bin/ps2ps

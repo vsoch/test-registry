@@ -1,0 +1,18 @@
+url: https://biocontainers.pro/tools/perl-hpc-runner-mce
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for perl-hpc-runner-mce
+latest:
+  2.41--0: sha256:30f8ea539c039ba13fef2c845de2c1f76a6d93ed5bf3f57149ee6483d08390d3
+tags:
+  2.41--0: sha256:30f8ea539c039ba13fef2c845de2c1f76a6d93ed5bf3f57149ee6483d08390d3
+docker: quay.io/biocontainers/perl-hpc-runner-mce
+aliases:
+  mcerunner.pl: /usr/local/bin/mcerunner.pl
+  findrule: /usr/local/bin/findrule
+  l4p-tmpl: /usr/local/bin/l4p-tmpl
+  perl5.22.0: /usr/local/bin/perl5.22.0
+  c2ph: /usr/local/bin/c2ph
+  pstruct: /usr/local/bin/pstruct
+  moose-outdated: /usr/local/bin/moose-outdated
+  package-stash-conflicts: /usr/local/bin/package-stash-conflicts
+  podselect: /usr/local/bin/podselect

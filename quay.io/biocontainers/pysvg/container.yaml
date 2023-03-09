@@ -1,0 +1,23 @@
+url: https://biocontainers.pro/tools/pysvg
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pysvg
+latest:
+  0.2.2--py27_0: sha256:b44376ed8aca3c51136278e1025e97d439a41e440124ef9d0c5cb422971b3f48
+tags:
+  0.2.2--py27_0: sha256:b44376ed8aca3c51136278e1025e97d439a41e440124ef9d0c5cb422971b3f48
+docker: quay.io/biocontainers/pysvg
+aliases:
+  easy_install-2.7: /usr/local/bin/easy_install-2.7
+  xslt-config: /usr/local/bin/xslt-config
+  xsltproc: /usr/local/bin/xsltproc
+  python2-config: /usr/local/bin/python2-config
+  python2.7-config: /usr/local/bin/python2.7-config
+  python2: /usr/local/bin/python2
+  python2.7: /usr/local/bin/python2.7
+  idle: /usr/local/bin/idle
+  python-config: /usr/local/bin/python-config
+  smtpd.py: /usr/local/bin/smtpd.py
+  tclsh8.5: /usr/local/bin/tclsh8.5
+  wish8.5: /usr/local/bin/wish8.5
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config

@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-chic.data
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-chic.data
+latest:
+  1.9.0--r40_0: sha256:3e4e28ec5a2a671485c57dbd8713c437f82585eb5719d5bf3d6b0d866e7aa2f1
+tags:
+  1.9.0--r40_0: sha256:3e4e28ec5a2a671485c57dbd8713c437f82585eb5719d5bf3d6b0d866e7aa2f1
+docker: quay.io/biocontainers/bioconductor-chic.data
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

@@ -1,0 +1,46 @@
+url: https://biocontainers.pro/tools/pifcosm
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pifcosm
+latest:
+  0.1.1--hdfd78af_0: sha256:0cb75571e7af84689706b1118a262fc937a9ebe0ad381a0e4dae9c53f706b388
+tags:
+  0.1.1--hdfd78af_0: sha256:0cb75571e7af84689706b1118a262fc937a9ebe0ad381a0e4dae9c53f706b388
+docker: quay.io/biocontainers/pifcosm
+aliases:
+  Gblocks: /usr/local/bin/Gblocks
+  PifCoSm.pl: /usr/local/bin/PifCoSm.pl
+  RogueNaRok: /usr/local/bin/RogueNaRok
+  RogueNaRok-parallel: /usr/local/bin/RogueNaRok-parallel
+  contree: /usr/local/bin/contree
+  pairalign: /usr/local/bin/pairalign
+  rnr-lsi: /usr/local/bin/rnr-lsi
+  rnr-mast: /usr/local/bin/rnr-mast
+  rnr-prune: /usr/local/bin/rnr-prune
+  rnr-tii: /usr/local/bin/rnr-tii
+  treeator: /usr/local/bin/treeator
+  treebender: /usr/local/bin/treebender
+  FastTree-2.1.10.c: /usr/local/bin/FastTree-2.1.10.c
+  raxmlHPC: /usr/local/bin/raxmlHPC
+  raxmlHPC-AVX2: /usr/local/bin/raxmlHPC-AVX2
+  raxmlHPC-PTHREADS: /usr/local/bin/raxmlHPC-PTHREADS
+  raxmlHPC-PTHREADS-AVX2: /usr/local/bin/raxmlHPC-PTHREADS-AVX2
+  raxmlHPC-PTHREADS-SSE3: /usr/local/bin/raxmlHPC-PTHREADS-SSE3
+  raxmlHPC-SSE3: /usr/local/bin/raxmlHPC-SSE3
+  FET.pl: /usr/local/bin/FET.pl
+  cd-hit-clstr_2_blm8.pl: /usr/local/bin/cd-hit-clstr_2_blm8.pl
+  clstr_list.pl: /usr/local/bin/clstr_list.pl
+  clstr_list_sort.pl: /usr/local/bin/clstr_list_sort.pl
+  cd-hit: /usr/local/bin/cd-hit
+  cd-hit-2d: /usr/local/bin/cd-hit-2d
+  cd-hit-2d-para.pl: /usr/local/bin/cd-hit-2d-para.pl
+  cd-hit-454: /usr/local/bin/cd-hit-454
+  cd-hit-div: /usr/local/bin/cd-hit-div
+  cd-hit-div.pl: /usr/local/bin/cd-hit-div.pl
+  cd-hit-est-2d: /usr/local/bin/cd-hit-est-2d
+  cd-hit-para.pl: /usr/local/bin/cd-hit-para.pl
+  clstr2tree.pl: /usr/local/bin/clstr2tree.pl
+  clstr2txt.pl: /usr/local/bin/clstr2txt.pl
+  clstr2xml.pl: /usr/local/bin/clstr2xml.pl
+  clstr_cut.pl: /usr/local/bin/clstr_cut.pl
+  clstr_merge.pl: /usr/local/bin/clstr_merge.pl
+  clstr_merge_noorder.pl: /usr/local/bin/clstr_merge_noorder.pl

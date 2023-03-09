@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/hicmatrix
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for hicmatrix
+latest:
+  2.2--pyh24bf2e0_1: sha256:c523832375604f64607bb264aaa5f20bd507ac9a8274a5cecbe3b633dd09caea
+tags:
+  2.2--pyh24bf2e0_1: sha256:c523832375604f64607bb264aaa5f20bd507ac9a8274a5cecbe3b633dd09caea
+docker: quay.io/biocontainers/hicmatrix
+aliases:
+  dask-mpi: /usr/local/bin/dask-mpi
+  dask-remote: /usr/local/bin/dask-remote
+  dask-submit: /usr/local/bin/dask-submit
+  cooler: /usr/local/bin/cooler
+  bam2pairs: /usr/local/bin/bam2pairs
+  column_remover.pl: /usr/local/bin/column_remover.pl
+  duplicate_header_remover.pl: /usr/local/bin/duplicate_header_remover.pl
+  fragment_4dnpairs.pl: /usr/local/bin/fragment_4dnpairs.pl
+  juicer_shortform2pairs.pl: /usr/local/bin/juicer_shortform2pairs.pl
+  merge-pairs.sh: /usr/local/bin/merge-pairs.sh
+  merged_nodup2pairs.pl: /usr/local/bin/merged_nodup2pairs.pl
+  old_merged_nodup2pairs.pl: /usr/local/bin/old_merged_nodup2pairs.pl
+  pairix: /usr/local/bin/pairix
+  pairs_merger: /usr/local/bin/pairs_merger
+  process_merged_nodup.sh: /usr/local/bin/process_merged_nodup.sh
+  process_old_merged_nodup.sh: /usr/local/bin/process_old_merged_nodup.sh
+  streamer_1d: /usr/local/bin/streamer_1d
+  sample: /usr/local/bin/sample
+  dask-scheduler: /usr/local/bin/dask-scheduler
+  dask-ssh: /usr/local/bin/dask-ssh
+  dask-worker: /usr/local/bin/dask-worker
+  get_objgraph: /usr/local/bin/get_objgraph
+  undill: /usr/local/bin/undill
+  bokeh: /usr/local/bin/bokeh
+  pt2to3: /usr/local/bin/pt2to3
+  ptdump: /usr/local/bin/ptdump
+  ptrepack: /usr/local/bin/ptrepack
+  pttree: /usr/local/bin/pttree

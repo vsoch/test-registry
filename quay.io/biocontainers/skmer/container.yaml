@@ -1,0 +1,24 @@
+url: https://biocontainers.pro/tools/skmer
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for skmer
+latest:
+  3.2.1--pyhfa5458b_0: sha256:0bffadaa43aee785e4fbf37df71aab92c7b85cd4bc86854aed9bf30ca665f171
+tags:
+  3.2.1--pyhfa5458b_0: sha256:0bffadaa43aee785e4fbf37df71aab92c7b85cd4bc86854aed9bf30ca665f171
+docker: quay.io/biocontainers/skmer
+aliases:
+  skmer: /usr/local/bin/skmer
+  jellyfish: /usr/local/bin/jellyfish
+  capnp: /usr/local/bin/capnp
+  capnpc: /usr/local/bin/capnpc
+  capnpc-c++: /usr/local/bin/capnpc-c++
+  capnpc-capnp: /usr/local/bin/capnpc-capnp
+  seqtk: /usr/local/bin/seqtk
+  mash: /usr/local/bin/mash
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

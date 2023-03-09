@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/ericscript
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ericscript
+latest:
+  0.5.5--hdfd78af_5: sha256:d6c08e44e06a25c5dcca541b33adfd5297ccc3ef657b2b0fd437760865fdd1f5
+tags:
+  0.5.5--hdfd78af_5: sha256:d6c08e44e06a25c5dcca541b33adfd5297ccc3ef657b2b0fd437760865fdd1f5
+docker: quay.io/biocontainers/ericscript
+aliases:
+  ericscript.pl: /usr/local/bin/ericscript.pl
+  blat: /usr/local/bin/blat
+  seqtk: /usr/local/bin/seqtk
+  perl5.32.0: /usr/local/bin/perl5.32.0
+  qualfa2fq.pl: /usr/local/bin/qualfa2fq.pl
+  xa2multi.pl: /usr/local/bin/xa2multi.pl
+  bwa: /usr/local/bin/bwa
+  bcftools: /usr/local/bin/bcftools
+  vcfutils.pl: /usr/local/bin/vcfutils.pl
+  shiftBed: /usr/local/bin/shiftBed
+  annotateBed: /usr/local/bin/annotateBed
+  bamToBed: /usr/local/bin/bamToBed
+  bamToFastq: /usr/local/bin/bamToFastq
+  bed12ToBed6: /usr/local/bin/bed12ToBed6
+  bedToBam: /usr/local/bin/bedToBam
+  bedToIgv: /usr/local/bin/bedToIgv
+  bedpeToBam: /usr/local/bin/bedpeToBam
+  bedtools: /usr/local/bin/bedtools
+  closestBed: /usr/local/bin/closestBed
+  clusterBed: /usr/local/bin/clusterBed
+  complementBed: /usr/local/bin/complementBed
+  coverageBed: /usr/local/bin/coverageBed
+  expandCols: /usr/local/bin/expandCols
+  fastaFromBed: /usr/local/bin/fastaFromBed
+  flankBed: /usr/local/bin/flankBed
+  genomeCoverageBed: /usr/local/bin/genomeCoverageBed

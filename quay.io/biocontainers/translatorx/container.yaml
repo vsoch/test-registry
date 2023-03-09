@@ -1,0 +1,14 @@
+url: https://biocontainers.pro/tools/translatorx
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for translatorx
+latest:
+  1.1--2: sha256:8977d56d4a9bc0e47f9a4c35797e97f91975a8bfc0666346fc8a936a00863c19
+tags:
+  1.1--2: sha256:8977d56d4a9bc0e47f9a4c35797e97f91975a8bfc0666346fc8a936a00863c19
+docker: quay.io/biocontainers/translatorx
+aliases:
+  translatorx: /usr/local/bin/translatorx
+  translatorx_vLocal.pl: /usr/local/bin/translatorx_vLocal.pl
+  muscle: /usr/local/bin/muscle
+  perl5.26.2: /usr/local/bin/perl5.26.2
+  podselect: /usr/local/bin/podselect

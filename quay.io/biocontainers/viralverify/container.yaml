@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/viralverify
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for viralverify
+latest:
+  1.1--hdfd78af_0: sha256:6330e97fdaa22ddc92c9ee8c7df23b515aa96b8cadf03e5ef112ab0c448d812d
+tags:
+  1.1--hdfd78af_0: sha256:6330e97fdaa22ddc92c9ee8c7df23b515aa96b8cadf03e5ef112ab0c448d812d
+docker: quay.io/biocontainers/viralverify
+aliases:
+  training_script: /usr/local/bin/training_script
+  viralverify: /usr/local/bin/viralverify
+  prodigal: /usr/local/bin/prodigal
+  hmmpgmd_shard: /usr/local/bin/hmmpgmd_shard
+  easel: /usr/local/bin/easel
+  esl-mixdchlet: /usr/local/bin/esl-mixdchlet
+  esl-alimanip: /usr/local/bin/esl-alimanip
+  esl-alimap: /usr/local/bin/esl-alimap
+  esl-alimask: /usr/local/bin/esl-alimask
+  esl-alimerge: /usr/local/bin/esl-alimerge
+  esl-alipid: /usr/local/bin/esl-alipid
+  esl-alirev: /usr/local/bin/esl-alirev
+  esl-alistat: /usr/local/bin/esl-alistat
+  esl-compalign: /usr/local/bin/esl-compalign
+  esl-compstruct: /usr/local/bin/esl-compstruct
+  esl-construct: /usr/local/bin/esl-construct
+  esl-histplot: /usr/local/bin/esl-histplot
+  esl-mask: /usr/local/bin/esl-mask
+  esl-selectn: /usr/local/bin/esl-selectn
+  esl-seqrange: /usr/local/bin/esl-seqrange
+  esl-seqstat: /usr/local/bin/esl-seqstat
+  esl-sfetch: /usr/local/bin/esl-sfetch
+  esl-shuffle: /usr/local/bin/esl-shuffle
+  esl-ssdraw: /usr/local/bin/esl-ssdraw
+  esl-translate: /usr/local/bin/esl-translate
+  esl-weight: /usr/local/bin/esl-weight
+  esl-afetch: /usr/local/bin/esl-afetch

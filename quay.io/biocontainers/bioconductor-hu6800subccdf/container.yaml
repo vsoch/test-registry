@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-hu6800subccdf
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-hu6800subccdf
+latest:
+  2.18.0--r41hdfd78af_9: sha256:486b36bcea3f7c83f3b9fb57cc5d33015683b7ebca4b76427b1dcfa49cc5a86b
+tags:
+  2.18.0--r41hdfd78af_9: sha256:486b36bcea3f7c83f3b9fb57cc5d33015683b7ebca4b76427b1dcfa49cc5a86b
+docker: quay.io/biocontainers/bioconductor-hu6800subccdf

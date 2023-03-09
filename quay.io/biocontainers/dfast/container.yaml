@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/dfast
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for dfast
+latest:
+  1.2.7--h8b12597_0: sha256:0359598d2542ec3b6fc6718e3524190d7ddfcec81e6a72097e29ebb4a2540bc7
+tags:
+  1.2.7--h8b12597_0: sha256:0359598d2542ec3b6fc6718e3524190d7ddfcec81e6a72097e29ebb4a2540bc7
+docker: quay.io/biocontainers/dfast
+aliases:
+  dfast: /usr/local/bin/dfast
+  dfast_file_downloader.py: /usr/local/bin/dfast_file_downloader.py
+  file_downloader.py: /usr/local/bin/file_downloader.py
+  ghostx: /usr/local/bin/ghostx
+  mga: /usr/local/bin/mga
+  blast_report: /usr/local/bin/blast_report
+  blastdb_convert: /usr/local/bin/blastdb_convert
+  blastdb_path: /usr/local/bin/blastdb_path
+  certtool: /usr/local/bin/certtool
+  gnutls-cli: /usr/local/bin/gnutls-cli
+  gnutls-cli-debug: /usr/local/bin/gnutls-cli-debug
+  gnutls-serv: /usr/local/bin/gnutls-serv
+  nettle-hash: /usr/local/bin/nettle-hash
+  nettle-lfib-stream: /usr/local/bin/nettle-lfib-stream
+  nettle-pbkdf2: /usr/local/bin/nettle-pbkdf2
+  ocsptool: /usr/local/bin/ocsptool
+  pkcs1-conv: /usr/local/bin/pkcs1-conv
+  psktool: /usr/local/bin/psktool
+  sexp-conv: /usr/local/bin/sexp-conv
+  srptool: /usr/local/bin/srptool
+  barrnap: /usr/local/bin/barrnap
+  aragorn: /usr/local/bin/aragorn
+  blastdbcp: /usr/local/bin/blastdbcp
+  gene_info_reader: /usr/local/bin/gene_info_reader
+  seqdb_demo: /usr/local/bin/seqdb_demo
+  seqdb_perf: /usr/local/bin/seqdb_perf
+  seedtop: /usr/local/bin/seedtop
+  hmmpgmd_shard: /usr/local/bin/hmmpgmd_shard
+  easel: /usr/local/bin/easel
+  esl-mixdchlet: /usr/local/bin/esl-mixdchlet

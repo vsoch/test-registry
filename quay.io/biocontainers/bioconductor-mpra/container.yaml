@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-mpra
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-mpra
+latest:
+  1.8.0--r36_0: sha256:c8db0d743f9f17a7fc4e11e4ba5d85d6b7da891e646f90e2f2f0983cd1a8e102
+tags:
+  1.8.0--r36_0: sha256:c8db0d743f9f17a7fc4e11e4ba5d85d6b7da891e646f90e2f2f0983cd1a8e102
+docker: quay.io/biocontainers/bioconductor-mpra
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/exomiser-rest-prioritiser
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for exomiser-rest-prioritiser
+latest:
+  12.1.0--hdfd78af_2: sha256:852466477c415c7875e867ce9057162d6581eca7d69597d0dfa9f864657d93af
+tags:
+  12.1.0--hdfd78af_2: sha256:852466477c415c7875e867ce9057162d6581eca7d69597d0dfa9f864657d93af
+docker: quay.io/biocontainers/exomiser-rest-prioritiser
+aliases:
+  exomiser-rest-prioritiser: /usr/local/bin/exomiser-rest-prioritiser
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd
+  jconsole: /usr/local/bin/jconsole
+  jdb: /usr/local/bin/jdb
+  jinfo: /usr/local/bin/jinfo

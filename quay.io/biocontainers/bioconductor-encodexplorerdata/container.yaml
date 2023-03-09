@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-encodexplorerdata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-encodexplorerdata
+latest:
+  0.99.5--r41hdfd78af_5: sha256:4474650f03b23a056f473ea7078f5150ee687527468d4a8588a376d230172c7c
+tags:
+  0.99.5--r41hdfd78af_5: sha256:4474650f03b23a056f473ea7078f5150ee687527468d4a8588a376d230172c7c
+docker: quay.io/biocontainers/bioconductor-encodexplorerdata

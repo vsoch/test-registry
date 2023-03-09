@@ -1,0 +1,41 @@
+url: https://biocontainers.pro/tools/kneaddata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for kneaddata
+latest:
+  0.9.0--pyhdfd78af_0: sha256:82470860691070b1a8934fa77a0b149c74e10b2c4d41f2ea534f36e9cce00a25
+tags:
+  0.9.0--pyhdfd78af_0: sha256:82470860691070b1a8934fa77a0b149c74e10b2c4d41f2ea534f36e9cce00a25
+docker: quay.io/biocontainers/kneaddata
+aliases:
+  kneaddata: /usr/local/bin/kneaddata
+  kneaddata_bowtie2_discordant_pairs: /usr/local/bin/kneaddata_bowtie2_discordant_pairs
+  kneaddata_build_database: /usr/local/bin/kneaddata_build_database
+  kneaddata_database: /usr/local/bin/kneaddata_database
+  kneaddata_read_count_table: /usr/local/bin/kneaddata_read_count_table
+  kneaddata_test: /usr/local/bin/kneaddata_test
+  kneaddata_trf_parallel: /usr/local/bin/kneaddata_trf_parallel
+  trf4.10.0-rc.2.linux64.exe: /usr/local/bin/trf4.10.0-rc.2.linux64.exe
+  trf: /usr/local/bin/trf
+  fastqc: /usr/local/bin/fastqc
+  trimmomatic: /usr/local/bin/trimmomatic
+  bowtie2: /usr/local/bin/bowtie2
+  bowtie2-align-l: /usr/local/bin/bowtie2-align-l
+  bowtie2-align-s: /usr/local/bin/bowtie2-align-s
+  bowtie2-build: /usr/local/bin/bowtie2-build
+  bowtie2-build-l: /usr/local/bin/bowtie2-build-l
+  bowtie2-build-s: /usr/local/bin/bowtie2-build-s
+  bowtie2-inspect: /usr/local/bin/bowtie2-inspect
+  bowtie2-inspect-l: /usr/local/bin/bowtie2-inspect-l
+  bowtie2-inspect-s: /usr/local/bin/bowtie2-inspect-s
+  fasta-sanitize.pl: /usr/local/bin/fasta-sanitize.pl
+  plot-ampliconstats: /usr/local/bin/plot-ampliconstats
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
