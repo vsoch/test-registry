@@ -4,7 +4,7 @@ name:  "quay.io/biocontainers/riassigner"
 maintainer: "@vsoch"
 github: "https://github.com/singularityhub/shpc-registry/blob/main/quay.io/biocontainers/riassigner/container.yaml"
 config_url: "https://raw.githubusercontent.com/singularityhub/shpc-registry/main/quay.io/biocontainers/riassigner/container.yaml"
-updated_at: "2023-03-09 03:19:11.592058"
+updated_at: "2023-03-10 03:40:32.200354"
 latest: "0.3.4--pyhdfd78af_1"
 container_url: "https://biocontainers.pro/tools/riassigner"
 aliases:

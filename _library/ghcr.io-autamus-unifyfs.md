@@ -4,7 +4,7 @@ name:  "ghcr.io/autamus/unifyfs"
 maintainer: "@vsoch"
 github: "https://github.com/singularityhub/shpc-registry/blob/main/ghcr.io/autamus/unifyfs/container.yaml"
 config_url: "https://raw.githubusercontent.com/singularityhub/shpc-registry/main/ghcr.io/autamus/unifyfs/container.yaml"
-updated_at: "2023-03-09 02:54:51.733392"
+updated_at: "2023-03-10 02:58:23.940948"
 latest: "1.0"
 container_url: "https://github.com/orgs/autamus/packages/container/package/unifyfs"
 aliases:
