@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-htsanalyzer
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-htsanalyzer
+latest:
+  2.38.0--r36_0: sha256:16b231e6e683e4598bdf400f57c02e64739fbc8a4a76e1eb0958dbce2f9cf0f8
+tags:
+  2.38.0--r36_0: sha256:16b231e6e683e4598bdf400f57c02e64739fbc8a4a76e1eb0958dbce2f9cf0f8
+docker: quay.io/biocontainers/bioconductor-htsanalyzer
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

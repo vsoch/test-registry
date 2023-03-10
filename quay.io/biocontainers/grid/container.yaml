@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/grid
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for grid
+latest:
+  1.3--hdfd78af_3: sha256:e46fd424a12bdcb86f8e98ee81cc03ba46cdcf7fcffb34b4451390b451d82b6d
+tags:
+  1.3--hdfd78af_3: sha256:e46fd424a12bdcb86f8e98ee81cc03ba46cdcf7fcffb34b4451390b451d82b6d
+docker: quay.io/biocontainers/grid
+aliases:
+  grid: /usr/local/bin/grid
+  mosdepth: /usr/local/bin/mosdepth
+  pathoscope: /usr/local/bin/pathoscope
+  update_database: /usr/local/bin/update_database
+  bamtools: /usr/local/bin/bamtools
+  seqtk: /usr/local/bin/seqtk
+  CA.pm: /usr/local/bin/CA.pm
+  cacert.pem: /usr/local/bin/cacert.pem
+  index-themes: /usr/local/bin/index-themes
+  parsort: /usr/local/bin/parsort
+  fetch-extras: /usr/local/bin/fetch-extras
+  go.mod: /usr/local/bin/go.mod
+  go.sum: /usr/local/bin/go.sum
+  hlp-xtract.txt: /usr/local/bin/hlp-xtract.txt
+  index-extras: /usr/local/bin/index-extras
+  pm-collect: /usr/local/bin/pm-collect
+  readme.pdf: /usr/local/bin/readme.pdf
+  bt-context.txt: /usr/local/bin/bt-context.txt
+  bt-link: /usr/local/bin/bt-link
+  bt-load: /usr/local/bin/bt-load
+  bt-save: /usr/local/bin/bt-save
+  bt-srch: /usr/local/bin/bt-srch
+  eblast: /usr/local/bin/eblast
+  pm-index: /usr/local/bin/pm-index
+  pm-invert: /usr/local/bin/pm-invert
+  pm-merge: /usr/local/bin/pm-merge
+  pm-prepare: /usr/local/bin/pm-prepare
+  pm-promote: /usr/local/bin/pm-promote
+  pm-refresh: /usr/local/bin/pm-refresh

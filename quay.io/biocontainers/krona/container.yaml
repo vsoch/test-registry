@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/krona
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for krona
+latest:
+  2.8--pl5262hdfd78af_2: sha256:c244db6ad999f6c1866fb95d2f4e2a76fddeb857e43d9c485e8acd6a95d6f587
+tags:
+  2.8--pl5262hdfd78af_2: sha256:c244db6ad999f6c1866fb95d2f4e2a76fddeb857e43d9c485e8acd6a95d6f587
+docker: quay.io/biocontainers/krona
+aliases:
+  ktImportKrona: /usr/local/bin/ktImportKrona
+  ktClassifyHits: /usr/local/bin/ktClassifyHits
+  ktImportHits: /usr/local/bin/ktImportHits
+  ktClassifyBLAST: /usr/local/bin/ktClassifyBLAST
+  ktGetContigMagnitudes: /usr/local/bin/ktGetContigMagnitudes
+  ktGetLCA: /usr/local/bin/ktGetLCA
+  ktGetLibPath: /usr/local/bin/ktGetLibPath
+  ktGetTaxIDFromAcc: /usr/local/bin/ktGetTaxIDFromAcc
+  ktGetTaxInfo: /usr/local/bin/ktGetTaxInfo
+  ktImportBLAST: /usr/local/bin/ktImportBLAST
+  ktImportDiskUsage: /usr/local/bin/ktImportDiskUsage
+  ktImportEC: /usr/local/bin/ktImportEC
+  ktImportFCP: /usr/local/bin/ktImportFCP
+  ktImportGalaxy: /usr/local/bin/ktImportGalaxy
+  ktImportMETAREP-BLAST: /usr/local/bin/ktImportMETAREP-BLAST
+  ktImportMETAREP-EC: /usr/local/bin/ktImportMETAREP-EC
+  ktImportMGRAST: /usr/local/bin/ktImportMGRAST
+  ktImportPhymmBL: /usr/local/bin/ktImportPhymmBL
+  ktImportRDP: /usr/local/bin/ktImportRDP
+  ktImportRDPComparison: /usr/local/bin/ktImportRDPComparison
+  ktImportTaxonomy: /usr/local/bin/ktImportTaxonomy
+  ktImportText: /usr/local/bin/ktImportText
+  ktImportXML: /usr/local/bin/ktImportXML
+  ktUpdateTaxonomy.sh: /usr/local/bin/ktUpdateTaxonomy.sh
+  perl5.26.2: /usr/local/bin/perl5.26.2
+  podselect: /usr/local/bin/podselect

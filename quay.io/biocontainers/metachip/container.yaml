@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/metachip
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for metachip
+latest:
+  1.10.9--pyh5e36f6f_0: sha256:82cf7e556b9a4453582fcbcc366841436e3a9ebcfa7e72de87617995c83da413
+tags:
+  1.10.9--pyh5e36f6f_0: sha256:82cf7e556b9a4453582fcbcc366841436e3a9ebcfa7e72de87617995c83da413
+docker: quay.io/biocontainers/metachip
+aliases:
+  MetaCHIP: /usr/local/bin/MetaCHIP
+  FastTree-2.1.10.c: /usr/local/bin/FastTree-2.1.10.c
+  ete3: /usr/local/bin/ete3
+  FastTreeMP: /usr/local/bin/FastTreeMP
+  FastTree: /usr/local/bin/FastTree
+  fasttree: /usr/local/bin/fasttree
+  xkbcli: /usr/local/bin/xkbcli
+  mafft-sparsecore.rb: /usr/local/bin/mafft-sparsecore.rb
+  einsi: /usr/local/bin/einsi
+  fftns: /usr/local/bin/fftns
+  fftnsi: /usr/local/bin/fftnsi
+  ginsi: /usr/local/bin/ginsi
+  linsi: /usr/local/bin/linsi
+  mafft-distance: /usr/local/bin/mafft-distance
+  mafft-einsi: /usr/local/bin/mafft-einsi
+  mafft-fftns: /usr/local/bin/mafft-fftns
+  mafft-fftnsi: /usr/local/bin/mafft-fftnsi
+  mafft-ginsi: /usr/local/bin/mafft-ginsi
+  mafft-homologs.rb: /usr/local/bin/mafft-homologs.rb
+  mafft-linsi: /usr/local/bin/mafft-linsi
+  mafft-nwns: /usr/local/bin/mafft-nwns
+  mafft-nwnsi: /usr/local/bin/mafft-nwnsi
+  mafft-profile: /usr/local/bin/mafft-profile
+  mafft-qinsi: /usr/local/bin/mafft-qinsi
+  mafft-xinsi: /usr/local/bin/mafft-xinsi
+  nwns: /usr/local/bin/nwns

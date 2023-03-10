@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/karyopype
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for karyopype
+latest:
+  0.1.6--py_0: sha256:365d6adc3d2bdb264ea89f14e1e449076d898b70585c36a40349bf70333ee96c
+tags:
+  0.1.6--py_0: sha256:365d6adc3d2bdb264ea89f14e1e449076d898b70585c36a40349bf70333ee96c
+docker: quay.io/biocontainers/karyopype
+aliases:
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  sip: /usr/local/bin/sip
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc
+  gst-device-monitor-1.0: /usr/local/bin/gst-device-monitor-1.0
+  gst-discoverer-1.0: /usr/local/bin/gst-discoverer-1.0
+  gst-play-1.0: /usr/local/bin/gst-play-1.0
+  fixqt4headers.pl: /usr/local/bin/fixqt4headers.pl
+  qlalr: /usr/local/bin/qlalr
+  qml: /usr/local/bin/qml
+  qmleasing: /usr/local/bin/qmleasing
+  qmlimportscanner: /usr/local/bin/qmlimportscanner
+  qmllint: /usr/local/bin/qmllint
+  qmlmin: /usr/local/bin/qmlmin
+  qmlprofiler: /usr/local/bin/qmlprofiler
+  qmlscene: /usr/local/bin/qmlscene

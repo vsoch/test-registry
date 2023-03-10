@@ -1,0 +1,65 @@
+url: https://biocontainers.pro/tools/mauve
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for mauve
+latest:
+  2.4.0.snapshot_2015_02_13--hdfd78af_4: sha256:6ade83c13e7430252285f568f3bcc6dfc378371b76630cb35da8d34c7fa10c2f
+tags:
+  2.4.0.snapshot_2015_02_13--hdfd78af_4: sha256:6ade83c13e7430252285f568f3bcc6dfc378371b76630cb35da8d34c7fa10c2f
+docker: quay.io/biocontainers/mauve
+aliases:
+  Mauve: /usr/local/bin/Mauve
+  MauveCM: /usr/local/bin/MauveCM
+  addUnalignedIntervals: /usr/local/bin/addUnalignedIntervals
+  alignmentProjector: /usr/local/bin/alignmentProjector
+  backbone_global_to_local: /usr/local/bin/backbone_global_to_local
+  bbAnalyze: /usr/local/bin/bbAnalyze
+  bbFilter: /usr/local/bin/bbFilter
+  coordinateTranslate: /usr/local/bin/coordinateTranslate
+  createBackboneMFA: /usr/local/bin/createBackboneMFA
+  extractBCITrees: /usr/local/bin/extractBCITrees
+  getAlignmentWindows: /usr/local/bin/getAlignmentWindows
+  getOrthologList: /usr/local/bin/getOrthologList
+  makeBadgerMatrix: /usr/local/bin/makeBadgerMatrix
+  mauveAligner: /usr/local/bin/mauveAligner
+  mauveStatic: /usr/local/bin/mauveStatic
+  mauveToXMFA: /usr/local/bin/mauveToXMFA
+  mfa2xmfa: /usr/local/bin/mfa2xmfa
+  progressiveMauve: /usr/local/bin/progressiveMauve
+  progressiveMauveStatic: /usr/local/bin/progressiveMauveStatic
+  projectAndStrip: /usr/local/bin/projectAndStrip
+  randomGeneSample: /usr/local/bin/randomGeneSample
+  repeatoire: /usr/local/bin/repeatoire
+  scoreAlignment: /usr/local/bin/scoreAlignment
+  stripGapColumns: /usr/local/bin/stripGapColumns
+  stripSubsetLCBs: /usr/local/bin/stripSubsetLCBs
+  toGrimmFormat: /usr/local/bin/toGrimmFormat
+  toMultiFastA: /usr/local/bin/toMultiFastA
+  toRawSequence: /usr/local/bin/toRawSequence
+  uniqueMerCount: /usr/local/bin/uniqueMerCount
+  uniquifyTrees: /usr/local/bin/uniquifyTrees
+  xmfa2maf: /usr/local/bin/xmfa2maf
+  extcheck: /usr/local/bin/extcheck
+  java-rmi.cgi: /usr/local/bin/java-rmi.cgi
+  javah: /usr/local/bin/javah
+  jhat: /usr/local/bin/jhat
+  jsadebugd: /usr/local/bin/jsadebugd
+  native2ascii: /usr/local/bin/native2ascii
+  policytool: /usr/local/bin/policytool
+  appletviewer: /usr/local/bin/appletviewer
+  idlj: /usr/local/bin/idlj
+  orbd: /usr/local/bin/orbd
+  schemagen: /usr/local/bin/schemagen
+  servertool: /usr/local/bin/servertool
+  tnameserv: /usr/local/bin/tnameserv
+  wsgen: /usr/local/bin/wsgen
+  wsimport: /usr/local/bin/wsimport
+  xjc: /usr/local/bin/xjc
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java

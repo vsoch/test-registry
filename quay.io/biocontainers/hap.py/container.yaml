@@ -1,0 +1,58 @@
+url: https://biocontainers.pro/tools/hap.py
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for hap.py
+latest:
+  0.3.7--py27_1: sha256:ebb9d998e938cc6d659c2d9fe214c94ae05786d8c6cd79456763bac4856f61c5
+tags:
+  0.3.7--py27_1: sha256:ebb9d998e938cc6d659c2d9fe214c94ae05786d8c6cd79456763bac4856f61c5
+docker: quay.io/biocontainers/hap.py
+aliases:
+  alleles: /usr/local/bin/alleles
+  bamstats.py: /usr/local/bin/bamstats.py
+  blocksplit: /usr/local/bin/blocksplit
+  cnx.py: /usr/local/bin/cnx.py
+  dipenum: /usr/local/bin/dipenum
+  fastainfo: /usr/local/bin/fastainfo
+  ftx.py: /usr/local/bin/ftx.py
+  gvcf2bed: /usr/local/bin/gvcf2bed
+  hap.py: /usr/local/bin/hap.py
+  hapcmp: /usr/local/bin/hapcmp
+  hapenum: /usr/local/bin/hapenum
+  multimerge: /usr/local/bin/multimerge
+  ovc.py: /usr/local/bin/ovc.py
+  pre.py: /usr/local/bin/pre.py
+  preprocess: /usr/local/bin/preprocess
+  qfy.py: /usr/local/bin/qfy.py
+  quantify: /usr/local/bin/quantify
+  roc: /usr/local/bin/roc
+  scmp: /usr/local/bin/scmp
+  som.py: /usr/local/bin/som.py
+  test_haplotypes: /usr/local/bin/test_haplotypes
+  validatevcf: /usr/local/bin/validatevcf
+  vcfhdr2json: /usr/local/bin/vcfhdr2json
+  xcmp: /usr/local/bin/xcmp
+  vcfcheck: /usr/local/bin/vcfcheck
+  intersection_matrix.py: /usr/local/bin/intersection_matrix.py
+  intron_exon_reads.py: /usr/local/bin/intron_exon_reads.py
+  pbt_plotting_example.py: /usr/local/bin/pbt_plotting_example.py
+  peak_pie.py: /usr/local/bin/peak_pie.py
+  pybedtools: /usr/local/bin/pybedtools
+  venn_gchart.py: /usr/local/bin/venn_gchart.py
+  venn_mpl.py: /usr/local/bin/venn_mpl.py
+  annotate.py: /usr/local/bin/annotate.py
+  nosetests: /usr/local/bin/nosetests
+  aggregate_scores_in_intervals.py: /usr/local/bin/aggregate_scores_in_intervals.py
+  align_print_template.py: /usr/local/bin/align_print_template.py
+  axt_extract_ranges.py: /usr/local/bin/axt_extract_ranges.py
+  axt_to_fasta.py: /usr/local/bin/axt_to_fasta.py
+  axt_to_lav.py: /usr/local/bin/axt_to_lav.py
+  axt_to_maf.py: /usr/local/bin/axt_to_maf.py
+  bed_bigwig_profile.py: /usr/local/bin/bed_bigwig_profile.py
+  bed_build_windows.py: /usr/local/bin/bed_build_windows.py
+  bed_complement.py: /usr/local/bin/bed_complement.py
+  bed_count_by_interval.py: /usr/local/bin/bed_count_by_interval.py
+  bed_count_overlapping.py: /usr/local/bin/bed_count_overlapping.py
+  bed_coverage.py: /usr/local/bin/bed_coverage.py
+  bed_coverage_by_interval.py: /usr/local/bin/bed_coverage_by_interval.py
+  bed_diff_basewise_summary.py: /usr/local/bin/bed_diff_basewise_summary.py
+  bed_extend_to.py: /usr/local/bin/bed_extend_to.py

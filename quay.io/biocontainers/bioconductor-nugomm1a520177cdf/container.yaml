@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-nugomm1a520177cdf
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-nugomm1a520177cdf
+latest:
+  3.4.0--r41hdfd78af_9: sha256:ee772d0df926e85c344b836a691013e4ad312441a5d02a700f704d720260a868
+tags:
+  3.4.0--r41hdfd78af_9: sha256:ee772d0df926e85c344b836a691013e4ad312441a5d02a700f704d720260a868
+docker: quay.io/biocontainers/bioconductor-nugomm1a520177cdf

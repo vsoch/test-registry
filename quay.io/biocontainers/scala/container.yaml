@@ -1,0 +1,44 @@
+url: https://biocontainers.pro/tools/scala
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for scala
+latest:
+  2.11.8--1: sha256:a46b119996c44fcbb3dcfa6c4dffdf3f17e05d167124f255760a3b54f87a4453
+tags:
+  2.11.8--1: sha256:a46b119996c44fcbb3dcfa6c4dffdf3f17e05d167124f255760a3b54f87a4453
+docker: quay.io/biocontainers/scala
+aliases:
+  fsc: /usr/local/bin/fsc
+  fsc.bat: /usr/local/bin/fsc.bat
+  scala: /usr/local/bin/scala
+  scala.bat: /usr/local/bin/scala.bat
+  scalac: /usr/local/bin/scalac
+  scalac.bat: /usr/local/bin/scalac.bat
+  scaladoc: /usr/local/bin/scaladoc
+  scaladoc.bat: /usr/local/bin/scaladoc.bat
+  scalap: /usr/local/bin/scalap
+  scalap.bat: /usr/local/bin/scalap.bat
+  extcheck: /usr/local/bin/extcheck
+  java-rmi.cgi: /usr/local/bin/java-rmi.cgi
+  javah: /usr/local/bin/javah
+  jhat: /usr/local/bin/jhat
+  jsadebugd: /usr/local/bin/jsadebugd
+  native2ascii: /usr/local/bin/native2ascii
+  policytool: /usr/local/bin/policytool
+  appletviewer: /usr/local/bin/appletviewer
+  idlj: /usr/local/bin/idlj
+  orbd: /usr/local/bin/orbd
+  schemagen: /usr/local/bin/schemagen
+  servertool: /usr/local/bin/servertool
+  tnameserv: /usr/local/bin/tnameserv
+  wsgen: /usr/local/bin/wsgen
+  wsimport: /usr/local/bin/wsimport
+  xjc: /usr/local/bin/xjc
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java

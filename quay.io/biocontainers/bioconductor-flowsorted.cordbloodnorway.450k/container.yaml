@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-flowsorted.cordbloodnorway.450k
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-flowsorted.cordbloodnorway.450k
+latest:
+  1.8.0--r351_0: sha256:8a2f126ebe128eaee70e3b48d42a36e1507593bc5832774883d0ef1654ae143f
+tags:
+  1.8.0--r351_0: sha256:8a2f126ebe128eaee70e3b48d42a36e1507593bc5832774883d0ef1654ae143f
+docker: quay.io/biocontainers/bioconductor-flowsorted.cordbloodnorway.450k
+aliases:
+  wget: /usr/local/bin/wget
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

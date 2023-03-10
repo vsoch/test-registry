@@ -1,0 +1,16 @@
+url: https://biocontainers.pro/tools/pangolearn
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pangolearn
+latest:
+  2022.03.22--pyh5e36f6f_0: sha256:db575cb88a4dcc04fb1e9ae9ecdce6ef7e03e09fcd60bb2c3caa7f618e5f62cf
+tags:
+  2022.03.22--pyh5e36f6f_0: sha256:db575cb88a4dcc04fb1e9ae9ecdce6ef7e03e09fcd60bb2c3caa7f618e5f62cf
+docker: quay.io/biocontainers/pangolearn
+aliases:
+  pangoLEARN: /usr/local/bin/pangoLEARN
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

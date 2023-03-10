@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-sampleclassifierdata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-sampleclassifierdata
+latest:
+  1.8.0--r36_1: sha256:4defde2cbc9210877f3c2d6d17dab085f459325c8b98a22809df8317b75f84a3
+tags:
+  1.8.0--r36_1: sha256:4defde2cbc9210877f3c2d6d17dab085f459325c8b98a22809df8317b75f84a3
+docker: quay.io/biocontainers/bioconductor-sampleclassifierdata
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

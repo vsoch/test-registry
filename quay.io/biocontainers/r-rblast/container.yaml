@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/r-rblast
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-rblast
+latest:
+  0.99.1--r41h9ee0642_5: sha256:92742498ec8844a62cf6d87a611db71e31a8aa5d6905c71fb2bdd6b1023145bd
+tags:
+  0.99.1--r41h9ee0642_5: sha256:92742498ec8844a62cf6d87a611db71e31a8aa5d6905c71fb2bdd6b1023145bd
+docker: quay.io/biocontainers/r-rblast
+aliases:
+  CA.pm: /usr/local/bin/CA.pm
+  cacert.pem: /usr/local/bin/cacert.pem
+  index-themes: /usr/local/bin/index-themes
+  fetch-extras: /usr/local/bin/fetch-extras
+  go.mod: /usr/local/bin/go.mod
+  go.sum: /usr/local/bin/go.sum
+  hlp-xtract.txt: /usr/local/bin/hlp-xtract.txt
+  index-extras: /usr/local/bin/index-extras
+  pm-collect: /usr/local/bin/pm-collect
+  readme.pdf: /usr/local/bin/readme.pdf
+  bt-context.txt: /usr/local/bin/bt-context.txt
+  bt-link: /usr/local/bin/bt-link
+  bt-load: /usr/local/bin/bt-load
+  bt-save: /usr/local/bin/bt-save
+  bt-srch: /usr/local/bin/bt-srch
+  eblast: /usr/local/bin/eblast
+  pm-index: /usr/local/bin/pm-index
+  pm-invert: /usr/local/bin/pm-invert
+  pm-merge: /usr/local/bin/pm-merge
+  pm-prepare: /usr/local/bin/pm-prepare
+  pm-promote: /usr/local/bin/pm-promote
+  pm-refresh: /usr/local/bin/pm-refresh
+  pm-stash: /usr/local/bin/pm-stash
+  protein-neighbors: /usr/local/bin/protein-neighbors
+  tst-efetch.txt: /usr/local/bin/tst-efetch.txt

@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/bioconductor-celda
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-celda
+latest:
+  1.8.1--r41h399db7b_0: sha256:075bed972dfeae2f537bb1106fe4947731e3ab38ea56a733e408c86020708f66
+tags:
+  1.8.1--r41h399db7b_0: sha256:075bed972dfeae2f537bb1106fe4947731e3ab38ea56a733e408c86020708f66
+docker: quay.io/biocontainers/bioconductor-celda
+aliases:
+  x86_64-conda-linux-gnu-pkg-config: /usr/local/bin/x86_64-conda-linux-gnu-pkg-config
+  Magick++-config: /usr/local/bin/Magick++-config
+  MagickCore-config: /usr/local/bin/MagickCore-config
+  MagickWand-config: /usr/local/bin/MagickWand-config
+  animate: /usr/local/bin/animate
+  composite: /usr/local/bin/composite
+  conjure: /usr/local/bin/conjure
+  convert: /usr/local/bin/convert
+  display: /usr/local/bin/display
+  identify: /usr/local/bin/identify
+  import: /usr/local/bin/import
+  magick: /usr/local/bin/magick
+  magick-script: /usr/local/bin/magick-script
+  mogrify: /usr/local/bin/mogrify
+  montage: /usr/local/bin/montage
+  pkg-config: /usr/local/bin/pkg-config
+  pkg-config.bin: /usr/local/bin/pkg-config.bin
+  stream: /usr/local/bin/stream
+  compare: /usr/local/bin/compare
+  dvipdf: /usr/local/bin/dvipdf
+  eps2eps: /usr/local/bin/eps2eps
+  gs: /usr/local/bin/gs
+  gsbj: /usr/local/bin/gsbj
+  gsdj: /usr/local/bin/gsdj
+  gsdj500: /usr/local/bin/gsdj500

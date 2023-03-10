@@ -1,0 +1,21 @@
+url: https://biocontainers.pro/tools/perl-devel-cover
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for perl-devel-cover
+latest:
+  1.33--pl526h14c3975_0: sha256:002aba4e9df855891c1defc66a00b2ff19c5112e29045c1821dff714ca7d0fd8
+tags:
+  1.33--pl526h14c3975_0: sha256:002aba4e9df855891c1defc66a00b2ff19c5112e29045c1821dff714ca7d0fd8
+docker: quay.io/biocontainers/perl-devel-cover
+aliases:
+  cover: /usr/local/bin/cover
+  cpancover: /usr/local/bin/cpancover
+  gcov2perl: /usr/local/bin/gcov2perl
+  pod_cover: /usr/local/bin/pod_cover
+  imgsize: /usr/local/bin/imgsize
+  tpage: /usr/local/bin/tpage
+  ttree: /usr/local/bin/ttree
+  moose-outdated: /usr/local/bin/moose-outdated
+  package-stash-conflicts: /usr/local/bin/package-stash-conflicts
+  cpanm: /usr/local/bin/cpanm
+  perl5.26.2: /usr/local/bin/perl5.26.2
+  podselect: /usr/local/bin/podselect

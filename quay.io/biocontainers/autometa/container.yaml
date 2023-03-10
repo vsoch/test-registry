@@ -1,0 +1,55 @@
+url: https://biocontainers.pro/tools/autometa
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for autometa
+latest:
+  2.1.0--pyh5e36f6f_0: sha256:0218a75e97b25934b22058e8cea1317a6c1affd0972682d4e8c44550cb1ad9e4
+tags:
+  2.1.0--pyh5e36f6f_0: sha256:0218a75e97b25934b22058e8cea1317a6c1affd0972682d4e8c44550cb1ad9e4
+docker: quay.io/biocontainers/autometa
+aliases:
+  autometa: /usr/local/bin/autometa
+  autometa-bedtools-genomecov: /usr/local/bin/autometa-bedtools-genomecov
+  autometa-benchmark: /usr/local/bin/autometa-benchmark
+  autometa-binning: /usr/local/bin/autometa-binning
+  autometa-binning-ldm: /usr/local/bin/autometa-binning-ldm
+  autometa-binning-ldm-loginfo: /usr/local/bin/autometa-binning-ldm-loginfo
+  autometa-binning-summary: /usr/local/bin/autometa-binning-summary
+  autometa-config: /usr/local/bin/autometa-config
+  autometa-coverage: /usr/local/bin/autometa-coverage
+  autometa-download-dataset: /usr/local/bin/autometa-download-dataset
+  autometa-hmmsearch-filter: /usr/local/bin/autometa-hmmsearch-filter
+  autometa-kmers: /usr/local/bin/autometa-kmers
+  autometa-length-filter: /usr/local/bin/autometa-length-filter
+  autometa-markers: /usr/local/bin/autometa-markers
+  autometa-orfs: /usr/local/bin/autometa-orfs
+  autometa-taxonomy: /usr/local/bin/autometa-taxonomy
+  autometa-taxonomy-lca: /usr/local/bin/autometa-taxonomy-lca
+  autometa-taxonomy-majority-vote: /usr/local/bin/autometa-taxonomy-majority-vote
+  autometa-unclustered-recruitment: /usr/local/bin/autometa-unclustered-recruitment
+  autometa-update-databases: /usr/local/bin/autometa-update-databases
+  gdown: /usr/local/bin/gdown
+  rsync-ssl: /usr/local/bin/rsync-ssl
+  rsync: /usr/local/bin/rsync
+  xxh128sum: /usr/local/bin/xxh128sum
+  xxh32sum: /usr/local/bin/xxh32sum
+  xxh64sum: /usr/local/bin/xxh64sum
+  xxhsum: /usr/local/bin/xxhsum
+  doesitcache: /usr/local/bin/doesitcache
+  ipython3: /usr/local/bin/ipython3
+  parsort: /usr/local/bin/parsort
+  cygdb: /usr/local/bin/cygdb
+  cython: /usr/local/bin/cython
+  cythonize: /usr/local/bin/cythonize
+  diamond: /usr/local/bin/diamond
+  ipython: /usr/local/bin/ipython
+  env_parallel: /usr/local/bin/env_parallel
+  env_parallel.ash: /usr/local/bin/env_parallel.ash
+  env_parallel.bash: /usr/local/bin/env_parallel.bash
+  env_parallel.csh: /usr/local/bin/env_parallel.csh
+  env_parallel.dash: /usr/local/bin/env_parallel.dash
+  env_parallel.fish: /usr/local/bin/env_parallel.fish
+  env_parallel.ksh: /usr/local/bin/env_parallel.ksh
+  env_parallel.mksh: /usr/local/bin/env_parallel.mksh
+  env_parallel.pdksh: /usr/local/bin/env_parallel.pdksh
+  env_parallel.sh: /usr/local/bin/env_parallel.sh
+  env_parallel.tcsh: /usr/local/bin/env_parallel.tcsh

@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-sparsedossa
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-sparsedossa
+latest:
+  1.8.0--r36_1: sha256:fa782478f3f7996fd3693378fb8b7d4920199e1fed104590b52f7655e148435d
+tags:
+  1.8.0--r36_1: sha256:fa782478f3f7996fd3693378fb8b7d4920199e1fed104590b52f7655e148435d
+docker: quay.io/biocontainers/bioconductor-sparsedossa
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

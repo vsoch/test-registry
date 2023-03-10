@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/cytocad
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for cytocad
+latest:
+  1.0.3--py36h91eb985_1: sha256:0ae1ca6f9d2f7f6a684b8e209db217de93e9632b8f11ec340c929971fc3e9715
+tags:
+  1.0.3--py36h91eb985_1: sha256:0ae1ca6f9d2f7f6a684b8e209db217de93e9632b8f11ec340c929971fc3e9715
+docker: quay.io/biocontainers/cytocad
+aliases:
+  cytocad: /usr/local/bin/cytocad
+  rfmix2tagore.py: /usr/local/bin/rfmix2tagore.py
+  tagore: /usr/local/bin/tagore
+  f2py3.6: /usr/local/bin/f2py3.6
+  rsvg-convert: /usr/local/bin/rsvg-convert
+  gdk-pixbuf-thumbnailer: /usr/local/bin/gdk-pixbuf-thumbnailer
+  gdk-pixbuf-csource: /usr/local/bin/gdk-pixbuf-csource
+  gdk-pixbuf-pixdata: /usr/local/bin/gdk-pixbuf-pixdata
+  gdk-pixbuf-query-loaders: /usr/local/bin/gdk-pixbuf-query-loaders
+  shiftBed: /usr/local/bin/shiftBed
+  annotateBed: /usr/local/bin/annotateBed
+  bamToBed: /usr/local/bin/bamToBed
+  bamToFastq: /usr/local/bin/bamToFastq
+  bed12ToBed6: /usr/local/bin/bed12ToBed6
+  bedToBam: /usr/local/bin/bedToBam
+  bedToIgv: /usr/local/bin/bedToIgv
+  bedpeToBam: /usr/local/bin/bedpeToBam
+  bedtools: /usr/local/bin/bedtools
+  closestBed: /usr/local/bin/closestBed
+  clusterBed: /usr/local/bin/clusterBed
+  complementBed: /usr/local/bin/complementBed
+  coverageBed: /usr/local/bin/coverageBed
+  expandCols: /usr/local/bin/expandCols
+  fastaFromBed: /usr/local/bin/fastaFromBed
+  flankBed: /usr/local/bin/flankBed
+  genomeCoverageBed: /usr/local/bin/genomeCoverageBed
+  getOverlap: /usr/local/bin/getOverlap
+  groupBy: /usr/local/bin/groupBy

@@ -1,0 +1,29 @@
+url: https://biocontainers.pro/tools/ipython-cluster-helper
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ipython-cluster-helper
+latest:
+  0.6.4--pyh864c0ab_1: sha256:99713d8628a67bb15eebe345b8cfd0121e6a0b879043aa43811ae8d844bf6967
+tags:
+  0.6.4--pyh864c0ab_1: sha256:99713d8628a67bb15eebe345b8cfd0121e6a0b879043aa43811ae8d844bf6967
+docker: quay.io/biocontainers/ipython-cluster-helper
+aliases:
+  ipcluster: /usr/local/bin/ipcluster
+  ipcontroller: /usr/local/bin/ipcontroller
+  ipengine: /usr/local/bin/ipengine
+  iptest3: /usr/local/bin/iptest3
+  jupyter-kernel: /usr/local/bin/jupyter-kernel
+  jupyter-kernelspec: /usr/local/bin/jupyter-kernelspec
+  jupyter-run: /usr/local/bin/jupyter-run
+  iptest: /usr/local/bin/iptest
+  curve_keygen: /usr/local/bin/curve_keygen
+  ipython3: /usr/local/bin/ipython3
+  ipython: /usr/local/bin/ipython
+  jupyter: /usr/local/bin/jupyter
+  jupyter-migrate: /usr/local/bin/jupyter-migrate
+  jupyter-troubleshoot: /usr/local/bin/jupyter-troubleshoot
+  pygmentize: /usr/local/bin/pygmentize
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config

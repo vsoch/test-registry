@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/dgenies
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for dgenies
+latest:
+  1.4.0--pyhdfd78af_0: sha256:92b1753c5363f783f3d0bff390d2d14094a8852f3bb08c8be76b1cbf0bb14989
+tags:
+  1.4.0--pyhdfd78af_0: sha256:92b1753c5363f783f3d0bff390d2d14094a8852f3bb08c8be76b1cbf0bb14989
+docker: quay.io/biocontainers/dgenies
+aliases:
+  dgenies: /usr/local/bin/dgenies
+  pbr: /usr/local/bin/pbr
+  flask: /usr/local/bin/flask
+  igzip: /usr/local/bin/igzip
+  pbunzip2: /usr/local/bin/pbunzip2
+  pbzcat: /usr/local/bin/pbzcat
+  pbzip2: /usr/local/bin/pbzip2
+  markdown_py: /usr/local/bin/markdown_py
+  pigz: /usr/local/bin/pigz
+  unpigz: /usr/local/bin/unpigz
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  brotli: /usr/local/bin/brotli
+  normalizer: /usr/local/bin/normalizer
+  img2webp: /usr/local/bin/img2webp
+  cwebp: /usr/local/bin/cwebp
+  dwebp: /usr/local/bin/dwebp
+  gif2webp: /usr/local/bin/gif2webp
+  f2py3.10: /usr/local/bin/f2py3.10
+  opj_compress: /usr/local/bin/opj_compress
+  opj_decompress: /usr/local/bin/opj_decompress
+  opj_dump: /usr/local/bin/opj_dump
+  gif2rgb: /usr/local/bin/gif2rgb
+  gifbuild: /usr/local/bin/gifbuild

@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-dvddata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-dvddata
+latest:
+  1.30.0--r41hdfd78af_1: sha256:56ce7efc91f34603c04bc9526cdf8a041d732e47aa3df7854cc2586f07fc7b35
+tags:
+  1.30.0--r41hdfd78af_1: sha256:56ce7efc91f34603c04bc9526cdf8a041d732e47aa3df7854cc2586f07fc7b35
+docker: quay.io/biocontainers/bioconductor-dvddata

@@ -1,0 +1,13 @@
+url: https://biocontainers.pro/tools/r-ff
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-ff
+latest:
+  2.2_13--r3.3.1_0: sha256:6c7d51e3d5776ba08b8e19e46fe852c7cbd0a956348bf40868a77b3edd3a66ef
+tags:
+  2.2_13--r3.3.1_0: sha256:6c7d51e3d5776ba08b8e19e46fe852c7cbd0a956348bf40868a77b3edd3a66ef
+docker: quay.io/biocontainers/r-ff
+aliases:
+  uconv: /usr/local/bin/uconv
+  tclsh8.5: /usr/local/bin/tclsh8.5
+  wish8.5: /usr/local/bin/wish8.5
+  ncursesw5-config: /usr/local/bin/ncursesw5-config

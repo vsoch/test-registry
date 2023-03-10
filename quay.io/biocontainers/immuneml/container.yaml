@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/immuneml
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for immuneml
+latest:
+  2.2.0--py39hbf8eff0_0: sha256:60a6ea6a986487ea863598dc0585e75e337dbe36fb6cef5494d54ae135a3a347
+tags:
+  2.2.0--py39hbf8eff0_0: sha256:60a6ea6a986487ea863598dc0585e75e337dbe36fb6cef5494d54ae135a3a347
+docker: quay.io/biocontainers/immuneml
+aliases:
+  airr-tools: /usr/local/bin/airr-tools
+  immune-ml: /usr/local/bin/immune-ml
+  immune-ml-quickstart: /usr/local/bin/immune-ml-quickstart
+  pystache: /usr/local/bin/pystache
+  pystache-test: /usr/local/bin/pystache-test
+  torchrun: /usr/local/bin/torchrun
+  convert-caffe2-to-onnx: /usr/local/bin/convert-caffe2-to-onnx
+  convert-onnx-to-caffe2: /usr/local/bin/convert-onnx-to-caffe2
+  ninja: /usr/local/bin/ninja
+  google-oauthlib-tool: /usr/local/bin/google-oauthlib-tool
+  get_objgraph: /usr/local/bin/get_objgraph
+  undill: /usr/local/bin/undill
+  xkbcli: /usr/local/bin/xkbcli
+  tensorboard: /usr/local/bin/tensorboard
+  cygdb: /usr/local/bin/cygdb
+  cython: /usr/local/bin/cython
+  cythonize: /usr/local/bin/cythonize
+  markdown_py: /usr/local/bin/markdown_py
+  py.test: /usr/local/bin/py.test
+  pytest: /usr/local/bin/pytest
+  pg_config: /usr/local/bin/pg_config
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview
+  qvkgen: /usr/local/bin/qvkgen
+  pyrsa-decrypt: /usr/local/bin/pyrsa-decrypt
+  pyrsa-encrypt: /usr/local/bin/pyrsa-encrypt
+  pyrsa-keygen: /usr/local/bin/pyrsa-keygen
+  pyrsa-priv2pub: /usr/local/bin/pyrsa-priv2pub
+  pyrsa-sign: /usr/local/bin/pyrsa-sign
+  pyrsa-verify: /usr/local/bin/pyrsa-verify

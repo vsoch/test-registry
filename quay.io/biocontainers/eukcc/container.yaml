@@ -1,0 +1,40 @@
+url: https://biocontainers.pro/tools/eukcc
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for eukcc
+latest:
+  2.1.0--pypyhdfd78af_0: sha256:5d12324186ac9d29b62326338aba059c97e51094fc51e87447f61d0b46cb96d4
+tags:
+  2.1.0--pypyhdfd78af_0: sha256:5d12324186ac9d29b62326338aba059c97e51094fc51e87447f61d0b46cb96d4
+docker: quay.io/biocontainers/eukcc
+aliases:
+  binlinks.py: /usr/local/bin/binlinks.py
+  epa-ng: /usr/local/bin/epa-ng
+  eukcc: /usr/local/bin/eukcc
+  filter_euk_bins.py: /usr/local/bin/filter_euk_bins.py
+  metaeuk: /usr/local/bin/metaeuk
+  shared_markers: /usr/local/bin/shared_markers
+  rppr: /usr/local/bin/rppr
+  guppy: /usr/local/bin/guppy
+  pplacer: /usr/local/bin/pplacer
+  ete3: /usr/local/bin/ete3
+  gawk-5.1.0: /usr/local/bin/gawk-5.1.0
+  xkbcli: /usr/local/bin/xkbcli
+  awk: /usr/local/bin/awk
+  gawk: /usr/local/bin/gawk
+  pg_config: /usr/local/bin/pg_config
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview
+  qvkgen: /usr/local/bin/qvkgen
+  hmmpgmd_shard: /usr/local/bin/hmmpgmd_shard
+  easel: /usr/local/bin/easel
+  esl-mixdchlet: /usr/local/bin/esl-mixdchlet
+  qualfa2fq.pl: /usr/local/bin/qualfa2fq.pl
+  xa2multi.pl: /usr/local/bin/xa2multi.pl
+  certutil: /usr/local/bin/certutil
+  nspr-config: /usr/local/bin/nspr-config
+  nss-config: /usr/local/bin/nss-config
+  pk12util: /usr/local/bin/pk12util
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  esl-alimanip: /usr/local/bin/esl-alimanip
+  esl-alimap: /usr/local/bin/esl-alimap
+  esl-alimask: /usr/local/bin/esl-alimask

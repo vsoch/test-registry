@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/merfishtools
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for merfishtools
+latest:
+  1.5.0--py35h549429d_0: sha256:395ba27115165c868f1b948c876f1ed567ed9809d704e8871f67bb4c4bc071c6
+tags:
+  1.5.0--py35h549429d_0: sha256:395ba27115165c868f1b948c876f1ed567ed9809d704e8871f67bb4c4bc071c6
+docker: quay.io/biocontainers/merfishtools
+aliases:
+  merfishtools: /usr/local/bin/merfishtools
+  conv-template: /usr/local/bin/conv-template
+  from-template: /usr/local/bin/from-template
+  2to3-3.5: /usr/local/bin/2to3-3.5
+  idle3.5: /usr/local/bin/idle3.5
+  pydoc3.5: /usr/local/bin/pydoc3.5
+  python3.5: /usr/local/bin/python3.5
+  python3.5-config: /usr/local/bin/python3.5-config
+  python3.5m: /usr/local/bin/python3.5m
+  python3.5m-config: /usr/local/bin/python3.5m-config
+  pyvenv-3.5: /usr/local/bin/pyvenv-3.5
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  sip: /usr/local/bin/sip
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc
+  gst-device-monitor-1.0: /usr/local/bin/gst-device-monitor-1.0
+  gst-discoverer-1.0: /usr/local/bin/gst-discoverer-1.0
+  gst-play-1.0: /usr/local/bin/gst-play-1.0
+  fixqt4headers.pl: /usr/local/bin/fixqt4headers.pl
+  qlalr: /usr/local/bin/qlalr
+  qml: /usr/local/bin/qml
+  qmleasing: /usr/local/bin/qmleasing
+  qmlimportscanner: /usr/local/bin/qmlimportscanner
+  qmllint: /usr/local/bin/qmllint

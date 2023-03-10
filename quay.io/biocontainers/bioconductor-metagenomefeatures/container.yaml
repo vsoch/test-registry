@@ -1,0 +1,17 @@
+url: https://biocontainers.pro/tools/bioconductor-metagenomefeatures
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-metagenomefeatures
+latest:
+  2.8.0--r40_0: sha256:64115c48e27905595afe0c15605ec9227cf0f94a1d015325f358037e38b230ef
+tags:
+  2.8.0--r40_0: sha256:64115c48e27905595afe0c15605ec9227cf0f94a1d015325f358037e38b230ef
+docker: quay.io/biocontainers/bioconductor-metagenomefeatures
+aliases:
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-seqcombo
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-seqcombo
+latest:
+  1.8.0--r36_0: sha256:81f5724e630544521629ffe77a6ae164183ff8c1cb4f7f74b23c1278e506a508
+tags:
+  1.8.0--r36_0: sha256:81f5724e630544521629ffe77a6ae164183ff8c1cb4f7f74b23c1278e506a508
+docker: quay.io/biocontainers/bioconductor-seqcombo
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

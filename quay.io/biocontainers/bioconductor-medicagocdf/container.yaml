@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-medicagocdf
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-medicagocdf
+latest:
+  2.18.0--r41hdfd78af_9: sha256:c61df49512416f095d2676f42be08af7d5213a75d514980f309a668ba03db619
+tags:
+  2.18.0--r41hdfd78af_9: sha256:c61df49512416f095d2676f42be08af7d5213a75d514980f309a668ba03db619
+docker: quay.io/biocontainers/bioconductor-medicagocdf

@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/isoplot
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for isoplot
+latest:
+  1.3.1--pyh5e36f6f_0: sha256:0bb7ac6f3617ff2c64405e3da2458ebf71be25b26ece2b817c1376b425ac90d7
+tags:
+  1.3.1--pyh5e36f6f_0: sha256:0bb7ac6f3617ff2c64405e3da2458ebf71be25b26ece2b817c1376b425ac90d7
+docker: quay.io/biocontainers/isoplot
+aliases:
+  colorcet: /usr/local/bin/colorcet
+  isoplot: /usr/local/bin/isoplot
+  jupyter-execute: /usr/local/bin/jupyter-execute
+  jupyter-dejavu: /usr/local/bin/jupyter-dejavu
+  send2trash: /usr/local/bin/send2trash
+  runxlrd.py: /usr/local/bin/runxlrd.py
+  jupyter-bundlerextension: /usr/local/bin/jupyter-bundlerextension
+  jupyter-nbextension: /usr/local/bin/jupyter-nbextension
+  jupyter-notebook: /usr/local/bin/jupyter-notebook
+  jupyter-serverextension: /usr/local/bin/jupyter-serverextension
+  jupyter-nbconvert: /usr/local/bin/jupyter-nbconvert
+  iptest3: /usr/local/bin/iptest3
+  jupyter-kernel: /usr/local/bin/jupyter-kernel
+  jupyter-kernelspec: /usr/local/bin/jupyter-kernelspec
+  jupyter-run: /usr/local/bin/jupyter-run
+  iptest: /usr/local/bin/iptest
+  bokeh: /usr/local/bin/bokeh
+  curve_keygen: /usr/local/bin/curve_keygen
+  ipython3: /usr/local/bin/ipython3
+  ipython: /usr/local/bin/ipython
+  jupyter-trust: /usr/local/bin/jupyter-trust
+  natsort: /usr/local/bin/natsort
+  jupyter: /usr/local/bin/jupyter
+  jupyter-migrate: /usr/local/bin/jupyter-migrate
+  jupyter-troubleshoot: /usr/local/bin/jupyter-troubleshoot
+  jsonschema: /usr/local/bin/jsonschema
+  pygmentize: /usr/local/bin/pygmentize

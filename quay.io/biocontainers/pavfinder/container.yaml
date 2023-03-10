@@ -1,0 +1,81 @@
+url: https://biocontainers.pro/tools/pavfinder
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pavfinder
+latest:
+  1.8.5--pyhdfd78af_0: sha256:dbee394feeb19045fd0e91b470a3edf8f17263bd1d04ac59c632ffc69dad851e
+tags:
+  1.8.5--pyhdfd78af_0: sha256:dbee394feeb19045fd0e91b470a3edf8f17263bd1d04ac59c632ffc69dad851e
+docker: quay.io/biocontainers/pavfinder
+aliases:
+  abyss-db-csv: /usr/local/bin/abyss-db-csv
+  bash: /usr/local/bin/bash
+  bashbug: /usr/local/bin/bashbug
+  biobloomcategorizer: /usr/local/bin/biobloomcategorizer
+  biobloommaker: /usr/local/bin/biobloommaker
+  biobloommicategorizer: /usr/local/bin/biobloommicategorizer
+  biobloommimaker: /usr/local/bin/biobloommimaker
+  bulk-counts: /usr/local/bin/bulk-counts
+  check_support.py: /usr/local/bin/check_support.py
+  extract_transcript_sequence.py: /usr/local/bin/extract_transcript_sequence.py
+  faToNib: /usr/local/bin/faToNib
+  filter_fasta.py: /usr/local/bin/filter_fasta.py
+  find_sv_genome.py: /usr/local/bin/find_sv_genome.py
+  find_sv_transcriptome.py: /usr/local/bin/find_sv_transcriptome.py
+  fusion-bloom: /usr/local/bin/fusion-bloom
+  fusion-bloom.makefile: /usr/local/bin/fusion-bloom.makefile
+  gfClient: /usr/local/bin/gfClient
+  gfServer: /usr/local/bin/gfServer
+  gmap.nosimd: /usr/local/bin/gmap.nosimd
+  gmap_cat: /usr/local/bin/gmap_cat
+  gmapl.nosimd: /usr/local/bin/gmapl.nosimd
+  gsnap.nosimd: /usr/local/bin/gsnap.nosimd
+  gsnapl.nosimd: /usr/local/bin/gsnapl.nosimd
+  indexdb_cat: /usr/local/bin/indexdb_cat
+  link_ssv.py: /usr/local/bin/link_ssv.py
+  map_splice.py: /usr/local/bin/map_splice.py
+  nibFrag: /usr/local/bin/nibFrag
+  ntcard: /usr/local/bin/ntcard
+  nthll: /usr/local/bin/nthll
+  pavfinder: /usr/local/bin/pavfinder
+  pslPretty: /usr/local/bin/pslPretty
+  pslReps: /usr/local/bin/pslReps
+  pslSort: /usr/local/bin/pslSort
+  rescue_fusion.py: /usr/local/bin/rescue_fusion.py
+  rnabloom: /usr/local/bin/rnabloom
+  sc-counts: /usr/local/bin/sc-counts
+  skip_psl_self.awk: /usr/local/bin/skip_psl_self.awk
+  skip_psl_self_ss.awk: /usr/local/bin/skip_psl_self_ss.awk
+  strip_sam_qual.awk: /usr/local/bin/strip_sam_qual.awk
+  strip_sam_seq_qual.awk: /usr/local/bin/strip_sam_seq_qual.awk
+  strip_sam_seq_qual_noself.awk: /usr/local/bin/strip_sam_seq_qual_noself.awk
+  tap: /usr/local/bin/tap
+  tap2: /usr/local/bin/tap2
+  transabyss: /usr/local/bin/transabyss
+  transabyss-merge: /usr/local/bin/transabyss-merge
+  trindex: /usr/local/bin/trindex
+  velocity-counts: /usr/local/bin/velocity-counts
+  atoiindex: /usr/local/bin/atoiindex
+  cmetindex: /usr/local/bin/cmetindex
+  cpuid: /usr/local/bin/cpuid
+  dbsnp_iit: /usr/local/bin/dbsnp_iit
+  ensembl_genes: /usr/local/bin/ensembl_genes
+  fa_coords: /usr/local/bin/fa_coords
+  get-genome: /usr/local/bin/get-genome
+  gff3_genes: /usr/local/bin/gff3_genes
+  gff3_introns: /usr/local/bin/gff3_introns
+  gff3_splicesites: /usr/local/bin/gff3_splicesites
+  gmap.sse42: /usr/local/bin/gmap.sse42
+  gmap_build: /usr/local/bin/gmap_build
+  gmap_process: /usr/local/bin/gmap_process
+  gmapindex: /usr/local/bin/gmapindex
+  gmapl: /usr/local/bin/gmapl
+  gmapl.sse42: /usr/local/bin/gmapl.sse42
+  gsnap: /usr/local/bin/gsnap
+  gsnap.sse42: /usr/local/bin/gsnap.sse42
+  gsnapl: /usr/local/bin/gsnapl
+  gsnapl.sse42: /usr/local/bin/gsnapl.sse42
+  gtf_genes: /usr/local/bin/gtf_genes
+  gtf_introns: /usr/local/bin/gtf_introns
+  gtf_splicesites: /usr/local/bin/gtf_splicesites
+  gtf_transcript_splicesites: /usr/local/bin/gtf_transcript_splicesites
+  gvf_iit: /usr/local/bin/gvf_iit

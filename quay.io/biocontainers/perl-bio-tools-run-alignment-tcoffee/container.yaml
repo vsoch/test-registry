@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/perl-bio-tools-run-alignment-tcoffee
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for perl-bio-tools-run-alignment-tcoffee
+latest:
+  1.7.4--pl5321hdfd78af_4: sha256:5e5f4bda58f0fd068e56f0b3f0b50b4c37cb5e2e190e6ec948284795628bec3c
+tags:
+  1.7.4--pl5321hdfd78af_4: sha256:5e5f4bda58f0fd068e56f0b3f0b50b4c37cb5e2e190e6ec948284795628bec3c
+docker: quay.io/biocontainers/perl-bio-tools-run-alignment-tcoffee
+aliases:
+  bp_find-blast-matches.pl: /usr/local/bin/bp_find-blast-matches.pl
+  ace.pl: /usr/local/bin/ace.pl
+  ccconfig: /usr/local/bin/ccconfig
+  SOAPsh.pl: /usr/local/bin/SOAPsh.pl
+  map: /usr/local/bin/map
+  mirrorMappings: /usr/local/bin/mirrorMappings
+  mkCSGB2312: /usr/local/bin/mkCSGB2312
+  mkmapfile: /usr/local/bin/mkmapfile
+  stubmaker.pl: /usr/local/bin/stubmaker.pl
+  chartex: /usr/local/bin/chartex
+  binhex.pl: /usr/local/bin/binhex.pl
+  debinhex.pl: /usr/local/bin/debinhex.pl
+  t_coffee: /usr/local/bin/t_coffee
+  xpath: /usr/local/bin/xpath
+  imgsize: /usr/local/bin/imgsize
+  xml_grep: /usr/local/bin/xml_grep
+  xml_merge: /usr/local/bin/xml_merge
+  xml_pp: /usr/local/bin/xml_pp
+  xml_spellcheck: /usr/local/bin/xml_spellcheck
+  xml_split: /usr/local/bin/xml_split
+  tpage: /usr/local/bin/tpage
+  ttree: /usr/local/bin/ttree
+  webtidy: /usr/local/bin/webtidy
+  tidyp: /usr/local/bin/tidyp
+  bp_aacomp.pl: /usr/local/bin/bp_aacomp.pl

@@ -1,0 +1,13 @@
+url: https://biocontainers.pro/tools/r-sparql
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-sparql
+latest:
+  1.16--r3.3.2_0: sha256:c652d4f22fbc7a5d00fb314d0c3035afb4db0d5b89b7ece5bb053e185d8f8e99
+tags:
+  1.16--r3.3.2_0: sha256:c652d4f22fbc7a5d00fb314d0c3035afb4db0d5b89b7ece5bb053e185d8f8e99
+docker: quay.io/biocontainers/r-sparql
+aliases:
+  uconv: /usr/local/bin/uconv
+  tclsh8.5: /usr/local/bin/tclsh8.5
+  wish8.5: /usr/local/bin/wish8.5
+  ncursesw5-config: /usr/local/bin/ncursesw5-config

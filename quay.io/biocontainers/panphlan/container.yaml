@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/panphlan
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for panphlan
+latest:
+  3.1--py_0: sha256:4fbdbf8c2c65b88ace3a165bc1c99ea5eac4799b57c5a1ad5fcb45f1dcc2a06f
+tags:
+  3.1--py_0: sha256:4fbdbf8c2c65b88ace3a165bc1c99ea5eac4799b57c5a1ad5fcb45f1dcc2a06f
+docker: quay.io/biocontainers/panphlan
+aliases:
+  misc.py: /usr/local/bin/misc.py
+  panphlan_download_pangenome.py: /usr/local/bin/panphlan_download_pangenome.py
+  panphlan_map.py: /usr/local/bin/panphlan_map.py
+  panphlan_profiling.py: /usr/local/bin/panphlan_profiling.py
+  perl5.32.0: /usr/local/bin/perl5.32.0
+  bowtie2: /usr/local/bin/bowtie2
+  bowtie2-align-l: /usr/local/bin/bowtie2-align-l
+  bowtie2-align-s: /usr/local/bin/bowtie2-align-s
+  bowtie2-build: /usr/local/bin/bowtie2-build
+  bowtie2-build-l: /usr/local/bin/bowtie2-build-l
+  bowtie2-build-s: /usr/local/bin/bowtie2-build-s
+  bowtie2-inspect: /usr/local/bin/bowtie2-inspect
+  bowtie2-inspect-l: /usr/local/bin/bowtie2-inspect-l
+  bowtie2-inspect-s: /usr/local/bin/bowtie2-inspect-s
+  f2py3.8: /usr/local/bin/f2py3.8
+  plot-ampliconstats: /usr/local/bin/plot-ampliconstats
+  ace2sam: /usr/local/bin/ace2sam
+  blast2sam.pl: /usr/local/bin/blast2sam.pl
+  bowtie2sam.pl: /usr/local/bin/bowtie2sam.pl
+  export2sam.pl: /usr/local/bin/export2sam.pl
+  interpolate_sam.pl: /usr/local/bin/interpolate_sam.pl
+  maq2sam-long: /usr/local/bin/maq2sam-long
+  maq2sam-short: /usr/local/bin/maq2sam-short
+  md5fa: /usr/local/bin/md5fa
+  md5sum-lite: /usr/local/bin/md5sum-lite
+  plot-bamstats: /usr/local/bin/plot-bamstats
+  psl2sam.pl: /usr/local/bin/psl2sam.pl
+  sam2vcf.pl: /usr/local/bin/sam2vcf.pl
+  samtools.pl: /usr/local/bin/samtools.pl

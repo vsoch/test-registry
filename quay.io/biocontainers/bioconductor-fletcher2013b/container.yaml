@@ -1,0 +1,17 @@
+url: https://biocontainers.pro/tools/bioconductor-fletcher2013b
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-fletcher2013b
+latest:
+  1.30.0--r41hdfd78af_1: sha256:953bcebe23c7f808f14956b178f85e26aa49adccaddddb8cfe673344ccbda58e
+tags:
+  1.30.0--r41hdfd78af_1: sha256:953bcebe23c7f808f14956b178f85e26aa49adccaddddb8cfe673344ccbda58e
+docker: quay.io/biocontainers/bioconductor-fletcher2013b
+aliases:
+  glpsol: /usr/local/bin/glpsol
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

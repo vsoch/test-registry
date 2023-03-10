@@ -1,0 +1,22 @@
+url: https://biocontainers.pro/tools/badread
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for badread
+latest:
+  0.2.0--py_0: sha256:8ca62c6bcca0457ec337629e60d783da5b7a0cbf6b9c47e863c53099c33d624f
+tags:
+  0.2.0--py_0: sha256:8ca62c6bcca0457ec337629e60d783da5b7a0cbf6b9c47e863c53099c33d624f
+docker: quay.io/biocontainers/badread
+aliases:
+  badread: /usr/local/bin/badread
+  edlib-aligner: /usr/local/bin/edlib-aligner
+  f2py3.9: /usr/local/bin/f2py3.9
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config
+  jpgicc: /usr/local/bin/jpgicc
+  linkicc: /usr/local/bin/linkicc
+  psicc: /usr/local/bin/psicc
+  tificc: /usr/local/bin/tificc
+  transicc: /usr/local/bin/transicc

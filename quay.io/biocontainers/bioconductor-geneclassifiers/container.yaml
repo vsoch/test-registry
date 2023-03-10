@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-geneclassifiers
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-geneclassifiers
+latest:
+  1.8.0--r36_1: sha256:d4323865fe8e39f5bacb14197c310acdf94f8049437b989726348673132270de
+tags:
+  1.8.0--r36_1: sha256:d4323865fe8e39f5bacb14197c310acdf94f8049437b989726348673132270de
+docker: quay.io/biocontainers/bioconductor-geneclassifiers
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

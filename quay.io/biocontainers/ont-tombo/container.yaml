@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/ont-tombo
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ont-tombo
+latest:
+  1.5--py27r36hb3f55d8_2: sha256:889d31cba456da799a30fcaa8846b1a26f16aec7a362b8b4250e47aa5759b7fc
+tags:
+  1.5--py27r36hb3f55d8_2: sha256:889d31cba456da799a30fcaa8846b1a26f16aec7a362b8b4250e47aa5759b7fc
+docker: quay.io/biocontainers/ont-tombo
+aliases:
+  tombo: /usr/local/bin/tombo
+  unit2: /usr/local/bin/unit2
+  minimap2.py: /usr/local/bin/minimap2.py
+  faidx: /usr/local/bin/faidx
+  f2py2: /usr/local/bin/f2py2
+  f2py2.7: /usr/local/bin/f2py2.7
+  futurize: /usr/local/bin/futurize
+  pasteurize: /usr/local/bin/pasteurize
+  tqdm: /usr/local/bin/tqdm
+  python2-config: /usr/local/bin/python2-config
+  python2.7-config: /usr/local/bin/python2.7-config
+  python2: /usr/local/bin/python2
+  python2.7: /usr/local/bin/python2.7
+  idle: /usr/local/bin/idle
+  python-config: /usr/local/bin/python-config
+  smtpd.py: /usr/local/bin/smtpd.py
+  h5clear: /usr/local/bin/h5clear
+  h5format_convert: /usr/local/bin/h5format_convert
+  h5watch: /usr/local/bin/h5watch
+  h5fc: /usr/local/bin/h5fc
+  gif2h5: /usr/local/bin/gif2h5
+  h52gif: /usr/local/bin/h52gif
+  h5c++: /usr/local/bin/h5c++
+  h5copy: /usr/local/bin/h5copy
+  h5debug: /usr/local/bin/h5debug
+  h5diff: /usr/local/bin/h5diff

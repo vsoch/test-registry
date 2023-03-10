@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-snplocs.hsapiens.dbsnp150.grch38
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-snplocs.hsapiens.dbsnp150.grch38
+latest:
+  0.99.20--r41hdfd78af_9: sha256:8cb827ce1d43f1289b2178941ad72e206db2f026bdd81d06cf1ece69576d3e95
+tags:
+  0.99.20--r41hdfd78af_9: sha256:8cb827ce1d43f1289b2178941ad72e206db2f026bdd81d06cf1ece69576d3e95
+docker: quay.io/biocontainers/bioconductor-snplocs.hsapiens.dbsnp150.grch38

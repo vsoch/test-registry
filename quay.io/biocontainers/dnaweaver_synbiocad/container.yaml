@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/dnaweaver_synbiocad
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for dnaweaver_synbiocad
+latest:
+  1.0.2--pyhdfd78af_0: sha256:24c6e54a301fc0b9b1beec429b1b7e98e539c82c43dcc2d23949146340a98f62
+tags:
+  1.0.2--pyhdfd78af_0: sha256:24c6e54a301fc0b9b1beec429b1b7e98e539c82c43dcc2d23949146340a98f62
+docker: quay.io/biocontainers/dnaweaver_synbiocad
+aliases:
+  dnachisel: /usr/local/bin/dnachisel
+  weasyprint: /usr/local/bin/weasyprint
+  csv2rdf: /usr/local/bin/csv2rdf
+  rdf2dot: /usr/local/bin/rdf2dot
+  rdfgraphisomorphism: /usr/local/bin/rdfgraphisomorphism
+  rdfpipe: /usr/local/bin/rdfpipe
+  rdfs2dot: /usr/local/bin/rdfs2dot
+  edirect.py: /usr/local/bin/edirect.py
+  filter-columns: /usr/local/bin/filter-columns
+  fuse-segments: /usr/local/bin/fuse-segments
+  gene2range: /usr/local/bin/gene2range
+  tbl2prod: /usr/local/bin/tbl2prod
+  uniq-table: /usr/local/bin/uniq-table
+  align-columns: /usr/local/bin/align-columns
+  blst2tkns: /usr/local/bin/blst2tkns
+  csv2xml: /usr/local/bin/csv2xml
+  disambiguate-nucleotides: /usr/local/bin/disambiguate-nucleotides
+  download-ncbi-software: /usr/local/bin/download-ncbi-software
+  ecommon.sh: /usr/local/bin/ecommon.sh
+  find-in-gene: /usr/local/bin/find-in-gene
+  fuse-ranges: /usr/local/bin/fuse-ranges
+  hgvs2spdi: /usr/local/bin/hgvs2spdi
+  json2xml: /usr/local/bin/json2xml
+  print-columns: /usr/local/bin/print-columns
+  snp2hgvs: /usr/local/bin/snp2hgvs
+  snp2tbl: /usr/local/bin/snp2tbl
+  sort-table: /usr/local/bin/sort-table

@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-saureusprobe
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-saureusprobe
+latest:
+  2.18.0--r41hdfd78af_9: sha256:0117d5953709d8bb9b4dddc33d13223cf71a8d19c6983e3747bfafcac72fdb12
+tags:
+  2.18.0--r41hdfd78af_9: sha256:0117d5953709d8bb9b4dddc33d13223cf71a8d19c6983e3747bfafcac72fdb12
+docker: quay.io/biocontainers/bioconductor-saureusprobe

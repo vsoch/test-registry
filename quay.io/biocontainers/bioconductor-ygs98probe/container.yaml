@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-ygs98probe
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-ygs98probe
+latest:
+  2.18.0--r41hdfd78af_9: sha256:5f3ff961c65028132dd68b363488197753e428356127d79ad7cd70a79538e991
+tags:
+  2.18.0--r41hdfd78af_9: sha256:5f3ff961c65028132dd68b363488197753e428356127d79ad7cd70a79538e991
+docker: quay.io/biocontainers/bioconductor-ygs98probe

@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/cwltool
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for cwltool
+latest:
+  1.0.20180225105849--py_1: sha256:36261cc468c88fad8167fa02207c79b0d57d3736969d012bbcf8773c5a2ba8ba
+tags:
+  1.0.20180225105849--py_1: sha256:36261cc468c88fad8167fa02207c79b0d57d3736969d012bbcf8773c5a2ba8ba
+docker: quay.io/biocontainers/cwltool
+aliases:
+  cwltest: /usr/local/bin/cwltest
+  cwltool: /usr/local/bin/cwltool
+  avro: /usr/local/bin/avro
+  schema-salad-doc: /usr/local/bin/schema-salad-doc
+  schema-salad-tool: /usr/local/bin/schema-salad-tool
+  csv2rdf: /usr/local/bin/csv2rdf
+  rdf2dot: /usr/local/bin/rdf2dot
+  rdfgraphisomorphism: /usr/local/bin/rdfgraphisomorphism
+  rdfpipe: /usr/local/bin/rdfpipe
+  rdfs2dot: /usr/local/bin/rdfs2dot
+  doesitcache: /usr/local/bin/doesitcache
+  futurize: /usr/local/bin/futurize
+  pasteurize: /usr/local/bin/pasteurize
+  chardetect: /usr/local/bin/chardetect
+  2to3-3.6: /usr/local/bin/2to3-3.6
+  idle3.6: /usr/local/bin/idle3.6
+  pydoc3.6: /usr/local/bin/pydoc3.6
+  python3.6: /usr/local/bin/python3.6
+  python3.6-config: /usr/local/bin/python3.6-config
+  python3.6m: /usr/local/bin/python3.6m
+  python3.6m-config: /usr/local/bin/python3.6m-config
+  pyvenv-3.6: /usr/local/bin/pyvenv-3.6
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config
+  pyvenv: /usr/local/bin/pyvenv

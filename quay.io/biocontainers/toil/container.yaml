@@ -1,0 +1,48 @@
+url: https://biocontainers.pro/tools/toil
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for toil
+latest:
+  5.6.0--pyhdfd78af_0: sha256:d148c547f7829b59b69155dd5add29ddd2d8a3b93e10f3f9ebbdb1126bc63041
+tags:
+  5.6.0--pyhdfd78af_0: sha256:d148c547f7829b59b69155dd5add29ddd2d8a3b93e10f3f9ebbdb1126bc63041
+docker: quay.io/biocontainers/toil
+aliases:
+  bagit.py: /usr/local/bin/bagit.py
+  black-primer: /usr/local/bin/black-primer
+  cwltoil: /usr/local/bin/cwltoil
+  galaxy-tool-test: /usr/local/bin/galaxy-tool-test
+  mulled-build: /usr/local/bin/mulled-build
+  mulled-build-channel: /usr/local/bin/mulled-build-channel
+  mulled-build-files: /usr/local/bin/mulled-build-files
+  mulled-build-tool: /usr/local/bin/mulled-build-tool
+  mulled-search: /usr/local/bin/mulled-search
+  prov-compare: /usr/local/bin/prov-compare
+  prov-convert: /usr/local/bin/prov-convert
+  toil: /usr/local/bin/toil
+  toil-cwl-runner: /usr/local/bin/toil-cwl-runner
+  wsdump: /usr/local/bin/wsdump
+  black: /usr/local/bin/black
+  blackd: /usr/local/bin/blackd
+  cwltool: /usr/local/bin/cwltool
+  schema-salad-doc: /usr/local/bin/schema-salad-doc
+  schema-salad-tool: /usr/local/bin/schema-salad-tool
+  asadmin: /usr/local/bin/asadmin
+  bundle_image: /usr/local/bin/bundle_image
+  cfadmin: /usr/local/bin/cfadmin
+  cq: /usr/local/bin/cq
+  cwutil: /usr/local/bin/cwutil
+  dynamodb_dump: /usr/local/bin/dynamodb_dump
+  dynamodb_load: /usr/local/bin/dynamodb_load
+  elbadmin: /usr/local/bin/elbadmin
+  fetch_file: /usr/local/bin/fetch_file
+  glacier: /usr/local/bin/glacier
+  instance_events: /usr/local/bin/instance_events
+  kill_instance: /usr/local/bin/kill_instance
+  launch_instance: /usr/local/bin/launch_instance
+  list_instances: /usr/local/bin/list_instances
+  lss3: /usr/local/bin/lss3
+  mturk: /usr/local/bin/mturk
+  pyami_sendmail: /usr/local/bin/pyami_sendmail
+  route53: /usr/local/bin/route53
+  s3put: /usr/local/bin/s3put
+  sdbadmin: /usr/local/bin/sdbadmin

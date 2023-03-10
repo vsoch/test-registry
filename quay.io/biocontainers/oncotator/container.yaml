@@ -1,0 +1,40 @@
+url: https://biocontainers.pro/tools/oncotator
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for oncotator
+latest:
+  1.9.9.0--py27h516909a_2: sha256:8d49c0e76928ce1b02e1d06630db6b2a24aa12169d9431a2672be53121a4b9e2
+tags:
+  1.9.9.0--py27h516909a_2: sha256:8d49c0e76928ce1b02e1d06630db6b2a24aa12169d9431a2672be53121a4b9e2
+docker: quay.io/biocontainers/oncotator
+aliases:
+  Oncotator: /usr/local/bin/Oncotator
+  addDatasourceMd5: /usr/local/bin/addDatasourceMd5
+  get_exons: /usr/local/bin/get_exons
+  initializeDatasource: /usr/local/bin/initializeDatasource
+  initializeTranscriptDatasource: /usr/local/bin/initializeTranscriptDatasource
+  oncotator: /usr/local/bin/oncotator
+  aggregate_scores_in_intervals.py: /usr/local/bin/aggregate_scores_in_intervals.py
+  align_print_template.py: /usr/local/bin/align_print_template.py
+  axt_extract_ranges.py: /usr/local/bin/axt_extract_ranges.py
+  axt_to_fasta.py: /usr/local/bin/axt_to_fasta.py
+  axt_to_lav.py: /usr/local/bin/axt_to_lav.py
+  axt_to_maf.py: /usr/local/bin/axt_to_maf.py
+  bed_bigwig_profile.py: /usr/local/bin/bed_bigwig_profile.py
+  bed_build_windows.py: /usr/local/bin/bed_build_windows.py
+  bed_complement.py: /usr/local/bin/bed_complement.py
+  bed_count_by_interval.py: /usr/local/bin/bed_count_by_interval.py
+  bed_count_overlapping.py: /usr/local/bin/bed_count_overlapping.py
+  bed_coverage.py: /usr/local/bin/bed_coverage.py
+  bed_coverage_by_interval.py: /usr/local/bin/bed_coverage_by_interval.py
+  bed_diff_basewise_summary.py: /usr/local/bin/bed_diff_basewise_summary.py
+  bed_extend_to.py: /usr/local/bin/bed_extend_to.py
+  bed_intersect.py: /usr/local/bin/bed_intersect.py
+  bed_intersect_basewise.py: /usr/local/bin/bed_intersect_basewise.py
+  bed_merge_overlapping.py: /usr/local/bin/bed_merge_overlapping.py
+  bed_rand_intersect.py: /usr/local/bin/bed_rand_intersect.py
+  bed_subtract_basewise.py: /usr/local/bin/bed_subtract_basewise.py
+  bnMapper.py: /usr/local/bin/bnMapper.py
+  div_snp_table_chr.py: /usr/local/bin/div_snp_table_chr.py
+  find_in_sorted_file.py: /usr/local/bin/find_in_sorted_file.py
+  gene_fourfold_sites.py: /usr/local/bin/gene_fourfold_sites.py
+  get_scores_in_intervals.py: /usr/local/bin/get_scores_in_intervals.py

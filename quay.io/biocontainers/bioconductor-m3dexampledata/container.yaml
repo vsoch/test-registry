@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-m3dexampledata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-m3dexampledata
+latest:
+  1.8.0--r351_0: sha256:16ff7737d39ddf81fbc953466f1d89a6433da3c3612423cce714623081047c8c
+tags:
+  1.8.0--r351_0: sha256:16ff7737d39ddf81fbc953466f1d89a6433da3c3612423cce714623081047c8c
+docker: quay.io/biocontainers/bioconductor-m3dexampledata
+aliases:
+  wget: /usr/local/bin/wget
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

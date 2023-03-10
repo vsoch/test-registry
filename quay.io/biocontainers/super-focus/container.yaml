@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/super-focus
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for super-focus
+latest:
+  1.6--pyhdfd78af_1: sha256:d638c5b4b8528890f384b4f18f3c194cb3d56725b5fb315cb99d8cf7804df7f9
+tags:
+  1.6--pyhdfd78af_1: sha256:d638c5b4b8528890f384b4f18f3c194cb3d56725b5fb315cb99d8cf7804df7f9
+docker: quay.io/biocontainers/super-focus
+aliases:
+  prerapsearch: /usr/local/bin/prerapsearch
+  rapsearch: /usr/local/bin/rapsearch
+  superfocus: /usr/local/bin/superfocus
+  superfocus_downloadDB: /usr/local/bin/superfocus_downloadDB
+  mmseqs: /usr/local/bin/mmseqs
+  jellyfish: /usr/local/bin/jellyfish
+  gawk-5.1.0: /usr/local/bin/gawk-5.1.0
+  awk: /usr/local/bin/awk
+  gawk: /usr/local/bin/gawk
+  diamond: /usr/local/bin/diamond
+  edirect.py: /usr/local/bin/edirect.py
+  filter-columns: /usr/local/bin/filter-columns
+  fuse-segments: /usr/local/bin/fuse-segments
+  gene2range: /usr/local/bin/gene2range
+  tbl2prod: /usr/local/bin/tbl2prod
+  uniq-table: /usr/local/bin/uniq-table
+  align-columns: /usr/local/bin/align-columns
+  blst2tkns: /usr/local/bin/blst2tkns
+  csv2xml: /usr/local/bin/csv2xml
+  disambiguate-nucleotides: /usr/local/bin/disambiguate-nucleotides
+  download-ncbi-software: /usr/local/bin/download-ncbi-software
+  ecommon.sh: /usr/local/bin/ecommon.sh
+  find-in-gene: /usr/local/bin/find-in-gene
+  fuse-ranges: /usr/local/bin/fuse-ranges
+  hgvs2spdi: /usr/local/bin/hgvs2spdi
+  json2xml: /usr/local/bin/json2xml
+  print-columns: /usr/local/bin/print-columns
+  snp2hgvs: /usr/local/bin/snp2hgvs
+  snp2tbl: /usr/local/bin/snp2tbl

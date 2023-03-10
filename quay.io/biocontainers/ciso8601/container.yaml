@@ -1,0 +1,22 @@
+url: https://biocontainers.pro/tools/ciso8601
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ciso8601
+latest:
+  1.0.5--py35_0: sha256:3f9849f1a289d8eba60a8acb12feb6a157202c1834e326f4928112a7918e2435
+tags:
+  1.0.5--py35_0: sha256:3f9849f1a289d8eba60a8acb12feb6a157202c1834e326f4928112a7918e2435
+docker: quay.io/biocontainers/ciso8601
+aliases:
+  2to3-3.5: /usr/local/bin/2to3-3.5
+  idle3.5: /usr/local/bin/idle3.5
+  pydoc3.5: /usr/local/bin/pydoc3.5
+  python3.5: /usr/local/bin/python3.5
+  python3.5-config: /usr/local/bin/python3.5-config
+  python3.5m: /usr/local/bin/python3.5m
+  python3.5m-config: /usr/local/bin/python3.5m-config
+  pyvenv-3.5: /usr/local/bin/pyvenv-3.5
+  tclsh8.5: /usr/local/bin/tclsh8.5
+  wish8.5: /usr/local/bin/wish8.5
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config
+  pyvenv: /usr/local/bin/pyvenv

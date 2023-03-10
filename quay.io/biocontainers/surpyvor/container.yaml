@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/surpyvor
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for surpyvor
+latest:
+  0.8.1--py_1: sha256:fac270c3114ac8a77003046632ca27a2fbe0350830e8a1f229a7a639dce9154b
+tags:
+  0.8.1--py_1: sha256:fac270c3114ac8a77003046632ca27a2fbe0350830e8a1f229a7a639dce9154b
+docker: quay.io/biocontainers/surpyvor
+aliases:
+  SURVIVOR: /usr/local/bin/SURVIVOR
+  surpyvor: /usr/local/bin/surpyvor
+  cyvcf2: /usr/local/bin/cyvcf2
+  coloredlogs: /usr/local/bin/coloredlogs
+  humanfriendly: /usr/local/bin/humanfriendly
+  guess-ploidy.py: /usr/local/bin/guess-ploidy.py
+  plot-roh.py: /usr/local/bin/plot-roh.py
+  run-roh.pl: /usr/local/bin/run-roh.pl
+  color-chrs.pl: /usr/local/bin/color-chrs.pl
+  plot-vcfstats: /usr/local/bin/plot-vcfstats
+  bcftools: /usr/local/bin/bcftools
+  vcfutils.pl: /usr/local/bin/vcfutils.pl
+  f2py3.7: /usr/local/bin/f2py3.7
+  perl5.26.2: /usr/local/bin/perl5.26.2
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  podselect: /usr/local/bin/podselect
+  htsfile: /usr/local/bin/htsfile
+  bgzip: /usr/local/bin/bgzip
+  tabix: /usr/local/bin/tabix
+  jpgicc: /usr/local/bin/jpgicc

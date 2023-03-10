@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/r-rtassel
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-rtassel
+latest:
+  0.1.2019.07.25--r41h9ee0642_3: sha256:57f4ff458e5970d0b518d8f4ee765542f89fba3dae8fa0b3865b2aaf81043332
+tags:
+  0.1.2019.07.25--r41h9ee0642_3: sha256:57f4ff458e5970d0b518d8f4ee765542f89fba3dae8fa0b3865b2aaf81043332
+docker: quay.io/biocontainers/r-rtassel
+aliases:
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd
+  jconsole: /usr/local/bin/jconsole
+  jdb: /usr/local/bin/jdb
+  jinfo: /usr/local/bin/jinfo

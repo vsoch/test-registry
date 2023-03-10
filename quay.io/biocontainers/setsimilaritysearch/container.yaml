@@ -1,0 +1,17 @@
+url: https://biocontainers.pro/tools/setsimilaritysearch
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for setsimilaritysearch
+latest:
+  1.0.0: sha256:4883c088ef374418e91dd10612b75295e04f241c979fe1c5b6887d21bb764320
+tags:
+  1.0.0: sha256:4883c088ef374418e91dd10612b75295e04f241c979fe1c5b6887d21bb764320
+docker: quay.io/biocontainers/setsimilaritysearch
+aliases:
+  all_pairs.py: /usr/local/bin/all_pairs.py
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

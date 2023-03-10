@@ -1,0 +1,49 @@
+url: https://biocontainers.pro/tools/circos-tools
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for circos-tools
+latest:
+  0.23--hdfd78af_3: sha256:d3b4ceafff92761cd3a3fc5425c48bd6815fdb553fd795cb12fb84841d5b7fb9
+tags:
+  0.23--hdfd78af_3: sha256:d3b4ceafff92761cd3a3fc5425c48bd6815fdb553fd795cb12fb84841d5b7fb9
+docker: quay.io/biocontainers/circos-tools
+aliases:
+  binlinks: /usr/local/bin/binlinks
+  bundlelinks: /usr/local/bin/bundlelinks
+  calcdatarange: /usr/local/bin/calcdatarange
+  clustal2link: /usr/local/bin/clustal2link
+  colorinterpolate: /usr/local/bin/colorinterpolate
+  convertlinks: /usr/local/bin/convertlinks
+  filterlinks: /usr/local/bin/filterlinks
+  make-conf: /usr/local/bin/make-conf
+  make-table: /usr/local/bin/make-table
+  orderchr: /usr/local/bin/orderchr
+  parse-category: /usr/local/bin/parse-category
+  parse-table: /usr/local/bin/parse-table
+  randomdata: /usr/local/bin/randomdata
+  randomlinks: /usr/local/bin/randomlinks
+  resample: /usr/local/bin/resample
+  config_data: /usr/local/bin/config_data
+  bam2bedgraph: /usr/local/bin/bam2bedgraph
+  bp_find-blast-matches.pl: /usr/local/bin/bp_find-blast-matches.pl
+  bp_pairwise_kaks: /usr/local/bin/bp_pairwise_kaks
+  ace.pl: /usr/local/bin/ace.pl
+  ccconfig: /usr/local/bin/ccconfig
+  SOAPsh.pl: /usr/local/bin/SOAPsh.pl
+  map: /usr/local/bin/map
+  mirrorMappings: /usr/local/bin/mirrorMappings
+  mkCSGB2312: /usr/local/bin/mkCSGB2312
+  mkmapfile: /usr/local/bin/mkmapfile
+  stubmaker.pl: /usr/local/bin/stubmaker.pl
+  baseml: /usr/local/bin/baseml
+  basemlg: /usr/local/bin/basemlg
+  chartex: /usr/local/bin/chartex
+  chi2: /usr/local/bin/chi2
+  codeml: /usr/local/bin/codeml
+  evolver: /usr/local/bin/evolver
+  infinitesites: /usr/local/bin/infinitesites
+  mcmctree: /usr/local/bin/mcmctree
+  pamp: /usr/local/bin/pamp
+  yn00: /usr/local/bin/yn00
+  binhex.pl: /usr/local/bin/binhex.pl
+  debinhex.pl: /usr/local/bin/debinhex.pl
+  t_coffee: /usr/local/bin/t_coffee

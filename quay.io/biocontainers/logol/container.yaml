@@ -1,0 +1,42 @@
+url: https://biocontainers.pro/tools/logol
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for logol
+latest:
+  1.7.8--2: sha256:e9bbe6c9bb2fb5bdb5d33afc48cd917b40776b8acfc99af496a3f4ab07d851d5
+tags:
+  1.7.8--2: sha256:e9bbe6c9bb2fb5bdb5d33afc48cd917b40776b8acfc99af496a3f4ab07d851d5
+docker: quay.io/biocontainers/logol
+aliases:
+  LogolExec.sh: /usr/local/bin/LogolExec.sh
+  LogolMultiExec.sh: /usr/local/bin/LogolMultiExec.sh
+  cassiopee: /usr/local/bin/cassiopee
+  cassiopeeknife: /usr/local/bin/cassiopeeknife
+  latex2html: /usr/local/bin/latex2html
+  swipl: /usr/local/bin/swipl
+  swipl-ld: /usr/local/bin/swipl-ld
+  swipl-rc: /usr/local/bin/swipl-rc
+  erb: /usr/local/bin/erb
+  gem: /usr/local/bin/gem
+  irb: /usr/local/bin/irb
+  rake: /usr/local/bin/rake
+  rdoc: /usr/local/bin/rdoc
+  ri: /usr/local/bin/ri
+  ruby: /usr/local/bin/ruby
+  extcheck: /usr/local/bin/extcheck
+  java-rmi.cgi: /usr/local/bin/java-rmi.cgi
+  javah: /usr/local/bin/javah
+  jhat: /usr/local/bin/jhat
+  jsadebugd: /usr/local/bin/jsadebugd
+  native2ascii: /usr/local/bin/native2ascii
+  policytool: /usr/local/bin/policytool
+  appletviewer: /usr/local/bin/appletviewer
+  idlj: /usr/local/bin/idlj
+  orbd: /usr/local/bin/orbd
+  schemagen: /usr/local/bin/schemagen
+  servertool: /usr/local/bin/servertool
+  tnameserv: /usr/local/bin/tnameserv
+  wsgen: /usr/local/bin/wsgen
+  wsimport: /usr/local/bin/wsimport
+  xjc: /usr/local/bin/xjc
+  2to3-3.6: /usr/local/bin/2to3-3.6
+  idle3.6: /usr/local/bin/idle3.6

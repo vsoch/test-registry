@@ -1,0 +1,41 @@
+url: https://biocontainers.pro/tools/traitar
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for traitar
+latest:
+  1.1.2--py_0: sha256:29c81fb7cd4c8573b41f5742ba385a7a1f8cb5a8be6277207dcf02451aaf4e9d
+tags:
+  1.1.2--py_0: sha256:29c81fb7cd4c8573b41f5742ba385a7a1f8cb5a8be6277207dcf02451aaf4e9d
+docker: quay.io/biocontainers/traitar
+aliases:
+  domtblout2gene_generic.py: /usr/local/bin/domtblout2gene_generic.py
+  heatmap.py: /usr/local/bin/heatmap.py
+  hmm2gff.py: /usr/local/bin/hmm2gff.py
+  hmmer2filtered_best.py: /usr/local/bin/hmmer2filtered_best.py
+  merge_preds.py: /usr/local/bin/merge_preds.py
+  predict.py: /usr/local/bin/predict.py
+  traitar: /usr/local/bin/traitar
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  f2py2: /usr/local/bin/f2py2
+  f2py2.7: /usr/local/bin/f2py2.7
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  sip: /usr/local/bin/sip
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc
+  gst-device-monitor-1.0: /usr/local/bin/gst-device-monitor-1.0
+  gst-discoverer-1.0: /usr/local/bin/gst-discoverer-1.0
+  gst-play-1.0: /usr/local/bin/gst-play-1.0
+  fixqt4headers.pl: /usr/local/bin/fixqt4headers.pl
+  qlalr: /usr/local/bin/qlalr
+  qml: /usr/local/bin/qml
+  qmleasing: /usr/local/bin/qmleasing
+  qmlimportscanner: /usr/local/bin/qmlimportscanner
+  qmllint: /usr/local/bin/qmllint
+  qmlmin: /usr/local/bin/qmlmin

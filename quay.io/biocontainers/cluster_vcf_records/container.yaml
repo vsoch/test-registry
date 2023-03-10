@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/cluster_vcf_records
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for cluster_vcf_records
+latest:
+  0.13.3--pyhdfd78af_0: sha256:70949d65a84629f2e4c9d5efe4eeaa1ca3df7b3fba80a3f28072839977d0689e
+tags:
+  0.13.3--pyhdfd78af_0: sha256:70949d65a84629f2e4c9d5efe4eeaa1ca3df7b3fba80a3f28072839977d0689e
+docker: quay.io/biocontainers/cluster_vcf_records
+aliases:
+  vt: /usr/local/bin/vt
+  tabix++: /usr/local/bin/tabix++
+  fastaq: /usr/local/bin/fastaq
+  bc: /usr/local/bin/bc
+  dc: /usr/local/bin/dc
+  abba-baba: /usr/local/bin/abba-baba
+  bFst: /usr/local/bin/bFst
+  bed2region: /usr/local/bin/bed2region
+  bgziptabix: /usr/local/bin/bgziptabix
+  dumpContigsFromHeader: /usr/local/bin/dumpContigsFromHeader
+  genotypeSummary: /usr/local/bin/genotypeSummary
+  hapLrt: /usr/local/bin/hapLrt
+  iHS: /usr/local/bin/iHS
+  meltEHH: /usr/local/bin/meltEHH
+  normalize-iHS: /usr/local/bin/normalize-iHS
+  pFst: /usr/local/bin/pFst
+  pVst: /usr/local/bin/pVst
+  permuteGPAT++: /usr/local/bin/permuteGPAT++
+  permuteSmooth: /usr/local/bin/permuteSmooth
+  plotHaps: /usr/local/bin/plotHaps
+  popStats: /usr/local/bin/popStats
+  segmentFst: /usr/local/bin/segmentFst
+  segmentIhs: /usr/local/bin/segmentIhs
+  sequenceDiversity: /usr/local/bin/sequenceDiversity
+  smoother: /usr/local/bin/smoother

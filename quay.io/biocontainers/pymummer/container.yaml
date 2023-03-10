@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/pymummer
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pymummer
+latest:
+  0.9.0--py35_0: sha256:b608927d77cd74781f3f77267b2dc96cabef0cc70554d47c23a835f5de41127e
+tags:
+  0.9.0--py35_0: sha256:b608927d77cd74781f3f77267b2dc96cabef0cc70554d47c23a835f5de41127e
+docker: quay.io/biocontainers/pymummer
+aliases:
+  fastaq: /usr/local/bin/fastaq
+  mapview: /usr/local/bin/mapview
+  mgaps: /usr/local/bin/mgaps
+  run-mummer1: /usr/local/bin/run-mummer1
+  run-mummer3: /usr/local/bin/run-mummer3
+  combineMUMs: /usr/local/bin/combineMUMs
+  delta-filter: /usr/local/bin/delta-filter
+  dnadiff: /usr/local/bin/dnadiff
+  exact-tandems: /usr/local/bin/exact-tandems
+  mummer: /usr/local/bin/mummer
+  mummerplot: /usr/local/bin/mummerplot
+  nucmer: /usr/local/bin/nucmer
+  perl5.22.0: /usr/local/bin/perl5.22.0
+  promer: /usr/local/bin/promer
+  repeat-match: /usr/local/bin/repeat-match
+  show-aligns: /usr/local/bin/show-aligns
+  show-coords: /usr/local/bin/show-coords
+  show-diff: /usr/local/bin/show-diff
+  show-snps: /usr/local/bin/show-snps
+  show-tiling: /usr/local/bin/show-tiling
+  c2ph: /usr/local/bin/c2ph
+  pstruct: /usr/local/bin/pstruct
+  easy_install-3.5: /usr/local/bin/easy_install-3.5
+  2to3-3.5: /usr/local/bin/2to3-3.5
+  idle3.5: /usr/local/bin/idle3.5

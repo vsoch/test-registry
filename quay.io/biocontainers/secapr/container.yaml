@@ -1,0 +1,41 @@
+url: https://biocontainers.pro/tools/secapr
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for secapr
+latest:
+  2.2.8--pyh5e36f6f_0: sha256:26ee9b0ae61a1936a376569ced1d19e1af109ea45a813095a26ba04d794f9226
+tags:
+  2.2.8--pyh5e36f6f_0: sha256:26ee9b0ae61a1936a376569ced1d19e1af109ea45a813095a26ba04d794f9226
+docker: quay.io/biocontainers/secapr
+aliases:
+  abyss-rresolver-short: /usr/local/bin/abyss-rresolver-short
+  abyss-stack-size: /usr/local/bin/abyss-stack-size
+  io_demo: /usr/local/bin/io_demo
+  secapr: /usr/local/bin/secapr
+  ucx_info: /usr/local/bin/ucx_info
+  ucx_perftest: /usr/local/bin/ucx_perftest
+  ucx_read_profile: /usr/local/bin/ucx_read_profile
+  scriptlive: /usr/local/bin/scriptlive
+  cal: /usr/local/bin/cal
+  chmem: /usr/local/bin/chmem
+  choom: /usr/local/bin/choom
+  chrt: /usr/local/bin/chrt
+  col: /usr/local/bin/col
+  colcrt: /usr/local/bin/colcrt
+  colrm: /usr/local/bin/colrm
+  column: /usr/local/bin/column
+  dmesg: /usr/local/bin/dmesg
+  eject: /usr/local/bin/eject
+  fallocate: /usr/local/bin/fallocate
+  fincore: /usr/local/bin/fincore
+  findmnt: /usr/local/bin/findmnt
+  getopt: /usr/local/bin/getopt
+  hardlink: /usr/local/bin/hardlink
+  hexdump: /usr/local/bin/hexdump
+  i386: /usr/local/bin/i386
+  ionice: /usr/local/bin/ionice
+  ipcmk: /usr/local/bin/ipcmk
+  ipcrm: /usr/local/bin/ipcrm
+  ipcs: /usr/local/bin/ipcs
+  isosize: /usr/local/bin/isosize
+  last: /usr/local/bin/last
+  lastb: /usr/local/bin/lastb

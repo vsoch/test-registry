@@ -1,0 +1,51 @@
+url: https://biocontainers.pro/tools/libis
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for libis
+latest:
+  0.1.6--py_0: sha256:17cfd3c97160af78f846b652f0d6182b25f2cdfbc70ed1685749643f8d6e85b3
+tags:
+  0.1.6--py_0: sha256:17cfd3c97160af78f846b652f0d6182b25f2cdfbc70ed1685749643f8d6e85b3
+docker: quay.io/biocontainers/libis
+aliases:
+  LiBis: /usr/local/bin/LiBis
+  bamsort.sh: /usr/local/bin/bamsort.sh
+  bbf: /usr/local/bin/bbf
+  bseqc2: /usr/local/bin/bseqc2
+  bseqc2mbiasplot.R: /usr/local/bin/bseqc2mbiasplot.R
+  bsmap: /usr/local/bin/bsmap
+  mcall: /usr/local/bin/mcall
+  mcomp: /usr/local/bin/mcomp
+  moabs: /usr/local/bin/moabs
+  numCI: /usr/local/bin/numCI
+  pefilter: /usr/local/bin/pefilter
+  preprocess_novoalign.sh: /usr/local/bin/preprocess_novoalign.sh
+  redepth.pl: /usr/local/bin/redepth.pl
+  routines.pm: /usr/local/bin/routines.pm
+  template_for_cfg: /usr/local/bin/template_for_cfg
+  template_for_qsub: /usr/local/bin/template_for_qsub
+  trim_galore: /usr/local/bin/trim_galore
+  cutadapt: /usr/local/bin/cutadapt
+  fastqc: /usr/local/bin/fastqc
+  igzip: /usr/local/bin/igzip
+  pigz: /usr/local/bin/pigz
+  unpigz: /usr/local/bin/unpigz
+  idn2: /usr/local/bin/idn2
+  f2py3.8: /usr/local/bin/f2py3.8
+  shiftBed: /usr/local/bin/shiftBed
+  annotateBed: /usr/local/bin/annotateBed
+  bamToBed: /usr/local/bin/bamToBed
+  bamToFastq: /usr/local/bin/bamToFastq
+  bed12ToBed6: /usr/local/bin/bed12ToBed6
+  bedToBam: /usr/local/bin/bedToBam
+  bedToIgv: /usr/local/bin/bedToIgv
+  bedpeToBam: /usr/local/bin/bedpeToBam
+  bedtools: /usr/local/bin/bedtools
+  closestBed: /usr/local/bin/closestBed
+  clusterBed: /usr/local/bin/clusterBed
+  complementBed: /usr/local/bin/complementBed
+  coverageBed: /usr/local/bin/coverageBed
+  expandCols: /usr/local/bin/expandCols
+  fastaFromBed: /usr/local/bin/fastaFromBed
+  flankBed: /usr/local/bin/flankBed
+  genomeCoverageBed: /usr/local/bin/genomeCoverageBed
+  getOverlap: /usr/local/bin/getOverlap

@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-mouse430a2probe
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-mouse430a2probe
+latest:
+  2.18.0--r41hdfd78af_9: sha256:9c6ba3ef77cea0fb99c2bd5355ba5b4a3aa4f71c9e97b43f55c0fc203074abb5
+tags:
+  2.18.0--r41hdfd78af_9: sha256:9c6ba3ef77cea0fb99c2bd5355ba5b4a3aa4f71c9e97b43f55c0fc203074abb5
+docker: quay.io/biocontainers/bioconductor-mouse430a2probe

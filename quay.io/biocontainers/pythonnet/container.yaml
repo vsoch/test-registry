@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/pythonnet
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pythonnet
+latest:
+  2.3.0--py27_1: sha256:9e7ea74a9c5644a827b7643cc53dc629602947ca172ad142fbde4a8cf92a301a
+tags:
+  2.3.0--py27_1: sha256:9e7ea74a9c5644a827b7643cc53dc629602947ca172ad142fbde4a8cf92a301a
+docker: quay.io/biocontainers/pythonnet
+aliases:
+  monograph: /usr/local/bin/monograph
+  nunit-console: /usr/local/bin/nunit-console
+  nunit-console2: /usr/local/bin/nunit-console2
+  nunit-console4: /usr/local/bin/nunit-console4
+  prj2make: /usr/local/bin/prj2make
+  mono-package-runtime: /usr/local/bin/mono-package-runtime
+  sgen-grep-binprot: /usr/local/bin/sgen-grep-binprot
+  al: /usr/local/bin/al
+  al2: /usr/local/bin/al2
+  caspol: /usr/local/bin/caspol
+  cccheck: /usr/local/bin/cccheck
+  ccrewrite: /usr/local/bin/ccrewrite
+  cert-sync: /usr/local/bin/cert-sync
+  cert2spc: /usr/local/bin/cert2spc
+  certmgr: /usr/local/bin/certmgr
+  chktrust: /usr/local/bin/chktrust
+  crlupdate: /usr/local/bin/crlupdate
+  csharp: /usr/local/bin/csharp
+  dmcs: /usr/local/bin/dmcs
+  dtd2rng: /usr/local/bin/dtd2rng
+  dtd2xsd: /usr/local/bin/dtd2xsd
+  gacutil: /usr/local/bin/gacutil
+  gacutil2: /usr/local/bin/gacutil2
+  genxs: /usr/local/bin/genxs
+  httpcfg: /usr/local/bin/httpcfg
+  ikdasm: /usr/local/bin/ikdasm
+  ilasm: /usr/local/bin/ilasm
+  installvst: /usr/local/bin/installvst
+  lc: /usr/local/bin/lc
+  macpack: /usr/local/bin/macpack

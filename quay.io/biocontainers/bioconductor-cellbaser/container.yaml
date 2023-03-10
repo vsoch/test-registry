@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-cellbaser
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-cellbaser
+latest:
+  1.8.0--r36_1: sha256:acf259135abb3d6068f4e718ba7dd3db8e385dfd6caafad40382db95b54d47ce
+tags:
+  1.8.0--r36_1: sha256:acf259135abb3d6068f4e718ba7dd3db8e385dfd6caafad40382db95b54d47ce
+docker: quay.io/biocontainers/bioconductor-cellbaser
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

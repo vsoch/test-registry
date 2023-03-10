@@ -1,0 +1,16 @@
+url: https://biocontainers.pro/tools/r-clinfun
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-clinfun
+latest:
+  1.0.15--r40h9bbef5b_0: sha256:e8b1ab5deafef17cfb36c430127d5ce38dad58eb87c6731bcd65626720c5830e
+tags:
+  1.0.15--r40h9bbef5b_0: sha256:e8b1ab5deafef17cfb36c430127d5ce38dad58eb87c6731bcd65626720c5830e
+docker: quay.io/biocontainers/r-clinfun
+aliases:
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

@@ -1,0 +1,55 @@
+url: https://biocontainers.pro/tools/rodeo
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for rodeo
+latest:
+  2.3.3--hdfd78af_1: sha256:c195bddea9a4b799e0166cf45e7c42ffe32871dfd1df7d73ca6b96b6ac953072
+tags:
+  2.3.3--hdfd78af_1: sha256:c195bddea9a4b799e0166cf45e7c42ffe32871dfd1df7d73ca6b96b6ac953072
+docker: quay.io/biocontainers/rodeo
+aliases:
+  My_Record.py: /usr/local/bin/My_Record.py
+  config_parser.py: /usr/local/bin/config_parser.py
+  dtc: /usr/local/bin/dtc
+  enr: /usr/local/bin/enr
+  entrez_utils.py: /usr/local/bin/entrez_utils.py
+  fasta-from-bed: /usr/local/bin/fasta-from-bed
+  fasta-re-match: /usr/local/bin/fasta-re-match
+  hmmer_utils.py: /usr/local/bin/hmmer_utils.py
+  index-fasta-file: /usr/local/bin/index-fasta-file
+  main_html_generator.py: /usr/local/bin/main_html_generator.py
+  meme-chip_html_to_tsv: /usr/local/bin/meme-chip_html_to_tsv
+  momo: /usr/local/bin/momo
+  nulltype_module.py: /usr/local/bin/nulltype_module.py
+  record_processing.py: /usr/local/bin/record_processing.py
+  ripp_html_generator.py: /usr/local/bin/ripp_html_generator.py
+  rodeo2: /usr/local/bin/rodeo2
+  rodeo_main.py: /usr/local/bin/rodeo_main.py
+  streme: /usr/local/bin/streme
+  streme_xml_to_html: /usr/local/bin/streme_xml_to_html
+  tgene: /usr/local/bin/tgene
+  timeout_decorator.py: /usr/local/bin/timeout_decorator.py
+  alphtype: /usr/local/bin/alphtype
+  ama: /usr/local/bin/ama
+  ama-qvalues: /usr/local/bin/ama-qvalues
+  ame: /usr/local/bin/ame
+  beeml2meme: /usr/local/bin/beeml2meme
+  centrimo: /usr/local/bin/centrimo
+  ceqlogo: /usr/local/bin/ceqlogo
+  chen2meme: /usr/local/bin/chen2meme
+  clustalw2fasta: /usr/local/bin/clustalw2fasta
+  clustalw2phylip: /usr/local/bin/clustalw2phylip
+  compute-prior-dist: /usr/local/bin/compute-prior-dist
+  compute-uniform-priors: /usr/local/bin/compute-uniform-priors
+  create-priors: /usr/local/bin/create-priors
+  dreme: /usr/local/bin/dreme
+  dreme_xml_to_html: /usr/local/bin/dreme_xml_to_html
+  dreme_xml_to_txt: /usr/local/bin/dreme_xml_to_txt
+  dust: /usr/local/bin/dust
+  elm2meme: /usr/local/bin/elm2meme
+  fasta-center: /usr/local/bin/fasta-center
+  fasta-dinucleotide-shuffle: /usr/local/bin/fasta-dinucleotide-shuffle
+  fasta-fetch: /usr/local/bin/fasta-fetch
+  fasta-get-markov: /usr/local/bin/fasta-get-markov
+  fasta-grep: /usr/local/bin/fasta-grep
+  fasta-hamming-enrich: /usr/local/bin/fasta-hamming-enrich
+  fasta-make-index: /usr/local/bin/fasta-make-index

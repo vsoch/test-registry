@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/patholive
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for patholive
+latest:
+  1.0--hdfd78af_1: sha256:f7527475a1b1b7c3b792096fbd8d322fe111e28b6d99eb1aff3fe0497062efb2
+tags:
+  1.0--hdfd78af_1: sha256:f7527475a1b1b7c3b792096fbd8d322fe111e28b6d99eb1aff3fe0497062efb2
+docker: quay.io/biocontainers/patholive
+aliases:
+  PathoLive.py: /usr/local/bin/PathoLive.py
+  hilive: /usr/local/bin/hilive
+  hilive-build: /usr/local/bin/hilive-build
+  hilive-out: /usr/local/bin/hilive-out
+  patholive: /usr/local/bin/patholive
+  xkbcli: /usr/local/bin/xkbcli
+  pg_config: /usr/local/bin/pg_config
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview
+  qvkgen: /usr/local/bin/qvkgen
+  f2py3.6: /usr/local/bin/f2py3.6
+  certutil: /usr/local/bin/certutil
+  nspr-config: /usr/local/bin/nspr-config
+  nss-config: /usr/local/bin/nss-config
+  pk12util: /usr/local/bin/pk12util
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  sip: /usr/local/bin/sip
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc
+  gst-device-monitor-1.0: /usr/local/bin/gst-device-monitor-1.0
+  gst-discoverer-1.0: /usr/local/bin/gst-discoverer-1.0
+  gst-play-1.0: /usr/local/bin/gst-play-1.0

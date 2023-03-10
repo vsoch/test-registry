@@ -1,0 +1,30 @@
+url: https://biocontainers.pro/tools/gamma
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for gamma
+latest:
+  2.2--hdfd78af_0: sha256:364dc74594536573c033373fe2fd099d0e6fb0cc5713bc89637f5b4584aad249
+tags:
+  2.2--hdfd78af_0: sha256:364dc74594536573c033373fe2fd099d0e6fb0cc5713bc89637f5b4584aad249
+docker: quay.io/biocontainers/gamma
+aliases:
+  GAMMA-S.py: /usr/local/bin/GAMMA-S.py
+  GAMMA.py: /usr/local/bin/GAMMA.py
+  faToNib: /usr/local/bin/faToNib
+  gfClient: /usr/local/bin/gfClient
+  gfServer: /usr/local/bin/gfServer
+  nibFrag: /usr/local/bin/nibFrag
+  pslPretty: /usr/local/bin/pslPretty
+  pslReps: /usr/local/bin/pslReps
+  pslSort: /usr/local/bin/pslSort
+  twoBitToFa: /usr/local/bin/twoBitToFa
+  unidecode: /usr/local/bin/unidecode
+  blat: /usr/local/bin/blat
+  twoBitInfo: /usr/local/bin/twoBitInfo
+  faToTwoBit: /usr/local/bin/faToTwoBit
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

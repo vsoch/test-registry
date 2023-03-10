@@ -1,0 +1,58 @@
+url: https://biocontainers.pro/tools/perl-go-perl
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for perl-go-perl
+latest:
+  0.15--pl5321hdfd78af_4: sha256:a26833552505f2ab397197787908f1a13905eebf9082d3fc20316670bcac0eaf
+tags:
+  0.15--pl5321hdfd78af_4: sha256:a26833552505f2ab397197787908f1a13905eebf9082d3fc20316670bcac0eaf
+docker: quay.io/biocontainers/perl-go-perl
+aliases:
+  go-apply-xslt: /usr/local/bin/go-apply-xslt
+  go-dag-summary.pl: /usr/local/bin/go-dag-summary.pl
+  go-export-graph.pl: /usr/local/bin/go-export-graph.pl
+  go-export-prolog.pl: /usr/local/bin/go-export-prolog.pl
+  go-filter-subset.pl: /usr/local/bin/go-filter-subset.pl
+  go-show-assocs-by-node.pl: /usr/local/bin/go-show-assocs-by-node.pl
+  go-show-paths-to-root.pl: /usr/local/bin/go-show-paths-to-root.pl
+  go2chadoxml: /usr/local/bin/go2chadoxml
+  go2error_report: /usr/local/bin/go2error_report
+  go2fmt.pl: /usr/local/bin/go2fmt.pl
+  go2godb_prestore: /usr/local/bin/go2godb_prestore
+  go2obo: /usr/local/bin/go2obo
+  go2obo_html: /usr/local/bin/go2obo_html
+  go2obo_text: /usr/local/bin/go2obo_text
+  go2obo_xml: /usr/local/bin/go2obo_xml
+  go2owl: /usr/local/bin/go2owl
+  go2pathlist: /usr/local/bin/go2pathlist
+  go2prolog: /usr/local/bin/go2prolog
+  go2rdf: /usr/local/bin/go2rdf
+  go2rdfxml: /usr/local/bin/go2rdfxml
+  go2summary: /usr/local/bin/go2summary
+  go2sxpr: /usr/local/bin/go2sxpr
+  go2tbl: /usr/local/bin/go2tbl
+  go2text_html: /usr/local/bin/go2text_html
+  go2xml: /usr/local/bin/go2xml
+  map2slim: /usr/local/bin/map2slim
+  stag-autoschema.pl: /usr/local/bin/stag-autoschema.pl
+  stag-db.pl: /usr/local/bin/stag-db.pl
+  stag-diff.pl: /usr/local/bin/stag-diff.pl
+  stag-drawtree.pl: /usr/local/bin/stag-drawtree.pl
+  stag-filter.pl: /usr/local/bin/stag-filter.pl
+  stag-findsubtree.pl: /usr/local/bin/stag-findsubtree.pl
+  stag-flatten.pl: /usr/local/bin/stag-flatten.pl
+  stag-grep.pl: /usr/local/bin/stag-grep.pl
+  stag-handle.pl: /usr/local/bin/stag-handle.pl
+  stag-itext2simple.pl: /usr/local/bin/stag-itext2simple.pl
+  stag-itext2sxpr.pl: /usr/local/bin/stag-itext2sxpr.pl
+  stag-itext2xml.pl: /usr/local/bin/stag-itext2xml.pl
+  stag-join.pl: /usr/local/bin/stag-join.pl
+  stag-merge.pl: /usr/local/bin/stag-merge.pl
+  stag-mogrify.pl: /usr/local/bin/stag-mogrify.pl
+  stag-parse.pl: /usr/local/bin/stag-parse.pl
+  stag-query.pl: /usr/local/bin/stag-query.pl
+  stag-splitter.pl: /usr/local/bin/stag-splitter.pl
+  stag-view.pl: /usr/local/bin/stag-view.pl
+  stag-xml2itext.pl: /usr/local/bin/stag-xml2itext.pl
+  xslt-config: /usr/local/bin/xslt-config
+  xsltproc: /usr/local/bin/xsltproc
+  json_xs: /usr/local/bin/json_xs

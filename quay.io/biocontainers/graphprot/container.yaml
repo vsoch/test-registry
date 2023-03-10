@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/graphprot
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for graphprot
+latest:
+  1.1.7--h3445559_4: sha256:a8b00657d5cab0048bc35897fc666c9130240be47aab5c8c5f6cdc5b59a36668
+tags:
+  1.1.7--h3445559_4: sha256:a8b00657d5cab0048bc35897fc666c9130240be47aab5c8c5f6cdc5b59a36668
+docker: quay.io/biocontainers/graphprot
+aliases:
+  GraphProt.pl: /usr/local/bin/GraphProt.pl
+  RNAshapes: /usr/local/bin/RNAshapes
+  gawk-4.2.1: /usr/local/bin/gawk-4.2.1
+  svm-predict: /usr/local/bin/svm-predict
+  svm-scale: /usr/local/bin/svm-scale
+  svm-train: /usr/local/bin/svm-train
+  transformseq: /usr/local/bin/transformseq
+  weblogo: /usr/local/bin/weblogo
+  conv-template: /usr/local/bin/conv-template
+  from-template: /usr/local/bin/from-template
+  awk: /usr/local/bin/awk
+  gawk: /usr/local/bin/gawk
+  b2sum: /usr/local/bin/b2sum
+  ls: /usr/local/bin/ls
+  base32: /usr/local/bin/base32
+  base64: /usr/local/bin/base64
+  basename: /usr/local/bin/basename
+  cat: /usr/local/bin/cat
+  chcon: /usr/local/bin/chcon
+  chgrp: /usr/local/bin/chgrp
+  chmod: /usr/local/bin/chmod
+  chown: /usr/local/bin/chown
+  chroot: /usr/local/bin/chroot
+  cksum: /usr/local/bin/cksum
+  comm: /usr/local/bin/comm
+  cp: /usr/local/bin/cp
+  csplit: /usr/local/bin/csplit
+  cut: /usr/local/bin/cut

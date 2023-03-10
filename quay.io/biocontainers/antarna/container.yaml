@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/antarna
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for antarna
+latest:
+  2.0.1.2--py27_0: sha256:fe5e4c16e3859fdc8260159949fc1773938aaac912ad654a5bc88fc235eee090
+tags:
+  2.0.1.2--py27_0: sha256:fe5e4c16e3859fdc8260159949fc1773938aaac912ad654a5bc88fc235eee090
+docker: quay.io/biocontainers/antarna
+aliases:
+  antarna.py: /usr/local/bin/antarna.py
+  easy_install-2.7: /usr/local/bin/easy_install-2.7
+  RNApvmin: /usr/local/bin/RNApvmin
+  b2ct: /usr/local/bin/b2ct
+  ct2db: /usr/local/bin/ct2db
+  kinwalker: /usr/local/bin/kinwalker
+  popt: /usr/local/bin/popt
+  RNA2Dfold: /usr/local/bin/RNA2Dfold
+  RNALalifold: /usr/local/bin/RNALalifold
+  RNAPKplex: /usr/local/bin/RNAPKplex
+  RNAparconv: /usr/local/bin/RNAparconv
+  RNAplex: /usr/local/bin/RNAplex
+  RNAsnoop: /usr/local/bin/RNAsnoop
+  RNAfold: /usr/local/bin/RNAfold
+  Kinfold: /usr/local/bin/Kinfold
+  RNALfold: /usr/local/bin/RNALfold
+  RNAaliduplex: /usr/local/bin/RNAaliduplex
+  RNAalifold: /usr/local/bin/RNAalifold
+  RNAcofold: /usr/local/bin/RNAcofold
+  RNAdistance: /usr/local/bin/RNAdistance
+  RNAduplex: /usr/local/bin/RNAduplex
+  RNAeval: /usr/local/bin/RNAeval
+  RNAforester: /usr/local/bin/RNAforester
+  RNAheat: /usr/local/bin/RNAheat
+  RNAinverse: /usr/local/bin/RNAinverse
+  RNApaln: /usr/local/bin/RNApaln

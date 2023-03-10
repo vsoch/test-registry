@@ -1,0 +1,42 @@
+url: https://biocontainers.pro/tools/coinfinder
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for coinfinder
+latest:
+  1.2.0--py37haba7c85_0: sha256:534f1e154055a49d4d2a6de83fa7c31496b41bcbba79bd1fbdde38554d64f2b1
+tags:
+  1.2.0--py37haba7c85_0: sha256:534f1e154055a49d4d2a6de83fa7c31496b41bcbba79bd1fbdde38554d64f2b1
+docker: quay.io/biocontainers/coinfinder
+aliases:
+  coinfinder: /usr/local/bin/coinfinder
+  ffmpeg: /usr/local/bin/ffmpeg
+  ffprobe: /usr/local/bin/ffprobe
+  h264dec: /usr/local/bin/h264dec
+  h264enc: /usr/local/bin/h264enc
+  vpxdec: /usr/local/bin/vpxdec
+  vpxenc: /usr/local/bin/vpxenc
+  x264: /usr/local/bin/x264
+  lame: /usr/local/bin/lame
+  certtool: /usr/local/bin/certtool
+  gnutls-cli: /usr/local/bin/gnutls-cli
+  gnutls-cli-debug: /usr/local/bin/gnutls-cli-debug
+  gnutls-serv: /usr/local/bin/gnutls-serv
+  nettle-hash: /usr/local/bin/nettle-hash
+  nettle-lfib-stream: /usr/local/bin/nettle-lfib-stream
+  nettle-pbkdf2: /usr/local/bin/nettle-pbkdf2
+  ocsptool: /usr/local/bin/ocsptool
+  pkcs1-conv: /usr/local/bin/pkcs1-conv
+  psktool: /usr/local/bin/psktool
+  sexp-conv: /usr/local/bin/sexp-conv
+  srptool: /usr/local/bin/srptool
+  x86_64-conda-linux-gnu-pkg-config: /usr/local/bin/x86_64-conda-linux-gnu-pkg-config
+  Magick++-config: /usr/local/bin/Magick++-config
+  MagickCore-config: /usr/local/bin/MagickCore-config
+  MagickWand-config: /usr/local/bin/MagickWand-config
+  animate: /usr/local/bin/animate
+  composite: /usr/local/bin/composite
+  conjure: /usr/local/bin/conjure
+  convert: /usr/local/bin/convert
+  display: /usr/local/bin/display
+  identify: /usr/local/bin/identify
+  import: /usr/local/bin/import
+  magick: /usr/local/bin/magick

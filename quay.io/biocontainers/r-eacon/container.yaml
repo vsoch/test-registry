@@ -1,0 +1,11 @@
+url: https://biocontainers.pro/tools/r-eacon
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-eacon
+latest:
+  0.3.6--r41hdfd78af_1: sha256:2218d27212b8670716c16edb2afa5cfd0e2f7d40a82799586b53fe0115b2845d
+tags:
+  0.3.6--r41hdfd78af_1: sha256:2218d27212b8670716c16edb2afa5cfd0e2f7d40a82799586b53fe0115b2845d
+docker: quay.io/biocontainers/r-eacon
+aliases:
+  pandoc: /usr/local/bin/pandoc
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

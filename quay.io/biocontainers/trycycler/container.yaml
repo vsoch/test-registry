@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/trycycler
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for trycycler
+latest:
+  0.5.3--pyhdfd78af_0: sha256:6d41aeea85f64f241195ffb1396b9c027623a5a987941569aed360893ffc0935
+tags:
+  0.5.3--pyhdfd78af_0: sha256:6d41aeea85f64f241195ffb1396b9c027623a5a987941569aed360893ffc0935
+docker: quay.io/biocontainers/trycycler
+aliases:
+  trycycler: /usr/local/bin/trycycler
+  miniasm: /usr/local/bin/miniasm
+  minidot: /usr/local/bin/minidot
+  capnp: /usr/local/bin/capnp
+  capnpc: /usr/local/bin/capnpc
+  capnpc-c++: /usr/local/bin/capnpc-c++
+  capnpc-capnp: /usr/local/bin/capnpc-capnp
+  mash: /usr/local/bin/mash
+  muscle: /usr/local/bin/muscle
+  sdust: /usr/local/bin/sdust
+  k8: /usr/local/bin/k8
+  paftools.js: /usr/local/bin/paftools.js
+  minimap2: /usr/local/bin/minimap2
+  f2py3.9: /usr/local/bin/f2py3.9
+  opj_compress: /usr/local/bin/opj_compress
+  opj_decompress: /usr/local/bin/opj_decompress
+  opj_dump: /usr/local/bin/opj_dump
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config
+  jpgicc: /usr/local/bin/jpgicc
+  linkicc: /usr/local/bin/linkicc
+  psicc: /usr/local/bin/psicc
+  tificc: /usr/local/bin/tificc

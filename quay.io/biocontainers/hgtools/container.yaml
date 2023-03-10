@@ -1,0 +1,14 @@
+url: https://biocontainers.pro/tools/hgtools
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for hgtools
+latest:
+  8.2.1--py_0: sha256:c38b56e6090fd7d0ee7516e76c3e051035ede3e019b102c75fcacd0fcc6ce38f
+tags:
+  8.2.1--py_0: sha256:c38b56e6090fd7d0ee7516e76c3e051035ede3e019b102c75fcacd0fcc6ce38f
+docker: quay.io/biocontainers/hgtools
+aliases:
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config

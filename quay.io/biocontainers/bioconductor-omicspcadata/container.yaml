@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-omicspcadata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-omicspcadata
+latest:
+  1.8.0--r40hdfd78af_1: sha256:6fbd4674fde033f244d586630f4cde857aef8d58c01db5bd2057601487ecde56
+tags:
+  1.8.0--r40hdfd78af_1: sha256:6fbd4674fde033f244d586630f4cde857aef8d58c01db5bd2057601487ecde56
+docker: quay.io/biocontainers/bioconductor-omicspcadata
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

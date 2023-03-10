@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/bioprov
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioprov
+latest:
+  0.1.23--pyh5e36f6f_0: sha256:c7b387078e6da87b09423777bade603d0c8654d0b259831053e07212e9cda951
+tags:
+  0.1.23--pyh5e36f6f_0: sha256:c7b387078e6da87b09423777bade603d0c8654d0b259831053e07212e9cda951
+docker: quay.io/biocontainers/bioprov
+aliases:
+  bioprov: /usr/local/bin/bioprov
+  coveralls: /usr/local/bin/coveralls
+  prov-compare: /usr/local/bin/prov-compare
+  prov-convert: /usr/local/bin/prov-convert
+  coverage: /usr/local/bin/coverage
+  csv2rdf: /usr/local/bin/csv2rdf
+  rdf2dot: /usr/local/bin/rdf2dot
+  rdfgraphisomorphism: /usr/local/bin/rdfgraphisomorphism
+  rdfpipe: /usr/local/bin/rdfpipe
+  rdfs2dot: /usr/local/bin/rdfs2dot
+  prodigal: /usr/local/bin/prodigal
+  py.test: /usr/local/bin/py.test
+  pytest: /usr/local/bin/pytest
+  diffimg: /usr/local/bin/diffimg
+  delaunay: /usr/local/bin/delaunay
+  gts-config: /usr/local/bin/gts-config
+  gts2dxf: /usr/local/bin/gts2dxf
+  gts2oogl: /usr/local/bin/gts2oogl
+  gts2stl: /usr/local/bin/gts2stl
+  gtscheck: /usr/local/bin/gtscheck
+  gtscompare: /usr/local/bin/gtscompare
+  gtstemplate: /usr/local/bin/gtstemplate
+  stl2gts: /usr/local/bin/stl2gts
+  transform: /usr/local/bin/transform
+  rsvg-convert: /usr/local/bin/rsvg-convert
+  gtk-builder-convert: /usr/local/bin/gtk-builder-convert
+  gtk-demo: /usr/local/bin/gtk-demo
+  gtk-query-immodules-2.0: /usr/local/bin/gtk-query-immodules-2.0
+  gtk-update-icon-cache: /usr/local/bin/gtk-update-icon-cache

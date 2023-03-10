@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/mhcnuggets
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for mhcnuggets
+latest:
+  2.3.2--py_0: sha256:246708b68739fde7d0a6a0ec09e5dc0e9164fff14c1dc634b2e454ea3aca8222
+tags:
+  2.3.2--py_0: sha256:246708b68739fde7d0a6a0ec09e5dc0e9164fff14c1dc634b2e454ea3aca8222
+docker: quay.io/biocontainers/mhcnuggets
+aliases:
+  theano-cache: /usr/local/bin/theano-cache
+  theano-nose: /usr/local/bin/theano-nose
+  freeze_graph: /usr/local/bin/freeze_graph
+  mako-render: /usr/local/bin/mako-render
+  tf_upgrade_v2: /usr/local/bin/tf_upgrade_v2
+  tflite_convert: /usr/local/bin/tflite_convert
+  saved_model_cli: /usr/local/bin/saved_model_cli
+  toco: /usr/local/bin/toco
+  toco_from_protos: /usr/local/bin/toco_from_protos
+  tensorboard: /usr/local/bin/tensorboard
+  markdown_py: /usr/local/bin/markdown_py
+  protoc: /usr/local/bin/protoc
+  f2py3.7: /usr/local/bin/f2py3.7
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  h5clear: /usr/local/bin/h5clear
+  h5format_convert: /usr/local/bin/h5format_convert
+  h5watch: /usr/local/bin/h5watch
+  h5fc: /usr/local/bin/h5fc

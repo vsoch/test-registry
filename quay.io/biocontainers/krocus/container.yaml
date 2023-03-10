@@ -1,0 +1,19 @@
+url: https://biocontainers.pro/tools/krocus
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for krocus
+latest:
+  1.0.3--pyhdfd78af_0: sha256:371eaf87e858e068419e9a2983d7fa9954dc4d6b72dbdc31f8ea62ba8f0fa735
+tags:
+  1.0.3--pyhdfd78af_0: sha256:371eaf87e858e068419e9a2983d7fa9954dc4d6b72dbdc31f8ea62ba8f0fa735
+docker: quay.io/biocontainers/krocus
+aliases:
+  krocus: /usr/local/bin/krocus
+  krocus_database_downloader: /usr/local/bin/krocus_database_downloader
+  fastaq: /usr/local/bin/fastaq
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

@@ -1,0 +1,33 @@
+url: https://biocontainers.pro/tools/bcdoc
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bcdoc
+latest:
+  0.16.0--py35_0: sha256:84b262c5b3e79b98d26086fa721be9d54f8403f7c676107bc745643549ccabdf
+tags:
+  0.16.0--py35_0: sha256:84b262c5b3e79b98d26086fa721be9d54f8403f7c676107bc745643549ccabdf
+docker: quay.io/biocontainers/bcdoc
+aliases:
+  easy_install-3.5: /usr/local/bin/easy_install-3.5
+  2to3-3.5: /usr/local/bin/2to3-3.5
+  idle3.5: /usr/local/bin/idle3.5
+  pydoc3.5: /usr/local/bin/pydoc3.5
+  python3.5: /usr/local/bin/python3.5
+  python3.5-config: /usr/local/bin/python3.5-config
+  python3.5m: /usr/local/bin/python3.5m
+  python3.5m-config: /usr/local/bin/python3.5m-config
+  pyvenv-3.5: /usr/local/bin/pyvenv-3.5
+  rst2html.py: /usr/local/bin/rst2html.py
+  rst2latex.py: /usr/local/bin/rst2latex.py
+  rst2man.py: /usr/local/bin/rst2man.py
+  rst2odt.py: /usr/local/bin/rst2odt.py
+  rst2odt_prepstyles.py: /usr/local/bin/rst2odt_prepstyles.py
+  rst2pseudoxml.py: /usr/local/bin/rst2pseudoxml.py
+  rst2s5.py: /usr/local/bin/rst2s5.py
+  rst2xetex.py: /usr/local/bin/rst2xetex.py
+  rst2xml.py: /usr/local/bin/rst2xml.py
+  rstpep2html.py: /usr/local/bin/rstpep2html.py
+  tclsh8.5: /usr/local/bin/tclsh8.5
+  wish8.5: /usr/local/bin/wish8.5
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config
+  pyvenv: /usr/local/bin/pyvenv

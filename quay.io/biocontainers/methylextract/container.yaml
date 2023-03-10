@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/methylextract
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for methylextract
+latest:
+  1.9.1--1: sha256:e53dca4fdba04b3f989fed47f98c43cbf87427c635c6140e90a801470f01bac2
+tags:
+  1.9.1--1: sha256:e53dca4fdba04b3f989fed47f98c43cbf87427c635c6140e90a801470f01bac2
+docker: quay.io/biocontainers/methylextract
+aliases:
+  MethylExtract.pl: /usr/local/bin/MethylExtract.pl
+  MethylExtractBSCR.pl: /usr/local/bin/MethylExtractBSCR.pl
+  MethylExtractBSPvalue.pl: /usr/local/bin/MethylExtractBSPvalue.pl
+  perl5.26.2: /usr/local/bin/perl5.26.2
+  podselect: /usr/local/bin/podselect
+  ace2sam: /usr/local/bin/ace2sam
+  blast2sam.pl: /usr/local/bin/blast2sam.pl
+  bowtie2sam.pl: /usr/local/bin/bowtie2sam.pl
+  export2sam.pl: /usr/local/bin/export2sam.pl
+  interpolate_sam.pl: /usr/local/bin/interpolate_sam.pl
+  maq2sam-long: /usr/local/bin/maq2sam-long
+  maq2sam-short: /usr/local/bin/maq2sam-short
+  md5fa: /usr/local/bin/md5fa
+  md5sum-lite: /usr/local/bin/md5sum-lite
+  plot-bamstats: /usr/local/bin/plot-bamstats
+  psl2sam.pl: /usr/local/bin/psl2sam.pl
+  sam2vcf.pl: /usr/local/bin/sam2vcf.pl
+  samtools.pl: /usr/local/bin/samtools.pl
+  seq_cache_populate.pl: /usr/local/bin/seq_cache_populate.pl
+  soap2sam.pl: /usr/local/bin/soap2sam.pl
+  zoom2sam.pl: /usr/local/bin/zoom2sam.pl
+  novo2sam.pl: /usr/local/bin/novo2sam.pl
+  wgsim: /usr/local/bin/wgsim
+  wgsim_eval.pl: /usr/local/bin/wgsim_eval.pl
+  samtools: /usr/local/bin/samtools
+  htsfile: /usr/local/bin/htsfile
+  bgzip: /usr/local/bin/bgzip
+  tabix: /usr/local/bin/tabix

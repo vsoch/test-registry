@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-gsbenchmark
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-gsbenchmark
+latest:
+  1.9.0--r40_0: sha256:6f52b767b4c53a7a9b208f221f5e1235e787b15dab2f65b9855988eae517599e
+tags:
+  1.9.0--r40_0: sha256:6f52b767b4c53a7a9b208f221f5e1235e787b15dab2f65b9855988eae517599e
+docker: quay.io/biocontainers/bioconductor-gsbenchmark
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

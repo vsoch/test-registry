@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/kofamscan
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for kofamscan
+latest:
+  1.3.0--hdfd78af_2: sha256:afc460a9bdbc6dcd00ee37e40f2b6d4f35ac87e2d8e6b93a3353d6e5fa658c66
+tags:
+  1.3.0--hdfd78af_2: sha256:afc460a9bdbc6dcd00ee37e40f2b6d4f35ac87e2d8e6b93a3353d6e5fa658c66
+docker: quay.io/biocontainers/kofamscan
+aliases:
+  exec_annotation: /usr/local/bin/exec_annotation
+  racc: /usr/local/bin/racc
+  racc2y: /usr/local/bin/racc2y
+  y2racc: /usr/local/bin/y2racc
+  bundle: /usr/local/bin/bundle
+  bundler: /usr/local/bin/bundler
+  gdbm_dump: /usr/local/bin/gdbm_dump
+  gdbm_load: /usr/local/bin/gdbm_load
+  gdbmtool: /usr/local/bin/gdbmtool
+  erb: /usr/local/bin/erb
+  gem: /usr/local/bin/gem
+  irb: /usr/local/bin/irb
+  rake: /usr/local/bin/rake
+  rdoc: /usr/local/bin/rdoc
+  ri: /usr/local/bin/ri
+  ruby: /usr/local/bin/ruby
+  perl5.32.0: /usr/local/bin/perl5.32.0
+  parsort: /usr/local/bin/parsort
+  env_parallel: /usr/local/bin/env_parallel
+  env_parallel.ash: /usr/local/bin/env_parallel.ash
+  env_parallel.bash: /usr/local/bin/env_parallel.bash
+  env_parallel.csh: /usr/local/bin/env_parallel.csh
+  env_parallel.dash: /usr/local/bin/env_parallel.dash
+  env_parallel.fish: /usr/local/bin/env_parallel.fish
+  env_parallel.ksh: /usr/local/bin/env_parallel.ksh
+  env_parallel.mksh: /usr/local/bin/env_parallel.mksh
+  env_parallel.pdksh: /usr/local/bin/env_parallel.pdksh
+  env_parallel.sh: /usr/local/bin/env_parallel.sh
+  env_parallel.tcsh: /usr/local/bin/env_parallel.tcsh

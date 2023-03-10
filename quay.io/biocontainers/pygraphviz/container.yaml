@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/pygraphviz
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pygraphviz
+latest:
+  1.3.1--py36_0: sha256:d71ccfa84bbd93a9e0832c0874e94d41b05c13863be3ab1a3cd248de310fbc44
+tags:
+  1.3.1--py36_0: sha256:d71ccfa84bbd93a9e0832c0874e94d41b05c13863be3ab1a3cd248de310fbc44
+docker: quay.io/biocontainers/pygraphviz
+aliases:
+  dotty: /usr/local/bin/dotty
+  lneato: /usr/local/bin/lneato
+  easy_install-3.6: /usr/local/bin/easy_install-3.6
+  acyclic: /usr/local/bin/acyclic
+  bcomps: /usr/local/bin/bcomps
+  ccomps: /usr/local/bin/ccomps
+  circo: /usr/local/bin/circo
+  dijkstra: /usr/local/bin/dijkstra
+  dot: /usr/local/bin/dot
+  dot2gxl: /usr/local/bin/dot2gxl
+  dot_builtins: /usr/local/bin/dot_builtins
+  edgepaint: /usr/local/bin/edgepaint
+  fdp: /usr/local/bin/fdp
+  gml2gv: /usr/local/bin/gml2gv
+  graphml2gv: /usr/local/bin/graphml2gv
+  gv2gml: /usr/local/bin/gv2gml
+  gv2gxl: /usr/local/bin/gv2gxl
+  gvcolor: /usr/local/bin/gvcolor
+  gvgen: /usr/local/bin/gvgen
+  gvmap: /usr/local/bin/gvmap
+  gvmap.sh: /usr/local/bin/gvmap.sh
+  gvpack: /usr/local/bin/gvpack
+  gvpr: /usr/local/bin/gvpr
+  gxl2dot: /usr/local/bin/gxl2dot
+  gxl2gv: /usr/local/bin/gxl2gv
+  mm2gv: /usr/local/bin/mm2gv
+  neato: /usr/local/bin/neato

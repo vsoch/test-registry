@@ -1,0 +1,15 @@
+url: https://biocontainers.pro/tools/sambamba
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for sambamba
+latest:
+  0.8.2--h98b6b92_2: sha256:7eef9b8c037f526a3ecb71cc05604c77eda72d90a50ca29c0af42a6e94580073
+tags:
+  0.8.2--h98b6b92_2: sha256:7eef9b8c037f526a3ecb71cc05604c77eda72d90a50ca29c0af42a6e94580073
+docker: quay.io/biocontainers/sambamba
+aliases:
+  sambamba: /usr/local/bin/sambamba
+  ldc-build-runtime: /usr/local/bin/ldc-build-runtime
+  ldc-profdata: /usr/local/bin/ldc-profdata
+  ldc-prune-cache: /usr/local/bin/ldc-prune-cache
+  ldc2: /usr/local/bin/ldc2
+  ldmd2: /usr/local/bin/ldmd2

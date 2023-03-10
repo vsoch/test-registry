@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-cohcapanno
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-cohcapanno
+latest:
+  1.30.0--r41hdfd78af_1: sha256:5485c1cfebbde03e7437ed27b0af364e8fb363a0a739c2af2fb9f42e692a8a44
+tags:
+  1.30.0--r41hdfd78af_1: sha256:5485c1cfebbde03e7437ed27b0af364e8fb363a0a739c2af2fb9f42e692a8a44
+docker: quay.io/biocontainers/bioconductor-cohcapanno

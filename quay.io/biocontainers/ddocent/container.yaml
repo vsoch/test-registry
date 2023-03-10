@@ -1,0 +1,59 @@
+url: https://biocontainers.pro/tools/ddocent
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ddocent
+latest:
+  2.9.4--hdfd78af_0: sha256:ca1589c8586e16baff5f4751b5eb2ab033a710f89837422ffbcde66b58dd7225
+tags:
+  2.9.4--hdfd78af_0: sha256:ca1589c8586e16baff5f4751b5eb2ab033a710f89837422ffbcde66b58dd7225
+docker: quay.io/biocontainers/ddocent
+aliases:
+  ErrorCount.sh: /usr/local/bin/ErrorCount.sh
+  RefMapOpt.sh: /usr/local/bin/RefMapOpt.sh
+  ReferenceOpt.sh: /usr/local/bin/ReferenceOpt.sh
+  Rename_SequenceFiles.sh: /usr/local/bin/Rename_SequenceFiles.sh
+  dDocent: /usr/local/bin/dDocent
+  dDocent_filters: /usr/local/bin/dDocent_filters
+  filter_hwe_by_pop.pl: /usr/local/bin/filter_hwe_by_pop.pl
+  filter_missing_ind.sh: /usr/local/bin/filter_missing_ind.sh
+  mawk: /usr/local/bin/mawk
+  pear: /usr/local/bin/pear
+  pearRM: /usr/local/bin/pearRM
+  pop_missing_filter.sh: /usr/local/bin/pop_missing_filter.sh
+  rainbow: /usr/local/bin/rainbow
+  remake_reference.sh: /usr/local/bin/remake_reference.sh
+  remove.bad.hap.loci.sh: /usr/local/bin/remove.bad.hap.loci.sh
+  select_all_rbcontig.pl: /usr/local/bin/select_all_rbcontig.pl
+  select_all_rbcontig.pl.bak: /usr/local/bin/select_all_rbcontig.pl.bak
+  select_best_rbcontig.pl: /usr/local/bin/select_best_rbcontig.pl
+  select_best_rbcontig.pl.bak: /usr/local/bin/select_best_rbcontig.pl.bak
+  select_best_rbcontig_plus_read1.pl: /usr/local/bin/select_best_rbcontig_plus_read1.pl
+  select_best_rbcontig_plus_read1.pl.bak: /usr/local/bin/select_best_rbcontig_plus_read1.pl.bak
+  select_sec_rbcontig.pl: /usr/local/bin/select_sec_rbcontig.pl
+  select_sec_rbcontig.pl.bak: /usr/local/bin/select_sec_rbcontig.pl.bak
+  split_ref_by_bai_datasize.py: /usr/local/bin/split_ref_by_bai_datasize.py
+  vcftools: /usr/local/bin/vcftools
+  sam_add_rg.pl: /usr/local/bin/sam_add_rg.pl
+  update_version.sh: /usr/local/bin/update_version.sh
+  bam2bed: /usr/local/bin/bam2bed
+  bam2bed-float128: /usr/local/bin/bam2bed-float128
+  bam2bed-megarow: /usr/local/bin/bam2bed-megarow
+  bam2bed-typical: /usr/local/bin/bam2bed-typical
+  bam2bed_gnuParallel: /usr/local/bin/bam2bed_gnuParallel
+  bam2bed_gnuParallel-float128: /usr/local/bin/bam2bed_gnuParallel-float128
+  bam2bed_gnuParallel-megarow: /usr/local/bin/bam2bed_gnuParallel-megarow
+  bam2bed_gnuParallel-typical: /usr/local/bin/bam2bed_gnuParallel-typical
+  bam2bed_sge: /usr/local/bin/bam2bed_sge
+  bam2bed_sge-float128: /usr/local/bin/bam2bed_sge-float128
+  bam2bed_sge-megarow: /usr/local/bin/bam2bed_sge-megarow
+  bam2bed_sge-typical: /usr/local/bin/bam2bed_sge-typical
+  bam2bed_slurm: /usr/local/bin/bam2bed_slurm
+  bam2bed_slurm-float128: /usr/local/bin/bam2bed_slurm-float128
+  bam2bed_slurm-megarow: /usr/local/bin/bam2bed_slurm-megarow
+  bam2bed_slurm-typical: /usr/local/bin/bam2bed_slurm-typical
+  bam2starch: /usr/local/bin/bam2starch
+  bam2starch-float128: /usr/local/bin/bam2starch-float128
+  bam2starch-megarow: /usr/local/bin/bam2starch-megarow
+  bam2starch-typical: /usr/local/bin/bam2starch-typical
+  bam2starch_gnuParallel: /usr/local/bin/bam2starch_gnuParallel
+  bam2starch_gnuParallel-float128: /usr/local/bin/bam2starch_gnuParallel-float128
+  bam2starch_gnuParallel-megarow: /usr/local/bin/bam2starch_gnuParallel-megarow

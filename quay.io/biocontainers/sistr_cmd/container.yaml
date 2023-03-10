@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/sistr_cmd
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for sistr_cmd
+latest:
+  1.1.1--pyh864c0ab_2: sha256:0068bd3708615599f2ed4229338a9aa59cd2cc43a66c199d931da0d51261f211
+tags:
+  1.1.1--pyh864c0ab_2: sha256:0068bd3708615599f2ed4229338a9aa59cd2cc43a66c199d931da0d51261f211
+docker: quay.io/biocontainers/sistr_cmd
+aliases:
+  sistr: /usr/local/bin/sistr
+  test_pcre: /usr/local/bin/test_pcre
+  capnp: /usr/local/bin/capnp
+  capnpc: /usr/local/bin/capnpc
+  capnpc-c++: /usr/local/bin/capnpc-c++
+  capnpc-capnp: /usr/local/bin/capnpc-capnp
+  blastdbcp: /usr/local/bin/blastdbcp
+  gene_info_reader: /usr/local/bin/gene_info_reader
+  mash: /usr/local/bin/mash
+  seqdb_demo: /usr/local/bin/seqdb_demo
+  seqdb_perf: /usr/local/bin/seqdb_perf
+  pt2to3: /usr/local/bin/pt2to3
+  ptdump: /usr/local/bin/ptdump
+  ptrepack: /usr/local/bin/ptrepack
+  pttree: /usr/local/bin/pttree
+  seedtop: /usr/local/bin/seedtop
+  mafft-sparsecore.rb: /usr/local/bin/mafft-sparsecore.rb
+  einsi: /usr/local/bin/einsi
+  fftns: /usr/local/bin/fftns
+  fftnsi: /usr/local/bin/fftnsi
+  ginsi: /usr/local/bin/ginsi
+  linsi: /usr/local/bin/linsi
+  mafft-distance: /usr/local/bin/mafft-distance
+  mafft-einsi: /usr/local/bin/mafft-einsi
+  mafft-fftns: /usr/local/bin/mafft-fftns
+  mafft-fftnsi: /usr/local/bin/mafft-fftnsi

@@ -1,0 +1,40 @@
+url: https://biocontainers.pro/tools/diapysef
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for diapysef
+latest:
+  0.3.5--pyh864c0ab_1: sha256:ce948216dba925aa2849e1f548aa2c97e6604fa496599b41b25517b4b2b3e712
+tags:
+  0.3.5--pyh864c0ab_1: sha256:ce948216dba925aa2849e1f548aa2c97e6604fa496599b41b25517b4b2b3e712
+docker: quay.io/biocontainers/diapysef
+aliases:
+  annotate_mq_ionmobility.py: /usr/local/bin/annotate_mq_ionmobility.py
+  convertTDFtoMzML.py: /usr/local/bin/convertTDFtoMzML.py
+  create_library.py: /usr/local/bin/create_library.py
+  get_dia_windows.py: /usr/local/bin/get_dia_windows.py
+  high_precision_irt.py: /usr/local/bin/high_precision_irt.py
+  plot_dia_windows.py: /usr/local/bin/plot_dia_windows.py
+  svm-predict: /usr/local/bin/svm-predict
+  svm-scale: /usr/local/bin/svm-scale
+  svm-train: /usr/local/bin/svm-train
+  CreateDOMDocument: /usr/local/bin/CreateDOMDocument
+  DOMCount: /usr/local/bin/DOMCount
+  DOMPrint: /usr/local/bin/DOMPrint
+  EnumVal: /usr/local/bin/EnumVal
+  MemParse: /usr/local/bin/MemParse
+  PParse: /usr/local/bin/PParse
+  PSVIWriter: /usr/local/bin/PSVIWriter
+  Redirect: /usr/local/bin/Redirect
+  SAX2Count: /usr/local/bin/SAX2Count
+  SAX2Print: /usr/local/bin/SAX2Print
+  SAXCount: /usr/local/bin/SAXCount
+  SAXPrint: /usr/local/bin/SAXPrint
+  SCMPrint: /usr/local/bin/SCMPrint
+  SEnumVal: /usr/local/bin/SEnumVal
+  StdInParse: /usr/local/bin/StdInParse
+  XInclude: /usr/local/bin/XInclude
+  compile-et.pl: /usr/local/bin/compile-et.pl
+  prerr.properties: /usr/local/bin/prerr.properties
+  cbc: /usr/local/bin/cbc
+  clp: /usr/local/bin/clp
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview

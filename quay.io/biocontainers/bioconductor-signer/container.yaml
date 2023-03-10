@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-signer
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-signer
+latest:
+  1.8.0--r351hf484d3e_0: sha256:e3f9ad9dbb1aea0cce7a0f33aa052efe4232116e5298480dbe7e41720ccd02c1
+tags:
+  1.8.0--r351hf484d3e_0: sha256:e3f9ad9dbb1aea0cce7a0f33aa052efe4232116e5298480dbe7e41720ccd02c1
+docker: quay.io/biocontainers/bioconductor-signer
+aliases:
+  wget: /usr/local/bin/wget
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

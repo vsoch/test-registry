@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/metatree
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for metatree
+latest:
+  0.0.1--py_0: sha256:bd67bc970e530439c7254daaf1a81a98b0da0c2ed8585a6f45dd3121671e426d
+tags:
+  0.0.1--py_0: sha256:bd67bc970e530439c7254daaf1a81a98b0da0c2ed8585a6f45dd3121671e426d
+docker: quay.io/biocontainers/metatree
+aliases:
+  genometreetk: /usr/local/bin/genometreetk
+  metatree: /usr/local/bin/metatree
+  phylorank: /usr/local/bin/phylorank
+  FastTree-2.1.10.c: /usr/local/bin/FastTree-2.1.10.c
+  compile-et.pl: /usr/local/bin/compile-et.pl
+  ete3: /usr/local/bin/ete3
+  prerr.properties: /usr/local/bin/prerr.properties
+  FastTreeMP: /usr/local/bin/FastTreeMP
+  FastTree: /usr/local/bin/FastTree
+  fasttree: /usr/local/bin/fasttree
+  sumlabels.py: /usr/local/bin/sumlabels.py
+  sumtrees.py: /usr/local/bin/sumtrees.py
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview
+  qvkgen: /usr/local/bin/qvkgen
+  hmmpgmd_shard: /usr/local/bin/hmmpgmd_shard
+  easel: /usr/local/bin/easel
+  esl-mixdchlet: /usr/local/bin/esl-mixdchlet
+  certutil: /usr/local/bin/certutil
+  nspr-config: /usr/local/bin/nspr-config
+  nss-config: /usr/local/bin/nss-config
+  pk12util: /usr/local/bin/pk12util
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  esl-alimanip: /usr/local/bin/esl-alimanip
+  esl-alimap: /usr/local/bin/esl-alimap
+  esl-alimask: /usr/local/bin/esl-alimask
+  esl-alimerge: /usr/local/bin/esl-alimerge
+  esl-alipid: /usr/local/bin/esl-alipid

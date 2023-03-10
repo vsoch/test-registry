@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-raexexonprobesetlocation
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-raexexonprobesetlocation
+latest:
+  1.15.0--r41hdfd78af_9: sha256:7f1289dd8738a045e3c09832ff02292b3e5b9364c966c3ed60942de973b1234b
+tags:
+  1.15.0--r41hdfd78af_9: sha256:7f1289dd8738a045e3c09832ff02292b3e5b9364c966c3ed60942de973b1234b
+docker: quay.io/biocontainers/bioconductor-raexexonprobesetlocation

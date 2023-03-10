@@ -1,0 +1,51 @@
+url: https://biocontainers.pro/tools/squeegee
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for squeegee
+latest:
+  0.2.0--hdfd78af_0: sha256:57e9d7d23a3edd00031d62968539ea71e2e01409a151d1264730da3b13b84025
+tags:
+  0.2.0--hdfd78af_0: sha256:57e9d7d23a3edd00031d62968539ea71e2e01409a151d1264730da3b13b84025
+docker: quay.io/biocontainers/squeegee
+aliases:
+  existDB: /usr/local/bin/existDB
+  kmer-mask: /usr/local/bin/kmer-mask
+  kraken: /usr/local/bin/kraken
+  kraken-build: /usr/local/bin/kraken-build
+  kraken-filter: /usr/local/bin/kraken-filter
+  kraken-mpa-report: /usr/local/bin/kraken-mpa-report
+  kraken-report: /usr/local/bin/kraken-report
+  kraken-translate: /usr/local/bin/kraken-translate
+  mapMers: /usr/local/bin/mapMers
+  mapMers-depth: /usr/local/bin/mapMers-depth
+  mt19937ar-test: /usr/local/bin/mt19937ar-test
+  positionDB: /usr/local/bin/positionDB
+  simple: /usr/local/bin/simple
+  squeegee: /usr/local/bin/squeegee
+  test-merStream: /usr/local/bin/test-merStream
+  test-seqCache: /usr/local/bin/test-seqCache
+  test-seqStream: /usr/local/bin/test-seqStream
+  meryl: /usr/local/bin/meryl
+  rsync-ssl: /usr/local/bin/rsync-ssl
+  rsync: /usr/local/bin/rsync
+  xxh128sum: /usr/local/bin/xxh128sum
+  xxh32sum: /usr/local/bin/xxh32sum
+  xxh64sum: /usr/local/bin/xxh64sum
+  xxhsum: /usr/local/bin/xxhsum
+  jellyfish: /usr/local/bin/jellyfish
+  tar: /usr/local/bin/tar
+  capnp: /usr/local/bin/capnp
+  capnpc: /usr/local/bin/capnpc
+  capnpc-c++: /usr/local/bin/capnpc-c++
+  capnpc-capnp: /usr/local/bin/capnpc-capnp
+  mash: /usr/local/bin/mash
+  bowtie2: /usr/local/bin/bowtie2
+  bowtie2-align-l: /usr/local/bin/bowtie2-align-l
+  bowtie2-align-s: /usr/local/bin/bowtie2-align-s
+  bowtie2-build: /usr/local/bin/bowtie2-build
+  bowtie2-build-l: /usr/local/bin/bowtie2-build-l
+  bowtie2-build-s: /usr/local/bin/bowtie2-build-s
+  bowtie2-inspect: /usr/local/bin/bowtie2-inspect
+  bowtie2-inspect-l: /usr/local/bin/bowtie2-inspect-l
+  bowtie2-inspect-s: /usr/local/bin/bowtie2-inspect-s
+  idn2: /usr/local/bin/idn2
+  fasta-sanitize.pl: /usr/local/bin/fasta-sanitize.pl

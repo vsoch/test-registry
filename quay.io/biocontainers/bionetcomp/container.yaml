@@ -1,0 +1,32 @@
+url: https://biocontainers.pro/tools/bionetcomp
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bionetcomp
+latest:
+  1.1--pyhfa5458b_0: sha256:2925996a315b8bd77cab44cd01e1d2b9491507f334cf21a12333d16bff4bcdab
+tags:
+  1.1--pyhfa5458b_0: sha256:2925996a315b8bd77cab44cd01e1d2b9491507f334cf21a12333d16bff4bcdab
+docker: quay.io/biocontainers/bionetcomp
+aliases:
+  bionetcomp: /usr/local/bin/bionetcomp
+  gseapy: /usr/local/bin/gseapy
+  easydev_buildPackage: /usr/local/bin/easydev_buildPackage
+  ibrowse: /usr/local/bin/ibrowse
+  multigit: /usr/local/bin/multigit
+  browse: /usr/local/bin/browse
+  xslt-config: /usr/local/bin/xslt-config
+  xsltproc: /usr/local/bin/xsltproc
+  chardetect: /usr/local/bin/chardetect
+  f2py3.9: /usr/local/bin/f2py3.9
+  opj_compress: /usr/local/bin/opj_compress
+  opj_decompress: /usr/local/bin/opj_decompress
+  opj_dump: /usr/local/bin/opj_dump
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config
+  jpgicc: /usr/local/bin/jpgicc
+  linkicc: /usr/local/bin/linkicc
+  psicc: /usr/local/bin/psicc
+  tificc: /usr/local/bin/tificc
+  transicc: /usr/local/bin/transicc

@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-zebrafishrnaseq
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-zebrafishrnaseq
+latest:
+  1.9.0--r40_0: sha256:7221fb618f6399b2b2a6672da2882ef6c15a52498e4bc0a37218a03ae0c270af
+tags:
+  1.9.0--r40_0: sha256:7221fb618f6399b2b2a6672da2882ef6c15a52498e4bc0a37218a03ae0c270af
+docker: quay.io/biocontainers/bioconductor-zebrafishrnaseq
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

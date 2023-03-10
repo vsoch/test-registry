@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/mutmap
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for mutmap
+latest:
+  2.3.3--pyhdfd78af_0: sha256:c69c1cf7d39e7ff78811ce40ddca79b21219641aada2627b916e9790bdf48158
+tags:
+  2.3.3--pyhdfd78af_0: sha256:c69c1cf7d39e7ff78811ce40ddca79b21219641aada2627b916e9790bdf48158
+docker: quay.io/biocontainers/mutmap
+aliases:
+  mutmap: /usr/local/bin/mutmap
+  mutplot: /usr/local/bin/mutplot
+  snpEff: /usr/local/bin/snpEff
+  trimmomatic: /usr/local/bin/trimmomatic
+  gff2gff.py: /usr/local/bin/gff2gff.py
+  qualfa2fq.pl: /usr/local/bin/qualfa2fq.pl
+  xa2multi.pl: /usr/local/bin/xa2multi.pl
+  bwa: /usr/local/bin/bwa
+  guess-ploidy.py: /usr/local/bin/guess-ploidy.py
+  plot-roh.py: /usr/local/bin/plot-roh.py
+  run-roh.pl: /usr/local/bin/run-roh.pl
+  color-chrs.pl: /usr/local/bin/color-chrs.pl
+  plot-vcfstats: /usr/local/bin/plot-vcfstats
+  bcftools: /usr/local/bin/bcftools
+  vcfutils.pl: /usr/local/bin/vcfutils.pl
+  fasta-sanitize.pl: /usr/local/bin/fasta-sanitize.pl
+  plot-ampliconstats: /usr/local/bin/plot-ampliconstats
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  brotli: /usr/local/bin/brotli
+  jaotc: /usr/local/bin/jaotc
+  img2webp: /usr/local/bin/img2webp
+  cwebp: /usr/local/bin/cwebp
+  dwebp: /usr/local/bin/dwebp
+  gif2webp: /usr/local/bin/gif2webp

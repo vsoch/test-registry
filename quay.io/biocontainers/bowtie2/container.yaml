@@ -1,0 +1,29 @@
+url: https://biocontainers.pro/tools/bowtie2
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bowtie2
+latest:
+  2.3.4.3--py37he860b03_1: sha256:7c2c2c521a8ae3374aea511da2553f69c74330b9d7c30d2b5eee5c54449da47a
+tags:
+  2.3.4.3--py37he860b03_1: sha256:7c2c2c521a8ae3374aea511da2553f69c74330b9d7c30d2b5eee5c54449da47a
+docker: quay.io/biocontainers/bowtie2
+aliases:
+  bowtie2: /usr/local/bin/bowtie2
+  bowtie2-align-l: /usr/local/bin/bowtie2-align-l
+  bowtie2-align-s: /usr/local/bin/bowtie2-align-s
+  bowtie2-build: /usr/local/bin/bowtie2-build
+  bowtie2-build-l: /usr/local/bin/bowtie2-build-l
+  bowtie2-build-s: /usr/local/bin/bowtie2-build-s
+  bowtie2-inspect: /usr/local/bin/bowtie2-inspect
+  bowtie2-inspect-l: /usr/local/bin/bowtie2-inspect-l
+  bowtie2-inspect-s: /usr/local/bin/bowtie2-inspect-s
+  perl5.26.2: /usr/local/bin/perl5.26.2
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  podselect: /usr/local/bin/podselect
+  pyvenv: /usr/local/bin/pyvenv

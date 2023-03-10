@@ -1,0 +1,19 @@
+url: https://biocontainers.pro/tools/r-proj4
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-proj4
+latest:
+  1.0_8--r3.3.2_0: sha256:17dd4a9946ac11e1bbd45385350fb7e9ac457327009a51596c8084bc55585c1a
+tags:
+  1.0_8--r3.3.2_0: sha256:17dd4a9946ac11e1bbd45385350fb7e9ac457327009a51596c8084bc55585c1a
+docker: quay.io/biocontainers/r-proj4
+aliases:
+  nad2bin: /usr/local/bin/nad2bin
+  invgeod: /usr/local/bin/invgeod
+  invproj: /usr/local/bin/invproj
+  cs2cs: /usr/local/bin/cs2cs
+  geod: /usr/local/bin/geod
+  proj: /usr/local/bin/proj
+  uconv: /usr/local/bin/uconv
+  tclsh8.5: /usr/local/bin/tclsh8.5
+  wish8.5: /usr/local/bin/wish8.5
+  ncursesw5-config: /usr/local/bin/ncursesw5-config

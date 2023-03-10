@@ -1,0 +1,23 @@
+url: https://biocontainers.pro/tools/blinker
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for blinker
+latest:
+  1.4--py35_0: sha256:94dcbb61ba49fad3bbf13a571062c618d3da66b460cb2b7d01a5cb62f9e82328
+tags:
+  1.4--py35_0: sha256:94dcbb61ba49fad3bbf13a571062c618d3da66b460cb2b7d01a5cb62f9e82328
+docker: quay.io/biocontainers/blinker
+aliases:
+  easy_install-3.5: /usr/local/bin/easy_install-3.5
+  2to3-3.5: /usr/local/bin/2to3-3.5
+  idle3.5: /usr/local/bin/idle3.5
+  pydoc3.5: /usr/local/bin/pydoc3.5
+  python3.5: /usr/local/bin/python3.5
+  python3.5-config: /usr/local/bin/python3.5-config
+  python3.5m: /usr/local/bin/python3.5m
+  python3.5m-config: /usr/local/bin/python3.5m-config
+  pyvenv-3.5: /usr/local/bin/pyvenv-3.5
+  tclsh8.5: /usr/local/bin/tclsh8.5
+  wish8.5: /usr/local/bin/wish8.5
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config
+  pyvenv: /usr/local/bin/pyvenv

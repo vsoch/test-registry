@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/bcbio-variation
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bcbio-variation
+latest:
+  0.2.6--hdfd78af_4: sha256:a7c6ed07ddb4fee0f3dc5e4f70724c1fa2a8de7a321381a1af272eb7a1c57389
+tags:
+  0.2.6--hdfd78af_4: sha256:a7c6ed07ddb4fee0f3dc5e4f70724c1fa2a8de7a321381a1af272eb7a1c57389
+docker: quay.io/biocontainers/bcbio-variation
+aliases:
+  bcbio-variation: /usr/local/bin/bcbio-variation
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd
+  jconsole: /usr/local/bin/jconsole
+  jdb: /usr/local/bin/jdb
+  jinfo: /usr/local/bin/jinfo

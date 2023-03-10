@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/neptune
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for neptune
+latest:
+  1.2.5--py_3: sha256:55720f01c26422bc1218b46f4d99e3ac46f3d5569545da3ed32b0ff900f7c0c2
+tags:
+  1.2.5--py_3: sha256:55720f01c26422bc1218b46f4d99e3ac46f3d5569545da3ed32b0ff900f7c0c2
+docker: quay.io/biocontainers/neptune
+aliases:
+  neptune: /usr/local/bin/neptune
+  neptune-conda: /usr/local/bin/neptune-conda
+  build.sh: /usr/local/bin/build.sh
+  common.go: /usr/local/bin/common.go
+  rchive.go: /usr/local/bin/rchive.go
+  setup-deps.log: /usr/local/bin/setup-deps.log
+  setup.sh: /usr/local/bin/setup.sh
+  xtract.go: /usr/local/bin/xtract.go
+  metadata_conda_debug.yaml: /usr/local/bin/metadata_conda_debug.yaml
+  bt-context.txt: /usr/local/bin/bt-context.txt
+  bt-link: /usr/local/bin/bt-link
+  bt-load: /usr/local/bin/bt-load
+  bt-save: /usr/local/bin/bt-save
+  bt-srch: /usr/local/bin/bt-srch
+  eblast: /usr/local/bin/eblast
+  pm-index: /usr/local/bin/pm-index
+  pm-invert: /usr/local/bin/pm-invert
+  pm-merge: /usr/local/bin/pm-merge
+  pm-prepare: /usr/local/bin/pm-prepare
+  pm-promote: /usr/local/bin/pm-promote
+  pm-refresh: /usr/local/bin/pm-refresh
+  pm-stash: /usr/local/bin/pm-stash
+  protein-neighbors: /usr/local/bin/protein-neighbors
+  tst-efetch.txt: /usr/local/bin/tst-efetch.txt
+  tst-elink.txt: /usr/local/bin/tst-elink.txt
+  tst-esearch.txt: /usr/local/bin/tst-esearch.txt
+  tst-esummary.txt: /usr/local/bin/tst-esummary.txt

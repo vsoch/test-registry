@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/halla
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for halla
+latest:
+  0.8.17--py36_0: sha256:4c4ae4051f8db1e777892a856a89447478a610d6f9a58858e754ab40637f0848
+tags:
+  0.8.17--py36_0: sha256:4c4ae4051f8db1e777892a856a89447478a610d6f9a58858e754ab40637f0848
+docker: quay.io/biocontainers/halla
+aliases:
+  halla: /usr/local/bin/halla
+  halladata: /usr/local/bin/halladata
+  hallagram: /usr/local/bin/hallagram
+  hallascatter: /usr/local/bin/hallascatter
+  g-ir-doc-tool: /usr/local/bin/g-ir-doc-tool
+  g-ir-annotation-tool: /usr/local/bin/g-ir-annotation-tool
+  g-ir-compiler: /usr/local/bin/g-ir-compiler
+  g-ir-generate: /usr/local/bin/g-ir-generate
+  g-ir-inspect: /usr/local/bin/g-ir-inspect
+  g-ir-scanner: /usr/local/bin/g-ir-scanner
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  f2py3.6: /usr/local/bin/f2py3.6
+  gtk-builder-convert: /usr/local/bin/gtk-builder-convert
+  gtk-demo: /usr/local/bin/gtk-demo
+  gtk-query-immodules-2.0: /usr/local/bin/gtk-query-immodules-2.0
+  gtk-update-icon-cache: /usr/local/bin/gtk-update-icon-cache
+  sip: /usr/local/bin/sip
+  gdk-pixbuf-thumbnailer: /usr/local/bin/gdk-pixbuf-thumbnailer
+  gdk-pixbuf-csource: /usr/local/bin/gdk-pixbuf-csource
+  gdk-pixbuf-pixdata: /usr/local/bin/gdk-pixbuf-pixdata
+  gdk-pixbuf-query-loaders: /usr/local/bin/gdk-pixbuf-query-loaders
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc
+  fixqt4headers.pl: /usr/local/bin/fixqt4headers.pl
+  qlalr: /usr/local/bin/qlalr
+  qml: /usr/local/bin/qml
+  qmleasing: /usr/local/bin/qmleasing

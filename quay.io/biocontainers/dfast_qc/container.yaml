@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/dfast_qc
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for dfast_qc
+latest:
+  0.4.2--hdfd78af_0: sha256:8d57ff93148df75e6eebf28ab35ce4e588127e7ec7921ed00b31d67cba9caf43
+tags:
+  0.4.2--hdfd78af_0: sha256:8d57ff93148df75e6eebf28ab35ce4e588127e7ec7921ed00b31d67cba9caf43
+docker: quay.io/biocontainers/dfast_qc
+aliases:
+  checkm: /usr/local/bin/checkm
+  dfast_qc: /usr/local/bin/dfast_qc
+  dqc_admin_tools.py: /usr/local/bin/dqc_admin_tools.py
+  dqc_initial_setup.sh: /usr/local/bin/dqc_initial_setup.sh
+  pwiz.py: /usr/local/bin/pwiz.py
+  esdcompat: /usr/local/bin/esdcompat
+  jack_alias: /usr/local/bin/jack_alias
+  jack_bufsize: /usr/local/bin/jack_bufsize
+  jack_connect: /usr/local/bin/jack_connect
+  jack_control: /usr/local/bin/jack_control
+  jack_cpu: /usr/local/bin/jack_cpu
+  jack_cpu_load: /usr/local/bin/jack_cpu_load
+  jack_disconnect: /usr/local/bin/jack_disconnect
+  jack_evmon: /usr/local/bin/jack_evmon
+  jack_freewheel: /usr/local/bin/jack_freewheel
+  jack_iodelay: /usr/local/bin/jack_iodelay
+  jack_latent_client: /usr/local/bin/jack_latent_client
+  jack_load: /usr/local/bin/jack_load
+  jack_lsp: /usr/local/bin/jack_lsp
+  jack_metro: /usr/local/bin/jack_metro
+  jack_midi_dump: /usr/local/bin/jack_midi_dump
+  jack_midi_latency_test: /usr/local/bin/jack_midi_latency_test
+  jack_midiseq: /usr/local/bin/jack_midiseq
+  jack_midisine: /usr/local/bin/jack_midisine
+  jack_monitor_client: /usr/local/bin/jack_monitor_client
+  jack_multiple_metro: /usr/local/bin/jack_multiple_metro
+  jack_netsource: /usr/local/bin/jack_netsource
+  jack_property: /usr/local/bin/jack_property
+  jack_rec: /usr/local/bin/jack_rec
+  jack_samplerate: /usr/local/bin/jack_samplerate

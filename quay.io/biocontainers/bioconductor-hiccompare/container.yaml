@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-hiccompare
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-hiccompare
+latest:
+  1.8.0--r36_0: sha256:6c993acbfa82672650843918e120e023a9f5ce2037dd58dd8ce09848da92541e
+tags:
+  1.8.0--r36_0: sha256:6c993acbfa82672650843918e120e023a9f5ce2037dd58dd8ce09848da92541e
+docker: quay.io/biocontainers/bioconductor-hiccompare
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/miru-hero
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for miru-hero
+latest:
+  0.10.0--pyh5e36f6f_0: sha256:c35f4b9201ed8c15f389e902cac1ac0e4e872031518461c3214deb83e29a8aa5
+tags:
+  0.10.0--pyh5e36f6f_0: sha256:c35f4b9201ed8c15f389e902cac1ac0e4e872031518461c3214deb83e29a8aa5
+docker: quay.io/biocontainers/miru-hero
+aliases:
+  MiruHero: /usr/local/bin/MiruHero
+  CA.pm: /usr/local/bin/CA.pm
+  cacert.pem: /usr/local/bin/cacert.pem
+  index-themes: /usr/local/bin/index-themes
+  fetch-extras: /usr/local/bin/fetch-extras
+  go.mod: /usr/local/bin/go.mod
+  go.sum: /usr/local/bin/go.sum
+  hlp-xtract.txt: /usr/local/bin/hlp-xtract.txt
+  index-extras: /usr/local/bin/index-extras
+  pm-collect: /usr/local/bin/pm-collect
+  readme.pdf: /usr/local/bin/readme.pdf
+  bt-context.txt: /usr/local/bin/bt-context.txt
+  bt-link: /usr/local/bin/bt-link
+  bt-load: /usr/local/bin/bt-load
+  bt-save: /usr/local/bin/bt-save
+  bt-srch: /usr/local/bin/bt-srch
+  eblast: /usr/local/bin/eblast
+  pm-index: /usr/local/bin/pm-index
+  pm-invert: /usr/local/bin/pm-invert
+  pm-merge: /usr/local/bin/pm-merge
+  pm-prepare: /usr/local/bin/pm-prepare
+  pm-promote: /usr/local/bin/pm-promote
+  pm-refresh: /usr/local/bin/pm-refresh
+  pm-stash: /usr/local/bin/pm-stash
+  protein-neighbors: /usr/local/bin/protein-neighbors
+  tst-efetch.txt: /usr/local/bin/tst-efetch.txt

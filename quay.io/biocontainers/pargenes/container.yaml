@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/pargenes
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pargenes
+latest:
+  1.2.0--py27h8374a30_0: sha256:95e0089c23d2ebb9235ab1324ac37628ef0da02f2711ea8ebedc0e634a806078
+tags:
+  1.2.0--py27h8374a30_0: sha256:95e0089c23d2ebb9235ab1324ac37628ef0da02f2711ea8ebedc0e634a806078
+docker: quay.io/biocontainers/pargenes
+aliases:
+  pargenes-hpc-debug.py: /usr/local/bin/pargenes-hpc-debug.py
+  pargenes-hpc.py: /usr/local/bin/pargenes-hpc.py
+  pargenes.py: /usr/local/bin/pargenes.py
+  aggregate_profile.pl: /usr/local/bin/aggregate_profile.pl
+  profile2mat.pl: /usr/local/bin/profile2mat.pl
+  mpiCC: /usr/local/bin/mpiCC
+  ompi-clean: /usr/local/bin/ompi-clean
+  ompi-server: /usr/local/bin/ompi-server
+  ompi_info: /usr/local/bin/ompi_info
+  opal_wrapper: /usr/local/bin/opal_wrapper
+  orte-clean: /usr/local/bin/orte-clean
+  orte-info: /usr/local/bin/orte-info
+  orte-server: /usr/local/bin/orte-server
+  ortecc: /usr/local/bin/ortecc
+  orted: /usr/local/bin/orted
+  orterun: /usr/local/bin/orterun
+  mpifort: /usr/local/bin/mpifort
+  mpic++: /usr/local/bin/mpic++
+  mpicc: /usr/local/bin/mpicc
+  mpicxx: /usr/local/bin/mpicxx
+  mpiexec: /usr/local/bin/mpiexec
+  mpif77: /usr/local/bin/mpif77
+  mpif90: /usr/local/bin/mpif90
+  mpirun: /usr/local/bin/mpirun
+  jaotc: /usr/local/bin/jaotc
+  python2-config: /usr/local/bin/python2-config
+  python2.7-config: /usr/local/bin/python2.7-config
+  python2: /usr/local/bin/python2

@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/break-point-inspector
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for break-point-inspector
+latest:
+  1.5--1: sha256:8b9e82642f820e23986c65c77c3f2d3137d4796570508679375713175a74ee6b
+tags:
+  1.5--1: sha256:8b9e82642f820e23986c65c77c3f2d3137d4796570508679375713175a74ee6b
+docker: quay.io/biocontainers/break-point-inspector
+aliases:
+  break-point-inspector: /usr/local/bin/break-point-inspector
+  extcheck: /usr/local/bin/extcheck
+  java-rmi.cgi: /usr/local/bin/java-rmi.cgi
+  javah: /usr/local/bin/javah
+  jhat: /usr/local/bin/jhat
+  jsadebugd: /usr/local/bin/jsadebugd
+  native2ascii: /usr/local/bin/native2ascii
+  policytool: /usr/local/bin/policytool
+  appletviewer: /usr/local/bin/appletviewer
+  idlj: /usr/local/bin/idlj
+  orbd: /usr/local/bin/orbd
+  schemagen: /usr/local/bin/schemagen
+  servertool: /usr/local/bin/servertool
+  tnameserv: /usr/local/bin/tnameserv
+  wsgen: /usr/local/bin/wsgen
+  wsimport: /usr/local/bin/wsimport
+  xjc: /usr/local/bin/xjc
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java

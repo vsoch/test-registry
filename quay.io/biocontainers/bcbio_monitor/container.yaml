@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/bcbio_monitor
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bcbio_monitor
+latest:
+  1.0.6--py_4: sha256:a30e77bae8ebfbc3b1a3c964dd9eba6c080cb0fe9f8bedb81f9053f3d92c739c
+tags:
+  1.0.6--py_4: sha256:a30e77bae8ebfbc3b1a3c964dd9eba6c080cb0fe9f8bedb81f9053f3d92c739c
+docker: quay.io/biocontainers/bcbio_monitor
+aliases:
+  bcbio_monitor: /usr/local/bin/bcbio_monitor
+  flask: /usr/local/bin/flask
+  cxpm: /usr/local/bin/cxpm
+  sxpm: /usr/local/bin/sxpm
+  acyclic: /usr/local/bin/acyclic
+  bcomps: /usr/local/bin/bcomps
+  ccomps: /usr/local/bin/ccomps
+  circo: /usr/local/bin/circo
+  dijkstra: /usr/local/bin/dijkstra
+  dot: /usr/local/bin/dot
+  dot2gxl: /usr/local/bin/dot2gxl
+  dot_builtins: /usr/local/bin/dot_builtins
+  edgepaint: /usr/local/bin/edgepaint
+  fdp: /usr/local/bin/fdp
+  gml2gv: /usr/local/bin/gml2gv
+  graphml2gv: /usr/local/bin/graphml2gv
+  gv2gml: /usr/local/bin/gv2gml
+  gv2gxl: /usr/local/bin/gv2gxl
+  gvcolor: /usr/local/bin/gvcolor
+  gvgen: /usr/local/bin/gvgen
+  gvmap: /usr/local/bin/gvmap
+  gvmap.sh: /usr/local/bin/gvmap.sh
+  gvpack: /usr/local/bin/gvpack
+  gvpr: /usr/local/bin/gvpr
+  gxl2dot: /usr/local/bin/gxl2dot
+  gxl2gv: /usr/local/bin/gxl2gv

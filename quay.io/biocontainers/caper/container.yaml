@@ -1,0 +1,48 @@
+url: https://biocontainers.pro/tools/caper
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for caper
+latest:
+  1.1.0--py_0: sha256:92f482ea771f9a097030d21dea4ed9720400cea5b4d56b5d0c37e23477e55a67
+tags:
+  1.1.0--py_0: sha256:92f482ea771f9a097030d21dea4ed9720400cea5b4d56b5d0c37e23477e55a67
+docker: quay.io/biocontainers/caper
+aliases:
+  autouri: /usr/local/bin/autouri
+  aws: /usr/local/bin/aws
+  aws.cmd: /usr/local/bin/aws.cmd
+  aws_bash_completer: /usr/local/bin/aws_bash_completer
+  aws_completer: /usr/local/bin/aws_completer
+  aws_zsh_completer.sh: /usr/local/bin/aws_zsh_completer.sh
+  caper: /usr/local/bin/caper
+  create_instance.sh: /usr/local/bin/create_instance.sh
+  miniwdl: /usr/local/bin/miniwdl
+  pygtail: /usr/local/bin/pygtail
+  pyhocon: /usr/local/bin/pyhocon
+  run_mysql_server_docker.sh: /usr/local/bin/run_mysql_server_docker.sh
+  run_mysql_server_singularity.sh: /usr/local/bin/run_mysql_server_singularity.sh
+  wsdump.py: /usr/local/bin/wsdump.py
+  pyrsa-decrypt-bigfile: /usr/local/bin/pyrsa-decrypt-bigfile
+  pyrsa-encrypt-bigfile: /usr/local/bin/pyrsa-encrypt-bigfile
+  coloredlogs: /usr/local/bin/coloredlogs
+  humanfriendly: /usr/local/bin/humanfriendly
+  jp.py: /usr/local/bin/jp.py
+  py.test: /usr/local/bin/py.test
+  pytest: /usr/local/bin/pytest
+  pyrsa-decrypt: /usr/local/bin/pyrsa-decrypt
+  pyrsa-encrypt: /usr/local/bin/pyrsa-encrypt
+  pyrsa-keygen: /usr/local/bin/pyrsa-keygen
+  pyrsa-priv2pub: /usr/local/bin/pyrsa-priv2pub
+  pyrsa-sign: /usr/local/bin/pyrsa-sign
+  pyrsa-verify: /usr/local/bin/pyrsa-verify
+  rst2html4.py: /usr/local/bin/rst2html4.py
+  rst2html5.py: /usr/local/bin/rst2html5.py
+  rst2html.py: /usr/local/bin/rst2html.py
+  rst2latex.py: /usr/local/bin/rst2latex.py
+  rst2man.py: /usr/local/bin/rst2man.py
+  rst2odt.py: /usr/local/bin/rst2odt.py
+  rst2odt_prepstyles.py: /usr/local/bin/rst2odt_prepstyles.py
+  rst2pseudoxml.py: /usr/local/bin/rst2pseudoxml.py
+  rst2s5.py: /usr/local/bin/rst2s5.py
+  rst2xetex.py: /usr/local/bin/rst2xetex.py
+  rst2xml.py: /usr/local/bin/rst2xml.py
+  rstpep2html.py: /usr/local/bin/rstpep2html.py

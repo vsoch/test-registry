@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-levi
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-levi
+latest:
+  1.8.0--r40h399db7b_1: sha256:9091bb30d944faafa6efa40b297de725a578dfa8052712364e48184efaeee11e
+tags:
+  1.8.0--r40h399db7b_1: sha256:9091bb30d944faafa6efa40b297de725a578dfa8052712364e48184efaeee11e
+docker: quay.io/biocontainers/bioconductor-levi
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

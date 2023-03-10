@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-mapscape
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-mapscape
+latest:
+  1.8.0--r361_1: sha256:cc2dc6b0bf25e581425e85300b673a4609fd98315858274fedad19413dc5c01b
+tags:
+  1.8.0--r361_1: sha256:cc2dc6b0bf25e581425e85300b673a4609fd98315858274fedad19413dc5c01b
+docker: quay.io/biocontainers/bioconductor-mapscape
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

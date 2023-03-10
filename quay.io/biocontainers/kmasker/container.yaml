@@ -1,0 +1,43 @@
+url: https://biocontainers.pro/tools/kmasker
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for kmasker
+latest:
+  1.1.1--py38pl5321r41h4a32c8e_4: sha256:ede1044175023763cec1c569a63c7d1fa6e19d5cfb1110795f30f70bb297b0dc
+tags:
+  1.1.1--py38pl5321r41h4a32c8e_4: sha256:ede1044175023763cec1c569a63c7d1fa6e19d5cfb1110795f30f70bb297b0dc
+docker: quay.io/biocontainers/kmasker
+aliases:
+  Kmasker: /usr/local/bin/Kmasker
+  cmasker: /usr/local/bin/cmasker
+  fastq-clipper: /usr/local/bin/fastq-clipper
+  fastq-join: /usr/local/bin/fastq-join
+  fastq-mcf: /usr/local/bin/fastq-mcf
+  fastq-multx: /usr/local/bin/fastq-multx
+  fastq-stats: /usr/local/bin/fastq-stats
+  gffread: /usr/local/bin/gffread
+  which: /usr/local/bin/which
+  jemalloc-config: /usr/local/bin/jemalloc-config
+  jeprof: /usr/local/bin/jeprof
+  jemalloc.sh: /usr/local/bin/jemalloc.sh
+  jellyfish: /usr/local/bin/jellyfish
+  basenc: /usr/local/bin/basenc
+  b2sum: /usr/local/bin/b2sum
+  ls: /usr/local/bin/ls
+  base32: /usr/local/bin/base32
+  base64: /usr/local/bin/base64
+  basename: /usr/local/bin/basename
+  cat: /usr/local/bin/cat
+  chcon: /usr/local/bin/chcon
+  chgrp: /usr/local/bin/chgrp
+  chmod: /usr/local/bin/chmod
+  chown: /usr/local/bin/chown
+  chroot: /usr/local/bin/chroot
+  cksum: /usr/local/bin/cksum
+  comm: /usr/local/bin/comm
+  cp: /usr/local/bin/cp
+  csplit: /usr/local/bin/csplit
+  cut: /usr/local/bin/cut
+  date: /usr/local/bin/date
+  dd: /usr/local/bin/dd
+  df: /usr/local/bin/df
+  dir: /usr/local/bin/dir

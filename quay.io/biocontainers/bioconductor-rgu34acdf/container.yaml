@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-rgu34acdf
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-rgu34acdf
+latest:
+  2.18.0--r41hdfd78af_9: sha256:a57f0e9e3da0980d11f56daccaa085c531c1267450ff1cace1883934daed6297
+tags:
+  2.18.0--r41hdfd78af_9: sha256:a57f0e9e3da0980d11f56daccaa085c531c1267450ff1cace1883934daed6297
+docker: quay.io/biocontainers/bioconductor-rgu34acdf

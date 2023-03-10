@@ -1,0 +1,45 @@
+url: https://biocontainers.pro/tools/lotus2
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for lotus2
+latest:
+  2.21--hdfd78af_0: sha256:bbcf2903a884af263aba5f55020c29dcb68749fa51873d59d0959737a6400f4d
+tags:
+  2.21--hdfd78af_0: sha256:bbcf2903a884af263aba5f55020c29dcb68749fa51873d59d0959737a6400f4d
+docker: quay.io/biocontainers/lotus2
+aliases:
+  ITSx: /usr/local/bin/ITSx
+  LCA: /usr/local/bin/LCA
+  amplicon_contingency_table.py: /usr/local/bin/amplicon_contingency_table.py
+  graph_plot.py: /usr/local/bin/graph_plot.py
+  lambda: /usr/local/bin/lambda
+  lambda_indexer: /usr/local/bin/lambda_indexer
+  lotus2: /usr/local/bin/lotus2
+  rdp_classifier: /usr/local/bin/rdp_classifier
+  rtk: /usr/local/bin/rtk
+  sdm: /usr/local/bin/sdm
+  swarm: /usr/local/bin/swarm
+  iqtree2: /usr/local/bin/iqtree2
+  zip: /usr/local/bin/zip
+  clustalo: /usr/local/bin/clustalo
+  iqtree: /usr/local/bin/iqtree
+  funzip: /usr/local/bin/funzip
+  unzipsfx: /usr/local/bin/unzipsfx
+  zipgrep: /usr/local/bin/zipgrep
+  zipinfo: /usr/local/bin/zipinfo
+  vsearch: /usr/local/bin/vsearch
+  igraph: /usr/local/bin/igraph
+  unzip: /usr/local/bin/unzip
+  FET.pl: /usr/local/bin/FET.pl
+  cd-hit-clstr_2_blm8.pl: /usr/local/bin/cd-hit-clstr_2_blm8.pl
+  clstr_list.pl: /usr/local/bin/clstr_list.pl
+  clstr_list_sort.pl: /usr/local/bin/clstr_list_sort.pl
+  cd-hit: /usr/local/bin/cd-hit
+  cd-hit-2d: /usr/local/bin/cd-hit-2d
+  cd-hit-2d-para.pl: /usr/local/bin/cd-hit-2d-para.pl
+  cd-hit-454: /usr/local/bin/cd-hit-454
+  cd-hit-div: /usr/local/bin/cd-hit-div
+  cd-hit-div.pl: /usr/local/bin/cd-hit-div.pl
+  cd-hit-est-2d: /usr/local/bin/cd-hit-est-2d
+  cd-hit-para.pl: /usr/local/bin/cd-hit-para.pl
+  clstr2tree.pl: /usr/local/bin/clstr2tree.pl
+  clstr2txt.pl: /usr/local/bin/clstr2txt.pl

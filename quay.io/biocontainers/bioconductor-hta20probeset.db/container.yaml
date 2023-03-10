@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-hta20probeset.db
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-hta20probeset.db
+latest:
+  8.8.0--r41hdfd78af_1: sha256:89ec17f27083ca1f69270d05318c4344f19f1a5713c3923f67fcb0346c817e43
+tags:
+  8.8.0--r41hdfd78af_1: sha256:89ec17f27083ca1f69270d05318c4344f19f1a5713c3923f67fcb0346c817e43
+docker: quay.io/biocontainers/bioconductor-hta20probeset.db

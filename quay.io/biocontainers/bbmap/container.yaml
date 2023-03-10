@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/bbmap
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bbmap
+latest:
+  38.79--h516909a_0: sha256:f12df79cf92bbc50effabab6cda944c128954295340070e5a3bdc2c991a65b87
+tags:
+  38.79--h516909a_0: sha256:f12df79cf92bbc50effabab6cda944c128954295340070e5a3bdc2c991a65b87
+docker: quay.io/biocontainers/bbmap
+aliases:
+  bbmap.sh: /usr/local/bin/bbmap.sh
+  bbmapskimmer.sh: /usr/local/bin/bbmapskimmer.sh
+  demuxbyname2.sh: /usr/local/bin/demuxbyname2.sh
+  alltoall.sh: /usr/local/bin/alltoall.sh
+  analyzesketchresults.sh: /usr/local/bin/analyzesketchresults.sh
+  comparessu.sh: /usr/local/bin/comparessu.sh
+  filtersilva.sh: /usr/local/bin/filtersilva.sh
+  sketchblacklist2.sh: /usr/local/bin/sketchblacklist2.sh
+  splitribo.sh: /usr/local/bin/splitribo.sh
+  addssu.sh: /usr/local/bin/addssu.sh
+  adjusthomopolymers.sh: /usr/local/bin/adjusthomopolymers.sh
+  analyzeaccession.sh: /usr/local/bin/analyzeaccession.sh
+  analyzegenes.sh: /usr/local/bin/analyzegenes.sh
+  applyvariants.sh: /usr/local/bin/applyvariants.sh
+  bbcms.sh: /usr/local/bin/bbcms.sh
+  bloomfilter.sh: /usr/local/bin/bloomfilter.sh
+  callgenes.sh: /usr/local/bin/callgenes.sh
+  comparegff.sh: /usr/local/bin/comparegff.sh
+  consensus.sh: /usr/local/bin/consensus.sh
+  cutgff.sh: /usr/local/bin/cutgff.sh
+  fetchproks.sh: /usr/local/bin/fetchproks.sh
+  filterqc.sh: /usr/local/bin/filterqc.sh
+  fixgaps.sh: /usr/local/bin/fixgaps.sh
+  gbff2gff.sh: /usr/local/bin/gbff2gff.sh
+  icecreamfinder.sh: /usr/local/bin/icecreamfinder.sh
+  icecreamgrader.sh: /usr/local/bin/icecreamgrader.sh
+  icecreammaker.sh: /usr/local/bin/icecreammaker.sh
+  kapastats.sh: /usr/local/bin/kapastats.sh

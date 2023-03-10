@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/riassigner
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for riassigner
+latest:
+  0.3.3--pyhdfd78af_0: sha256:a4b56c866a9df417109b67788662226b2d1a58343891f542175f8592ed207cdc
+tags:
+  0.3.3--pyhdfd78af_0: sha256:a4b56c866a9df417109b67788662226b2d1a58343891f542175f8592ed207cdc
+docker: quay.io/biocontainers/riassigner
+aliases:
+  pint-convert: /usr/local/bin/pint-convert
+  xml2-config.bak: /usr/local/bin/xml2-config.bak
+  numba: /usr/local/bin/numba
+  pycc: /usr/local/bin/pycc
+  xslt-config: /usr/local/bin/xslt-config
+  xsltproc: /usr/local/bin/xsltproc
+  f2py3.8: /usr/local/bin/f2py3.8
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  brotli: /usr/local/bin/brotli
+  normalizer: /usr/local/bin/normalizer
+  img2webp: /usr/local/bin/img2webp
+  cwebp: /usr/local/bin/cwebp
+  dwebp: /usr/local/bin/dwebp
+  gif2webp: /usr/local/bin/gif2webp
+  opj_compress: /usr/local/bin/opj_compress
+  opj_decompress: /usr/local/bin/opj_decompress
+  opj_dump: /usr/local/bin/opj_dump
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config
+  gif2rgb: /usr/local/bin/gif2rgb

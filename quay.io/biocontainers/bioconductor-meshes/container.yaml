@@ -1,0 +1,13 @@
+url: https://biocontainers.pro/tools/bioconductor-meshes
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-meshes
+latest:
+  1.8.0--r351_0: sha256:4052fcdbf57a02a068208fc6bc09c5b44f4fe5e3c47986b785eb0907883ae2b9
+tags:
+  1.8.0--r351_0: sha256:4052fcdbf57a02a068208fc6bc09c5b44f4fe5e3c47986b785eb0907883ae2b9
+docker: quay.io/biocontainers/bioconductor-meshes
+aliases:
+  udunits2: /usr/local/bin/udunits2
+  wget: /usr/local/bin/wget
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

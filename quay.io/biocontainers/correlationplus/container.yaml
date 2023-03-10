@@ -1,0 +1,41 @@
+url: https://biocontainers.pro/tools/correlationplus
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for correlationplus
+latest:
+  0.2.1--pyh5e36f6f_0: sha256:77e2f3c9e1eecc8d98b5689fe20d416eb72a01be22c3ca864dce544572913d96
+tags:
+  0.2.1--pyh5e36f6f_0: sha256:77e2f3c9e1eecc8d98b5689fe20d416eb72a01be22c3ca864dce544572913d96
+docker: quay.io/biocontainers/correlationplus
+aliases:
+  correlationplus: /usr/local/bin/correlationplus
+  evol: /usr/local/bin/evol
+  gsd: /usr/local/bin/gsd
+  nc3tonc4: /usr/local/bin/nc3tonc4
+  nc4tonc3: /usr/local/bin/nc4tonc3
+  ncinfo: /usr/local/bin/ncinfo
+  prody: /usr/local/bin/prody
+  zipcmp: /usr/local/bin/zipcmp
+  zipmerge: /usr/local/bin/zipmerge
+  ziptool: /usr/local/bin/ziptool
+  numba: /usr/local/bin/numba
+  pycc: /usr/local/bin/pycc
+  gif2hdf: /usr/local/bin/gif2hdf
+  h4_ncdump: /usr/local/bin/h4_ncdump
+  h4_ncgen: /usr/local/bin/h4_ncgen
+  h4cc: /usr/local/bin/h4cc
+  h4redeploy: /usr/local/bin/h4redeploy
+  hdf24to8: /usr/local/bin/hdf24to8
+  hdf2gif: /usr/local/bin/hdf2gif
+  hdf2jpeg: /usr/local/bin/hdf2jpeg
+  hdf8to24: /usr/local/bin/hdf8to24
+  hdfcomp: /usr/local/bin/hdfcomp
+  hdfed: /usr/local/bin/hdfed
+  hdfimport: /usr/local/bin/hdfimport
+  hdfls: /usr/local/bin/hdfls
+  hdfpack: /usr/local/bin/hdfpack
+  hdftopal: /usr/local/bin/hdftopal
+  hdftor8: /usr/local/bin/hdftor8
+  hdfunpac: /usr/local/bin/hdfunpac
+  hdiff: /usr/local/bin/hdiff
+  hdp: /usr/local/bin/hdp
+  hrepack: /usr/local/bin/hrepack

@@ -1,0 +1,19 @@
+url: https://biocontainers.pro/tools/pileuppy
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pileuppy
+latest:
+  1.1.1--py_0: sha256:5966ca80f4b050481214219ccb84318ad6d4e9a022d37f5db1820078424f44f0
+tags:
+  1.1.1--py_0: sha256:5966ca80f4b050481214219ccb84318ad6d4e9a022d37f5db1820078424f44f0
+docker: quay.io/biocontainers/pileuppy
+aliases:
+  pileuppy: /usr/local/bin/pileuppy
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  pyvenv: /usr/local/bin/pyvenv

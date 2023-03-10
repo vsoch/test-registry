@@ -1,0 +1,26 @@
+url: https://biocontainers.pro/tools/breseq
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for breseq
+latest:
+  0.37.1--h5b5514e_0: sha256:a6200568daae92ababf6a575aba17899f2d0b355edf233a8c1644fdc81d07eb0
+tags:
+  0.37.1--h5b5514e_0: sha256:a6200568daae92ababf6a575aba17899f2d0b355edf233a8c1644fdc81d07eb0
+docker: quay.io/biocontainers/breseq
+aliases:
+  breseq: /usr/local/bin/breseq
+  gdtools: /usr/local/bin/gdtools
+  bowtie2: /usr/local/bin/bowtie2
+  bowtie2-align-l: /usr/local/bin/bowtie2-align-l
+  bowtie2-align-s: /usr/local/bin/bowtie2-align-s
+  bowtie2-build: /usr/local/bin/bowtie2-build
+  bowtie2-build-l: /usr/local/bin/bowtie2-build-l
+  bowtie2-build-s: /usr/local/bin/bowtie2-build-s
+  bowtie2-inspect: /usr/local/bin/bowtie2-inspect
+  bowtie2-inspect-l: /usr/local/bin/bowtie2-inspect-l
+  bowtie2-inspect-s: /usr/local/bin/bowtie2-inspect-s
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-wheatprobe
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-wheatprobe
+latest:
+  2.18.0--r41hdfd78af_9: sha256:444bc9708fc582c5b519ca4fbdb92fcc829faf9af66cbfa31450581eba8a89bb
+tags:
+  2.18.0--r41hdfd78af_9: sha256:444bc9708fc582c5b519ca4fbdb92fcc829faf9af66cbfa31450581eba8a89bb
+docker: quay.io/biocontainers/bioconductor-wheatprobe

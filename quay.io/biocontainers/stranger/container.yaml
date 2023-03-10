@@ -1,0 +1,18 @@
+url: https://biocontainers.pro/tools/stranger
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for stranger
+latest:
+  0.8.1--pyh5e36f6f_0: sha256:13ebb3c62e57a1577ed568f34ec0fe1d32ef24202a5658453697e535e8148b2c
+tags:
+  0.8.1--pyh5e36f6f_0: sha256:13ebb3c62e57a1577ed568f34ec0fe1d32ef24202a5658453697e535e8148b2c
+docker: quay.io/biocontainers/stranger
+aliases:
+  stranger: /usr/local/bin/stranger
+  coloredlogs: /usr/local/bin/coloredlogs
+  humanfriendly: /usr/local/bin/humanfriendly
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

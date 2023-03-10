@@ -1,0 +1,17 @@
+url: https://biocontainers.pro/tools/r-reshape2
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-reshape2
+latest:
+  1.4.3: sha256:afe918d61e9228e890b0f4e8f77758c9a5c40bb4da27855378ef25f847edd416
+tags:
+  1.4.3: sha256:afe918d61e9228e890b0f4e8f77758c9a5c40bb4da27855378ef25f847edd416
+docker: quay.io/biocontainers/r-reshape2
+aliases:
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

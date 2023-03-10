@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/mpa-portable
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for mpa-portable
+latest:
+  2.0.0--hdfd78af_3: sha256:82b84b33772a22ebd5b6044be3a048ed97c728b10e24482b5dcc1538665d1a95
+tags:
+  2.0.0--hdfd78af_3: sha256:82b84b33772a22ebd5b6044be3a048ed97c728b10e24482b5dcc1538665d1a95
+docker: quay.io/biocontainers/mpa-portable
+aliases:
+  comet: /usr/local/bin/comet
+  comet.exe: /usr/local/bin/comet.exe
+  mpa-portable: /usr/local/bin/mpa-portable
+  xtandem: /usr/local/bin/xtandem
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd
+  jconsole: /usr/local/bin/jconsole
+  jdb: /usr/local/bin/jdb
+  jinfo: /usr/local/bin/jinfo

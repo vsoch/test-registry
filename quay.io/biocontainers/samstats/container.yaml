@@ -1,0 +1,22 @@
+url: https://biocontainers.pro/tools/samstats
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for samstats
+latest:
+  0.2.2--py_0: sha256:cc397b097bcd1e7dd1f0f25348ca397c3919c71009b607fe13aa709dc3568e63
+tags:
+  0.2.2--py_0: sha256:cc397b097bcd1e7dd1f0f25348ca397c3919c71009b607fe13aa709dc3568e63
+docker: quay.io/biocontainers/samstats
+aliases:
+  SAMstats: /usr/local/bin/SAMstats
+  SAMstatsParallel: /usr/local/bin/SAMstatsParallel
+  get_objgraph: /usr/local/bin/get_objgraph
+  undill: /usr/local/bin/undill
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  pyvenv: /usr/local/bin/pyvenv

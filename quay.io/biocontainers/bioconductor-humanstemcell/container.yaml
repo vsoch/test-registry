@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-humanstemcell
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-humanstemcell
+latest:
+  0.34.0--r41hdfd78af_1: sha256:4b8d46e1d738ebd8470b72ea25dc9fff33b5f9e95cb3b26e5dbeac478da89f36
+tags:
+  0.34.0--r41hdfd78af_1: sha256:4b8d46e1d738ebd8470b72ea25dc9fff33b5f9e95cb3b26e5dbeac478da89f36
+docker: quay.io/biocontainers/bioconductor-humanstemcell

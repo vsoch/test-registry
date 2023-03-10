@@ -1,0 +1,42 @@
+url: https://biocontainers.pro/tools/epytope
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for epytope
+latest:
+  3.1.0--pyh5e36f6f_0: sha256:5516aca1093fd09e4da49bd6e1d248703426ccec06cced9995f1e16bb36e2fe9
+tags:
+  3.1.0--pyh5e36f6f_0: sha256:5516aca1093fd09e4da49bd6e1d248703426ccec06cced9995f1e16bb36e2fe9
+docker: quay.io/biocontainers/epytope
+aliases:
+  mhcflurry-calibrate-percentile-ranks: /usr/local/bin/mhcflurry-calibrate-percentile-ranks
+  mhcflurry-class1-select-allele-specific-models: /usr/local/bin/mhcflurry-class1-select-allele-specific-models
+  mhcflurry-class1-select-pan-allele-models: /usr/local/bin/mhcflurry-class1-select-pan-allele-models
+  mhcflurry-class1-train-allele-specific-models: /usr/local/bin/mhcflurry-class1-train-allele-specific-models
+  mhcflurry-class1-train-pan-allele-models: /usr/local/bin/mhcflurry-class1-train-pan-allele-models
+  mhcflurry-downloads: /usr/local/bin/mhcflurry-downloads
+  mhcflurry-predict: /usr/local/bin/mhcflurry-predict
+  pyomo: /usr/local/bin/pyomo
+  theano-cache: /usr/local/bin/theano-cache
+  theano-nose: /usr/local/bin/theano-nose
+  freeze_graph: /usr/local/bin/freeze_graph
+  mako-render: /usr/local/bin/mako-render
+  tf_upgrade_v2: /usr/local/bin/tf_upgrade_v2
+  tflite_convert: /usr/local/bin/tflite_convert
+  saved_model_cli: /usr/local/bin/saved_model_cli
+  toco: /usr/local/bin/toco
+  toco_from_protos: /usr/local/bin/toco_from_protos
+  grpc_cpp_plugin: /usr/local/bin/grpc_cpp_plugin
+  grpc_csharp_plugin: /usr/local/bin/grpc_csharp_plugin
+  grpc_node_plugin: /usr/local/bin/grpc_node_plugin
+  grpc_objective_c_plugin: /usr/local/bin/grpc_objective_c_plugin
+  grpc_php_plugin: /usr/local/bin/grpc_php_plugin
+  grpc_python_plugin: /usr/local/bin/grpc_python_plugin
+  grpc_ruby_plugin: /usr/local/bin/grpc_ruby_plugin
+  tensorboard: /usr/local/bin/tensorboard
+  vcf_sample_filter.py: /usr/local/bin/vcf_sample_filter.py
+  vcf_filter.py: /usr/local/bin/vcf_filter.py
+  vcf_melt: /usr/local/bin/vcf_melt
+  markdown_py: /usr/local/bin/markdown_py
+  protoc: /usr/local/bin/protoc
+  futurize: /usr/local/bin/futurize
+  pasteurize: /usr/local/bin/pasteurize
+  tqdm: /usr/local/bin/tqdm

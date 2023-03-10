@@ -1,0 +1,19 @@
+url: https://biocontainers.pro/tools/rpkmforgenes
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for rpkmforgenes
+latest:
+  1.0.1--hdfd78af_3: sha256:8c6476d0d8ce2e994f31e627fbc68fc99435d33f4cef1a1be471c399046e465e
+tags:
+  1.0.1--hdfd78af_3: sha256:8c6476d0d8ce2e994f31e627fbc68fc99435d33f4cef1a1be471c399046e465e
+docker: quay.io/biocontainers/rpkmforgenes
+aliases:
+  rpkmforgenes.py: /usr/local/bin/rpkmforgenes.py
+  f2py2: /usr/local/bin/f2py2
+  f2py2.7: /usr/local/bin/f2py2.7
+  python2-config: /usr/local/bin/python2-config
+  python2.7-config: /usr/local/bin/python2.7-config
+  python2: /usr/local/bin/python2
+  python2.7: /usr/local/bin/python2.7
+  idle: /usr/local/bin/idle
+  python-config: /usr/local/bin/python-config
+  smtpd.py: /usr/local/bin/smtpd.py

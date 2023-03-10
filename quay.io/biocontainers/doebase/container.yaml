@@ -1,0 +1,27 @@
+url: https://biocontainers.pro/tools/doebase
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for doebase
+latest:
+  2.0.2: sha256:359898a4daa75c8e484e3c1eeb89536bc7db0c807a7d86ee6c7c67f881e6dd60
+tags:
+  2.0.2: sha256:359898a4daa75c8e484e3c1eeb89536bc7db0c807a7d86ee6c7c67f881e6dd60
+docker: quay.io/biocontainers/doebase
+aliases:
+  csv2rdf: /usr/local/bin/csv2rdf
+  rdf2dot: /usr/local/bin/rdf2dot
+  rdfgraphisomorphism: /usr/local/bin/rdfgraphisomorphism
+  rdfpipe: /usr/local/bin/rdfpipe
+  rdfs2dot: /usr/local/bin/rdfs2dot
+  xslt-config: /usr/local/bin/xslt-config
+  xsltproc: /usr/local/bin/xsltproc
+  f2py3.7: /usr/local/bin/f2py3.7
+  normalizer: /usr/local/bin/normalizer
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  pyvenv: /usr/local/bin/pyvenv

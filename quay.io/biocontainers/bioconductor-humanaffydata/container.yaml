@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-humanaffydata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-humanaffydata
+latest:
+  1.8.0--r351_0: sha256:1ba79b3dc661daf357d765003cb7bbaf768c5d697f07758eb4a1926f940ce970
+tags:
+  1.8.0--r351_0: sha256:1ba79b3dc661daf357d765003cb7bbaf768c5d697f07758eb4a1926f940ce970
+docker: quay.io/biocontainers/bioconductor-humanaffydata
+aliases:
+  wget: /usr/local/bin/wget
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

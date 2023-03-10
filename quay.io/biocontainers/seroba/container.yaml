@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/seroba
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for seroba
+latest:
+  1.0.2--pyhdfd78af_1: sha256:36b6ec2c8091d38c0efd4814491e64886e48eaf41b434b5d1baf6ba95ddfef8b
+tags:
+  1.0.2--pyhdfd78af_1: sha256:36b6ec2c8091d38c0efd4814491e64886e48eaf41b434b5d1baf6ba95ddfef8b
+docker: quay.io/biocontainers/seroba
+aliases:
+  ariba: /usr/local/bin/ariba
+  seroba: /usr/local/bin/seroba
+  fastaq: /usr/local/bin/fastaq
+  kmc: /usr/local/bin/kmc
+  kmc_dump: /usr/local/bin/kmc_dump
+  kmc_tools: /usr/local/bin/kmc_tools
+  cds-mapping-stats: /usr/local/bin/cds-mapping-stats
+  cds-subgraphs: /usr/local/bin/cds-subgraphs
+  mag-improve: /usr/local/bin/mag-improve
+  spades-convert-bin-to-fasta: /usr/local/bin/spades-convert-bin-to-fasta
+  spades-gsimplifier: /usr/local/bin/spades-gsimplifier
+  spades-kmer-estimating: /usr/local/bin/spades-kmer-estimating
+  spades-read-filter: /usr/local/bin/spades-read-filter
+  spaligner: /usr/local/bin/spaligner
+  FET.pl: /usr/local/bin/FET.pl
+  cd-hit-clstr_2_blm8.pl: /usr/local/bin/cd-hit-clstr_2_blm8.pl
+  clstr_list.pl: /usr/local/bin/clstr_list.pl
+  clstr_list_sort.pl: /usr/local/bin/clstr_list_sort.pl
+  cd-hit: /usr/local/bin/cd-hit
+  cd-hit-2d: /usr/local/bin/cd-hit-2d
+  cd-hit-2d-para.pl: /usr/local/bin/cd-hit-2d-para.pl
+  cd-hit-454: /usr/local/bin/cd-hit-454
+  cd-hit-div: /usr/local/bin/cd-hit-div
+  cd-hit-div.pl: /usr/local/bin/cd-hit-div.pl
+  cd-hit-est-2d: /usr/local/bin/cd-hit-est-2d
+  cd-hit-para.pl: /usr/local/bin/cd-hit-para.pl
+  clstr2tree.pl: /usr/local/bin/clstr2tree.pl

@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/biofluff
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for biofluff
+latest:
+  3.0.4--py_0: sha256:de3bcfe7a39627baab3ef4f957a96299dfb78075ecb90bc4aa7f772051802064
+tags:
+  3.0.4--py_0: sha256:de3bcfe7a39627baab3ef4f957a96299dfb78075ecb90bc4aa7f772051802064
+docker: quay.io/biocontainers/biofluff
+aliases:
+  fluff: /usr/local/bin/fluff
+  htseq-count-barcodes: /usr/local/bin/htseq-count-barcodes
+  htseq-count: /usr/local/bin/htseq-count
+  htseq-qa: /usr/local/bin/htseq-qa
+  intersection_matrix.py: /usr/local/bin/intersection_matrix.py
+  intron_exon_reads.py: /usr/local/bin/intron_exon_reads.py
+  pbt_plotting_example.py: /usr/local/bin/pbt_plotting_example.py
+  peak_pie.py: /usr/local/bin/peak_pie.py
+  pybedtools: /usr/local/bin/pybedtools
+  venn_gchart.py: /usr/local/bin/venn_gchart.py
+  venn_mpl.py: /usr/local/bin/venn_mpl.py
+  annotate.py: /usr/local/bin/annotate.py
+  shiftBed: /usr/local/bin/shiftBed
+  annotateBed: /usr/local/bin/annotateBed
+  bamToBed: /usr/local/bin/bamToBed
+  bamToFastq: /usr/local/bin/bamToFastq
+  bed12ToBed6: /usr/local/bin/bed12ToBed6
+  bedToBam: /usr/local/bin/bedToBam
+  bedToIgv: /usr/local/bin/bedToIgv
+  bedpeToBam: /usr/local/bin/bedpeToBam
+  bedtools: /usr/local/bin/bedtools
+  closestBed: /usr/local/bin/closestBed
+  clusterBed: /usr/local/bin/clusterBed
+  complementBed: /usr/local/bin/complementBed
+  coverageBed: /usr/local/bin/coverageBed
+  expandCols: /usr/local/bin/expandCols

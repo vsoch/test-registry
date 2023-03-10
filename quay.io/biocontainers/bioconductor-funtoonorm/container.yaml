@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-funtoonorm
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-funtoonorm
+latest:
+  1.8.0--r36_1: sha256:875d6306e98638ccd2ed62b4dbea698a8d6d5b94c905ba1d047ba97fffc46fab
+tags:
+  1.8.0--r36_1: sha256:875d6306e98638ccd2ed62b4dbea698a8d6d5b94c905ba1d047ba97fffc46fab
+docker: quay.io/biocontainers/bioconductor-funtoonorm
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

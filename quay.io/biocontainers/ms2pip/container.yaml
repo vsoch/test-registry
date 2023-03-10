@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/ms2pip
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ms2pip
+latest:
+  3.9.0--py39h5371cbf_0: sha256:fedf933dddebdc976c2e1dfc8d629788992e73ce8be20d9e44ffa99184ec559f
+tags:
+  3.9.0--py39h5371cbf_0: sha256:fedf933dddebdc976c2e1dfc8d629788992e73ce8be20d9e44ffa99184ec559f
+docker: quay.io/biocontainers/ms2pip
+aliases:
+  fasta2speclib: /usr/local/bin/fasta2speclib
+  ms2pip: /usr/local/bin/ms2pip
+  ms2pip-single-prediction: /usr/local/bin/ms2pip-single-prediction
+  xgboost: /usr/local/bin/xgboost
+  pt2to3: /usr/local/bin/pt2to3
+  ptdump: /usr/local/bin/ptdump
+  ptrepack: /usr/local/bin/ptrepack
+  pttree: /usr/local/bin/pttree
+  numba: /usr/local/bin/numba
+  pycc: /usr/local/bin/pycc
+  mirror_server: /usr/local/bin/mirror_server
+  mirror_server_stop: /usr/local/bin/mirror_server_stop
+  jsonschema: /usr/local/bin/jsonschema
+  xslt-config: /usr/local/bin/xslt-config
+  xsltproc: /usr/local/bin/xsltproc
+  tqdm: /usr/local/bin/tqdm
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  brotli: /usr/local/bin/brotli
+  img2webp: /usr/local/bin/img2webp
+  cwebp: /usr/local/bin/cwebp
+  dwebp: /usr/local/bin/dwebp
+  gif2webp: /usr/local/bin/gif2webp
+  f2py3.9: /usr/local/bin/f2py3.9
+  h5clear: /usr/local/bin/h5clear
+  h5format_convert: /usr/local/bin/h5format_convert

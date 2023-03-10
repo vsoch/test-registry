@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/rfplasmid
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for rfplasmid
+latest:
+  0.0.18--pyhdfd78af_0: sha256:037bef18bcae57e403e40856d6434c08441a17ff24f1e62b8b9a7139843de870
+tags:
+  0.0.18--pyhdfd78af_0: sha256:037bef18bcae57e403e40856d6434c08441a17ff24f1e62b8b9a7139843de870
+docker: quay.io/biocontainers/rfplasmid
+aliases:
+  checkm: /usr/local/bin/checkm
+  rfplasmid: /usr/local/bin/rfplasmid
+  rppr: /usr/local/bin/rppr
+  guppy: /usr/local/bin/guppy
+  pplacer: /usr/local/bin/pplacer
+  dendropy-format: /usr/local/bin/dendropy-format
+  jellyfish: /usr/local/bin/jellyfish
+  sumlabels.py: /usr/local/bin/sumlabels.py
+  sumtrees.py: /usr/local/bin/sumtrees.py
+  diamond: /usr/local/bin/diamond
+  prodigal: /usr/local/bin/prodigal
+  hmmpgmd_shard: /usr/local/bin/hmmpgmd_shard
+  easel: /usr/local/bin/easel
+  esl-mixdchlet: /usr/local/bin/esl-mixdchlet
+  esl-alimanip: /usr/local/bin/esl-alimanip
+  esl-alimap: /usr/local/bin/esl-alimap
+  esl-alimask: /usr/local/bin/esl-alimask
+  esl-alimerge: /usr/local/bin/esl-alimerge
+  esl-alipid: /usr/local/bin/esl-alipid
+  esl-alirev: /usr/local/bin/esl-alirev
+  esl-alistat: /usr/local/bin/esl-alistat
+  esl-compalign: /usr/local/bin/esl-compalign
+  esl-compstruct: /usr/local/bin/esl-compstruct
+  esl-construct: /usr/local/bin/esl-construct
+  esl-histplot: /usr/local/bin/esl-histplot
+  esl-mask: /usr/local/bin/esl-mask
+  esl-selectn: /usr/local/bin/esl-selectn

@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-tenxbusdata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-tenxbusdata
+latest:
+  1.8.0--r41hdfd78af_1: sha256:50c5643a32be5d5544a3d6e4b288ef94e550e9e10535f25c76bcce22eed27946
+tags:
+  1.8.0--r41hdfd78af_1: sha256:50c5643a32be5d5544a3d6e4b288ef94e550e9e10535f25c76bcce22eed27946
+docker: quay.io/biocontainers/bioconductor-tenxbusdata

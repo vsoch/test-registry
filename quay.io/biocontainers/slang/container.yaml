@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/slang
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for slang
+latest:
+  2.3.0--hd3527cb_3: sha256:8a2353f709f20e9310ca7587d399907287de2df144d637efd95255ddbba446a1
+tags:
+  2.3.0--hd3527cb_3: sha256:8a2353f709f20e9310ca7587d399907287de2df144d637efd95255ddbba446a1
+docker: quay.io/biocontainers/slang
+aliases:
+  slsh: /usr/local/bin/slsh
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config

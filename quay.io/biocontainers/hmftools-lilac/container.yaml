@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/hmftools-lilac
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for hmftools-lilac
+latest:
+  1.1--hdfd78af_0: sha256:35766b868db61564ca52afb6fa38aabcae51363fc87ab96cd93e9752688c3d08
+tags:
+  1.1--hdfd78af_0: sha256:35766b868db61564ca52afb6fa38aabcae51363fc87ab96cd93e9752688c3d08
+docker: quay.io/biocontainers/hmftools-lilac
+aliases:
+  LILAC: /usr/local/bin/LILAC
+  jpackage: /usr/local/bin/jpackage
+  cups-config: /usr/local/bin/cups-config
+  ippeveprinter: /usr/local/bin/ippeveprinter
+  ipptool: /usr/local/bin/ipptool
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd
+  jconsole: /usr/local/bin/jconsole
+  jdb: /usr/local/bin/jdb
+  jinfo: /usr/local/bin/jinfo
+  jmap: /usr/local/bin/jmap
+  jps: /usr/local/bin/jps

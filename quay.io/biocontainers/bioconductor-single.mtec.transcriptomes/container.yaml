@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-single.mtec.transcriptomes
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-single.mtec.transcriptomes
+latest:
+  1.22.0--r41hdfd78af_1: sha256:3e6434da485c916e13763844b68a36d4025305673d6ed0e6a8bd69d0cb754379
+tags:
+  1.22.0--r41hdfd78af_1: sha256:3e6434da485c916e13763844b68a36d4025305673d6ed0e6a8bd69d0cb754379
+docker: quay.io/biocontainers/bioconductor-single.mtec.transcriptomes

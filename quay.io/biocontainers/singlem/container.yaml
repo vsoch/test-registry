@@ -1,0 +1,47 @@
+url: https://biocontainers.pro/tools/singlem
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for singlem
+latest:
+  0.13.2--pyhdfd78af_2: sha256:1c353c5f0cc33cc9db5ec18b4cd414f10f25b1bd31a9fb9764277e4c8557ff77
+tags:
+  0.13.2--pyhdfd78af_2: sha256:1c353c5f0cc33cc9db5ec18b4cd414f10f25b1bd31a9fb9764277e4c8557ff77
+docker: quay.io/biocontainers/singlem
+aliases:
+  AbstractPlot.py: /usr/local/bin/AbstractPlot.py
+  ExpressBetaDiversity: /usr/local/bin/ExpressBetaDiversity
+  convertToEBD.py: /usr/local/bin/convertToEBD.py
+  convertToFullMatrix.py: /usr/local/bin/convertToFullMatrix.py
+  faker: /usr/local/bin/faker
+  graftM: /usr/local/bin/graftM
+  mfqe: /usr/local/bin/mfqe
+  orator: /usr/local/bin/orator
+  orfm: /usr/local/bin/orfm
+  pcoaPlot.py: /usr/local/bin/pcoaPlot.py
+  singlem: /usr/local/bin/singlem
+  smafa: /usr/local/bin/smafa
+  taxit: /usr/local/bin/taxit
+  ktClassifyHits: /usr/local/bin/ktClassifyHits
+  ktImportHits: /usr/local/bin/ktImportHits
+  rppr: /usr/local/bin/rppr
+  ktClassifyBLAST: /usr/local/bin/ktClassifyBLAST
+  ktGetContigMagnitudes: /usr/local/bin/ktGetContigMagnitudes
+  ktGetLCA: /usr/local/bin/ktGetLCA
+  ktGetLibPath: /usr/local/bin/ktGetLibPath
+  ktGetTaxIDFromAcc: /usr/local/bin/ktGetTaxIDFromAcc
+  ktGetTaxInfo: /usr/local/bin/ktGetTaxInfo
+  ktImportBLAST: /usr/local/bin/ktImportBLAST
+  ktImportDiskUsage: /usr/local/bin/ktImportDiskUsage
+  ktImportEC: /usr/local/bin/ktImportEC
+  ktImportFCP: /usr/local/bin/ktImportFCP
+  ktImportGalaxy: /usr/local/bin/ktImportGalaxy
+  ktImportKrona: /usr/local/bin/ktImportKrona
+  ktImportMETAREP-BLAST: /usr/local/bin/ktImportMETAREP-BLAST
+  ktImportMETAREP-EC: /usr/local/bin/ktImportMETAREP-EC
+  ktImportMGRAST: /usr/local/bin/ktImportMGRAST
+  ktImportPhymmBL: /usr/local/bin/ktImportPhymmBL
+  ktImportRDP: /usr/local/bin/ktImportRDP
+  ktImportRDPComparison: /usr/local/bin/ktImportRDPComparison
+  ktImportTaxonomy: /usr/local/bin/ktImportTaxonomy
+  ktImportText: /usr/local/bin/ktImportText
+  ktImportXML: /usr/local/bin/ktImportXML
+  ktUpdateTaxonomy.sh: /usr/local/bin/ktUpdateTaxonomy.sh

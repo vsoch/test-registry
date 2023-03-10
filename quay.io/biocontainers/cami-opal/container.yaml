@@ -1,0 +1,40 @@
+url: https://biocontainers.pro/tools/cami-opal
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for cami-opal
+latest:
+  1.0.9--pyhdfd78af_1: sha256:51a714b227dfa994fa5f812ad4ac465f15b53c1ad251603d2163e53de1bb0e5d
+tags:
+  1.0.9--pyhdfd78af_1: sha256:51a714b227dfa994fa5f812ad4ac465f15b53c1ad251603d2163e53de1bb0e5d
+docker: quay.io/biocontainers/cami-opal
+aliases:
+  opal.py: /usr/local/bin/opal.py
+  opal_stats.py: /usr/local/bin/opal_stats.py
+  opal_workflow.py: /usr/local/bin/opal_workflow.py
+  setup.py: /usr/local/bin/setup.py
+  version.py: /usr/local/bin/version.py
+  wsdump.py: /usr/local/bin/wsdump.py
+  dendropy-format: /usr/local/bin/dendropy-format
+  doesitcache: /usr/local/bin/doesitcache
+  iptest3: /usr/local/bin/iptest3
+  iptest: /usr/local/bin/iptest
+  sumlabels.py: /usr/local/bin/sumlabels.py
+  bokeh: /usr/local/bin/bokeh
+  sumtrees.py: /usr/local/bin/sumtrees.py
+  ipython3: /usr/local/bin/ipython3
+  cygdb: /usr/local/bin/cygdb
+  cython: /usr/local/bin/cython
+  cythonize: /usr/local/bin/cythonize
+  ipython: /usr/local/bin/ipython
+  natsort: /usr/local/bin/natsort
+  py.test: /usr/local/bin/py.test
+  pytest: /usr/local/bin/pytest
+  pygmentize: /usr/local/bin/pygmentize
+  f2py3.7: /usr/local/bin/f2py3.7
+  chardetect: /usr/local/bin/chardetect
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7

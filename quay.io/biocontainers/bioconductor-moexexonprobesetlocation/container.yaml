@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-moexexonprobesetlocation
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-moexexonprobesetlocation
+latest:
+  1.15.0--r41hdfd78af_9: sha256:97b84881eb58246a8327bbd04536db5217baa22a5e41c5ece308f3e1856dd2a0
+tags:
+  1.15.0--r41hdfd78af_9: sha256:97b84881eb58246a8327bbd04536db5217baa22a5e41c5ece308f3e1856dd2a0
+docker: quay.io/biocontainers/bioconductor-moexexonprobesetlocation

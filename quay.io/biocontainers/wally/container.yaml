@@ -1,0 +1,62 @@
+url: https://biocontainers.pro/tools/wally
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for wally
+latest:
+  0.5.7--h358d541_0: sha256:545721b06c46d20266add7ace3c2b429e23d930dfaa53ce9385dd0e08a257441
+tags:
+  0.5.7--h358d541_0: sha256:545721b06c46d20266add7ace3c2b429e23d930dfaa53ce9385dd0e08a257441
+docker: quay.io/biocontainers/wally
+aliases:
+  SvtAv1DecApp: /usr/local/bin/SvtAv1DecApp
+  SvtAv1EncApp: /usr/local/bin/SvtAv1EncApp
+  asn1Coding: /usr/local/bin/asn1Coding
+  asn1Decoding: /usr/local/bin/asn1Decoding
+  asn1Parser: /usr/local/bin/asn1Parser
+  ffmpeg: /usr/local/bin/ffmpeg
+  ffprobe: /usr/local/bin/ffprobe
+  h264dec: /usr/local/bin/h264dec
+  h264enc: /usr/local/bin/h264enc
+  imgcmp: /usr/local/bin/imgcmp
+  imginfo: /usr/local/bin/imginfo
+  jasper: /usr/local/bin/jasper
+  jiv: /usr/local/bin/jiv
+  opencv_annotation: /usr/local/bin/opencv_annotation
+  opencv_interactive-calibration: /usr/local/bin/opencv_interactive-calibration
+  opencv_model_diagnostics: /usr/local/bin/opencv_model_diagnostics
+  opencv_version: /usr/local/bin/opencv_version
+  opencv_visualisation: /usr/local/bin/opencv_visualisation
+  opencv_waldboost_detector: /usr/local/bin/opencv_waldboost_detector
+  p11-kit: /usr/local/bin/p11-kit
+  p11tool: /usr/local/bin/p11tool
+  setup_vars_opencv4.sh: /usr/local/bin/setup_vars_opencv4.sh
+  trust: /usr/local/bin/trust
+  vpxdec: /usr/local/bin/vpxdec
+  vpxenc: /usr/local/bin/vpxenc
+  wally: /usr/local/bin/wally
+  x264: /usr/local/bin/x264
+  x265: /usr/local/bin/x265
+  aomdec: /usr/local/bin/aomdec
+  aomenc: /usr/local/bin/aomenc
+  esdcompat: /usr/local/bin/esdcompat
+  jack_alias: /usr/local/bin/jack_alias
+  jack_bufsize: /usr/local/bin/jack_bufsize
+  jack_connect: /usr/local/bin/jack_connect
+  jack_control: /usr/local/bin/jack_control
+  jack_cpu: /usr/local/bin/jack_cpu
+  jack_cpu_load: /usr/local/bin/jack_cpu_load
+  jack_disconnect: /usr/local/bin/jack_disconnect
+  jack_evmon: /usr/local/bin/jack_evmon
+  jack_freewheel: /usr/local/bin/jack_freewheel
+  jack_iodelay: /usr/local/bin/jack_iodelay
+  jack_latent_client: /usr/local/bin/jack_latent_client
+  jack_load: /usr/local/bin/jack_load
+  jack_lsp: /usr/local/bin/jack_lsp
+  jack_metro: /usr/local/bin/jack_metro
+  jack_midi_dump: /usr/local/bin/jack_midi_dump
+  jack_midi_latency_test: /usr/local/bin/jack_midi_latency_test
+  jack_midiseq: /usr/local/bin/jack_midiseq
+  jack_midisine: /usr/local/bin/jack_midisine
+  jack_monitor_client: /usr/local/bin/jack_monitor_client
+  jack_multiple_metro: /usr/local/bin/jack_multiple_metro
+  jack_netsource: /usr/local/bin/jack_netsource
+  jack_property: /usr/local/bin/jack_property

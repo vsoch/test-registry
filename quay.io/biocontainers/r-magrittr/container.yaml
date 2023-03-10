@@ -1,0 +1,17 @@
+url: https://biocontainers.pro/tools/r-magrittr
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-magrittr
+latest:
+  1.5--r3.2.2_0: sha256:b69db2ec2129bffe44bd2f2299adfb7b79e3c3a5e9788418bece8b395f1c0dfb
+tags:
+  1.5--r3.2.2_0: sha256:b69db2ec2129bffe44bd2f2299adfb7b79e3c3a5e9788418bece8b395f1c0dfb
+docker: quay.io/biocontainers/r-magrittr
+aliases:
+  pngcp: /usr/local/bin/pngcp
+  bmp2tiff: /usr/local/bin/bmp2tiff
+  gif2tiff: /usr/local/bin/gif2tiff
+  ras2tiff: /usr/local/bin/ras2tiff
+  rgb2ycbcr: /usr/local/bin/rgb2ycbcr
+  thumbnail: /usr/local/bin/thumbnail
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config

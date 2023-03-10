@@ -1,0 +1,24 @@
+url: https://biocontainers.pro/tools/methplotlib
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for methplotlib
+latest:
+  0.8.0--py_0: sha256:7a2214ebbd9e3148c998e9719760f0256193111b8195b35b538a1ad29aa40997
+tags:
+  0.8.0--py_0: sha256:7a2214ebbd9e3148c998e9719760f0256193111b8195b35b538a1ad29aa40997
+docker: quay.io/biocontainers/methplotlib
+aliases:
+  allele_specific_modification: /usr/local/bin/allele_specific_modification
+  differential_modification: /usr/local/bin/differential_modification
+  methplotlib: /usr/local/bin/methplotlib
+  tabulate: /usr/local/bin/tabulate
+  natsort: /usr/local/bin/natsort
+  f2py3.7: /usr/local/bin/f2py3.7
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  pyvenv: /usr/local/bin/pyvenv

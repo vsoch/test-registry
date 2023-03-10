@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-droplettestfiles
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-droplettestfiles
+latest:
+  1.4.0--r41hdfd78af_1: sha256:36e9970f718ea5b738253b6e6cbd40726eb415b685bb1d484631272f8ca038fd
+tags:
+  1.4.0--r41hdfd78af_1: sha256:36e9970f718ea5b738253b6e6cbd40726eb415b685bb1d484631272f8ca038fd
+docker: quay.io/biocontainers/bioconductor-droplettestfiles

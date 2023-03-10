@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-nullrangesdata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-nullrangesdata
+latest:
+  1.0.0--r41hdfd78af_1: sha256:897069788213acf60d8430292d3f72d2757fe26e576c890d1dc05acacce414ee
+tags:
+  1.0.0--r41hdfd78af_1: sha256:897069788213acf60d8430292d3f72d2757fe26e576c890d1dc05acacce414ee
+docker: quay.io/biocontainers/bioconductor-nullrangesdata

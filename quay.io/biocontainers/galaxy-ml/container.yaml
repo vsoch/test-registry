@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/galaxy-ml
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for galaxy-ml
+latest:
+  0.9.1--py38h8ded8fe_2: sha256:4603cd68f16f798d78a93638ca40a1a4e9c3e47179be8ba4bb88f1ce8dc5cf2a
+tags:
+  0.9.1--py38h8ded8fe_2: sha256:4603cd68f16f798d78a93638ca40a1a4e9c3e47179be8ba4bb88f1ce8dc5cf2a
+docker: quay.io/biocontainers/galaxy-ml
+aliases:
+  flatc: /usr/local/bin/flatc
+  import_pb_to_tensorboard: /usr/local/bin/import_pb_to_tensorboard
+  xgboost: /usr/local/bin/xgboost
+  estimator_ckpt_converter: /usr/local/bin/estimator_ckpt_converter
+  google-oauthlib-tool: /usr/local/bin/google-oauthlib-tool
+  tf_upgrade_v2: /usr/local/bin/tf_upgrade_v2
+  tflite_convert: /usr/local/bin/tflite_convert
+  saved_model_cli: /usr/local/bin/saved_model_cli
+  toco: /usr/local/bin/toco
+  toco_from_protos: /usr/local/bin/toco_from_protos
+  tensorboard: /usr/local/bin/tensorboard
+  markdown_py: /usr/local/bin/markdown_py
+  faidx: /usr/local/bin/faidx
+  pyrsa-decrypt: /usr/local/bin/pyrsa-decrypt
+  pyrsa-encrypt: /usr/local/bin/pyrsa-encrypt
+  pyrsa-keygen: /usr/local/bin/pyrsa-keygen
+  pyrsa-priv2pub: /usr/local/bin/pyrsa-priv2pub
+  pyrsa-sign: /usr/local/bin/pyrsa-sign
+  pyrsa-verify: /usr/local/bin/pyrsa-verify
+  mirror_server: /usr/local/bin/mirror_server
+  mirror_server_stop: /usr/local/bin/mirror_server_stop
+  diffimg: /usr/local/bin/diffimg
+  delaunay: /usr/local/bin/delaunay
+  gts-config: /usr/local/bin/gts-config
+  gts2dxf: /usr/local/bin/gts2dxf
+  gts2oogl: /usr/local/bin/gts2oogl

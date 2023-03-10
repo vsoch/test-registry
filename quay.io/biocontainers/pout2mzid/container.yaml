@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/pout2mzid
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pout2mzid
+latest:
+  0.3.03--boost1.62_2: sha256:7843a3c3ad9fb9b50919fa8cc873d5c0c2ae110c273febd845e65bf66e663c25
+tags:
+  0.3.03--boost1.62_2: sha256:7843a3c3ad9fb9b50919fa8cc873d5c0c2ae110c273febd845e65bf66e663c25
+docker: quay.io/biocontainers/pout2mzid
+aliases:
+  pout2mzid: /usr/local/bin/pout2mzid
+  xsd: /usr/local/bin/xsd
+  CreateDOMDocument: /usr/local/bin/CreateDOMDocument
+  DOMCount: /usr/local/bin/DOMCount
+  DOMPrint: /usr/local/bin/DOMPrint
+  EnumVal: /usr/local/bin/EnumVal
+  MemParse: /usr/local/bin/MemParse
+  PParse: /usr/local/bin/PParse
+  PSVIWriter: /usr/local/bin/PSVIWriter
+  Redirect: /usr/local/bin/Redirect
+  SAX2Count: /usr/local/bin/SAX2Count
+  SAX2Print: /usr/local/bin/SAX2Print
+  SAXCount: /usr/local/bin/SAXCount
+  SAXPrint: /usr/local/bin/SAXPrint
+  SCMPrint: /usr/local/bin/SCMPrint
+  SEnumVal: /usr/local/bin/SEnumVal
+  StdInParse: /usr/local/bin/StdInParse
+  XInclude: /usr/local/bin/XInclude
+  easy_install-3.5: /usr/local/bin/easy_install-3.5
+  2to3-3.5: /usr/local/bin/2to3-3.5
+  idle3.5: /usr/local/bin/idle3.5
+  pydoc3.5: /usr/local/bin/pydoc3.5
+  python3.5: /usr/local/bin/python3.5
+  python3.5-config: /usr/local/bin/python3.5-config
+  python3.5m: /usr/local/bin/python3.5m
+  python3.5m-config: /usr/local/bin/python3.5m-config

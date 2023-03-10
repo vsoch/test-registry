@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-txdb.rnorvegicus.ucsc.rn4.ensgene
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-txdb.rnorvegicus.ucsc.rn4.ensgene
+latest:
+  3.2.2--r40_9: sha256:08205f03be594525704cc5ca3575078c971ea0f1f55e1e827e45b92ebd89b847
+tags:
+  3.2.2--r40_9: sha256:08205f03be594525704cc5ca3575078c971ea0f1f55e1e827e45b92ebd89b847
+docker: quay.io/biocontainers/bioconductor-txdb.rnorvegicus.ucsc.rn4.ensgene
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

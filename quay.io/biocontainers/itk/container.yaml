@@ -1,0 +1,21 @@
+url: https://biocontainers.pro/tools/itk
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for itk
+latest:
+  4.6.1--py35_1: sha256:3541075669d7d559c102b127cd73d02c5b2bd09b00780014876bd76ed248c185
+tags:
+  4.6.1--py35_1: sha256:3541075669d7d559c102b127cd73d02c5b2bd09b00780014876bd76ed248c185
+docker: quay.io/biocontainers/itk
+aliases:
+  itkTestDriver: /usr/local/bin/itkTestDriver
+  2to3-3.5: /usr/local/bin/2to3-3.5
+  idle3.5: /usr/local/bin/idle3.5
+  pydoc3.5: /usr/local/bin/pydoc3.5
+  python3.5: /usr/local/bin/python3.5
+  python3.5-config: /usr/local/bin/python3.5-config
+  python3.5m: /usr/local/bin/python3.5m
+  python3.5m-config: /usr/local/bin/python3.5m-config
+  pyvenv-3.5: /usr/local/bin/pyvenv-3.5
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config
+  pyvenv: /usr/local/bin/pyvenv

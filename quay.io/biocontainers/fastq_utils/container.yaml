@@ -1,0 +1,50 @@
+url: https://biocontainers.pro/tools/fastq_utils
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for fastq_utils
+latest:
+  0.25.1--h20b1175_1: sha256:e8ae637065c59bd201d0927942765153249cf2e286036aa7b18e7adebfc2fd33
+tags:
+  0.25.1--h20b1175_1: sha256:e8ae637065c59bd201d0927942765153249cf2e286036aa7b18e7adebfc2fd33
+docker: quay.io/biocontainers/fastq_utils
+aliases:
+  bam2fastq: /usr/local/bin/bam2fastq
+  bam_add_tags: /usr/local/bin/bam_add_tags
+  bam_annotate.sh: /usr/local/bin/bam_annotate.sh
+  bam_umi_count: /usr/local/bin/bam_umi_count
+  fastq2bam: /usr/local/bin/fastq2bam
+  fastq_filter_n: /usr/local/bin/fastq_filter_n
+  fastq_filterpair: /usr/local/bin/fastq_filterpair
+  fastq_info: /usr/local/bin/fastq_info
+  fastq_not_empty: /usr/local/bin/fastq_not_empty
+  fastq_num_reads: /usr/local/bin/fastq_num_reads
+  fastq_pre_barcodes: /usr/local/bin/fastq_pre_barcodes
+  fastq_split_interleaved: /usr/local/bin/fastq_split_interleaved
+  fastq_tests: /usr/local/bin/fastq_tests
+  fastq_trim_poly_at: /usr/local/bin/fastq_trim_poly_at
+  fastq_truncate: /usr/local/bin/fastq_truncate
+  fastq_validator.sh: /usr/local/bin/fastq_validator.sh
+  fasta-sanitize.pl: /usr/local/bin/fasta-sanitize.pl
+  plot-ampliconstats: /usr/local/bin/plot-ampliconstats
+  ace2sam: /usr/local/bin/ace2sam
+  blast2sam.pl: /usr/local/bin/blast2sam.pl
+  bowtie2sam.pl: /usr/local/bin/bowtie2sam.pl
+  export2sam.pl: /usr/local/bin/export2sam.pl
+  interpolate_sam.pl: /usr/local/bin/interpolate_sam.pl
+  maq2sam-long: /usr/local/bin/maq2sam-long
+  maq2sam-short: /usr/local/bin/maq2sam-short
+  md5fa: /usr/local/bin/md5fa
+  md5sum-lite: /usr/local/bin/md5sum-lite
+  plot-bamstats: /usr/local/bin/plot-bamstats
+  psl2sam.pl: /usr/local/bin/psl2sam.pl
+  sam2vcf.pl: /usr/local/bin/sam2vcf.pl
+  samtools.pl: /usr/local/bin/samtools.pl
+  seq_cache_populate.pl: /usr/local/bin/seq_cache_populate.pl
+  soap2sam.pl: /usr/local/bin/soap2sam.pl
+  zoom2sam.pl: /usr/local/bin/zoom2sam.pl
+  novo2sam.pl: /usr/local/bin/novo2sam.pl
+  wgsim: /usr/local/bin/wgsim
+  wgsim_eval.pl: /usr/local/bin/wgsim_eval.pl
+  samtools: /usr/local/bin/samtools
+  htsfile: /usr/local/bin/htsfile
+  bgzip: /usr/local/bin/bgzip
+  tabix: /usr/local/bin/tabix

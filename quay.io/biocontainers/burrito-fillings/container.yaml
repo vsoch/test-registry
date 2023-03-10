@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/burrito-fillings
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for burrito-fillings
+latest:
+  0.1.1--py_3: sha256:4004352a019a4a0ed6fcc1970fba8adf2d46884f0396ac5883c2272f3ff4a8ee
+tags:
+  0.1.1--py_3: sha256:4004352a019a4a0ed6fcc1970fba8adf2d46884f0396ac5883c2272f3ff4a8ee
+docker: quay.io/biocontainers/burrito-fillings
+aliases:
+  iptest3: /usr/local/bin/iptest3
+  iptest: /usr/local/bin/iptest
+  ipython3: /usr/local/bin/ipython3
+  ipython: /usr/local/bin/ipython
+  natsort: /usr/local/bin/natsort
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  sip: /usr/local/bin/sip
+  pygmentize: /usr/local/bin/pygmentize
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc
+  gst-device-monitor-1.0: /usr/local/bin/gst-device-monitor-1.0
+  gst-discoverer-1.0: /usr/local/bin/gst-discoverer-1.0
+  gst-play-1.0: /usr/local/bin/gst-play-1.0
+  fixqt4headers.pl: /usr/local/bin/fixqt4headers.pl
+  qlalr: /usr/local/bin/qlalr
+  qml: /usr/local/bin/qml

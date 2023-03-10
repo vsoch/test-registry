@@ -1,0 +1,49 @@
+url: https://biocontainers.pro/tools/learnmsa
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for learnmsa
+latest:
+  1.1.1--pyhdfd78af_0: sha256:66888945c7f807fe6f43c67fce091f423b2d8657593d3910485c852d317e1b1b
+tags:
+  1.1.1--pyhdfd78af_0: sha256:66888945c7f807fe6f43c67fce091f423b2d8657593d3910485c852d317e1b1b
+docker: quay.io/biocontainers/learnmsa
+aliases:
+  dumpsexp: /usr/local/bin/dumpsexp
+  flatc: /usr/local/bin/flatc
+  gpg-error: /usr/local/bin/gpg-error
+  gpgrt-config: /usr/local/bin/gpgrt-config
+  hmac256: /usr/local/bin/hmac256
+  learnMSA: /usr/local/bin/learnMSA
+  libgcrypt-config: /usr/local/bin/libgcrypt-config
+  mpg123: /usr/local/bin/mpg123
+  mpg123-id3dump: /usr/local/bin/mpg123-id3dump
+  mpg123-strip: /usr/local/bin/mpg123-strip
+  mpicalc: /usr/local/bin/mpicalc
+  orc-bugreport: /usr/local/bin/orc-bugreport
+  orcc: /usr/local/bin/orcc
+  out123: /usr/local/bin/out123
+  yat2m: /usr/local/bin/yat2m
+  tjbench: /usr/local/bin/tjbench
+  lame: /usr/local/bin/lame
+  sip-build: /usr/local/bin/sip-build
+  sip-distinfo: /usr/local/bin/sip-distinfo
+  sip-install: /usr/local/bin/sip-install
+  sip-module: /usr/local/bin/sip-module
+  sip-sdist: /usr/local/bin/sip-sdist
+  sip-wheel: /usr/local/bin/sip-wheel
+  attr: /usr/local/bin/attr
+  balsam: /usr/local/bin/balsam
+  getfattr: /usr/local/bin/getfattr
+  import_pb_to_tensorboard: /usr/local/bin/import_pb_to_tensorboard
+  jackd: /usr/local/bin/jackd
+  lprodump: /usr/local/bin/lprodump
+  lrelease-pro: /usr/local/bin/lrelease-pro
+  lupdate-pro: /usr/local/bin/lupdate-pro
+  meshdebug: /usr/local/bin/meshdebug
+  pa-info: /usr/local/bin/pa-info
+  pacat: /usr/local/bin/pacat
+  pacmd: /usr/local/bin/pacmd
+  pactl: /usr/local/bin/pactl
+  padsp: /usr/local/bin/padsp
+  pamon: /usr/local/bin/pamon
+  paplay: /usr/local/bin/paplay
+  parec: /usr/local/bin/parec
