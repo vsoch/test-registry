@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-abadata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-abadata
+latest:
+  1.8.0--r3.4.1_0: sha256:30264efb6a99ec8d2f2620fbe5095c874228a0481ea1a0efbec17ab77e81f032
+tags:
+  1.8.0--r3.4.1_0: sha256:30264efb6a99ec8d2f2620fbe5095c874228a0481ea1a0efbec17ab77e81f032
+docker: quay.io/biocontainers/bioconductor-abadata
+aliases:
+  wget: /usr/local/bin/wget
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config

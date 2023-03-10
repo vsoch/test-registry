@@ -1,0 +1,45 @@
+url: https://biocontainers.pro/tools/proksee
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for proksee
+latest:
+  1.0.0a4--pyhdfd78af_0: sha256:fb811bb9bef452206126f7c68199a3c820064cae0d4a7b973da5f5c3500299ce
+tags:
+  1.0.0a4--pyhdfd78af_0: sha256:fb811bb9bef452206126f7c68199a3c820064cae0d4a7b973da5f5c3500299ce
+docker: quay.io/biocontainers/proksee
+aliases:
+  icarus.py: /usr/local/bin/icarus.py
+  metaquast: /usr/local/bin/metaquast
+  metaquast.py: /usr/local/bin/metaquast.py
+  proksee: /usr/local/bin/proksee
+  quast: /usr/local/bin/quast
+  quast-download-busco: /usr/local/bin/quast-download-busco
+  quast-download-gridss: /usr/local/bin/quast-download-gridss
+  quast-download-silva: /usr/local/bin/quast-download-silva
+  quast-lg.py: /usr/local/bin/quast-lg.py
+  quast.py: /usr/local/bin/quast.py
+  skesa: /usr/local/bin/skesa
+  glimmerhmm: /usr/local/bin/glimmerhmm
+  glimmhmm.pl: /usr/local/bin/glimmhmm.pl
+  trainGlimmerHMM: /usr/local/bin/trainGlimmerHMM
+  circos: /usr/local/bin/circos
+  circos.exe: /usr/local/bin/circos.exe
+  compile.bat: /usr/local/bin/compile.bat
+  compile.make: /usr/local/bin/compile.make
+  gddiag: /usr/local/bin/gddiag
+  list.modules: /usr/local/bin/list.modules
+  test.modules: /usr/local/bin/test.modules
+  fastp: /usr/local/bin/fastp
+  cds-mapping-stats: /usr/local/bin/cds-mapping-stats
+  cds-subgraphs: /usr/local/bin/cds-subgraphs
+  mag-improve: /usr/local/bin/mag-improve
+  spades-convert-bin-to-fasta: /usr/local/bin/spades-convert-bin-to-fasta
+  spades-gsimplifier: /usr/local/bin/spades-gsimplifier
+  spades-kmer-estimating: /usr/local/bin/spades-kmer-estimating
+  spades-read-filter: /usr/local/bin/spades-read-filter
+  spaligner: /usr/local/bin/spaligner
+  spades-bwa: /usr/local/bin/spades-bwa
+  spades-core: /usr/local/bin/spades-core
+  spades-corrector-core: /usr/local/bin/spades-corrector-core
+  spades-gbuilder: /usr/local/bin/spades-gbuilder
+  spades-gmapper: /usr/local/bin/spades-gmapper
+  spades-hammer: /usr/local/bin/spades-hammer

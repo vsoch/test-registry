@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/readseq
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for readseq
+latest:
+  2.1.30--1: sha256:06ba1d01962307746c4d9b65cb0be16e91a0dcbdc0e25ae6a88e56e85d070f50
+tags:
+  2.1.30--1: sha256:06ba1d01962307746c4d9b65cb0be16e91a0dcbdc0e25ae6a88e56e85d070f50
+docker: quay.io/biocontainers/readseq
+aliases:
+  readseq: /usr/local/bin/readseq
+  extcheck: /usr/local/bin/extcheck
+  java-rmi.cgi: /usr/local/bin/java-rmi.cgi
+  javah: /usr/local/bin/javah
+  jhat: /usr/local/bin/jhat
+  jsadebugd: /usr/local/bin/jsadebugd
+  native2ascii: /usr/local/bin/native2ascii
+  policytool: /usr/local/bin/policytool
+  appletviewer: /usr/local/bin/appletviewer
+  idlj: /usr/local/bin/idlj
+  orbd: /usr/local/bin/orbd
+  schemagen: /usr/local/bin/schemagen
+  servertool: /usr/local/bin/servertool
+  tnameserv: /usr/local/bin/tnameserv
+  wsgen: /usr/local/bin/wsgen
+  wsimport: /usr/local/bin/wsimport
+  xjc: /usr/local/bin/xjc
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java

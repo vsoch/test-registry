@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-macrophage
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-macrophage
+latest:
+  1.8.0--r41hdfd78af_0: sha256:a65aecdc5484813a54475e62750831432c13aba622d608333d95798319befa0f
+tags:
+  1.8.0--r41hdfd78af_0: sha256:a65aecdc5484813a54475e62750831432c13aba622d608333d95798319befa0f
+docker: quay.io/biocontainers/bioconductor-macrophage
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

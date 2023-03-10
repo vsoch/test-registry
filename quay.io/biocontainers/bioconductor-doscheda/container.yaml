@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-doscheda
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-doscheda
+latest:
+  1.8.0--r36_0: sha256:823bfe1f4ad09bbeccbdbbd61392821b31ea6d196832eeca3c8145afd967574b
+tags:
+  1.8.0--r36_0: sha256:823bfe1f4ad09bbeccbdbbd61392821b31ea6d196832eeca3c8145afd967574b
+docker: quay.io/biocontainers/bioconductor-doscheda
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

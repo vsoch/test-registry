@@ -1,0 +1,55 @@
+url: https://biocontainers.pro/tools/saspector
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for saspector
+latest:
+  0.0.5--pyhdfd78af_0: sha256:f31f4140479e99f4719863cd8bddfd4fd0c6c12ffa8d38a92e52d29943833f56
+tags:
+  0.0.5--pyhdfd78af_0: sha256:f31f4140479e99f4719863cd8bddfd4fd0c6c12ffa8d38a92e52d29943833f56
+docker: quay.io/biocontainers/saspector
+aliases:
+  SASpector: /usr/local/bin/SASpector
+  coverage.py: /usr/local/bin/coverage.py
+  gene_predict.py: /usr/local/bin/gene_predict.py
+  icarus.py: /usr/local/bin/icarus.py
+  kmer.py: /usr/local/bin/kmer.py
+  mapper.py: /usr/local/bin/mapper.py
+  metaquast: /usr/local/bin/metaquast
+  metaquast.py: /usr/local/bin/metaquast.py
+  progressiveMauve: /usr/local/bin/progressiveMauve
+  quast: /usr/local/bin/quast
+  quast-download-busco: /usr/local/bin/quast-download-busco
+  quast-download-gridss: /usr/local/bin/quast-download-gridss
+  quast-download-silva: /usr/local/bin/quast-download-silva
+  quast-lg.py: /usr/local/bin/quast-lg.py
+  quast.py: /usr/local/bin/quast.py
+  quastunmap.py: /usr/local/bin/quastunmap.py
+  select_mash.py: /usr/local/bin/select_mash.py
+  sourmash: /usr/local/bin/sourmash
+  summary.py: /usr/local/bin/summary.py
+  tandem_repeats.py: /usr/local/bin/tandem_repeats.py
+  tbl2asn-test: /usr/local/bin/tbl2asn-test
+  fix-sqn-date: /usr/local/bin/fix-sqn-date
+  faketime: /usr/local/bin/faketime
+  glimmerhmm: /usr/local/bin/glimmerhmm
+  glimmhmm.pl: /usr/local/bin/glimmhmm.pl
+  real-tbl2asn: /usr/local/bin/real-tbl2asn
+  trainGlimmerHMM: /usr/local/bin/trainGlimmerHMM
+  trf4.10.0-rc.2.linux64.exe: /usr/local/bin/trf4.10.0-rc.2.linux64.exe
+  prokka-abricate_to_fasta_db: /usr/local/bin/prokka-abricate_to_fasta_db
+  trf: /usr/local/bin/trf
+  circos: /usr/local/bin/circos
+  circos.exe: /usr/local/bin/circos.exe
+  compile.bat: /usr/local/bin/compile.bat
+  compile.make: /usr/local/bin/compile.make
+  gddiag: /usr/local/bin/gddiag
+  list.modules: /usr/local/bin/list.modules
+  test.modules: /usr/local/bin/test.modules
+  screed: /usr/local/bin/screed
+  prokka: /usr/local/bin/prokka
+  prokka-biocyc_to_fasta_db: /usr/local/bin/prokka-biocyc_to_fasta_db
+  prokka-build_kingdom_dbs: /usr/local/bin/prokka-build_kingdom_dbs
+  prokka-cdd_to_hmm: /usr/local/bin/prokka-cdd_to_hmm
+  prokka-clusters_to_hmm: /usr/local/bin/prokka-clusters_to_hmm
+  prokka-genbank_to_fasta_db: /usr/local/bin/prokka-genbank_to_fasta_db
+  prokka-genpept_to_fasta_db: /usr/local/bin/prokka-genpept_to_fasta_db
+  prokka-hamap_to_hmm: /usr/local/bin/prokka-hamap_to_hmm

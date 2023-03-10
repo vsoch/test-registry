@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/deepmased
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for deepmased
+latest:
+  0.3.1--pyh5ca1d4c_0: sha256:b609a61f557d37c8a33be24736fe01692c7ac79d0cafec60f98425b9dcd4ef7c
+tags:
+  0.3.1--pyh5ca1d4c_0: sha256:b609a61f557d37c8a33be24736fe01692c7ac79d0cafec60f98425b9dcd4ef7c
+docker: quay.io/biocontainers/deepmased
+aliases:
+  DeepMAsED: /usr/local/bin/DeepMAsED
+  theano-cache: /usr/local/bin/theano-cache
+  theano-nose: /usr/local/bin/theano-nose
+  mako-render: /usr/local/bin/mako-render
+  estimator_ckpt_converter: /usr/local/bin/estimator_ckpt_converter
+  iptest3: /usr/local/bin/iptest3
+  iptest: /usr/local/bin/iptest
+  tf_upgrade_v2: /usr/local/bin/tf_upgrade_v2
+  tflite_convert: /usr/local/bin/tflite_convert
+  cxpm: /usr/local/bin/cxpm
+  saved_model_cli: /usr/local/bin/saved_model_cli
+  sxpm: /usr/local/bin/sxpm
+  toco: /usr/local/bin/toco
+  toco_from_protos: /usr/local/bin/toco_from_protos
+  tensorboard: /usr/local/bin/tensorboard
+  ipython3: /usr/local/bin/ipython3
+  snakemake: /usr/local/bin/snakemake
+  snakemake-bash-completion: /usr/local/bin/snakemake-bash-completion
+  jp.py: /usr/local/bin/jp.py
+  ipython: /usr/local/bin/ipython
+  markdown_py: /usr/local/bin/markdown_py
+  pyrsa-decrypt: /usr/local/bin/pyrsa-decrypt
+  pyrsa-encrypt: /usr/local/bin/pyrsa-encrypt
+  pyrsa-keygen: /usr/local/bin/pyrsa-keygen
+  pyrsa-priv2pub: /usr/local/bin/pyrsa-priv2pub
+  pyrsa-sign: /usr/local/bin/pyrsa-sign

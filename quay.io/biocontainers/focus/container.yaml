@@ -1,0 +1,24 @@
+url: https://biocontainers.pro/tools/focus
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for focus
+latest:
+  1.8--pyhdfd78af_0: sha256:3e57db6f0b34d28910ad2179efbaf7d4e514f0b966b34cf15bc2ae8d2d4a9517
+tags:
+  1.8--pyhdfd78af_0: sha256:3e57db6f0b34d28910ad2179efbaf7d4e514f0b966b34cf15bc2ae8d2d4a9517
+docker: quay.io/biocontainers/focus
+aliases:
+  focus: /usr/local/bin/focus
+  focus_database_utils: /usr/local/bin/focus_database_utils
+  funzip: /usr/local/bin/funzip
+  unzipsfx: /usr/local/bin/unzipsfx
+  zipgrep: /usr/local/bin/zipgrep
+  zipinfo: /usr/local/bin/zipinfo
+  unzip: /usr/local/bin/unzip
+  jellyfish: /usr/local/bin/jellyfish
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/cytoscape
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for cytoscape
+latest:
+  3.9.1--hadc2ddb_0: sha256:080341a76cb6855437cd126b260c5d9443dbc1bdc7f453793b21fd344212b312
+tags:
+  3.9.1--hadc2ddb_0: sha256:080341a76cb6855437cd126b260c5d9443dbc1bdc7f453793b21fd344212b312
+docker: quay.io/biocontainers/cytoscape
+aliases:
+  Cytoscape: /usr/local/bin/Cytoscape
+  cytoscape.sh: /usr/local/bin/cytoscape.sh
+  gen_vmoptions.sh: /usr/local/bin/gen_vmoptions.sh
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd
+  jconsole: /usr/local/bin/jconsole
+  jdb: /usr/local/bin/jdb

@@ -1,0 +1,24 @@
+url: https://biocontainers.pro/tools/rd-analyzer
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for rd-analyzer
+latest:
+  1.01--hdfd78af_0: sha256:8c3f2b629bde7ed0549262568748821fd0f4f9478b391caaa7cc57f2f5b9ae41
+tags:
+  1.01--hdfd78af_0: sha256:8c3f2b629bde7ed0549262568748821fd0f4f9478b391caaa7cc57f2f5b9ae41
+docker: quay.io/biocontainers/rd-analyzer
+aliases:
+  RD-Analyzer-extended.py: /usr/local/bin/RD-Analyzer-extended.py
+  RD-Analyzer.py: /usr/local/bin/RD-Analyzer.py
+  qualfa2fq.pl: /usr/local/bin/qualfa2fq.pl
+  xa2multi.pl: /usr/local/bin/xa2multi.pl
+  bwa: /usr/local/bin/bwa
+  bcftools: /usr/local/bin/bcftools
+  vcfutils.pl: /usr/local/bin/vcfutils.pl
+  python2-config: /usr/local/bin/python2-config
+  python2.7-config: /usr/local/bin/python2.7-config
+  python2: /usr/local/bin/python2
+  python2.7: /usr/local/bin/python2.7
+  idle: /usr/local/bin/idle
+  python-config: /usr/local/bin/python-config
+  smtpd.py: /usr/local/bin/smtpd.py
+  samtools: /usr/local/bin/samtools

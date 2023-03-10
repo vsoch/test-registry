@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/scar
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for scar
+latest:
+  0.4.4--pyhdfd78af_0: sha256:abd805f097d4f9316cf1aae47187af07d341771d351117d7ab2492068adff903
+tags:
+  0.4.4--pyhdfd78af_0: sha256:abd805f097d4f9316cf1aae47187af07d341771d351117d7ab2492068adff903
+docker: quay.io/biocontainers/scar
+aliases:
+  scar: /usr/local/bin/scar
+  torchrun: /usr/local/bin/torchrun
+  scanpy: /usr/local/bin/scanpy
+  convert-caffe2-to-onnx: /usr/local/bin/convert-caffe2-to-onnx
+  convert-onnx-to-caffe2: /usr/local/bin/convert-onnx-to-caffe2
+  ninja: /usr/local/bin/ninja
+  sphinx-apidoc: /usr/local/bin/sphinx-apidoc
+  sphinx-autogen: /usr/local/bin/sphinx-autogen
+  sphinx-build: /usr/local/bin/sphinx-build
+  sphinx-quickstart: /usr/local/bin/sphinx-quickstart
+  google-oauthlib-tool: /usr/local/bin/google-oauthlib-tool
+  pybabel: /usr/local/bin/pybabel
+  docutils: /usr/local/bin/docutils
+  grpc_cpp_plugin: /usr/local/bin/grpc_cpp_plugin
+  grpc_csharp_plugin: /usr/local/bin/grpc_csharp_plugin
+  grpc_node_plugin: /usr/local/bin/grpc_node_plugin
+  grpc_objective_c_plugin: /usr/local/bin/grpc_objective_c_plugin
+  grpc_php_plugin: /usr/local/bin/grpc_php_plugin
+  grpc_python_plugin: /usr/local/bin/grpc_python_plugin
+  grpc_ruby_plugin: /usr/local/bin/grpc_ruby_plugin
+  tensorboard: /usr/local/bin/tensorboard
+  numba: /usr/local/bin/numba
+  pycc: /usr/local/bin/pycc
+  markdown_py: /usr/local/bin/markdown_py
+  natsort: /usr/local/bin/natsort
+  pyrsa-decrypt: /usr/local/bin/pyrsa-decrypt

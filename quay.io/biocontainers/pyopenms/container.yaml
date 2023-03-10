@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/pyopenms
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pyopenms
+latest:
+  2.8.0--py36h24c8720_1: sha256:dd0c6357466b8d2930ed748e66174ce5a24b7dfead9e241e780f1b348003485c
+tags:
+  2.8.0--py36h24c8720_1: sha256:dd0c6357466b8d2930ed748e66174ce5a24b7dfead9e241e780f1b348003485c
+docker: quay.io/biocontainers/pyopenms
+aliases:
+  svm-predict: /usr/local/bin/svm-predict
+  svm-scale: /usr/local/bin/svm-scale
+  svm-train: /usr/local/bin/svm-train
+  CreateDOMDocument: /usr/local/bin/CreateDOMDocument
+  DOMCount: /usr/local/bin/DOMCount
+  DOMPrint: /usr/local/bin/DOMPrint
+  EnumVal: /usr/local/bin/EnumVal
+  MemParse: /usr/local/bin/MemParse
+  PParse: /usr/local/bin/PParse
+  PSVIWriter: /usr/local/bin/PSVIWriter
+  Redirect: /usr/local/bin/Redirect
+  SAX2Count: /usr/local/bin/SAX2Count
+  SAX2Print: /usr/local/bin/SAX2Print
+  SAXCount: /usr/local/bin/SAXCount
+  SAXPrint: /usr/local/bin/SAXPrint
+  SCMPrint: /usr/local/bin/SCMPrint
+  SEnumVal: /usr/local/bin/SEnumVal
+  StdInParse: /usr/local/bin/StdInParse
+  XInclude: /usr/local/bin/XInclude
+  xkbcli: /usr/local/bin/xkbcli
+  cbc: /usr/local/bin/cbc
+  clp: /usr/local/bin/clp
+  pg_config: /usr/local/bin/pg_config
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview

@@ -1,0 +1,17 @@
+url: https://biocontainers.pro/tools/biobb_common
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for biobb_common
+latest:
+  3.8.1--pyhdfd78af_0: sha256:85e5f6e5e5027591ec3651c77886149686dfbd7ca34b2dc397f491f3a9e9d16e
+tags:
+  3.8.1--pyhdfd78af_0: sha256:85e5f6e5e5027591ec3651c77886149686dfbd7ca34b2dc397f491f3a9e9d16e
+docker: quay.io/biocontainers/biobb_common
+aliases:
+  normalizer: /usr/local/bin/normalizer
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

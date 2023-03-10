@@ -1,0 +1,16 @@
+url: https://biocontainers.pro/tools/seq2onehot
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for seq2onehot
+latest:
+  0.0.1--pyhfa5458b_0: sha256:6d116b0b2ea78644926072e1dbc2b0891e7810e526a4b5069c3a6122022bc31f
+tags:
+  0.0.1--pyhfa5458b_0: sha256:6d116b0b2ea78644926072e1dbc2b0891e7810e526a4b5069c3a6122022bc31f
+docker: quay.io/biocontainers/seq2onehot
+aliases:
+  seq2onehot: /usr/local/bin/seq2onehot
+  f2py3.9: /usr/local/bin/f2py3.9
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config

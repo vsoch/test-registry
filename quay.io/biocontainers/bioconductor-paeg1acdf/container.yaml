@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-paeg1acdf
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-paeg1acdf
+latest:
+  2.18.0--r41hdfd78af_9: sha256:324a57bbf1f1b3e81f3e3995144d365daa6641c92ed8bb13e91bcf7ff62f4471
+tags:
+  2.18.0--r41hdfd78af_9: sha256:324a57bbf1f1b3e81f3e3995144d365daa6641c92ed8bb13e91bcf7ff62f4471
+docker: quay.io/biocontainers/bioconductor-paeg1acdf

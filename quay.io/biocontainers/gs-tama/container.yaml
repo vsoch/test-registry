@@ -1,0 +1,64 @@
+url: https://biocontainers.pro/tools/gs-tama
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for gs-tama
+latest:
+  1.0.3--hdfd78af_0: sha256:9d07713467106e28082ad548ebb9fa141f239c4e34e84d74716195f5f4ccd07c
+tags:
+  1.0.3--hdfd78af_0: sha256:9d07713467106e28082ad548ebb9fa141f239c4e34e84d74716195f5f4ccd07c
+docker: quay.io/biocontainers/gs-tama
+aliases:
+  LICENSE: /usr/local/bin/LICENSE
+  tama_bed_extract_cds.py: /usr/local/bin/tama_bed_extract_cds.py
+  tama_cds_regions_bed_add.py: /usr/local/bin/tama_cds_regions_bed_add.py
+  tama_collapse.py: /usr/local/bin/tama_collapse.py
+  tama_convert_bed_gtf_ensembl_no_cds.py: /usr/local/bin/tama_convert_bed_gtf_ensembl_no_cds.py
+  tama_convert_bed_gtf_ensembl_orf_nmd.py: /usr/local/bin/tama_convert_bed_gtf_ensembl_orf_nmd.py
+  tama_convert_nanopore_fastq_fasta.py: /usr/local/bin/tama_convert_nanopore_fastq_fasta.py
+  tama_degradation_signature.py: /usr/local/bin/tama_degradation_signature.py
+  tama_fasta_splitter.py: /usr/local/bin/tama_fasta_splitter.py
+  tama_filter_primary_transcripts_orf.py: /usr/local/bin/tama_filter_primary_transcripts_orf.py
+  tama_find_model_changes.py: /usr/local/bin/tama_find_model_changes.py
+  tama_flnc_polya_cleanup.py: /usr/local/bin/tama_flnc_polya_cleanup.py
+  tama_format_gff_to_bed12_cupcake.py: /usr/local/bin/tama_format_gff_to_bed12_cupcake.py
+  tama_format_gtf_to_bed12_ensembl.py: /usr/local/bin/tama_format_gtf_to_bed12_ensembl.py
+  tama_format_gtf_to_bed12_ncbi.py: /usr/local/bin/tama_format_gtf_to_bed12_ncbi.py
+  tama_format_gtf_to_bed12_stringtie.py: /usr/local/bin/tama_format_gtf_to_bed12_stringtie.py
+  tama_format_id_filter.py: /usr/local/bin/tama_format_id_filter.py
+  tama_mapped_sam_splitter.py: /usr/local/bin/tama_mapped_sam_splitter.py
+  tama_merge.py: /usr/local/bin/tama_merge.py
+  tama_orf_blastp_parser.py: /usr/local/bin/tama_orf_blastp_parser.py
+  tama_orf_seeker.py: /usr/local/bin/tama_orf_seeker.py
+  tama_read_support_collapse_cluster.py: /usr/local/bin/tama_read_support_collapse_cluster.py
+  tama_read_support_levels.py: /usr/local/bin/tama_read_support_levels.py
+  tama_read_support_merge_collapse.py: /usr/local/bin/tama_read_support_merge_collapse.py
+  tama_remove_fragment_models.py: /usr/local/bin/tama_remove_fragment_models.py
+  tama_remove_polya_models_levels.py: /usr/local/bin/tama_remove_polya_models_levels.py
+  tama_remove_single_read_models_levels.py: /usr/local/bin/tama_remove_single_read_models_levels.py
+  tama_sampling_saturation_curve.py: /usr/local/bin/tama_sampling_saturation_curve.py
+  tama_variant_caller.py: /usr/local/bin/tama_variant_caller.py
+  tmp.py: /usr/local/bin/tmp.py
+  filter-table: /usr/local/bin/filter-table
+  spdi2prod: /usr/local/bin/spdi2prod
+  metadata_conda_debug.yaml: /usr/local/bin/metadata_conda_debug.yaml
+  f2py2: /usr/local/bin/f2py2
+  f2py2.7: /usr/local/bin/f2py2.7
+  align-columns: /usr/local/bin/align-columns
+  blst2tkns: /usr/local/bin/blst2tkns
+  csv2xml: /usr/local/bin/csv2xml
+  disambiguate-nucleotides: /usr/local/bin/disambiguate-nucleotides
+  download-ncbi-software: /usr/local/bin/download-ncbi-software
+  ecommon.sh: /usr/local/bin/ecommon.sh
+  find-in-gene: /usr/local/bin/find-in-gene
+  fuse-ranges: /usr/local/bin/fuse-ranges
+  hgvs2spdi: /usr/local/bin/hgvs2spdi
+  json2xml: /usr/local/bin/json2xml
+  print-columns: /usr/local/bin/print-columns
+  snp2hgvs: /usr/local/bin/snp2hgvs
+  snp2tbl: /usr/local/bin/snp2tbl
+  sort-table: /usr/local/bin/sort-table
+  spdi2tbl: /usr/local/bin/spdi2tbl
+  split-at-intron: /usr/local/bin/split-at-intron
+  tbl2xml: /usr/local/bin/tbl2xml
+  transmute.Linux: /usr/local/bin/transmute.Linux
+  xml2fsa: /usr/local/bin/xml2fsa
+  xml2json: /usr/local/bin/xml2json

@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/wgdi
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for wgdi
+latest:
+  0.6.1--pyhdfd78af_0: sha256:323c2e9fed19e2b6fd9665b68495a900e8606906ddf412e13dd415196d8c0abf
+tags:
+  0.6.1--pyhdfd78af_0: sha256:323c2e9fed19e2b6fd9665b68495a900e8606906ddf412e13dd415196d8c0abf
+docker: quay.io/biocontainers/wgdi
+aliases:
+  divvier: /usr/local/bin/divvier
+  pal2nal.pl: /usr/local/bin/pal2nal.pl
+  wgdi: /usr/local/bin/wgdi
+  iqtree2: /usr/local/bin/iqtree2
+  readal: /usr/local/bin/readal
+  statal: /usr/local/bin/statal
+  trimal: /usr/local/bin/trimal
+  iqtree: /usr/local/bin/iqtree
+  FastTreeMP: /usr/local/bin/FastTreeMP
+  FastTree: /usr/local/bin/FastTree
+  muscle: /usr/local/bin/muscle
+  fasttree: /usr/local/bin/fasttree
+  baseml: /usr/local/bin/baseml
+  basemlg: /usr/local/bin/basemlg
+  chi2: /usr/local/bin/chi2
+  codeml: /usr/local/bin/codeml
+  evolver: /usr/local/bin/evolver
+  infinitesites: /usr/local/bin/infinitesites
+  mcmctree: /usr/local/bin/mcmctree
+  pamp: /usr/local/bin/pamp
+  yn00: /usr/local/bin/yn00
+  mafft-sparsecore.rb: /usr/local/bin/mafft-sparsecore.rb
+  einsi: /usr/local/bin/einsi
+  fftns: /usr/local/bin/fftns
+  fftnsi: /usr/local/bin/fftnsi
+  ginsi: /usr/local/bin/ginsi
+  linsi: /usr/local/bin/linsi
+  mafft-distance: /usr/local/bin/mafft-distance

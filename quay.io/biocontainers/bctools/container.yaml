@@ -1,0 +1,43 @@
+url: https://biocontainers.pro/tools/bctools
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bctools
+latest:
+  0.2.2--2: sha256:bcb2c89ff57e304a17cc1191417a7c89dded0c392fff4bbfeed04ffe40eddc79
+tags:
+  0.2.2--2: sha256:bcb2c89ff57e304a17cc1191417a7c89dded0c392fff4bbfeed04ffe40eddc79
+docker: quay.io/biocontainers/bctools
+aliases:
+  convert_bc_to_binary_RY.py: /usr/local/bin/convert_bc_to_binary_RY.py
+  coords2clnt.py: /usr/local/bin/coords2clnt.py
+  datamash: /usr/local/bin/datamash
+  extract_aln_ends.py: /usr/local/bin/extract_aln_ends.py
+  extract_bcs.py: /usr/local/bin/extract_bcs.py
+  merge_pcr_duplicates.py: /usr/local/bin/merge_pcr_duplicates.py
+  remove_tail.py: /usr/local/bin/remove_tail.py
+  rm_spurious_events.pl: /usr/local/bin/rm_spurious_events.pl
+  rm_spurious_events.py: /usr/local/bin/rm_spurious_events.py
+  intersection_matrix.py: /usr/local/bin/intersection_matrix.py
+  intron_exon_reads.py: /usr/local/bin/intron_exon_reads.py
+  pbt_plotting_example.py: /usr/local/bin/pbt_plotting_example.py
+  peak_pie.py: /usr/local/bin/peak_pie.py
+  pybedtools: /usr/local/bin/pybedtools
+  venn_gchart.py: /usr/local/bin/venn_gchart.py
+  venn_mpl.py: /usr/local/bin/venn_mpl.py
+  annotate.py: /usr/local/bin/annotate.py
+  f2py3.6: /usr/local/bin/f2py3.6
+  guess-ploidy.py: /usr/local/bin/guess-ploidy.py
+  plot-roh.py: /usr/local/bin/plot-roh.py
+  run-roh.pl: /usr/local/bin/run-roh.pl
+  color-chrs.pl: /usr/local/bin/color-chrs.pl
+  plot-vcfstats: /usr/local/bin/plot-vcfstats
+  bcftools: /usr/local/bin/bcftools
+  vcfutils.pl: /usr/local/bin/vcfutils.pl
+  futurize: /usr/local/bin/futurize
+  pasteurize: /usr/local/bin/pasteurize
+  shiftBed: /usr/local/bin/shiftBed
+  annotateBed: /usr/local/bin/annotateBed
+  bamToBed: /usr/local/bin/bamToBed
+  bamToFastq: /usr/local/bin/bamToFastq
+  bed12ToBed6: /usr/local/bin/bed12ToBed6
+  bedToBam: /usr/local/bin/bedToBam
+  bedToIgv: /usr/local/bin/bedToIgv

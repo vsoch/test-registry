@@ -1,0 +1,41 @@
+url: https://biocontainers.pro/tools/iqkm
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for iqkm
+latest:
+  1.0--pyhdfd78af_0: sha256:f968644320efd8fbec876e3fed40a60ec93ae7dae7609e3f341adf0b7ae26ddb
+tags:
+  1.0--pyhdfd78af_0: sha256:f968644320efd8fbec876e3fed40a60ec93ae7dae7609e3f341adf0b7ae26ddb
+docker: quay.io/biocontainers/iqkm
+aliases:
+  epylint: /usr/local/bin/epylint
+  iqkm: /usr/local/bin/iqkm
+  isort: /usr/local/bin/isort
+  isort-identify-imports: /usr/local/bin/isort-identify-imports
+  pylint: /usr/local/bin/pylint
+  pyreverse: /usr/local/bin/pyreverse
+  symilar: /usr/local/bin/symilar
+  markdown_py: /usr/local/bin/markdown_py
+  prodigal: /usr/local/bin/prodigal
+  py.test: /usr/local/bin/py.test
+  pytest: /usr/local/bin/pytest
+  hmmpgmd_shard: /usr/local/bin/hmmpgmd_shard
+  easel: /usr/local/bin/easel
+  esl-mixdchlet: /usr/local/bin/esl-mixdchlet
+  qualfa2fq.pl: /usr/local/bin/qualfa2fq.pl
+  xa2multi.pl: /usr/local/bin/xa2multi.pl
+  esl-alimanip: /usr/local/bin/esl-alimanip
+  esl-alimap: /usr/local/bin/esl-alimap
+  esl-alimask: /usr/local/bin/esl-alimask
+  esl-alimerge: /usr/local/bin/esl-alimerge
+  esl-alipid: /usr/local/bin/esl-alipid
+  esl-alirev: /usr/local/bin/esl-alirev
+  esl-alistat: /usr/local/bin/esl-alistat
+  esl-compalign: /usr/local/bin/esl-compalign
+  esl-compstruct: /usr/local/bin/esl-compstruct
+  esl-construct: /usr/local/bin/esl-construct
+  esl-histplot: /usr/local/bin/esl-histplot
+  esl-mask: /usr/local/bin/esl-mask
+  esl-selectn: /usr/local/bin/esl-selectn
+  esl-seqrange: /usr/local/bin/esl-seqrange
+  esl-seqstat: /usr/local/bin/esl-seqstat
+  esl-sfetch: /usr/local/bin/esl-sfetch

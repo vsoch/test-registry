@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/shapeshifter-cli
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for shapeshifter-cli
+latest:
+  1.0.0--py_0: sha256:7367db6f5c4ab92446e8ba58323c13e280d8b5bec5ab1827592a6ddf77e23a10
+tags:
+  1.0.0--py_0: sha256:7367db6f5c4ab92446e8ba58323c13e280d8b5bec5ab1827592a6ddf77e23a10
+docker: quay.io/biocontainers/shapeshifter-cli
+aliases:
+  plasma_store_server: /usr/local/bin/plasma_store_server
+  pzstd: /usr/local/bin/pzstd
+  shapeshift: /usr/local/bin/shapeshift
+  shapeshiftmerge: /usr/local/bin/shapeshiftmerge
+  ss: /usr/local/bin/ss
+  ssm: /usr/local/bin/ssm
+  thrift: /usr/local/bin/thrift
+  runxlrd.py: /usr/local/bin/runxlrd.py
+  plasma_store: /usr/local/bin/plasma_store
+  gflags_completions.sh: /usr/local/bin/gflags_completions.sh
+  vba_extract.py: /usr/local/bin/vba_extract.py
+  jupyter-trust: /usr/local/bin/jupyter-trust
+  jupyter: /usr/local/bin/jupyter
+  jupyter-migrate: /usr/local/bin/jupyter-migrate
+  jupyter-troubleshoot: /usr/local/bin/jupyter-troubleshoot
+  jsonschema: /usr/local/bin/jsonschema
+  protoc: /usr/local/bin/protoc
+  f2py3.7: /usr/local/bin/f2py3.7
+  brotli: /usr/local/bin/brotli
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  pyvenv: /usr/local/bin/pyvenv

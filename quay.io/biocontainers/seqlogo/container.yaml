@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/seqlogo
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for seqlogo
+latest:
+  5.29.8--py_0: sha256:b1a477d345da2dbeb2c47f560cc75648aca2ef585d6d8c1906efc94e28f51b0d
+tags:
+  5.29.8--py_0: sha256:b1a477d345da2dbeb2c47f560cc75648aca2ef585d6d8c1906efc94e28f51b0d
+docker: quay.io/biocontainers/seqlogo
+aliases:
+  transformseq: /usr/local/bin/transformseq
+  weblogo: /usr/local/bin/weblogo
+  dvipdf: /usr/local/bin/dvipdf
+  eps2eps: /usr/local/bin/eps2eps
+  gs: /usr/local/bin/gs
+  gsbj: /usr/local/bin/gsbj
+  gsdj: /usr/local/bin/gsdj
+  gsdj500: /usr/local/bin/gsdj500
+  gslj: /usr/local/bin/gslj
+  gslp: /usr/local/bin/gslp
+  gsnd: /usr/local/bin/gsnd
+  lprsetup.sh: /usr/local/bin/lprsetup.sh
+  pdf2dsc: /usr/local/bin/pdf2dsc
+  pdf2ps: /usr/local/bin/pdf2ps
+  pf2afm: /usr/local/bin/pf2afm
+  pfbtopfa: /usr/local/bin/pfbtopfa
+  pphs: /usr/local/bin/pphs
+  printafm: /usr/local/bin/printafm
+  ps2ascii: /usr/local/bin/ps2ascii
+  ps2epsi: /usr/local/bin/ps2epsi
+  ps2pdf: /usr/local/bin/ps2pdf
+  ps2pdf12: /usr/local/bin/ps2pdf12
+  ps2pdf13: /usr/local/bin/ps2pdf13
+  ps2pdf14: /usr/local/bin/ps2pdf14
+  ps2pdfwr: /usr/local/bin/ps2pdfwr

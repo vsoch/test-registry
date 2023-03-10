@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/r-acidgsea
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-acidgsea
+latest:
+  0.7.0--r41hdfd78af_0: sha256:d7f1697ab2efbaeea41765f2fed52efdcc30046c9c7519d55e96877792bc2ddc
+tags:
+  0.7.0--r41hdfd78af_0: sha256:d7f1697ab2efbaeea41765f2fed52efdcc30046c9c7519d55e96877792bc2ddc
+docker: quay.io/biocontainers/r-acidgsea
+aliases:
+  pandoc: /usr/local/bin/pandoc

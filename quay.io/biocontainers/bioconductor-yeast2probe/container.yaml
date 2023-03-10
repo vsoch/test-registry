@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-yeast2probe
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-yeast2probe
+latest:
+  2.18.0--r41hdfd78af_9: sha256:5c4fee88635afc31c8a613c75b24678982f8cfd4b5e79656464cba5c44f0eb3b
+tags:
+  2.18.0--r41hdfd78af_9: sha256:5c4fee88635afc31c8a613c75b24678982f8cfd4b5e79656464cba5c44f0eb3b
+docker: quay.io/biocontainers/bioconductor-yeast2probe

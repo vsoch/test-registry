@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/metilene
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for metilene
+latest:
+  0.2.8--hec16e2b_2: sha256:a32860d56312ec89f0e1c0b522563b14462adca62c4eb080c7e688cd2266f90c
+tags:
+  0.2.8--hec16e2b_2: sha256:a32860d56312ec89f0e1c0b522563b14462adca62c4eb080c7e688cd2266f90c
+docker: quay.io/biocontainers/metilene
+aliases:
+  metilene: /usr/local/bin/metilene
+  metilene_input.pl: /usr/local/bin/metilene_input.pl
+  metilene_output.R: /usr/local/bin/metilene_output.R
+  metilene_output.pl: /usr/local/bin/metilene_output.pl
+  shiftBed: /usr/local/bin/shiftBed
+  annotateBed: /usr/local/bin/annotateBed
+  bamToBed: /usr/local/bin/bamToBed
+  bamToFastq: /usr/local/bin/bamToFastq
+  bed12ToBed6: /usr/local/bin/bed12ToBed6
+  bedToBam: /usr/local/bin/bedToBam
+  bedToIgv: /usr/local/bin/bedToIgv
+  bedpeToBam: /usr/local/bin/bedpeToBam
+  bedtools: /usr/local/bin/bedtools
+  closestBed: /usr/local/bin/closestBed
+  clusterBed: /usr/local/bin/clusterBed
+  complementBed: /usr/local/bin/complementBed
+  coverageBed: /usr/local/bin/coverageBed
+  expandCols: /usr/local/bin/expandCols
+  fastaFromBed: /usr/local/bin/fastaFromBed
+  flankBed: /usr/local/bin/flankBed
+  genomeCoverageBed: /usr/local/bin/genomeCoverageBed
+  getOverlap: /usr/local/bin/getOverlap
+  groupBy: /usr/local/bin/groupBy
+  intersectBed: /usr/local/bin/intersectBed
+  linksBed: /usr/local/bin/linksBed
+  mapBed: /usr/local/bin/mapBed
+  maskFastaFromBed: /usr/local/bin/maskFastaFromBed
+  mergeBed: /usr/local/bin/mergeBed
+  multiBamCov: /usr/local/bin/multiBamCov

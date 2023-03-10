@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-cosmic.67
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-cosmic.67
+latest:
+  1.30.0--r41hdfd78af_1: sha256:76e895768a0957ffb4af2a3da9627cb1f490dbd782966fd5c027d1b8d8020e92
+tags:
+  1.30.0--r41hdfd78af_1: sha256:76e895768a0957ffb4af2a3da9627cb1f490dbd782966fd5c027d1b8d8020e92
+docker: quay.io/biocontainers/bioconductor-cosmic.67

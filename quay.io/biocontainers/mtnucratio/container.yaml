@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/mtnucratio
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for mtnucratio
+latest:
+  0.7--hdfd78af_2: sha256:27d6c5107e6044ee53261f63a3300c72666d0f38b35635d333606c1d794ae38e
+tags:
+  0.7--hdfd78af_2: sha256:27d6c5107e6044ee53261f63a3300c72666d0f38b35635d333606c1d794ae38e
+docker: quay.io/biocontainers/mtnucratio
+aliases:
+  mtnucratio: /usr/local/bin/mtnucratio
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd
+  jconsole: /usr/local/bin/jconsole
+  jdb: /usr/local/bin/jdb
+  jinfo: /usr/local/bin/jinfo

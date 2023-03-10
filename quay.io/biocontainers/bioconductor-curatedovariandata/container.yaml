@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-curatedovariandata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-curatedovariandata
+latest:
+  1.32.0--r41hdfd78af_1: sha256:51881a8658749c63a8757c5f565121586b26a0ace3978252c7838b77de9061e7
+tags:
+  1.32.0--r41hdfd78af_1: sha256:51881a8658749c63a8757c5f565121586b26a0ace3978252c7838b77de9061e7
+docker: quay.io/biocontainers/bioconductor-curatedovariandata

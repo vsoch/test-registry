@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-rat2302.db
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-rat2302.db
+latest:
+  3.2.3--r41hdfd78af_7: sha256:8b335980b08ed8328f55e42a4493ebb096666316166385fa0e73d3b47b81f419
+tags:
+  3.2.3--r41hdfd78af_7: sha256:8b335980b08ed8328f55e42a4493ebb096666316166385fa0e73d3b47b81f419
+docker: quay.io/biocontainers/bioconductor-rat2302.db
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

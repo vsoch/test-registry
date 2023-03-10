@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/thapbi-pict
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for thapbi-pict
+latest:
+  0.6.9--py_0: sha256:3e121a42248380dea6324a085d0058c246a3b81622463da45e63f255716a6ff3
+tags:
+  0.6.9--py_0: sha256:3e121a42248380dea6324a085d0058c246a3b81622463da45e63f255716a6ff3
+docker: quay.io/biocontainers/thapbi-pict
+aliases:
+  amplicon_contingency_table.py: /usr/local/bin/amplicon_contingency_table.py
+  graph_plot.py: /usr/local/bin/graph_plot.py
+  swarm: /usr/local/bin/swarm
+  thapbi_pict: /usr/local/bin/thapbi_pict
+  flash: /usr/local/bin/flash
+  cutadapt: /usr/local/bin/cutadapt
+  igraph: /usr/local/bin/igraph
+  vba_extract.py: /usr/local/bin/vba_extract.py
+  trimmomatic: /usr/local/bin/trimmomatic
+  cxpm: /usr/local/bin/cxpm
+  sxpm: /usr/local/bin/sxpm
+  fetch-extras: /usr/local/bin/fetch-extras
+  go.mod: /usr/local/bin/go.mod
+  go.sum: /usr/local/bin/go.sum
+  hlp-xtract.txt: /usr/local/bin/hlp-xtract.txt
+  index-extras: /usr/local/bin/index-extras
+  pm-collect: /usr/local/bin/pm-collect
+  readme.pdf: /usr/local/bin/readme.pdf
+  bt-context.txt: /usr/local/bin/bt-context.txt
+  bt-link: /usr/local/bin/bt-link
+  bt-load: /usr/local/bin/bt-load
+  bt-save: /usr/local/bin/bt-save
+  bt-srch: /usr/local/bin/bt-srch
+  eblast: /usr/local/bin/eblast
+  pm-index: /usr/local/bin/pm-index
+  pm-invert: /usr/local/bin/pm-invert
+  pm-merge: /usr/local/bin/pm-merge
+  pm-prepare: /usr/local/bin/pm-prepare
+  pm-promote: /usr/local/bin/pm-promote

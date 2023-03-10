@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/codan
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for codan
+latest:
+  1.2--h9ee0642_0: sha256:bd79add0674f98a3490c9f21add769e8fb833062232b9d6e0d58f76bea73307b
+tags:
+  1.2--h9ee0642_0: sha256:bd79add0674f98a3490c9f21add769e8fb833062232b9d6e0d58f76bea73307b
+docker: quay.io/biocontainers/codan
+aliases:
+  codan.py: /usr/local/bin/codan.py
+  fasta_to_tops: /usr/local/bin/fasta_to_tops
+  predict: /usr/local/bin/predict
+  tops-viterbi_decoding: /usr/local/bin/tops-viterbi_decoding
+  bp_pairwise_kaks.pl: /usr/local/bin/bp_pairwise_kaks.pl
+  bp_search2BSML.pl: /usr/local/bin/bp_search2BSML.pl
+  CA.pm: /usr/local/bin/CA.pm
+  cacert.pem: /usr/local/bin/cacert.pem
+  index-themes: /usr/local/bin/index-themes
+  bp_aacomp.pl: /usr/local/bin/bp_aacomp.pl
+  bp_biofetch_genbank_proxy.pl: /usr/local/bin/bp_biofetch_genbank_proxy.pl
+  bp_bioflat_index.pl: /usr/local/bin/bp_bioflat_index.pl
+  bp_biogetseq.pl: /usr/local/bin/bp_biogetseq.pl
+  bp_blast2tree.pl: /usr/local/bin/bp_blast2tree.pl
+  bp_bulk_load_gff.pl: /usr/local/bin/bp_bulk_load_gff.pl
+  bp_chaos_plot.pl: /usr/local/bin/bp_chaos_plot.pl
+  bp_classify_hits_kingdom.pl: /usr/local/bin/bp_classify_hits_kingdom.pl
+  bp_composite_LD.pl: /usr/local/bin/bp_composite_LD.pl
+  bp_das_server.pl: /usr/local/bin/bp_das_server.pl
+  bp_dbsplit.pl: /usr/local/bin/bp_dbsplit.pl
+  bp_download_query_genbank.pl: /usr/local/bin/bp_download_query_genbank.pl
+  bp_extract_feature_seq.pl: /usr/local/bin/bp_extract_feature_seq.pl
+  bp_fast_load_gff.pl: /usr/local/bin/bp_fast_load_gff.pl
+  bp_fastam9_to_table.pl: /usr/local/bin/bp_fastam9_to_table.pl
+  bp_fetch.pl: /usr/local/bin/bp_fetch.pl
+  bp_filter_search.pl: /usr/local/bin/bp_filter_search.pl
+  bp_flanks.pl: /usr/local/bin/bp_flanks.pl
+  bp_gccalc.pl: /usr/local/bin/bp_gccalc.pl
+  bp_genbank2gff.pl: /usr/local/bin/bp_genbank2gff.pl

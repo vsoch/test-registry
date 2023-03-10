@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-primirtss
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-primirtss
+latest:
+  1.8.0--r40hdfd78af_1: sha256:0e59aaa20e8d7f16e781aa8930fb8e81684da30abef594ec2415381b8a4a0418
+tags:
+  1.8.0--r40hdfd78af_1: sha256:0e59aaa20e8d7f16e781aa8930fb8e81684da30abef594ec2415381b8a4a0418
+docker: quay.io/biocontainers/bioconductor-primirtss
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

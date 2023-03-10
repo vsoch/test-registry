@@ -1,0 +1,46 @@
+url: https://biocontainers.pro/tools/mhcflurry
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for mhcflurry
+latest:
+  2.0.1--pyh864c0ab_0: sha256:00f87fd3ce4d2c069d14c44822d6ef024dd55165a181cde57bbc96119ce4ee53
+tags:
+  2.0.1--pyh864c0ab_0: sha256:00f87fd3ce4d2c069d14c44822d6ef024dd55165a181cde57bbc96119ce4ee53
+docker: quay.io/biocontainers/mhcflurry
+aliases:
+  mhcflurry-calibrate-percentile-ranks: /usr/local/bin/mhcflurry-calibrate-percentile-ranks
+  mhcflurry-class1-select-allele-specific-models: /usr/local/bin/mhcflurry-class1-select-allele-specific-models
+  mhcflurry-class1-select-pan-allele-models: /usr/local/bin/mhcflurry-class1-select-pan-allele-models
+  mhcflurry-class1-select-processing-models: /usr/local/bin/mhcflurry-class1-select-processing-models
+  mhcflurry-class1-train-allele-specific-models: /usr/local/bin/mhcflurry-class1-train-allele-specific-models
+  mhcflurry-class1-train-pan-allele-models: /usr/local/bin/mhcflurry-class1-train-pan-allele-models
+  mhcflurry-class1-train-presentation-models: /usr/local/bin/mhcflurry-class1-train-presentation-models
+  mhcflurry-class1-train-processing-models: /usr/local/bin/mhcflurry-class1-train-processing-models
+  mhcflurry-downloads: /usr/local/bin/mhcflurry-downloads
+  mhcflurry-predict: /usr/local/bin/mhcflurry-predict
+  mhcflurry-predict-scan: /usr/local/bin/mhcflurry-predict-scan
+  pyjwt: /usr/local/bin/pyjwt
+  estimator_ckpt_converter: /usr/local/bin/estimator_ckpt_converter
+  google-oauthlib-tool: /usr/local/bin/google-oauthlib-tool
+  tf_upgrade_v2: /usr/local/bin/tf_upgrade_v2
+  tflite_convert: /usr/local/bin/tflite_convert
+  saved_model_cli: /usr/local/bin/saved_model_cli
+  toco: /usr/local/bin/toco
+  toco_from_protos: /usr/local/bin/toco_from_protos
+  tensorboard: /usr/local/bin/tensorboard
+  markdown_py: /usr/local/bin/markdown_py
+  pyrsa-decrypt: /usr/local/bin/pyrsa-decrypt
+  pyrsa-encrypt: /usr/local/bin/pyrsa-encrypt
+  pyrsa-keygen: /usr/local/bin/pyrsa-keygen
+  pyrsa-priv2pub: /usr/local/bin/pyrsa-priv2pub
+  pyrsa-sign: /usr/local/bin/pyrsa-sign
+  pyrsa-verify: /usr/local/bin/pyrsa-verify
+  protoc: /usr/local/bin/protoc
+  futurize: /usr/local/bin/futurize
+  pasteurize: /usr/local/bin/pasteurize
+  f2py3.8: /usr/local/bin/f2py3.8
+  tqdm: /usr/local/bin/tqdm
+  chardetect: /usr/local/bin/chardetect
+  h5clear: /usr/local/bin/h5clear
+  h5format_convert: /usr/local/bin/h5format_convert
+  h5watch: /usr/local/bin/h5watch
+  h5fc: /usr/local/bin/h5fc

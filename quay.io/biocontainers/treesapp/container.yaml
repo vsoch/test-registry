@@ -1,0 +1,40 @@
+url: https://biocontainers.pro/tools/treesapp
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for treesapp
+latest:
+  0.9.8--py36hf1ae8f4_0: sha256:d63460ac608408ff1be74b44e9252bbb0b8be1922563500451cc5ae1bccc812b
+tags:
+  0.9.8--py36hf1ae8f4_0: sha256:d63460ac608408ff1be74b44e9252bbb0b8be1922563500451cc5ae1bccc812b
+docker: quay.io/biocontainers/treesapp
+aliases:
+  epa-ng: /usr/local/bin/epa-ng
+  pyfastx: /usr/local/bin/pyfastx
+  raxml-ng: /usr/local/bin/raxml-ng
+  raxml-ng-mpi: /usr/local/bin/raxml-ng-mpi
+  samsum: /usr/local/bin/samsum
+  treesapp: /usr/local/bin/treesapp
+  FastTree-2.1.10.c: /usr/local/bin/FastTree-2.1.10.c
+  vsearch: /usr/local/bin/vsearch
+  mmseqs: /usr/local/bin/mmseqs
+  ete3: /usr/local/bin/ete3
+  FastTreeMP: /usr/local/bin/FastTreeMP
+  FastTree: /usr/local/bin/FastTree
+  fasttree: /usr/local/bin/fasttree
+  gawk-5.1.0: /usr/local/bin/gawk-5.1.0
+  aggregate_profile.pl: /usr/local/bin/aggregate_profile.pl
+  perl5.32.0: /usr/local/bin/perl5.32.0
+  profile2mat.pl: /usr/local/bin/profile2mat.pl
+  mpiCC: /usr/local/bin/mpiCC
+  ompi-clean: /usr/local/bin/ompi-clean
+  ompi-server: /usr/local/bin/ompi-server
+  ompi_info: /usr/local/bin/ompi_info
+  opal_wrapper: /usr/local/bin/opal_wrapper
+  orte-clean: /usr/local/bin/orte-clean
+  orte-info: /usr/local/bin/orte-info
+  orte-server: /usr/local/bin/orte-server
+  ortecc: /usr/local/bin/ortecc
+  orted: /usr/local/bin/orted
+  orterun: /usr/local/bin/orterun
+  xkbcli: /usr/local/bin/xkbcli
+  awk: /usr/local/bin/awk
+  gawk: /usr/local/bin/gawk

@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/deepsvr
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for deepsvr
+latest:
+  0.1.0--py_0: sha256:a0839a2eb25209de8edb5d2579d44629c68d3bf7f129c54454d647618600045b
+tags:
+  0.1.0--py_0: sha256:a0839a2eb25209de8edb5d2579d44629c68d3bf7f129c54454d647618600045b
+docker: quay.io/biocontainers/deepsvr
+aliases:
+  bam-readcount: /usr/local/bin/bam-readcount
+  convert_zero_one_based: /usr/local/bin/convert_zero_one_based
+  deepsvr: /usr/local/bin/deepsvr
+  pbr: /usr/local/bin/pbr
+  theano-cache: /usr/local/bin/theano-cache
+  theano-nose: /usr/local/bin/theano-nose
+  mako-render: /usr/local/bin/mako-render
+  perl5.22.0: /usr/local/bin/perl5.22.0
+  c2ph: /usr/local/bin/c2ph
+  pstruct: /usr/local/bin/pstruct
+  tensorboard: /usr/local/bin/tensorboard
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  protoc: /usr/local/bin/protoc
+  sip: /usr/local/bin/sip
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc
+  gst-device-monitor-1.0: /usr/local/bin/gst-device-monitor-1.0
+  gst-discoverer-1.0: /usr/local/bin/gst-discoverer-1.0
+  gst-play-1.0: /usr/local/bin/gst-play-1.0
+  fixqt4headers.pl: /usr/local/bin/fixqt4headers.pl
+  qlalr: /usr/local/bin/qlalr
+  qml: /usr/local/bin/qml
+  qmleasing: /usr/local/bin/qmleasing
+  qmlimportscanner: /usr/local/bin/qmlimportscanner
+  qmllint: /usr/local/bin/qmllint
+  qmlmin: /usr/local/bin/qmlmin

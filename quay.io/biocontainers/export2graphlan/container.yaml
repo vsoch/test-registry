@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/export2graphlan
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for export2graphlan
+latest:
+  0.22--py_0: sha256:ff6e1a0ae7e114485b0c66aaa0f612b4b9c6677ce0465d37bc0ea7b8ed3cbc31
+tags:
+  0.22--py_0: sha256:ff6e1a0ae7e114485b0c66aaa0f612b4b9c6677ce0465d37bc0ea7b8ed3cbc31
+docker: quay.io/biocontainers/export2graphlan
+aliases:
+  export2graphlan.py: /usr/local/bin/export2graphlan.py
+  hclust2.py: /usr/local/bin/hclust2.py
+  compile-et.pl: /usr/local/bin/compile-et.pl
+  prerr.properties: /usr/local/bin/prerr.properties
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview
+  qvkgen: /usr/local/bin/qvkgen
+  f2py2: /usr/local/bin/f2py2
+  f2py2.7: /usr/local/bin/f2py2.7
+  certutil: /usr/local/bin/certutil
+  nspr-config: /usr/local/bin/nspr-config
+  nss-config: /usr/local/bin/nss-config
+  pk12util: /usr/local/bin/pk12util
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  sip: /usr/local/bin/sip
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc
+  gst-device-monitor-1.0: /usr/local/bin/gst-device-monitor-1.0
+  gst-discoverer-1.0: /usr/local/bin/gst-discoverer-1.0

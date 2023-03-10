@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/r-autospill
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-autospill
+latest:
+  0.2.0--r41hdfd78af_0: sha256:c2736578197852807861673c5de59896b2144e8b10f6ef12e0e576e9ea371a3c
+tags:
+  0.2.0--r41hdfd78af_0: sha256:c2736578197852807861673c5de59896b2144e8b10f6ef12e0e576e9ea371a3c
+docker: quay.io/biocontainers/r-autospill
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

@@ -1,0 +1,27 @@
+url: https://biocontainers.pro/tools/xmatchview
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for xmatchview
+latest:
+  v1.1.1--py_0: sha256:0dbeca3b652e659af168e3fb16c9d4d3dc3311d018cdbb71505f43fbad69364e
+tags:
+  v1.1.1--py_0: sha256:0dbeca3b652e659af168e3fb16c9d4d3dc3311d018cdbb71505f43fbad69364e
+docker: quay.io/biocontainers/xmatchview
+aliases:
+  icc2ps: /usr/local/bin/icc2ps
+  icclink: /usr/local/bin/icclink
+  icctrans: /usr/local/bin/icctrans
+  wtpt: /usr/local/bin/wtpt
+  xmatchview-conifer.py: /usr/local/bin/xmatchview-conifer.py
+  xmatchview.py: /usr/local/bin/xmatchview.py
+  pilconvert.py: /usr/local/bin/pilconvert.py
+  pildriver.py: /usr/local/bin/pildriver.py
+  pilfile.py: /usr/local/bin/pilfile.py
+  pilfont.py: /usr/local/bin/pilfont.py
+  pilprint.py: /usr/local/bin/pilprint.py
+  python2-config: /usr/local/bin/python2-config
+  python2.7-config: /usr/local/bin/python2.7-config
+  python2: /usr/local/bin/python2
+  python2.7: /usr/local/bin/python2.7
+  idle: /usr/local/bin/idle
+  python-config: /usr/local/bin/python-config
+  smtpd.py: /usr/local/bin/smtpd.py

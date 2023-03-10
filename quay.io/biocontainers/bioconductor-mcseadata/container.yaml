@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-mcseadata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-mcseadata
+latest:
+  1.9.0--r40_0: sha256:c5eb00801ebbea5228b9c018ae45d7b1caa621a433879b740340ff32b7138e99
+tags:
+  1.9.0--r40_0: sha256:c5eb00801ebbea5228b9c018ae45d7b1caa621a433879b740340ff32b7138e99
+docker: quay.io/biocontainers/bioconductor-mcseadata
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

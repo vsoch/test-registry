@@ -1,0 +1,46 @@
+url: https://biocontainers.pro/tools/asqcan
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for asqcan
+latest:
+  0.2--py_2: sha256:d610b3b88acf999b7d60b8ab802c422e7bdd3566bf79ab1810009c3a90905086
+tags:
+  0.2--py_2: sha256:d610b3b88acf999b7d60b8ab802c422e7bdd3566bf79ab1810009c3a90905086
+docker: quay.io/biocontainers/asqcan
+aliases:
+  asqcan: /usr/local/bin/asqcan
+  blobtools: /usr/local/bin/blobtools
+  blobtools-build_nodesdb: /usr/local/bin/blobtools-build_nodesdb
+  icarus.py: /usr/local/bin/icarus.py
+  metaquast: /usr/local/bin/metaquast
+  metaquast.py: /usr/local/bin/metaquast.py
+  quast: /usr/local/bin/quast
+  quast-download-busco: /usr/local/bin/quast-download-busco
+  quast-download-gridss: /usr/local/bin/quast-download-gridss
+  quast-download-silva: /usr/local/bin/quast-download-silva
+  quast-lg.py: /usr/local/bin/quast-lg.py
+  quast.py: /usr/local/bin/quast.py
+  build.sh: /usr/local/bin/build.sh
+  common.go: /usr/local/bin/common.go
+  glimmerhmm: /usr/local/bin/glimmerhmm
+  glimmhmm.pl: /usr/local/bin/glimmhmm.pl
+  rchive.go: /usr/local/bin/rchive.go
+  trainGlimmerHMM: /usr/local/bin/trainGlimmerHMM
+  setup-deps.log: /usr/local/bin/setup-deps.log
+  setup.sh: /usr/local/bin/setup.sh
+  xtract.go: /usr/local/bin/xtract.go
+  prokka-abricate_to_fasta_db: /usr/local/bin/prokka-abricate_to_fasta_db
+  circos: /usr/local/bin/circos
+  circos.exe: /usr/local/bin/circos.exe
+  compile.bat: /usr/local/bin/compile.bat
+  compile.make: /usr/local/bin/compile.make
+  gddiag: /usr/local/bin/gddiag
+  list.modules: /usr/local/bin/list.modules
+  test.modules: /usr/local/bin/test.modules
+  prokka: /usr/local/bin/prokka
+  prokka-biocyc_to_fasta_db: /usr/local/bin/prokka-biocyc_to_fasta_db
+  prokka-build_kingdom_dbs: /usr/local/bin/prokka-build_kingdom_dbs
+  prokka-cdd_to_hmm: /usr/local/bin/prokka-cdd_to_hmm
+  prokka-clusters_to_hmm: /usr/local/bin/prokka-clusters_to_hmm
+  prokka-genbank_to_fasta_db: /usr/local/bin/prokka-genbank_to_fasta_db
+  prokka-genpept_to_fasta_db: /usr/local/bin/prokka-genpept_to_fasta_db
+  prokka-hamap_to_hmm: /usr/local/bin/prokka-hamap_to_hmm

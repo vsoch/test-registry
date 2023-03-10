@@ -1,0 +1,42 @@
+url: https://biocontainers.pro/tools/abeona
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for abeona
+latest:
+  0.45.0--py_1: sha256:c7d257933b7ee0df7763c50abc32ebf548caa1596a61cd96a34af634054eee5c
+tags:
+  0.45.0--py_1: sha256:c7d257933b7ee0df7763c50abc32ebf548caa1596a61cd96a34af634054eee5c
+docker: quay.io/biocontainers/abeona
+aliases:
+  abeona: /usr/local/bin/abeona
+  cortexpy: /usr/local/bin/cortexpy
+  kallisto: /usr/local/bin/kallisto
+  mccortex: /usr/local/bin/mccortex
+  mccortex127: /usr/local/bin/mccortex127
+  mccortex31: /usr/local/bin/mccortex31
+  mccortex63: /usr/local/bin/mccortex63
+  mccortex95: /usr/local/bin/mccortex95
+  nextflow.bak: /usr/local/bin/nextflow.bak
+  nextflow: /usr/local/bin/nextflow
+  basenc: /usr/local/bin/basenc
+  b2sum: /usr/local/bin/b2sum
+  ls: /usr/local/bin/ls
+  base32: /usr/local/bin/base32
+  base64: /usr/local/bin/base64
+  basename: /usr/local/bin/basename
+  cat: /usr/local/bin/cat
+  chcon: /usr/local/bin/chcon
+  chgrp: /usr/local/bin/chgrp
+  chmod: /usr/local/bin/chmod
+  chown: /usr/local/bin/chown
+  chroot: /usr/local/bin/chroot
+  cksum: /usr/local/bin/cksum
+  comm: /usr/local/bin/comm
+  cp: /usr/local/bin/cp
+  csplit: /usr/local/bin/csplit
+  cut: /usr/local/bin/cut
+  date: /usr/local/bin/date
+  dd: /usr/local/bin/dd
+  df: /usr/local/bin/df
+  dir: /usr/local/bin/dir
+  dircolors: /usr/local/bin/dircolors
+  dirname: /usr/local/bin/dirname

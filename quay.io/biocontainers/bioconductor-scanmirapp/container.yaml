@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-scanmirapp
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-scanmirapp
+latest:
+  1.0.0--r41hdfd78af_0: sha256:bc1fe122ed0ef9f206314e99d26c3daf3e79da2263ca0ab8dcbd25ebd096e7e4
+tags:
+  1.0.0--r41hdfd78af_0: sha256:bc1fe122ed0ef9f206314e99d26c3daf3e79da2263ca0ab8dcbd25ebd096e7e4
+docker: quay.io/biocontainers/bioconductor-scanmirapp

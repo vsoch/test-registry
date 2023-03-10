@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-org.ss.eg.db
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-org.ss.eg.db
+latest:
+  3.8.2--r36_1: sha256:418814e84b50cd5bc3335ef782e3840e60cef0874841cfb25da28ac67cb85454
+tags:
+  3.8.2--r36_1: sha256:418814e84b50cd5bc3335ef782e3840e60cef0874841cfb25da28ac67cb85454
+docker: quay.io/biocontainers/bioconductor-org.ss.eg.db
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

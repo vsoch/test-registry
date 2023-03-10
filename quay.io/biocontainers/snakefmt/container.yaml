@@ -1,0 +1,18 @@
+url: https://biocontainers.pro/tools/snakefmt
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for snakefmt
+latest:
+  0.6.1--pyhdfd78af_0: sha256:9d7d016c142dab89a2f02835c2ff74f2d523557570c6346536fbf0010d8f7ae8
+tags:
+  0.6.1--pyhdfd78af_0: sha256:9d7d016c142dab89a2f02835c2ff74f2d523557570c6346536fbf0010d8f7ae8
+docker: quay.io/biocontainers/snakefmt
+aliases:
+  snakefmt: /usr/local/bin/snakefmt
+  black: /usr/local/bin/black
+  blackd: /usr/local/bin/blackd
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

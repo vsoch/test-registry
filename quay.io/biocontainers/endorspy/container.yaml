@@ -1,0 +1,16 @@
+url: https://biocontainers.pro/tools/endorspy
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for endorspy
+latest:
+  0.5--hdfd78af_0: sha256:402476bda3cc7d9df3d802c271a0821faa677619529b8d1c53c929257efb83a5
+tags:
+  0.5--hdfd78af_0: sha256:402476bda3cc7d9df3d802c271a0821faa677619529b8d1c53c929257efb83a5
+docker: quay.io/biocontainers/endorspy
+aliases:
+  endorspy: /usr/local/bin/endorspy
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

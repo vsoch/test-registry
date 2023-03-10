@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/pyfba
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pyfba
+latest:
+  2.62--py39h8c4442e_2: sha256:4b3eaf5f92231aacb9cb5a9f2e6dc78f6836edc9bac0a014efb23482c7ab3a7f
+tags:
+  2.62--py39h8c4442e_2: sha256:4b3eaf5f92231aacb9cb5a9f2e6dc78f6836edc9bac0a014efb23482c7ab3a7f
+docker: quay.io/biocontainers/pyfba
+aliases:
+  black-primer: /usr/local/bin/black-primer
+  jupyter-console: /usr/local/bin/jupyter-console
+  jupyter-qtconsole: /usr/local/bin/jupyter-qtconsole
+  pyfba: /usr/local/bin/pyfba
+  black: /usr/local/bin/black
+  blackd: /usr/local/bin/blackd
+  jupyter-execute: /usr/local/bin/jupyter-execute
+  jupyter-dejavu: /usr/local/bin/jupyter-dejavu
+  send2trash: /usr/local/bin/send2trash
+  jupyter-bundlerextension: /usr/local/bin/jupyter-bundlerextension
+  jupyter-nbextension: /usr/local/bin/jupyter-nbextension
+  jupyter-notebook: /usr/local/bin/jupyter-notebook
+  jupyter-serverextension: /usr/local/bin/jupyter-serverextension
+  jupyter-nbconvert: /usr/local/bin/jupyter-nbconvert
+  jupyter-kernel: /usr/local/bin/jupyter-kernel
+  jupyter-kernelspec: /usr/local/bin/jupyter-kernelspec
+  jupyter-run: /usr/local/bin/jupyter-run
+  curve_keygen: /usr/local/bin/curve_keygen
+  xkbcli: /usr/local/bin/xkbcli
+  ipython3: /usr/local/bin/ipython3
+  ipython: /usr/local/bin/ipython
+  jupyter-trust: /usr/local/bin/jupyter-trust
+  pg_config: /usr/local/bin/pg_config
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview
+  qvkgen: /usr/local/bin/qvkgen
+  jupyter: /usr/local/bin/jupyter
+  jupyter-migrate: /usr/local/bin/jupyter-migrate
+  jupyter-troubleshoot: /usr/local/bin/jupyter-troubleshoot

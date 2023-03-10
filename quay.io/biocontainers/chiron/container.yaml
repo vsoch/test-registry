@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/chiron
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for chiron
+latest:
+  0.6.1.1--py_0: sha256:84bb15be72fb143b4465ff240b488ff43f398b756ad436324a26a1f79a186072
+tags:
+  0.6.1.1--py_0: sha256:84bb15be72fb143b4465ff240b488ff43f398b756ad436324a26a1f79a186072
+docker: quay.io/biocontainers/chiron
+aliases:
+  chiron: /usr/local/bin/chiron
+  unit2: /usr/local/bin/unit2
+  minimap2.py: /usr/local/bin/minimap2.py
+  freeze_graph: /usr/local/bin/freeze_graph
+  tflite_convert: /usr/local/bin/tflite_convert
+  saved_model_cli: /usr/local/bin/saved_model_cli
+  toco: /usr/local/bin/toco
+  toco_from_protos: /usr/local/bin/toco_from_protos
+  tensorboard: /usr/local/bin/tensorboard
+  markdown_py: /usr/local/bin/markdown_py
+  f2py2: /usr/local/bin/f2py2
+  f2py2.7: /usr/local/bin/f2py2.7
+  protoc: /usr/local/bin/protoc
+  tqdm: /usr/local/bin/tqdm
+  python2-config: /usr/local/bin/python2-config
+  python2.7-config: /usr/local/bin/python2.7-config
+  python2: /usr/local/bin/python2
+  python2.7: /usr/local/bin/python2.7
+  idle: /usr/local/bin/idle
+  python-config: /usr/local/bin/python-config
+  smtpd.py: /usr/local/bin/smtpd.py
+  h5clear: /usr/local/bin/h5clear
+  h5format_convert: /usr/local/bin/h5format_convert
+  h5watch: /usr/local/bin/h5watch
+  h5fc: /usr/local/bin/h5fc
+  gif2h5: /usr/local/bin/gif2h5

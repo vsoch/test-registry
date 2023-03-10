@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-scate
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-scate
+latest:
+  1.4.0--r41hdfd78af_0: sha256:d48cc511ae5f2c15d8768bbda2aaeb3ab1f076fbdf57136553a0dd28373bfe6b
+tags:
+  1.4.0--r41hdfd78af_0: sha256:d48cc511ae5f2c15d8768bbda2aaeb3ab1f076fbdf57136553a0dd28373bfe6b
+docker: quay.io/biocontainers/bioconductor-scate
+aliases:
+  xgboost: /usr/local/bin/xgboost

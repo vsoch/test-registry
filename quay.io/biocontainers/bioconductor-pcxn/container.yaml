@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-pcxn
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-pcxn
+latest:
+  2.8.0--r36_1: sha256:4ec2975985a3406d5b78911926fcecd28d0bda45be273c682d286893d88340b3
+tags:
+  2.8.0--r36_1: sha256:4ec2975985a3406d5b78911926fcecd28d0bda45be273c682d286893d88340b3
+docker: quay.io/biocontainers/bioconductor-pcxn
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

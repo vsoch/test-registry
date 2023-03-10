@@ -1,0 +1,26 @@
+url: https://biocontainers.pro/tools/datafunk
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for datafunk
+latest:
+  0.1.0--pyh5e36f6f_0: sha256:fc13778c22203fdb0af4a2ac62b9e1b2a2e1f83ff6b84ed84ed3f6565563dc4c
+tags:
+  0.1.0--pyh5e36f6f_0: sha256:fc13778c22203fdb0af4a2ac62b9e1b2a2e1f83ff6b84ed84ed3f6565563dc4c
+docker: quay.io/biocontainers/datafunk
+aliases:
+  cchardetect: /usr/local/bin/cchardetect
+  datafunk: /usr/local/bin/datafunk
+  datapackage: /usr/local/bin/datapackage
+  jsonpointer: /usr/local/bin/jsonpointer
+  tableschema: /usr/local/bin/tableschema
+  tabulator: /usr/local/bin/tabulator
+  unidecode: /usr/local/bin/unidecode
+  runxlrd.py: /usr/local/bin/runxlrd.py
+  jp.py: /usr/local/bin/jp.py
+  jsonschema: /usr/local/bin/jsonschema
+  f2py3.8: /usr/local/bin/f2py3.8
+  chardetect: /usr/local/bin/chardetect
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config

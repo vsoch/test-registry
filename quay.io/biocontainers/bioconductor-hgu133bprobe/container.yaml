@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-hgu133bprobe
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-hgu133bprobe
+latest:
+  2.18.0--r41hdfd78af_9: sha256:99c2681516ac9b89f735c2c0141fe76d0dbafd81652e46a5c3819f303977bc64
+tags:
+  2.18.0--r41hdfd78af_9: sha256:99c2681516ac9b89f735c2c0141fe76d0dbafd81652e46a5c3819f303977bc64
+docker: quay.io/biocontainers/bioconductor-hgu133bprobe

@@ -1,0 +1,40 @@
+url: https://biocontainers.pro/tools/panx
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for panx
+latest:
+  1.6.0--py27_0: sha256:07c58714d624590440defb27a33e0472ae3fda841f7afb4af0510c281b594ee4
+tags:
+  1.6.0--py27_0: sha256:07c58714d624590440defb27a33e0472ae3fda841f7afb4af0510c281b594ee4
+docker: quay.io/biocontainers/panx
+aliases:
+  FastTree.c: /usr/local/bin/FastTree.c
+  ancestral_reconstruction.py: /usr/local/bin/ancestral_reconstruction.py
+  ete: /usr/local/bin/ete
+  panX.py: /usr/local/bin/panX.py
+  temporal_signal.py: /usr/local/bin/temporal_signal.py
+  timetree_inference.py: /usr/local/bin/timetree_inference.py
+  createfontdatachunk.py: /usr/local/bin/createfontdatachunk.py
+  enhancer.py: /usr/local/bin/enhancer.py
+  explode.py: /usr/local/bin/explode.py
+  gifmaker.py: /usr/local/bin/gifmaker.py
+  painter.py: /usr/local/bin/painter.py
+  player.py: /usr/local/bin/player.py
+  thresholder.py: /usr/local/bin/thresholder.py
+  viewer.py: /usr/local/bin/viewer.py
+  clm: /usr/local/bin/clm
+  clmformat: /usr/local/bin/clmformat
+  clxdo: /usr/local/bin/clxdo
+  mcl: /usr/local/bin/mcl
+  mclblastline: /usr/local/bin/mclblastline
+  mclcm: /usr/local/bin/mclcm
+  mclpipeline: /usr/local/bin/mclpipeline
+  mcx: /usr/local/bin/mcx
+  mcxarray: /usr/local/bin/mcxarray
+  mcxassemble: /usr/local/bin/mcxassemble
+  mcxdeblast: /usr/local/bin/mcxdeblast
+  mcxdump: /usr/local/bin/mcxdump
+  mcxi: /usr/local/bin/mcxi
+  mcxload: /usr/local/bin/mcxload
+  mcxmap: /usr/local/bin/mcxmap
+  mcxrand: /usr/local/bin/mcxrand
+  mcxsubs: /usr/local/bin/mcxsubs

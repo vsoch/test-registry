@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/gtdbtk
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for gtdbtk
+latest:
+  2.1.1--pyhdfd78af_1: sha256:8a3f3b4416fb8c01f7c3c73cb05309c6b85d81a9028f8db8f9ef783e72c63bcb
+tags:
+  2.1.1--pyhdfd78af_1: sha256:8a3f3b4416fb8c01f7c3c73cb05309c6b85d81a9028f8db8f9ef783e72c63bcb
+docker: quay.io/biocontainers/gtdbtk
+aliases:
+  download-db.sh: /usr/local/bin/download-db.sh
+  gtdbtk: /usr/local/bin/gtdbtk
+  hmmc2: /usr/local/bin/hmmc2
+  hmmerfm-exactmatch: /usr/local/bin/hmmerfm-exactmatch
+  rppr: /usr/local/bin/rppr
+  guppy: /usr/local/bin/guppy
+  pplacer: /usr/local/bin/pplacer
+  fastANI: /usr/local/bin/fastANI
+  dendropy-format: /usr/local/bin/dendropy-format
+  capnp: /usr/local/bin/capnp
+  capnpc: /usr/local/bin/capnpc
+  capnpc-c++: /usr/local/bin/capnpc-c++
+  capnpc-capnp: /usr/local/bin/capnpc-capnp
+  FastTreeMP: /usr/local/bin/FastTreeMP
+  mash: /usr/local/bin/mash
+  FastTree: /usr/local/bin/FastTree
+  fasttree: /usr/local/bin/fasttree
+  sumlabels.py: /usr/local/bin/sumlabels.py
+  sumtrees.py: /usr/local/bin/sumtrees.py
+  prodigal: /usr/local/bin/prodigal
+  alimask: /usr/local/bin/alimask
+  hmmconvert: /usr/local/bin/hmmconvert
+  hmmemit: /usr/local/bin/hmmemit
+  hmmfetch: /usr/local/bin/hmmfetch
+  hmmlogo: /usr/local/bin/hmmlogo
+  hmmpgmd: /usr/local/bin/hmmpgmd
+  hmmpress: /usr/local/bin/hmmpress

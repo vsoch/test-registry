@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-musicatk
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-musicatk
+latest:
+  1.4.0--r41hdfd78af_0: sha256:ba9ae41dfd5e2565eb3bb4472562095abd319411e499486fda46eeb8252b5c37
+tags:
+  1.4.0--r41hdfd78af_0: sha256:ba9ae41dfd5e2565eb3bb4472562095abd319411e499486fda46eeb8252b5c37
+docker: quay.io/biocontainers/bioconductor-musicatk
+aliases:
+  pandoc: /usr/local/bin/pandoc

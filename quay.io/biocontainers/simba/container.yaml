@@ -1,0 +1,43 @@
+url: https://biocontainers.pro/tools/simba
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for simba
+latest:
+  1.1--pyhdfd78af_0: sha256:8947ee7a83ad53fcc315209ff5fef1dbb49da2419dab574d82df465b43452448
+tags:
+  1.1--pyhdfd78af_0: sha256:8947ee7a83ad53fcc315209ff5fef1dbb49da2419dab574d82df465b43452448
+docker: quay.io/biocontainers/simba
+aliases:
+  torchbiggraph_config: /usr/local/bin/torchbiggraph_config
+  torchbiggraph_eval: /usr/local/bin/torchbiggraph_eval
+  torchbiggraph_example_fb15k: /usr/local/bin/torchbiggraph_example_fb15k
+  torchbiggraph_example_livejournal: /usr/local/bin/torchbiggraph_example_livejournal
+  torchbiggraph_export_to_tsv: /usr/local/bin/torchbiggraph_export_to_tsv
+  torchbiggraph_import_from_parquet: /usr/local/bin/torchbiggraph_import_from_parquet
+  torchbiggraph_import_from_tsv: /usr/local/bin/torchbiggraph_import_from_tsv
+  torchbiggraph_partitionserver: /usr/local/bin/torchbiggraph_partitionserver
+  torchbiggraph_train: /usr/local/bin/torchbiggraph_train
+  torchrun: /usr/local/bin/torchrun
+  convert-caffe2-to-onnx: /usr/local/bin/convert-caffe2-to-onnx
+  convert-onnx-to-caffe2: /usr/local/bin/convert-onnx-to-caffe2
+  ninja: /usr/local/bin/ninja
+  pt2to3: /usr/local/bin/pt2to3
+  ptdump: /usr/local/bin/ptdump
+  ptrepack: /usr/local/bin/ptrepack
+  pttree: /usr/local/bin/pttree
+  numba: /usr/local/bin/numba
+  pycc: /usr/local/bin/pycc
+  natsort: /usr/local/bin/natsort
+  mirror_server: /usr/local/bin/mirror_server
+  mirror_server_stop: /usr/local/bin/mirror_server_stop
+  protoc: /usr/local/bin/protoc
+  futurize: /usr/local/bin/futurize
+  pasteurize: /usr/local/bin/pasteurize
+  shiftBed: /usr/local/bin/shiftBed
+  annotateBed: /usr/local/bin/annotateBed
+  bamToBed: /usr/local/bin/bamToBed
+  bamToFastq: /usr/local/bin/bamToFastq
+  bed12ToBed6: /usr/local/bin/bed12ToBed6
+  bedToBam: /usr/local/bin/bedToBam
+  bedToIgv: /usr/local/bin/bedToIgv
+  bedpeToBam: /usr/local/bin/bedpeToBam
+  bedtools: /usr/local/bin/bedtools

@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-zfpkm
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-zfpkm
+latest:
+  1.8.0--r36_0: sha256:af4ad1c895a96d86107ad5e8837b0273de6ee31e77ec62a79253804d22122a92
+tags:
+  1.8.0--r36_0: sha256:af4ad1c895a96d86107ad5e8837b0273de6ee31e77ec62a79253804d22122a92
+docker: quay.io/biocontainers/bioconductor-zfpkm
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

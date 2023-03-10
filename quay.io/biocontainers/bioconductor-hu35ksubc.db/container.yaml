@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-hu35ksubc.db
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-hu35ksubc.db
+latest:
+  3.2.3--r41hdfd78af_7: sha256:4362a1c70835c3b2dcfe5d983fd264929441c2874d1df141796cfa64b6f1a530
+tags:
+  3.2.3--r41hdfd78af_7: sha256:4362a1c70835c3b2dcfe5d983fd264929441c2874d1df141796cfa64b6f1a530
+docker: quay.io/biocontainers/bioconductor-hu35ksubc.db
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

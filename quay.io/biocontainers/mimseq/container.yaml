@@ -1,0 +1,41 @@
+url: https://biocontainers.pro/tools/mimseq
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for mimseq
+latest:
+  1.2--pyhdfd78af_0: sha256:7f03bf31b08f2b425b4effab2d248b429953b9e4660494265e0a0dcaf8e65262
+tags:
+  1.2--pyhdfd78af_0: sha256:7f03bf31b08f2b425b4effab2d248b429953b9e4660494265e0a0dcaf8e65262
+docker: quay.io/biocontainers/mimseq
+aliases:
+  git2_cli: /usr/local/bin/git2_cli
+  gmap_compress: /usr/local/bin/gmap_compress
+  gmap_reassemble: /usr/local/bin/gmap_reassemble
+  gmap_uncompress: /usr/local/bin/gmap_uncompress
+  mimseq: /usr/local/bin/mimseq
+  pyfiglet: /usr/local/bin/pyfiglet
+  trindex: /usr/local/bin/trindex
+  atoiindex: /usr/local/bin/atoiindex
+  cmetindex: /usr/local/bin/cmetindex
+  cpuid: /usr/local/bin/cpuid
+  dbsnp_iit: /usr/local/bin/dbsnp_iit
+  ensembl_genes: /usr/local/bin/ensembl_genes
+  fa_coords: /usr/local/bin/fa_coords
+  get-genome: /usr/local/bin/get-genome
+  gff3_genes: /usr/local/bin/gff3_genes
+  gff3_introns: /usr/local/bin/gff3_introns
+  gff3_splicesites: /usr/local/bin/gff3_splicesites
+  gmap.sse42: /usr/local/bin/gmap.sse42
+  gmap_build: /usr/local/bin/gmap_build
+  gmap_process: /usr/local/bin/gmap_process
+  gmapindex: /usr/local/bin/gmapindex
+  gmapl: /usr/local/bin/gmapl
+  gmapl.sse42: /usr/local/bin/gmapl.sse42
+  gsnap: /usr/local/bin/gsnap
+  gsnap.sse42: /usr/local/bin/gsnap.sse42
+  gsnapl: /usr/local/bin/gsnapl
+  gsnapl.sse42: /usr/local/bin/gsnapl.sse42
+  gtf_genes: /usr/local/bin/gtf_genes
+  gtf_introns: /usr/local/bin/gtf_introns
+  gtf_splicesites: /usr/local/bin/gtf_splicesites
+  gtf_transcript_splicesites: /usr/local/bin/gtf_transcript_splicesites
+  gvf_iit: /usr/local/bin/gvf_iit

@@ -1,0 +1,32 @@
+url: https://biocontainers.pro/tools/perl-data-stag
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for perl-data-stag
+latest:
+  0.14--pl5321hdfd78af_2: sha256:4cd57726ef1b844cdc58a766a1ae04709e283d4ebb81b3e348261676103f6928
+tags:
+  0.14--pl5321hdfd78af_2: sha256:4cd57726ef1b844cdc58a766a1ae04709e283d4ebb81b3e348261676103f6928
+docker: quay.io/biocontainers/perl-data-stag
+aliases:
+  stag-autoschema.pl: /usr/local/bin/stag-autoschema.pl
+  stag-db.pl: /usr/local/bin/stag-db.pl
+  stag-diff.pl: /usr/local/bin/stag-diff.pl
+  stag-drawtree.pl: /usr/local/bin/stag-drawtree.pl
+  stag-filter.pl: /usr/local/bin/stag-filter.pl
+  stag-findsubtree.pl: /usr/local/bin/stag-findsubtree.pl
+  stag-flatten.pl: /usr/local/bin/stag-flatten.pl
+  stag-grep.pl: /usr/local/bin/stag-grep.pl
+  stag-handle.pl: /usr/local/bin/stag-handle.pl
+  stag-itext2simple.pl: /usr/local/bin/stag-itext2simple.pl
+  stag-itext2sxpr.pl: /usr/local/bin/stag-itext2sxpr.pl
+  stag-itext2xml.pl: /usr/local/bin/stag-itext2xml.pl
+  stag-join.pl: /usr/local/bin/stag-join.pl
+  stag-merge.pl: /usr/local/bin/stag-merge.pl
+  stag-mogrify.pl: /usr/local/bin/stag-mogrify.pl
+  stag-parse.pl: /usr/local/bin/stag-parse.pl
+  stag-query.pl: /usr/local/bin/stag-query.pl
+  stag-splitter.pl: /usr/local/bin/stag-splitter.pl
+  stag-view.pl: /usr/local/bin/stag-view.pl
+  stag-xml2itext.pl: /usr/local/bin/stag-xml2itext.pl
+  xslt-config: /usr/local/bin/xslt-config
+  xsltproc: /usr/local/bin/xsltproc
+  json_xs: /usr/local/bin/json_xs

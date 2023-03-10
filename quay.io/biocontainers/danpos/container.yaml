@@ -1,0 +1,30 @@
+url: https://biocontainers.pro/tools/danpos
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for danpos
+latest:
+  2.2.2--hdfd78af_2: sha256:b618af123e54b5df4f0b6f4ef61bcdb64e816c583fd28d6c61404081f24237e0
+tags:
+  2.2.2--hdfd78af_2: sha256:b618af123e54b5df4f0b6f4ef61bcdb64e816c583fd28d6c61404081f24237e0
+docker: quay.io/biocontainers/danpos
+aliases:
+  danpos.py: /usr/local/bin/danpos.py
+  functions.py: /usr/local/bin/functions.py
+  lib.py: /usr/local/bin/lib.py
+  reads.py: /usr/local/bin/reads.py
+  summits.py: /usr/local/bin/summits.py
+  wig.py: /usr/local/bin/wig.py
+  wigs.py: /usr/local/bin/wigs.py
+  wiq.py: /usr/local/bin/wiq.py
+  f2py2: /usr/local/bin/f2py2
+  f2py2.7: /usr/local/bin/f2py2.7
+  bcftools: /usr/local/bin/bcftools
+  vcfutils.pl: /usr/local/bin/vcfutils.pl
+  python2-config: /usr/local/bin/python2-config
+  python2.7-config: /usr/local/bin/python2.7-config
+  python2: /usr/local/bin/python2
+  python2.7: /usr/local/bin/python2.7
+  idle: /usr/local/bin/idle
+  python-config: /usr/local/bin/python-config
+  smtpd.py: /usr/local/bin/smtpd.py
+  samtools: /usr/local/bin/samtools
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

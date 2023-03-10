@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-biscuiteer
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-biscuiteer
+latest:
+  1.8.0--r41hdfd78af_0: sha256:9ec0bff29f4ae35f22f90a96da9addad0861a56675a4ec4a3bc76611f5828e01
+tags:
+  1.8.0--r41hdfd78af_0: sha256:9ec0bff29f4ae35f22f90a96da9addad0861a56675a4ec4a3bc76611f5828e01
+docker: quay.io/biocontainers/bioconductor-biscuiteer

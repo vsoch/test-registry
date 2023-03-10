@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-bsubtilisprobe
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-bsubtilisprobe
+latest:
+  2.18.0--r41hdfd78af_9: sha256:5694d92e361de3c13c79cf46e31f78e21f04d7c3d28fc653c1ac0df4481b62f8
+tags:
+  2.18.0--r41hdfd78af_9: sha256:5694d92e361de3c13c79cf46e31f78e21f04d7c3d28fc653c1ac0df4481b62f8
+docker: quay.io/biocontainers/bioconductor-bsubtilisprobe

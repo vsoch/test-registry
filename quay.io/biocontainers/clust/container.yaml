@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/clust
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for clust
+latest:
+  1.8.9--py27h24bf2e0_0: sha256:696a24422dac338ca3a8f94c062c60bfe52b7020e905d6abf8bc88345096cc80
+tags:
+  1.8.9--py27h24bf2e0_0: sha256:696a24422dac338ca3a8f94c062c60bfe52b7020e905d6abf8bc88345096cc80
+docker: quay.io/biocontainers/clust
+aliases:
+  clust: /usr/local/bin/clust
+  conv-template: /usr/local/bin/conv-template
+  from-template: /usr/local/bin/from-template
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  sip: /usr/local/bin/sip
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc
+  gst-device-monitor-1.0: /usr/local/bin/gst-device-monitor-1.0
+  gst-discoverer-1.0: /usr/local/bin/gst-discoverer-1.0
+  gst-play-1.0: /usr/local/bin/gst-play-1.0
+  fixqt4headers.pl: /usr/local/bin/fixqt4headers.pl
+  qlalr: /usr/local/bin/qlalr
+  qml: /usr/local/bin/qml
+  qmleasing: /usr/local/bin/qmleasing
+  qmlimportscanner: /usr/local/bin/qmlimportscanner
+  qmllint: /usr/local/bin/qmllint
+  qmlmin: /usr/local/bin/qmlmin
+  qmlprofiler: /usr/local/bin/qmlprofiler
+  qmlscene: /usr/local/bin/qmlscene
+  qmltestrunner: /usr/local/bin/qmltestrunner
+  qtdiag: /usr/local/bin/qtdiag
+  qtpaths: /usr/local/bin/qtpaths
+  qtplugininfo: /usr/local/bin/qtplugininfo
+  syncqt.pl: /usr/local/bin/syncqt.pl

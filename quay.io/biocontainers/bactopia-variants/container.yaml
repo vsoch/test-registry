@@ -1,0 +1,49 @@
+url: https://biocontainers.pro/tools/bactopia-variants
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bactopia-variants
+latest:
+  1.0.0--hdfd78af_0: sha256:8d3abb93dd5a3dc0e7cd0aaa3eb76a5572aa366c7f93d0ac916e5bf4e9b19fcd
+tags:
+  1.0.0--hdfd78af_0: sha256:8d3abb93dd5a3dc0e7cd0aaa3eb76a5572aa366c7f93d0ac916e5bf4e9b19fcd
+docker: quay.io/biocontainers/bactopia-variants
+aliases:
+  TMalign: /usr/local/bin/TMalign
+  bactopia-variants: /usr/local/bin/bactopia-variants
+  cleanup-coverage.py: /usr/local/bin/cleanup-coverage.py
+  make_pscores.pl: /usr/local/bin/make_pscores.pl
+  mask-consensus.py: /usr/local/bin/mask-consensus.py
+  poa: /usr/local/bin/poa
+  snippy: /usr/local/bin/snippy
+  snippy-clean_full_aln: /usr/local/bin/snippy-clean_full_aln
+  snippy-core: /usr/local/bin/snippy-core
+  snippy-multi: /usr/local/bin/snippy-multi
+  snippy-vcf_extract_subs: /usr/local/bin/snippy-vcf_extract_subs
+  snippy-vcf_report: /usr/local/bin/snippy-vcf_report
+  snippy-vcf_to_tab: /usr/local/bin/snippy-vcf_to_tab
+  split_ref_by_bai_datasize.py: /usr/local/bin/split_ref_by_bai_datasize.py
+  vcf-annotator: /usr/local/bin/vcf-annotator
+  sam_add_rg.pl: /usr/local/bin/sam_add_rg.pl
+  snp-sites: /usr/local/bin/snp-sites
+  update_version.sh: /usr/local/bin/update_version.sh
+  vt: /usr/local/bin/vt
+  RNAmultifold: /usr/local/bin/RNAmultifold
+  clustalo: /usr/local/bin/clustalo
+  samclip: /usr/local/bin/samclip
+  tabix++: /usr/local/bin/tabix++
+  any2fasta: /usr/local/bin/any2fasta
+  rename: /usr/local/bin/rename
+  snpEff: /usr/local/bin/snpEff
+  bl2seq: /usr/local/bin/bl2seq
+  blastall: /usr/local/bin/blastall
+  blastclust: /usr/local/bin/blastclust
+  blastpgp: /usr/local/bin/blastpgp
+  copymat: /usr/local/bin/copymat
+  fastacmd: /usr/local/bin/fastacmd
+  formatdb: /usr/local/bin/formatdb
+  formatrpsdb: /usr/local/bin/formatrpsdb
+  impala: /usr/local/bin/impala
+  makemat: /usr/local/bin/makemat
+  megablast: /usr/local/bin/megablast
+  bamleftalign: /usr/local/bin/bamleftalign
+  coverage_to_regions.py: /usr/local/bin/coverage_to_regions.py
+  fasta_generate_regions.py: /usr/local/bin/fasta_generate_regions.py

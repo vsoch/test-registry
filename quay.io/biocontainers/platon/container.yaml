@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/platon
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for platon
+latest:
+  1.6--pyhdfd78af_1: sha256:09223057e5494cc75a342d646b59ffc82faa987fb2ab4b4470317ada1f7c567b
+tags:
+  1.6--pyhdfd78af_1: sha256:09223057e5494cc75a342d646b59ffc82faa987fb2ab4b4470317ada1f7c567b
+docker: quay.io/biocontainers/platon
+aliases:
+  platon: /usr/local/bin/platon
+  delta2vcf: /usr/local/bin/delta2vcf
+  cmalign: /usr/local/bin/cmalign
+  cmbuild: /usr/local/bin/cmbuild
+  cmcalibrate: /usr/local/bin/cmcalibrate
+  cmconvert: /usr/local/bin/cmconvert
+  cmemit: /usr/local/bin/cmemit
+  cmfetch: /usr/local/bin/cmfetch
+  cmpress: /usr/local/bin/cmpress
+  cmscan: /usr/local/bin/cmscan
+  cmsearch: /usr/local/bin/cmsearch
+  cmstat: /usr/local/bin/cmstat
+  combineMUMs: /usr/local/bin/combineMUMs
+  delta-filter: /usr/local/bin/delta-filter
+  dnadiff: /usr/local/bin/dnadiff
+  exact-tandems: /usr/local/bin/exact-tandems
+  mummer: /usr/local/bin/mummer
+  mummerplot: /usr/local/bin/mummerplot
+  nucmer: /usr/local/bin/nucmer
+  promer: /usr/local/bin/promer
+  repeat-match: /usr/local/bin/repeat-match
+  show-aligns: /usr/local/bin/show-aligns
+  show-coords: /usr/local/bin/show-coords
+  show-diff: /usr/local/bin/show-diff
+  show-snps: /usr/local/bin/show-snps
+  show-tiling: /usr/local/bin/show-tiling

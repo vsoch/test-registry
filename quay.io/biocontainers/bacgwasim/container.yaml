@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/bacgwasim
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bacgwasim
+latest:
+  2.1.1--pyhdfd78af_0: sha256:4b06901ae551a2f2fba28bd82a4bbda2d4046698f939e66cdfe3f303dc910847
+tags:
+  2.1.1--pyhdfd78af_0: sha256:4b06901ae551a2f2fba28bd82a4bbda2d4046698f939e66cdfe3f303dc910847
+docker: quay.io/biocontainers/bacgwasim
+aliases:
+  BacGWASim: /usr/local/bin/BacGWASim
+  SimBac: /usr/local/bin/SimBac
+  gcta64: /usr/local/bin/gcta64
+  plink: /usr/local/bin/plink
+  snp-sites: /usr/local/bin/snp-sites
+  stone: /usr/local/bin/stone
+  dendropy-format: /usr/local/bin/dendropy-format
+  sumlabels.py: /usr/local/bin/sumlabels.py
+  x86_64-conda-linux-gnu-pkg-config: /usr/local/bin/x86_64-conda-linux-gnu-pkg-config
+  sumtrees.py: /usr/local/bin/sumtrees.py
+  Magick++-config: /usr/local/bin/Magick++-config
+  MagickCore-config: /usr/local/bin/MagickCore-config
+  MagickWand-config: /usr/local/bin/MagickWand-config
+  animate: /usr/local/bin/animate
+  composite: /usr/local/bin/composite
+  conjure: /usr/local/bin/conjure
+  convert: /usr/local/bin/convert
+  display: /usr/local/bin/display
+  identify: /usr/local/bin/identify
+  import: /usr/local/bin/import
+  magick: /usr/local/bin/magick
+  magick-script: /usr/local/bin/magick-script
+  mogrify: /usr/local/bin/mogrify
+  montage: /usr/local/bin/montage
+  pkg-config: /usr/local/bin/pkg-config
+  pkg-config.bin: /usr/local/bin/pkg-config.bin
+  stream: /usr/local/bin/stream
+  pulptest: /usr/local/bin/pulptest
+  compare: /usr/local/bin/compare

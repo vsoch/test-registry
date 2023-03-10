@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/fastphylo
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for fastphylo
+latest:
+  1.0.3--h648b6df_5: sha256:6e9756acdd3d68fdc034a4fe7dece58dc23c8c78d41fb1661c11aa794a33a130
+tags:
+  1.0.3--h648b6df_5: sha256:6e9756acdd3d68fdc034a4fe7dece58dc23c8c78d41fb1661c11aa794a33a130
+docker: quay.io/biocontainers/fastphylo
+aliases:
+  fastdist: /usr/local/bin/fastdist
+  fastprot: /usr/local/bin/fastprot
+  fastprot_mpi: /usr/local/bin/fastprot_mpi
+  fnj: /usr/local/bin/fnj
+  aggregate_profile.pl: /usr/local/bin/aggregate_profile.pl
+  profile2mat.pl: /usr/local/bin/profile2mat.pl
+  mpiCC: /usr/local/bin/mpiCC
+  ompi-clean: /usr/local/bin/ompi-clean
+  ompi-server: /usr/local/bin/ompi-server
+  ompi_info: /usr/local/bin/ompi_info
+  opal_wrapper: /usr/local/bin/opal_wrapper
+  orte-clean: /usr/local/bin/orte-clean
+  orte-info: /usr/local/bin/orte-info
+  orte-server: /usr/local/bin/orte-server
+  ortecc: /usr/local/bin/ortecc
+  orted: /usr/local/bin/orted
+  orterun: /usr/local/bin/orterun
+  mpifort: /usr/local/bin/mpifort
+  mpic++: /usr/local/bin/mpic++
+  mpicc: /usr/local/bin/mpicc
+  mpicxx: /usr/local/bin/mpicxx
+  mpiexec: /usr/local/bin/mpiexec
+  mpif77: /usr/local/bin/mpif77
+  mpif90: /usr/local/bin/mpif90
+  mpirun: /usr/local/bin/mpirun

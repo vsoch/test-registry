@@ -1,0 +1,41 @@
+url: https://biocontainers.pro/tools/itsxpress
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for itsxpress
+latest:
+  1.8.0--pyhdfd78af_2: sha256:688a48b2d785bc59556d33d3520450fcd6b206d95a5034c7fb245c37d6f6838c
+tags:
+  1.8.0--pyhdfd78af_2: sha256:688a48b2d785bc59556d33d3520450fcd6b206d95a5034c7fb245c37d6f6838c
+docker: quay.io/biocontainers/itsxpress
+aliases:
+  autoheader.bak: /usr/local/bin/autoheader.bak
+  autom4te.bak: /usr/local/bin/autom4te.bak
+  autoreconf.bak: /usr/local/bin/autoreconf.bak
+  autoscan.bak: /usr/local/bin/autoscan.bak
+  autoupdate.bak: /usr/local/bin/autoupdate.bak
+  ifnames.bak: /usr/local/bin/ifnames.bak
+  itsxpress: /usr/local/bin/itsxpress
+  aclocal.bak: /usr/local/bin/aclocal.bak
+  automake.bak: /usr/local/bin/automake.bak
+  kmutate.sh: /usr/local/bin/kmutate.sh
+  runhmm.sh: /usr/local/bin/runhmm.sh
+  kmerposition.sh: /usr/local/bin/kmerposition.sh
+  reformatpb.sh: /usr/local/bin/reformatpb.sh
+  summarizecoverage.sh: /usr/local/bin/summarizecoverage.sh
+  alltoall.sh: /usr/local/bin/alltoall.sh
+  analyzesketchresults.sh: /usr/local/bin/analyzesketchresults.sh
+  comparessu.sh: /usr/local/bin/comparessu.sh
+  filtersilva.sh: /usr/local/bin/filtersilva.sh
+  sketchblacklist2.sh: /usr/local/bin/sketchblacklist2.sh
+  splitribo.sh: /usr/local/bin/splitribo.sh
+  addssu.sh: /usr/local/bin/addssu.sh
+  adjusthomopolymers.sh: /usr/local/bin/adjusthomopolymers.sh
+  analyzeaccession.sh: /usr/local/bin/analyzeaccession.sh
+  analyzegenes.sh: /usr/local/bin/analyzegenes.sh
+  applyvariants.sh: /usr/local/bin/applyvariants.sh
+  bbcms.sh: /usr/local/bin/bbcms.sh
+  bloomfilter.sh: /usr/local/bin/bloomfilter.sh
+  callgenes.sh: /usr/local/bin/callgenes.sh
+  comparegff.sh: /usr/local/bin/comparegff.sh
+  consensus.sh: /usr/local/bin/consensus.sh
+  cutgff.sh: /usr/local/bin/cutgff.sh
+  fetchproks.sh: /usr/local/bin/fetchproks.sh

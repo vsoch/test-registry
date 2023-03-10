@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/bioconductor-ccfindr
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-ccfindr
+latest:
+  1.8.0--r40h5f743cb_0: sha256:d073f895818d84225ac8b44392d728ebc910d066a9baf22d57f5faef239a8035
+tags:
+  1.8.0--r40h5f743cb_0: sha256:d073f895818d84225ac8b44392d728ebc910d066a9baf22d57f5faef239a8035
+docker: quay.io/biocontainers/bioconductor-ccfindr
+aliases:
+  aggregate_profile.pl: /usr/local/bin/aggregate_profile.pl
+  profile2mat.pl: /usr/local/bin/profile2mat.pl
+  mpiCC: /usr/local/bin/mpiCC
+  ompi-clean: /usr/local/bin/ompi-clean
+  ompi-server: /usr/local/bin/ompi-server
+  ompi_info: /usr/local/bin/ompi_info
+  opal_wrapper: /usr/local/bin/opal_wrapper
+  orte-clean: /usr/local/bin/orte-clean
+  orte-info: /usr/local/bin/orte-info
+  orte-server: /usr/local/bin/orte-server
+  ortecc: /usr/local/bin/ortecc
+  orted: /usr/local/bin/orted
+  orterun: /usr/local/bin/orterun
+  mpifort: /usr/local/bin/mpifort
+  mpic++: /usr/local/bin/mpic++
+  mpicc: /usr/local/bin/mpicc
+  mpicxx: /usr/local/bin/mpicxx
+  mpiexec: /usr/local/bin/mpiexec
+  mpif77: /usr/local/bin/mpif77
+  mpif90: /usr/local/bin/mpif90
+  mpirun: /usr/local/bin/mpirun
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8

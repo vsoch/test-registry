@@ -1,0 +1,15 @@
+url: https://biocontainers.pro/tools/helperlibs
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for helperlibs
+latest:
+  0.2.1--py_0: sha256:6119bd97173a24f6efca12683493b0c85f45f6c32051941363e42ce453fb2639
+tags:
+  0.2.1--py_0: sha256:6119bd97173a24f6efca12683493b0c85f45f6c32051941363e42ce453fb2639
+docker: quay.io/biocontainers/helperlibs
+aliases:
+  f2py3.8: /usr/local/bin/f2py3.8
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config

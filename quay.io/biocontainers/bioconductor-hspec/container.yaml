@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-hspec
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-hspec
+latest:
+  0.99.1--r41hdfd78af_9: sha256:2774d752de3e1a314713df4bc7c916e3877025bb588a1ef2d78f2444f40bbaf8
+tags:
+  0.99.1--r41hdfd78af_9: sha256:2774d752de3e1a314713df4bc7c916e3877025bb588a1ef2d78f2444f40bbaf8
+docker: quay.io/biocontainers/bioconductor-hspec

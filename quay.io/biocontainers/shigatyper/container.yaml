@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/shigatyper
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for shigatyper
+latest:
+  2.0.1--pyhdfd78af_1: sha256:42e5f7739299c4d70b3dae3585ac9fcf2dced5c135ea21365332f85244cf7d88
+tags:
+  2.0.1--pyhdfd78af_1: sha256:42e5f7739299c4d70b3dae3585ac9fcf2dced5c135ea21365332f85244cf7d88
+docker: quay.io/biocontainers/shigatyper
+aliases:
+  shigatyper: /usr/local/bin/shigatyper
+  gff2gff.py: /usr/local/bin/gff2gff.py
+  sdust: /usr/local/bin/sdust
+  k8: /usr/local/bin/k8
+  paftools.js: /usr/local/bin/paftools.js
+  minimap2: /usr/local/bin/minimap2
+  guess-ploidy.py: /usr/local/bin/guess-ploidy.py
+  plot-roh.py: /usr/local/bin/plot-roh.py
+  run-roh.pl: /usr/local/bin/run-roh.pl
+  color-chrs.pl: /usr/local/bin/color-chrs.pl
+  plot-vcfstats: /usr/local/bin/plot-vcfstats
+  bcftools: /usr/local/bin/bcftools
+  vcfutils.pl: /usr/local/bin/vcfutils.pl
+  fasta-sanitize.pl: /usr/local/bin/fasta-sanitize.pl
+  plot-ampliconstats: /usr/local/bin/plot-ampliconstats
+  f2py3.10: /usr/local/bin/f2py3.10
+  ace2sam: /usr/local/bin/ace2sam
+  blast2sam.pl: /usr/local/bin/blast2sam.pl
+  bowtie2sam.pl: /usr/local/bin/bowtie2sam.pl
+  export2sam.pl: /usr/local/bin/export2sam.pl
+  interpolate_sam.pl: /usr/local/bin/interpolate_sam.pl
+  maq2sam-long: /usr/local/bin/maq2sam-long
+  maq2sam-short: /usr/local/bin/maq2sam-short
+  md5fa: /usr/local/bin/md5fa
+  md5sum-lite: /usr/local/bin/md5sum-lite
+  plot-bamstats: /usr/local/bin/plot-bamstats

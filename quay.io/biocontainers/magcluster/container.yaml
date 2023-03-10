@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/magcluster
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for magcluster
+latest:
+  0.2.2--pyhdfd78af_0: sha256:8b2fc39941c2aa679e313e1061956ddba48d8d89fc5ea294615190349e1fe52d
+tags:
+  0.2.2--pyhdfd78af_0: sha256:8b2fc39941c2aa679e313e1061956ddba48d8d89fc5ea294615190349e1fe52d
+docker: quay.io/biocontainers/magcluster
+aliases:
+  clinker: /usr/local/bin/clinker
+  magcluster: /usr/local/bin/magcluster
+  prokka-make_tarball: /usr/local/bin/prokka-make_tarball
+  prokka-abricate_to_fasta_db: /usr/local/bin/prokka-abricate_to_fasta_db
+  prokka: /usr/local/bin/prokka
+  prokka-biocyc_to_fasta_db: /usr/local/bin/prokka-biocyc_to_fasta_db
+  prokka-build_kingdom_dbs: /usr/local/bin/prokka-build_kingdom_dbs
+  prokka-cdd_to_hmm: /usr/local/bin/prokka-cdd_to_hmm
+  prokka-clusters_to_hmm: /usr/local/bin/prokka-clusters_to_hmm
+  prokka-genbank_to_fasta_db: /usr/local/bin/prokka-genbank_to_fasta_db
+  prokka-genpept_to_fasta_db: /usr/local/bin/prokka-genpept_to_fasta_db
+  prokka-hamap_to_hmm: /usr/local/bin/prokka-hamap_to_hmm
+  prokka-tigrfams_to_hmm: /usr/local/bin/prokka-tigrfams_to_hmm
+  prokka-uniprot_to_fasta_db: /usr/local/bin/prokka-uniprot_to_fasta_db
+  minced: /usr/local/bin/minced
+  tbl2asn: /usr/local/bin/tbl2asn
+  idn: /usr/local/bin/idn
+  gffutils-cli: /usr/local/bin/gffutils-cli
+  barrnap: /usr/local/bin/barrnap
+  aragorn: /usr/local/bin/aragorn
+  bam2bedgraph: /usr/local/bin/bam2bedgraph
+  cmalign: /usr/local/bin/cmalign
+  cmbuild: /usr/local/bin/cmbuild
+  cmcalibrate: /usr/local/bin/cmcalibrate
+  cmconvert: /usr/local/bin/cmconvert
+  cmemit: /usr/local/bin/cmemit
+  cmfetch: /usr/local/bin/cmfetch
+  cmpress: /usr/local/bin/cmpress

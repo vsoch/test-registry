@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/coidb
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for coidb
+latest:
+  0.4.8--pyhdfd78af_0: sha256:ad5542278764cea1da787a991334152e4ceb3769abfe34b5000cfc7e3f164a0f
+tags:
+  0.4.8--pyhdfd78af_0: sha256:ad5542278764cea1da787a991334152e4ceb3769abfe34b5000cfc7e3f164a0f
+docker: quay.io/biocontainers/coidb
+aliases:
+  cluster_bold.py: /usr/local/bin/cluster_bold.py
+  coidb: /usr/local/bin/coidb
+  format_sintax.py: /usr/local/bin/format_sintax.py
+  seqkit: /usr/local/bin/seqkit
+  funzip: /usr/local/bin/funzip
+  unzipsfx: /usr/local/bin/unzipsfx
+  zipgrep: /usr/local/bin/zipgrep
+  zipinfo: /usr/local/bin/zipinfo
+  stone: /usr/local/bin/stone
+  vsearch: /usr/local/bin/vsearch
+  unzip: /usr/local/bin/unzip
+  yte: /usr/local/bin/yte
+  plac_runner.py: /usr/local/bin/plac_runner.py
+  docutils: /usr/local/bin/docutils
+  f2py3.11: /usr/local/bin/f2py3.11
+  cmark: /usr/local/bin/cmark
+  pulptest: /usr/local/bin/pulptest
+  grpc_cpp_plugin: /usr/local/bin/grpc_cpp_plugin
+  grpc_csharp_plugin: /usr/local/bin/grpc_csharp_plugin
+  grpc_node_plugin: /usr/local/bin/grpc_node_plugin
+  grpc_objective_c_plugin: /usr/local/bin/grpc_objective_c_plugin
+  grpc_php_plugin: /usr/local/bin/grpc_php_plugin
+  grpc_python_plugin: /usr/local/bin/grpc_python_plugin
+  grpc_ruby_plugin: /usr/local/bin/grpc_ruby_plugin
+  cbc: /usr/local/bin/cbc
+  clp: /usr/local/bin/clp
+  snakemake: /usr/local/bin/snakemake
+  snakemake-bash-completion: /usr/local/bin/snakemake-bash-completion

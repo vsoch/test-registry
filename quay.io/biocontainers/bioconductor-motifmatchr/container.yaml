@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-motifmatchr
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-motifmatchr
+latest:
+  1.8.0--r36he1b5a44_0: sha256:d64446aa52a081605d338ca675df928449a90f483e23382ec785b717f9237bf0
+tags:
+  1.8.0--r36he1b5a44_0: sha256:d64446aa52a081605d338ca675df928449a90f483e23382ec785b717f9237bf0
+docker: quay.io/biocontainers/bioconductor-motifmatchr
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

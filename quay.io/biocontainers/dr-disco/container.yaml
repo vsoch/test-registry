@@ -1,0 +1,42 @@
+url: https://biocontainers.pro/tools/dr-disco
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for dr-disco
+latest:
+  0.9.0--py27_0: sha256:a39f11079a6eeca07992d40d9f029e2601f1bd132bcb1033de11056bef1fca7d
+tags:
+  0.9.0--py27_0: sha256:a39f11079a6eeca07992d40d9f029e2601f1bd132bcb1033de11056bef1fca7d
+docker: quay.io/biocontainers/dr-disco
+aliases:
+  chimerascan-exclude-transcriptome-events: /usr/local/bin/chimerascan-exclude-transcriptome-events
+  chimerascan-relative-bedpe-to-CG: /usr/local/bin/chimerascan-relative-bedpe-to-CG
+  defuse-clusters-to-CG: /usr/local/bin/defuse-clusters-to-CG
+  dr-disco: /usr/local/bin/dr-disco
+  fuma: /usr/local/bin/fuma
+  fuma-gencode-gtf-to-bed: /usr/local/bin/fuma-gencode-gtf-to-bed
+  fuma-list-to-boolean-list: /usr/local/bin/fuma-list-to-boolean-list
+  fusioncatcher-to-CG: /usr/local/bin/fusioncatcher-to-CG
+  htseq-count: /usr/local/bin/htseq-count
+  htseq-qa: /usr/local/bin/htseq-qa
+  easy_install-2.7: /usr/local/bin/easy_install-2.7
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  guess-ploidy.py: /usr/local/bin/guess-ploidy.py
+  plot-roh.py: /usr/local/bin/plot-roh.py
+  run-roh.pl: /usr/local/bin/run-roh.pl
+  color-chrs.pl: /usr/local/bin/color-chrs.pl
+  plot-vcfstats: /usr/local/bin/plot-vcfstats
+  bcftools: /usr/local/bin/bcftools
+  vcfutils.pl: /usr/local/bin/vcfutils.pl
+  sip: /usr/local/bin/sip
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc
+  gst-device-monitor-1.0: /usr/local/bin/gst-device-monitor-1.0
+  gst-discoverer-1.0: /usr/local/bin/gst-discoverer-1.0
+  gst-play-1.0: /usr/local/bin/gst-play-1.0
+  fixqt4headers.pl: /usr/local/bin/fixqt4headers.pl
+  qlalr: /usr/local/bin/qlalr
+  qml: /usr/local/bin/qml
+  qmleasing: /usr/local/bin/qmleasing
+  qmlimportscanner: /usr/local/bin/qmlimportscanner
+  qmllint: /usr/local/bin/qmllint

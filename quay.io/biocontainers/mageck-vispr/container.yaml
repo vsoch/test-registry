@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/mageck-vispr
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for mageck-vispr
+latest:
+  0.5.6--py_0: sha256:a934573b0aa1b48a5efaec6f764960a365443c614fa7f22cad94e0744b45a77b
+tags:
+  0.5.6--py_0: sha256:a934573b0aa1b48a5efaec6f764960a365443c614fa7f22cad94e0744b45a77b
+docker: quay.io/biocontainers/mageck-vispr
+aliases:
+  RRA: /usr/local/bin/RRA
+  mageck: /usr/local/bin/mageck
+  mageck-vispr: /usr/local/bin/mageck-vispr
+  mageckGSEA: /usr/local/bin/mageckGSEA
+  vispr: /usr/local/bin/vispr
+  cutadapt: /usr/local/bin/cutadapt
+  fastqc: /usr/local/bin/fastqc
+  flask: /usr/local/bin/flask
+  iptest3: /usr/local/bin/iptest3
+  iptest: /usr/local/bin/iptest
+  x86_64-conda-linux-gnu-pkg-config: /usr/local/bin/x86_64-conda-linux-gnu-pkg-config
+  Magick++-config: /usr/local/bin/Magick++-config
+  MagickCore-config: /usr/local/bin/MagickCore-config
+  MagickWand-config: /usr/local/bin/MagickWand-config
+  animate: /usr/local/bin/animate
+  composite: /usr/local/bin/composite
+  conjure: /usr/local/bin/conjure
+  convert: /usr/local/bin/convert
+  display: /usr/local/bin/display
+  identify: /usr/local/bin/identify
+  import: /usr/local/bin/import
+  magick: /usr/local/bin/magick
+  magick-script: /usr/local/bin/magick-script
+  mogrify: /usr/local/bin/mogrify
+  montage: /usr/local/bin/montage
+  cxpm: /usr/local/bin/cxpm
+  igzip: /usr/local/bin/igzip
+  pkg-config: /usr/local/bin/pkg-config
+  pkg-config.bin: /usr/local/bin/pkg-config.bin
+  stream: /usr/local/bin/stream

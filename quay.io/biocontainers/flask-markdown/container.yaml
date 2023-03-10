@@ -1,0 +1,25 @@
+url: https://biocontainers.pro/tools/flask-markdown
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for flask-markdown
+latest:
+  0.3--py35_0: sha256:6de51f977e3c6afe16002f4af41b7376d5a4889e88294d10b03f41f8d051f515
+tags:
+  0.3--py35_0: sha256:6de51f977e3c6afe16002f4af41b7376d5a4889e88294d10b03f41f8d051f515
+docker: quay.io/biocontainers/flask-markdown
+aliases:
+  flask: /usr/local/bin/flask
+  easy_install-3.5: /usr/local/bin/easy_install-3.5
+  markdown_py: /usr/local/bin/markdown_py
+  2to3-3.5: /usr/local/bin/2to3-3.5
+  idle3.5: /usr/local/bin/idle3.5
+  pydoc3.5: /usr/local/bin/pydoc3.5
+  python3.5: /usr/local/bin/python3.5
+  python3.5-config: /usr/local/bin/python3.5-config
+  python3.5m: /usr/local/bin/python3.5m
+  python3.5m-config: /usr/local/bin/python3.5m-config
+  pyvenv-3.5: /usr/local/bin/pyvenv-3.5
+  tclsh8.5: /usr/local/bin/tclsh8.5
+  wish8.5: /usr/local/bin/wish8.5
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config
+  pyvenv: /usr/local/bin/pyvenv

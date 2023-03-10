@@ -1,0 +1,55 @@
+url: https://biocontainers.pro/tools/thermorawfileparser
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for thermorawfileparser
+latest:
+  1.4.0--ha8f3691_0: sha256:76c17e3124b723f271bc3d5cf0555650288676bb1a827bd1bae9bb684444a404
+tags:
+  1.4.0--ha8f3691_0: sha256:76c17e3124b723f271bc3d5cf0555650288676bb1a827bd1bae9bb684444a404
+docker: quay.io/biocontainers/thermorawfileparser
+aliases:
+  AWS.Logger.Core.pdb: /usr/local/bin/AWS.Logger.Core.pdb
+  AWSSDK.CloudWatchLogs.pdb: /usr/local/bin/AWSSDK.CloudWatchLogs.pdb
+  AWSSDK.Core.pdb: /usr/local/bin/AWSSDK.Core.pdb
+  AWSSDK.S3.pdb: /usr/local/bin/AWSSDK.S3.pdb
+  LICENSE: /usr/local/bin/LICENSE
+  NUnit3.TestAdapter.pdb: /usr/local/bin/NUnit3.TestAdapter.pdb
+  THERMO_LICENSE: /usr/local/bin/THERMO_LICENSE
+  ThermoRawFileParser: /usr/local/bin/ThermoRawFileParser
+  ThermoRawFileParser.exe: /usr/local/bin/ThermoRawFileParser.exe
+  ThermoRawFileParser.pdb: /usr/local/bin/ThermoRawFileParser.pdb
+  ThermoRawFileParser.sh: /usr/local/bin/ThermoRawFileParser.sh
+  csc: /usr/local/bin/csc
+  csc-dim: /usr/local/bin/csc-dim
+  csi: /usr/local/bin/csi
+  illinkanalyzer: /usr/local/bin/illinkanalyzer
+  monograph: /usr/local/bin/monograph
+  nunit-console: /usr/local/bin/nunit-console
+  nunit-console2: /usr/local/bin/nunit-console2
+  nunit-console4: /usr/local/bin/nunit-console4
+  thermorawfileparser: /usr/local/bin/thermorawfileparser
+  vbc: /usr/local/bin/vbc
+  mono-package-runtime: /usr/local/bin/mono-package-runtime
+  sgen-grep-binprot: /usr/local/bin/sgen-grep-binprot
+  al: /usr/local/bin/al
+  al2: /usr/local/bin/al2
+  caspol: /usr/local/bin/caspol
+  cccheck: /usr/local/bin/cccheck
+  ccrewrite: /usr/local/bin/ccrewrite
+  cert-sync: /usr/local/bin/cert-sync
+  cert2spc: /usr/local/bin/cert2spc
+  certmgr: /usr/local/bin/certmgr
+  chktrust: /usr/local/bin/chktrust
+  crlupdate: /usr/local/bin/crlupdate
+  csharp: /usr/local/bin/csharp
+  dmcs: /usr/local/bin/dmcs
+  dtd2rng: /usr/local/bin/dtd2rng
+  dtd2xsd: /usr/local/bin/dtd2xsd
+  gacutil: /usr/local/bin/gacutil
+  gacutil2: /usr/local/bin/gacutil2
+  genxs: /usr/local/bin/genxs
+  httpcfg: /usr/local/bin/httpcfg
+  ikdasm: /usr/local/bin/ikdasm
+  ilasm: /usr/local/bin/ilasm
+  installvst: /usr/local/bin/installvst
+  lc: /usr/local/bin/lc
+  macpack: /usr/local/bin/macpack

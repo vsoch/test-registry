@@ -1,0 +1,48 @@
+url: https://biocontainers.pro/tools/rscape
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for rscape
+latest:
+  1.4.0--h87f3376_2: sha256:9d7f7ca8dba7431034a3725490de563b7c744dd6f36cc1bfee66a66be89c2b4b
+tags:
+  1.4.0--h87f3376_2: sha256:9d7f7ca8dba7431034a3725490de563b7c744dd6f36cc1bfee66a66be89c2b4b
+docker: quay.io/biocontainers/rscape
+aliases:
+  FUNCS.pm: /usr/local/bin/FUNCS.pm
+  MetamakeDemos.pl: /usr/local/bin/MetamakeDemos.pl
+  PDBFUNCS.pm: /usr/local/bin/PDBFUNCS.pm
+  R-scape: /usr/local/bin/R-scape
+  R-scape-sim: /usr/local/bin/R-scape-sim
+  R-scape-sim-nobps: /usr/local/bin/R-scape-sim-nobps
+  R-view: /usr/local/bin/R-view
+  SelectSubFamilyFromStockholm.pl: /usr/local/bin/SelectSubFamilyFromStockholm.pl
+  Stockholm.pm: /usr/local/bin/Stockholm.pm
+  appcov: /usr/local/bin/appcov
+  msafilter: /usr/local/bin/msafilter
+  pdb_parse.pl: /usr/local/bin/pdb_parse.pl
+  r2r: /usr/local/bin/r2r
+  r2r_msa_comply.pl: /usr/local/bin/r2r_msa_comply.pl
+  chrpath: /usr/local/bin/chrpath
+  gnuplot: /usr/local/bin/gnuplot
+  FastTree: /usr/local/bin/FastTree
+  xkbcli: /usr/local/bin/xkbcli
+  pg_config: /usr/local/bin/pg_config
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview
+  qvkgen: /usr/local/bin/qvkgen
+  certutil: /usr/local/bin/certutil
+  nspr-config: /usr/local/bin/nspr-config
+  nss-config: /usr/local/bin/nss-config
+  pk12util: /usr/local/bin/pk12util
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  esl-afetch: /usr/local/bin/esl-afetch
+  esl-reformat: /usr/local/bin/esl-reformat
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  gtk-builder-convert: /usr/local/bin/gtk-builder-convert
+  gtk-demo: /usr/local/bin/gtk-demo
+  gtk-query-immodules-2.0: /usr/local/bin/gtk-query-immodules-2.0
+  gtk-update-icon-cache: /usr/local/bin/gtk-update-icon-cache

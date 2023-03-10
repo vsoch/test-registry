@@ -1,0 +1,19 @@
+url: https://biocontainers.pro/tools/pytaxonkit
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pytaxonkit
+latest:
+  0.8--pyhdfd78af_0: sha256:3307049f3ffb04bbf7192aa07466c2d8574a9d076a6d55d285450d845c9fa3d0
+tags:
+  0.8--pyhdfd78af_0: sha256:3307049f3ffb04bbf7192aa07466c2d8574a9d076a6d55d285450d845c9fa3d0
+docker: quay.io/biocontainers/pytaxonkit
+aliases:
+  taxonkit: /usr/local/bin/taxonkit
+  py.test: /usr/local/bin/py.test
+  pytest: /usr/local/bin/pytest
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/adapterremovalfixprefix
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for adapterremovalfixprefix
+latest:
+  0.0.5--hdfd78af_2: sha256:9b56ad5655ccf1fcb6c3fea33e9832dd50fe1d8bf8bae9426a1c77bf142dcfc4
+tags:
+  0.0.5--hdfd78af_2: sha256:9b56ad5655ccf1fcb6c3fea33e9832dd50fe1d8bf8bae9426a1c77bf142dcfc4
+docker: quay.io/biocontainers/adapterremovalfixprefix
+aliases:
+  AdapterRemovalFixPrefix: /usr/local/bin/AdapterRemovalFixPrefix
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd
+  jconsole: /usr/local/bin/jconsole
+  jdb: /usr/local/bin/jdb
+  jinfo: /usr/local/bin/jinfo

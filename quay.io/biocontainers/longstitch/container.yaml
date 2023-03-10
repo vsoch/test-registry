@@ -1,0 +1,62 @@
+url: https://biocontainers.pro/tools/longstitch
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for longstitch
+latest:
+  1.0.3--hdfd78af_0: sha256:38f1711e184bd2a7cf02dee5ac1cdd7dc74417ffbe2f4cb36ee2ea3e20b68c4e
+tags:
+  1.0.3--hdfd78af_0: sha256:38f1711e184bd2a7cf02dee5ac1cdd7dc74417ffbe2f4cb36ee2ea3e20b68c4e
+docker: quay.io/biocontainers/longstitch
+aliases:
+  LINKS: /usr/local/bin/LINKS
+  abyss-rresolver-short: /usr/local/bin/abyss-rresolver-short
+  abyss-stack-size: /usr/local/bin/abyss-stack-size
+  arcs: /usr/local/bin/arcs
+  arcs-make: /usr/local/bin/arcs-make
+  indexlr: /usr/local/bin/indexlr
+  irqtop: /usr/local/bin/irqtop
+  long-to-linked-pe: /usr/local/bin/long-to-linked-pe
+  longstitch: /usr/local/bin/longstitch
+  lrunzip: /usr/local/bin/lrunzip
+  lrzcat: /usr/local/bin/lrzcat
+  lrzip: /usr/local/bin/lrzip
+  lrztar: /usr/local/bin/lrztar
+  lrzuntar: /usr/local/bin/lrzuntar
+  lsirq: /usr/local/bin/lsirq
+  nsenter: /usr/local/bin/nsenter
+  ntLink: /usr/local/bin/ntLink
+  ntLink_rounds: /usr/local/bin/ntLink_rounds
+  prlimit: /usr/local/bin/prlimit
+  tigmint: /usr/local/bin/tigmint
+  tigmint-arcs-tsv: /usr/local/bin/tigmint-arcs-tsv
+  tigmint-cut: /usr/local/bin/tigmint-cut
+  tigmint-make: /usr/local/bin/tigmint-make
+  tigmint_estimate_dist.py: /usr/local/bin/tigmint_estimate_dist.py
+  tigmint_molecule.py: /usr/local/bin/tigmint_molecule.py
+  tigmint_molecule_paf.py: /usr/local/bin/tigmint_molecule_paf.py
+  zsh: /usr/local/bin/zsh
+  zsh-5.8: /usr/local/bin/zsh-5.8
+  scriptlive: /usr/local/bin/scriptlive
+  cal: /usr/local/bin/cal
+  chmem: /usr/local/bin/chmem
+  choom: /usr/local/bin/choom
+  chrt: /usr/local/bin/chrt
+  col: /usr/local/bin/col
+  colcrt: /usr/local/bin/colcrt
+  colrm: /usr/local/bin/colrm
+  column: /usr/local/bin/column
+  dmesg: /usr/local/bin/dmesg
+  eject: /usr/local/bin/eject
+  fallocate: /usr/local/bin/fallocate
+  fincore: /usr/local/bin/fincore
+  findmnt: /usr/local/bin/findmnt
+  getopt: /usr/local/bin/getopt
+  hardlink: /usr/local/bin/hardlink
+  hexdump: /usr/local/bin/hexdump
+  i386: /usr/local/bin/i386
+  ionice: /usr/local/bin/ionice
+  ipcmk: /usr/local/bin/ipcmk
+  ipcrm: /usr/local/bin/ipcrm
+  ipcs: /usr/local/bin/ipcs
+  isosize: /usr/local/bin/isosize
+  last: /usr/local/bin/last
+  lastb: /usr/local/bin/lastb

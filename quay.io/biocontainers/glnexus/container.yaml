@@ -1,0 +1,16 @@
+url: https://biocontainers.pro/tools/glnexus
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for glnexus
+latest:
+  1.4.1--h671cb6e_1: sha256:6e78c1d53f0510bb7ab9685302cb64b406e9156b403c711931139dd5a77caed7
+tags:
+  1.4.1--h671cb6e_1: sha256:6e78c1d53f0510bb7ab9685302cb64b406e9156b403c711931139dd5a77caed7
+docker: quay.io/biocontainers/glnexus
+aliases:
+  glnexus_cli: /usr/local/bin/glnexus_cli
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

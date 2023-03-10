@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/tetyper
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for tetyper
+latest:
+  1.1--hdfd78af_1: sha256:2dd06307467e331063173aaf7f6ede61cb8a469c2f6840cc20eff4fe838f8ab5
+tags:
+  1.1--hdfd78af_1: sha256:2dd06307467e331063173aaf7f6ede61cb8a469c2f6840cc20eff4fe838f8ab5
+docker: quay.io/biocontainers/tetyper
+aliases:
+  TETyper.py: /usr/local/bin/TETyper.py
+  cds-mapping-stats: /usr/local/bin/cds-mapping-stats
+  cds-subgraphs: /usr/local/bin/cds-subgraphs
+  mag-improve: /usr/local/bin/mag-improve
+  spades-convert-bin-to-fasta: /usr/local/bin/spades-convert-bin-to-fasta
+  spades-gsimplifier: /usr/local/bin/spades-gsimplifier
+  spades-kmer-estimating: /usr/local/bin/spades-kmer-estimating
+  spades-read-filter: /usr/local/bin/spades-read-filter
+  spaligner: /usr/local/bin/spaligner
+  spades-bwa: /usr/local/bin/spades-bwa
+  spades-core: /usr/local/bin/spades-core
+  spades-corrector-core: /usr/local/bin/spades-corrector-core
+  spades-gbuilder: /usr/local/bin/spades-gbuilder
+  spades-gmapper: /usr/local/bin/spades-gmapper
+  spades-hammer: /usr/local/bin/spades-hammer
+  spades-ionhammer: /usr/local/bin/spades-ionhammer
+  spades-kmercount: /usr/local/bin/spades-kmercount
+  spades-truseq-scfcorrection: /usr/local/bin/spades-truseq-scfcorrection
+  metaspades.py: /usr/local/bin/metaspades.py
+  plasmidspades.py: /usr/local/bin/plasmidspades.py
+  rnaspades.py: /usr/local/bin/rnaspades.py
+  spades.py: /usr/local/bin/spades.py
+  spades_init.py: /usr/local/bin/spades_init.py
+  truspades.py: /usr/local/bin/truspades.py
+  gff2gff.py: /usr/local/bin/gff2gff.py
+  CA.pm: /usr/local/bin/CA.pm

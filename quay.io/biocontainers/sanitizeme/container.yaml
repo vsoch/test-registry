@@ -1,0 +1,53 @@
+url: https://biocontainers.pro/tools/sanitizeme
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for sanitizeme
+latest:
+  1.1--hdfd78af_2: sha256:aa169029eeb18586aaa780b43b6d1ab1f46e5e3f4614fe807338c859b7b6439c
+tags:
+  1.1--hdfd78af_2: sha256:aa169029eeb18586aaa780b43b6d1ab1f46e5e3f4614fe807338c859b7b6439c
+docker: quay.io/biocontainers/sanitizeme
+aliases:
+  SanitizeMePaired_CLI.py: /usr/local/bin/SanitizeMePaired_CLI.py
+  SanitizeMePaired_GUI.py: /usr/local/bin/SanitizeMePaired_GUI.py
+  SanitizeMe_CLI.py: /usr/local/bin/SanitizeMe_CLI.py
+  SanitizeMe_GUI.py: /usr/local/bin/SanitizeMe_GUI.py
+  helpviewer: /usr/local/bin/helpviewer
+  img2png: /usr/local/bin/img2png
+  img2py: /usr/local/bin/img2py
+  img2xpm: /usr/local/bin/img2xpm
+  pycrust: /usr/local/bin/pycrust
+  pyshell: /usr/local/bin/pyshell
+  pyslices: /usr/local/bin/pyslices
+  pyslicesshell: /usr/local/bin/pyslicesshell
+  pywxrc: /usr/local/bin/pywxrc
+  wx-config: /usr/local/bin/wx-config
+  wxdemo: /usr/local/bin/wxdemo
+  wxdocs: /usr/local/bin/wxdocs
+  wxget: /usr/local/bin/wxget
+  wxrc: /usr/local/bin/wxrc
+  wxrc-3.1: /usr/local/bin/wxrc-3.1
+  egrep: /usr/local/bin/egrep
+  fgrep: /usr/local/bin/fgrep
+  grep: /usr/local/bin/grep
+  gawk-5.1.0: /usr/local/bin/gawk-5.1.0
+  awk: /usr/local/bin/awk
+  gawk: /usr/local/bin/gawk
+  sdust: /usr/local/bin/sdust
+  k8: /usr/local/bin/k8
+  paftools.js: /usr/local/bin/paftools.js
+  minimap2: /usr/local/bin/minimap2
+  gtk-builder-convert: /usr/local/bin/gtk-builder-convert
+  gtk-demo: /usr/local/bin/gtk-demo
+  gtk-query-immodules-2.0: /usr/local/bin/gtk-query-immodules-2.0
+  gtk-update-icon-cache: /usr/local/bin/gtk-update-icon-cache
+  gdk-pixbuf-thumbnailer: /usr/local/bin/gdk-pixbuf-thumbnailer
+  gdk-pixbuf-csource: /usr/local/bin/gdk-pixbuf-csource
+  gdk-pixbuf-pixdata: /usr/local/bin/gdk-pixbuf-pixdata
+  gdk-pixbuf-query-loaders: /usr/local/bin/gdk-pixbuf-query-loaders
+  gst-device-monitor-1.0: /usr/local/bin/gst-device-monitor-1.0
+  gst-discoverer-1.0: /usr/local/bin/gst-discoverer-1.0
+  gst-play-1.0: /usr/local/bin/gst-play-1.0
+  gst-inspect-1.0: /usr/local/bin/gst-inspect-1.0
+  gst-launch-1.0: /usr/local/bin/gst-launch-1.0
+  gst-stats-1.0: /usr/local/bin/gst-stats-1.0
+  gst-typefind-1.0: /usr/local/bin/gst-typefind-1.0

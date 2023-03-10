@@ -1,0 +1,41 @@
+url: https://biocontainers.pro/tools/ampliconclassifier
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ampliconclassifier
+latest:
+  0.4.9--hdfd78af_0: sha256:8ddbfa465577dda20b88265f5971469d37436039f91688ebb703f0c89263e5c5
+tags:
+  0.4.9--hdfd78af_0: sha256:8ddbfa465577dda20b88265f5971469d37436039f91688ebb703f0c89263e5c5
+docker: quay.io/biocontainers/ampliconclassifier
+aliases:
+  amplicon_classifier.py: /usr/local/bin/amplicon_classifier.py
+  amplicon_similarity.py: /usr/local/bin/amplicon_similarity.py
+  amplicons_intersecting_bed.py: /usr/local/bin/amplicons_intersecting_bed.py
+  feature_similarity.py: /usr/local/bin/feature_similarity.py
+  make_input.sh: /usr/local/bin/make_input.sh
+  make_results_table.py: /usr/local/bin/make_results_table.py
+  softlink_images.py: /usr/local/bin/softlink_images.py
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  brotli: /usr/local/bin/brotli
+  img2webp: /usr/local/bin/img2webp
+  cwebp: /usr/local/bin/cwebp
+  dwebp: /usr/local/bin/dwebp
+  gif2webp: /usr/local/bin/gif2webp
+  f2py3.10: /usr/local/bin/f2py3.10
+  opj_compress: /usr/local/bin/opj_compress
+  opj_decompress: /usr/local/bin/opj_decompress
+  opj_dump: /usr/local/bin/opj_dump
+  gif2rgb: /usr/local/bin/gif2rgb
+  gifbuild: /usr/local/bin/gifbuild
+  gifclrmp: /usr/local/bin/gifclrmp
+  giffix: /usr/local/bin/giffix
+  giftext: /usr/local/bin/giftext
+  giftool: /usr/local/bin/giftool
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

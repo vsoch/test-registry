@@ -1,0 +1,19 @@
+url: https://biocontainers.pro/tools/mg-toolkit
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for mg-toolkit
+latest:
+  0.9.1--py_0: sha256:38c312a228b8ded34328f89510247eb876b2d11a15a53b4f37179e1c332b04b3
+tags:
+  0.9.1--py_0: sha256:38c312a228b8ded34328f89510247eb876b2d11a15a53b4f37179e1c332b04b3
+docker: quay.io/biocontainers/mg-toolkit
+aliases:
+  mg-toolkit: /usr/local/bin/mg-toolkit
+  jsonschema: /usr/local/bin/jsonschema
+  tqdm: /usr/local/bin/tqdm
+  chardetect: /usr/local/bin/chardetect
+  f2py3.9: /usr/local/bin/f2py3.9
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config

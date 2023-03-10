@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-scpipe
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-scpipe
+latest:
+  1.8.0--r36he1b5a44_0: sha256:d69b4633d465a1c758f192fc2d23a5022020eeaf2f20dcef292e173b57e440e4
+tags:
+  1.8.0--r36he1b5a44_0: sha256:d69b4633d465a1c758f192fc2d23a5022020eeaf2f20dcef292e173b57e440e4
+docker: quay.io/biocontainers/bioconductor-scpipe
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

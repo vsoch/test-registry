@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-desousa2013
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-desousa2013
+latest:
+  1.30.0--r41hdfd78af_1: sha256:dd42fe45abc7f0acb1643bd78863588004e3867a2ef32f80b666053de38baf0b
+tags:
+  1.30.0--r41hdfd78af_1: sha256:dd42fe45abc7f0acb1643bd78863588004e3867a2ef32f80b666053de38baf0b
+docker: quay.io/biocontainers/bioconductor-desousa2013

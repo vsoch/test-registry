@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/rucs
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for rucs
+latest:
+  1.0.2--hdfd78af_1: sha256:e31f96e22775f4f161a0a2879cc5c313a8f6fc4044211bb122347f881a920426
+tags:
+  1.0.2--hdfd78af_1: sha256:e31f96e22775f4f161a0a2879cc5c313a8f6fc4044211bb122347f881a920426
+docker: quay.io/biocontainers/rucs
+aliases:
+  install_db.sh: /usr/local/bin/install_db.sh
+  rucs: /usr/local/bin/rucs
+  CA.pm: /usr/local/bin/CA.pm
+  cacert.pem: /usr/local/bin/cacert.pem
+  index-themes: /usr/local/bin/index-themes
+  fetch-extras: /usr/local/bin/fetch-extras
+  go.mod: /usr/local/bin/go.mod
+  go.sum: /usr/local/bin/go.sum
+  hlp-xtract.txt: /usr/local/bin/hlp-xtract.txt
+  index-extras: /usr/local/bin/index-extras
+  pm-collect: /usr/local/bin/pm-collect
+  readme.pdf: /usr/local/bin/readme.pdf
+  bt-context.txt: /usr/local/bin/bt-context.txt
+  bt-link: /usr/local/bin/bt-link
+  bt-load: /usr/local/bin/bt-load
+  bt-save: /usr/local/bin/bt-save
+  bt-srch: /usr/local/bin/bt-srch
+  eblast: /usr/local/bin/eblast
+  pm-index: /usr/local/bin/pm-index
+  pm-invert: /usr/local/bin/pm-invert
+  pm-merge: /usr/local/bin/pm-merge
+  pm-prepare: /usr/local/bin/pm-prepare
+  pm-promote: /usr/local/bin/pm-promote
+  pm-refresh: /usr/local/bin/pm-refresh
+  pm-stash: /usr/local/bin/pm-stash
+  protein-neighbors: /usr/local/bin/protein-neighbors
+  tst-efetch.txt: /usr/local/bin/tst-efetch.txt

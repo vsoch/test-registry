@@ -1,0 +1,22 @@
+url: https://biocontainers.pro/tools/protmapper
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for protmapper
+latest:
+  0.0.21--py_0: sha256:6a6bb1a4b99341c16033df8ec711efab375d2a399de2ac2884c5e0caeb6de520
+tags:
+  0.0.21--py_0: sha256:6a6bb1a4b99341c16033df8ec711efab375d2a399de2ac2884c5e0caeb6de520
+docker: quay.io/biocontainers/protmapper
+aliases:
+  protmapper: /usr/local/bin/protmapper
+  csv2rdf: /usr/local/bin/csv2rdf
+  rdf2dot: /usr/local/bin/rdf2dot
+  rdfgraphisomorphism: /usr/local/bin/rdfgraphisomorphism
+  rdfpipe: /usr/local/bin/rdfpipe
+  rdfs2dot: /usr/local/bin/rdfs2dot
+  jp.py: /usr/local/bin/jp.py
+  chardetect: /usr/local/bin/chardetect
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config

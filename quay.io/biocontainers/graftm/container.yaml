@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/graftm
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for graftm
+latest:
+  0.14.0--pypyhdfd78af_1: sha256:a88e377bbd6dfb1a3264318d0bbacf020e6f2a7a15ca26f78991772cbb6c954c
+tags:
+  0.14.0--pypyhdfd78af_1: sha256:a88e377bbd6dfb1a3264318d0bbacf020e6f2a7a15ca26f78991772cbb6c954c
+docker: quay.io/biocontainers/graftm
+aliases:
+  graftM: /usr/local/bin/graftM
+  mfqe: /usr/local/bin/mfqe
+  orfm: /usr/local/bin/orfm
+  taxit: /usr/local/bin/taxit
+  ktClassifyHits: /usr/local/bin/ktClassifyHits
+  ktImportHits: /usr/local/bin/ktImportHits
+  rppr: /usr/local/bin/rppr
+  ktClassifyBLAST: /usr/local/bin/ktClassifyBLAST
+  ktGetContigMagnitudes: /usr/local/bin/ktGetContigMagnitudes
+  ktGetLCA: /usr/local/bin/ktGetLCA
+  ktGetLibPath: /usr/local/bin/ktGetLibPath
+  ktGetTaxIDFromAcc: /usr/local/bin/ktGetTaxIDFromAcc
+  ktGetTaxInfo: /usr/local/bin/ktGetTaxInfo
+  ktImportBLAST: /usr/local/bin/ktImportBLAST
+  ktImportDiskUsage: /usr/local/bin/ktImportDiskUsage
+  ktImportEC: /usr/local/bin/ktImportEC
+  ktImportFCP: /usr/local/bin/ktImportFCP
+  ktImportGalaxy: /usr/local/bin/ktImportGalaxy
+  ktImportKrona: /usr/local/bin/ktImportKrona
+  ktImportMETAREP-BLAST: /usr/local/bin/ktImportMETAREP-BLAST
+  ktImportMETAREP-EC: /usr/local/bin/ktImportMETAREP-EC
+  ktImportMGRAST: /usr/local/bin/ktImportMGRAST
+  ktImportPhymmBL: /usr/local/bin/ktImportPhymmBL
+  ktImportRDP: /usr/local/bin/ktImportRDP
+  ktImportRDPComparison: /usr/local/bin/ktImportRDPComparison
+  ktImportTaxonomy: /usr/local/bin/ktImportTaxonomy
+  ktImportText: /usr/local/bin/ktImportText
+  ktImportXML: /usr/local/bin/ktImportXML
+  ktUpdateTaxonomy.sh: /usr/local/bin/ktUpdateTaxonomy.sh

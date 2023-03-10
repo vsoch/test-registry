@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-porcinecdf
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-porcinecdf
+latest:
+  2.18.0--r41hdfd78af_9: sha256:b43fa12e7f5dbcceadb16b0dc7e1fb9d4c532f268fec82569d22d0f7c944f808
+tags:
+  2.18.0--r41hdfd78af_9: sha256:b43fa12e7f5dbcceadb16b0dc7e1fb9d4c532f268fec82569d22d0f7c944f808
+docker: quay.io/biocontainers/bioconductor-porcinecdf

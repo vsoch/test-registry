@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/r-data.table
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-data.table
+latest:
+  1.12.2: sha256:7563c6d05243e3bae5b593cd49aa426f043e4dcf1bba545fca06a044161a9c9b
+tags:
+  1.12.2: sha256:7563c6d05243e3bae5b593cd49aa426f043e4dcf1bba545fca06a044161a9c9b
+docker: quay.io/biocontainers/r-data.table
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

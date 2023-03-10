@@ -1,0 +1,20 @@
+url: https://biocontainers.pro/tools/ngmaster
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ngmaster
+latest:
+  0.5.8--pyhdfd78af_1: sha256:c935646bd88a0274c22387674575f6086cf757e1226d3a0a2ad80c48e7a54998
+tags:
+  0.5.8--pyhdfd78af_1: sha256:c935646bd88a0274c22387674575f6086cf757e1226d3a0a2ad80c48e7a54998
+docker: quay.io/biocontainers/ngmaster
+aliases:
+  gfPcr: /usr/local/bin/gfPcr
+  gfServer: /usr/local/bin/gfServer
+  isPcr: /usr/local/bin/isPcr
+  ngmaster: /usr/local/bin/ngmaster
+  chardetect: /usr/local/bin/chardetect
+  f2py3.9: /usr/local/bin/f2py3.9
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config

@@ -1,0 +1,39 @@
+url: https://biocontainers.pro/tools/kb-python
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for kb-python
+latest:
+  0.27.3--pyhdfd78af_0: sha256:cdfb73adb53db24d183a03951c8ae2bfacaa37c1fe64bad57ebff4c0cf0c834a
+tags:
+  0.27.3--pyhdfd78af_0: sha256:cdfb73adb53db24d183a03951c8ae2bfacaa37c1fe64bad57ebff4c0cf0c834a
+docker: quay.io/biocontainers/kb-python
+aliases:
+  bustools: /usr/local/bin/bustools
+  kallisto: /usr/local/bin/kallisto
+  kb: /usr/local/bin/kb
+  loompy: /usr/local/bin/loompy
+  shortuuid: /usr/local/bin/shortuuid
+  jupyter-execute: /usr/local/bin/jupyter-execute
+  jupyter-dejavu: /usr/local/bin/jupyter-dejavu
+  scanpy: /usr/local/bin/scanpy
+  sphinx-apidoc: /usr/local/bin/sphinx-apidoc
+  sphinx-autogen: /usr/local/bin/sphinx-autogen
+  sphinx-build: /usr/local/bin/sphinx-build
+  sphinx-quickstart: /usr/local/bin/sphinx-quickstart
+  jupyter-nbconvert: /usr/local/bin/jupyter-nbconvert
+  pybabel: /usr/local/bin/pybabel
+  jupyter-kernel: /usr/local/bin/jupyter-kernel
+  jupyter-kernelspec: /usr/local/bin/jupyter-kernelspec
+  jupyter-run: /usr/local/bin/jupyter-run
+  curve_keygen: /usr/local/bin/curve_keygen
+  numba: /usr/local/bin/numba
+  pycc: /usr/local/bin/pycc
+  jupyter-trust: /usr/local/bin/jupyter-trust
+  natsort: /usr/local/bin/natsort
+  jupyter: /usr/local/bin/jupyter
+  jupyter-migrate: /usr/local/bin/jupyter-migrate
+  jupyter-troubleshoot: /usr/local/bin/jupyter-troubleshoot
+  rst2html4.py: /usr/local/bin/rst2html4.py
+  rst2html5.py: /usr/local/bin/rst2html5.py
+  rst2html.py: /usr/local/bin/rst2html.py
+  rst2latex.py: /usr/local/bin/rst2latex.py
+  rst2man.py: /usr/local/bin/rst2man.py

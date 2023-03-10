@@ -1,0 +1,42 @@
+url: https://biocontainers.pro/tools/snippy
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for snippy
+latest:
+  4.6.0--hdfd78af_2: sha256:8d1589ab60af6a9dac53dd069b71fdffc2d6530047e4b9742b59a89fbe2a5b70
+tags:
+  4.6.0--hdfd78af_2: sha256:8d1589ab60af6a9dac53dd069b71fdffc2d6530047e4b9742b59a89fbe2a5b70
+docker: quay.io/biocontainers/snippy
+aliases:
+  snippy: /usr/local/bin/snippy
+  snippy-clean_full_aln: /usr/local/bin/snippy-clean_full_aln
+  snippy-core: /usr/local/bin/snippy-core
+  snippy-multi: /usr/local/bin/snippy-multi
+  snippy-vcf_extract_subs: /usr/local/bin/snippy-vcf_extract_subs
+  snippy-vcf_report: /usr/local/bin/snippy-vcf_report
+  snippy-vcf_to_tab: /usr/local/bin/snippy-vcf_to_tab
+  split_ref_by_bai_datasize.py: /usr/local/bin/split_ref_by_bai_datasize.py
+  sam_add_rg.pl: /usr/local/bin/sam_add_rg.pl
+  snp-sites: /usr/local/bin/snp-sites
+  update_version.sh: /usr/local/bin/update_version.sh
+  vt: /usr/local/bin/vt
+  samclip: /usr/local/bin/samclip
+  tabix++: /usr/local/bin/tabix++
+  any2fasta: /usr/local/bin/any2fasta
+  snpEff: /usr/local/bin/snpEff
+  bamleftalign: /usr/local/bin/bamleftalign
+  coverage_to_regions.py: /usr/local/bin/coverage_to_regions.py
+  fasta_generate_regions.py: /usr/local/bin/fasta_generate_regions.py
+  freebayes-parallel: /usr/local/bin/freebayes-parallel
+  generate_freebayes_region_scripts.sh: /usr/local/bin/generate_freebayes_region_scripts.sh
+  bc: /usr/local/bin/bc
+  dc: /usr/local/bin/dc
+  freebayes: /usr/local/bin/freebayes
+  abba-baba: /usr/local/bin/abba-baba
+  bFst: /usr/local/bin/bFst
+  bed2region: /usr/local/bin/bed2region
+  bgziptabix: /usr/local/bin/bgziptabix
+  dumpContigsFromHeader: /usr/local/bin/dumpContigsFromHeader
+  genotypeSummary: /usr/local/bin/genotypeSummary
+  hapLrt: /usr/local/bin/hapLrt
+  iHS: /usr/local/bin/iHS
+  meltEHH: /usr/local/bin/meltEHH

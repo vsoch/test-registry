@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-biotmledata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-biotmledata
+latest:
+  1.8.0--r36_1: sha256:bbb4fcedf32cf4fd225bcb5daae06aa898a34d2aeb497b075b0cbf8534213d9a
+tags:
+  1.8.0--r36_1: sha256:bbb4fcedf32cf4fd225bcb5daae06aa898a34d2aeb497b075b0cbf8534213d9a
+docker: quay.io/biocontainers/bioconductor-biotmledata
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

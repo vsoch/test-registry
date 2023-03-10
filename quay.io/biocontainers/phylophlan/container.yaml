@@ -1,0 +1,42 @@
+url: https://biocontainers.pro/tools/phylophlan
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for phylophlan
+latest:
+  3.0--py_7: sha256:7ad925997528299766b3f7cab8b13ce447e3715c4010976556d6a014a2f4ac83
+tags:
+  3.0--py_7: sha256:7ad925997528299766b3f7cab8b13ce447e3715c4010976556d6a014a2f4ac83
+docker: quay.io/biocontainers/phylophlan
+aliases:
+  phylophlan: /usr/local/bin/phylophlan
+  phylophlan_draw_metagenomic: /usr/local/bin/phylophlan_draw_metagenomic
+  phylophlan_get_reference: /usr/local/bin/phylophlan_get_reference
+  phylophlan_metagenomic: /usr/local/bin/phylophlan_metagenomic
+  phylophlan_setup_database: /usr/local/bin/phylophlan_setup_database
+  phylophlan_strain_finder: /usr/local/bin/phylophlan_strain_finder
+  phylophlan_write_config_file: /usr/local/bin/phylophlan_write_config_file
+  phylophlan_write_default_configs.sh: /usr/local/bin/phylophlan_write_default_configs.sh
+  readal: /usr/local/bin/readal
+  statal: /usr/local/bin/statal
+  trimal: /usr/local/bin/trimal
+  iqtree: /usr/local/bin/iqtree
+  FastTree-2.1.10.c: /usr/local/bin/FastTree-2.1.10.c
+  raxmlHPC: /usr/local/bin/raxmlHPC
+  raxmlHPC-AVX2: /usr/local/bin/raxmlHPC-AVX2
+  raxmlHPC-PTHREADS: /usr/local/bin/raxmlHPC-PTHREADS
+  raxmlHPC-PTHREADS-AVX2: /usr/local/bin/raxmlHPC-PTHREADS-AVX2
+  raxmlHPC-PTHREADS-SSE3: /usr/local/bin/raxmlHPC-PTHREADS-SSE3
+  raxmlHPC-SSE3: /usr/local/bin/raxmlHPC-SSE3
+  capnp: /usr/local/bin/capnp
+  capnpc: /usr/local/bin/capnpc
+  capnpc-c++: /usr/local/bin/capnpc-c++
+  capnpc-capnp: /usr/local/bin/capnpc-capnp
+  FastTreeMP: /usr/local/bin/FastTreeMP
+  mash: /usr/local/bin/mash
+  FastTree: /usr/local/bin/FastTree
+  muscle: /usr/local/bin/muscle
+  fasttree: /usr/local/bin/fasttree
+  sumlabels.py: /usr/local/bin/sumlabels.py
+  sumtrees.py: /usr/local/bin/sumtrees.py
+  fetch-extras: /usr/local/bin/fetch-extras
+  go.mod: /usr/local/bin/go.mod
+  go.sum: /usr/local/bin/go.sum

@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-ivygapse
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-ivygapse
+latest:
+  1.8.0--r36_0: sha256:551aa3c66e4ff20b1c7bd0bba3631d1070fa22f4d45ebeb214a17e7e4b4090bf
+tags:
+  1.8.0--r36_0: sha256:551aa3c66e4ff20b1c7bd0bba3631d1070fa22f4d45ebeb214a17e7e4b4090bf
+docker: quay.io/biocontainers/bioconductor-ivygapse
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

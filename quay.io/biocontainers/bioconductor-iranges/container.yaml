@@ -1,0 +1,18 @@
+url: https://biocontainers.pro/tools/bioconductor-iranges
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-iranges
+latest:
+  2.8.2--r3.4.1_0: sha256:f601f2fc26f9fc1b4346a03c380ed998c2a7ede6ce9c83b1027509ce5605233b
+tags:
+  2.8.2--r3.4.1_0: sha256:f601f2fc26f9fc1b4346a03c380ed998c2a7ede6ce9c83b1027509ce5605233b
+docker: quay.io/biocontainers/bioconductor-iranges
+aliases:
+  bmp2tiff: /usr/local/bin/bmp2tiff
+  gif2tiff: /usr/local/bin/gif2tiff
+  ras2tiff: /usr/local/bin/ras2tiff
+  rgb2ycbcr: /usr/local/bin/rgb2ycbcr
+  thumbnail: /usr/local/bin/thumbnail
+  tclsh8.5: /usr/local/bin/tclsh8.5
+  wish8.5: /usr/local/bin/wish8.5
+  ncurses5-config: /usr/local/bin/ncurses5-config
+  ncursesw5-config: /usr/local/bin/ncursesw5-config

@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/vcftools
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for vcftools
+latest:
+  0.1.16--pl5321hd03093a_7: sha256:bd6df7b77ae7b49710f58e536edc6672989a951d1dda8f7fbc01be6f02243a5b
+tags:
+  0.1.16--pl5321hd03093a_7: sha256:bd6df7b77ae7b49710f58e536edc6672989a951d1dda8f7fbc01be6f02243a5b
+docker: quay.io/biocontainers/vcftools
+aliases:
+  vcftools: /usr/local/bin/vcftools
+  fill-aa: /usr/local/bin/fill-aa
+  fill-an-ac: /usr/local/bin/fill-an-ac
+  fill-fs: /usr/local/bin/fill-fs
+  fill-ref-md5: /usr/local/bin/fill-ref-md5
+  vcf-annotate: /usr/local/bin/vcf-annotate
+  vcf-compare: /usr/local/bin/vcf-compare
+  vcf-concat: /usr/local/bin/vcf-concat
+  vcf-consensus: /usr/local/bin/vcf-consensus
+  vcf-contrast: /usr/local/bin/vcf-contrast
+  vcf-convert: /usr/local/bin/vcf-convert
+  vcf-fix-newlines: /usr/local/bin/vcf-fix-newlines
+  vcf-fix-ploidy: /usr/local/bin/vcf-fix-ploidy
+  vcf-indel-stats: /usr/local/bin/vcf-indel-stats
+  vcf-isec: /usr/local/bin/vcf-isec
+  vcf-merge: /usr/local/bin/vcf-merge
+  vcf-phased-join: /usr/local/bin/vcf-phased-join
+  vcf-query: /usr/local/bin/vcf-query
+  vcf-shuffle-cols: /usr/local/bin/vcf-shuffle-cols
+  vcf-sort: /usr/local/bin/vcf-sort
+  vcf-stats: /usr/local/bin/vcf-stats
+  vcf-subset: /usr/local/bin/vcf-subset
+  vcf-to-tab: /usr/local/bin/vcf-to-tab
+  vcf-tstv: /usr/local/bin/vcf-tstv
+  vcf-validator: /usr/local/bin/vcf-validator

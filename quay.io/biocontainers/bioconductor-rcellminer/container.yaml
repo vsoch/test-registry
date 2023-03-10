@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/bioconductor-rcellminer
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-rcellminer
+latest:
+  2.8.0--r36_1: sha256:b927a7912ea2f428e2e8824ff0146656b4bbb6517a11fd94a30286e319a2beee
+tags:
+  2.8.0--r36_1: sha256:b927a7912ea2f428e2e8824ff0146656b4bbb6517a11fd94a30286e319a2beee
+docker: quay.io/biocontainers/bioconductor-rcellminer
+aliases:
+  extcheck: /usr/local/bin/extcheck
+  java-rmi.cgi: /usr/local/bin/java-rmi.cgi
+  javah: /usr/local/bin/javah
+  jhat: /usr/local/bin/jhat
+  jsadebugd: /usr/local/bin/jsadebugd
+  native2ascii: /usr/local/bin/native2ascii
+  policytool: /usr/local/bin/policytool
+  appletviewer: /usr/local/bin/appletviewer
+  idlj: /usr/local/bin/idlj
+  orbd: /usr/local/bin/orbd
+  schemagen: /usr/local/bin/schemagen
+  servertool: /usr/local/bin/servertool
+  tnameserv: /usr/local/bin/tnameserv
+  wsgen: /usr/local/bin/wsgen
+  wsimport: /usr/local/bin/wsimport
+  xjc: /usr/local/bin/xjc
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java

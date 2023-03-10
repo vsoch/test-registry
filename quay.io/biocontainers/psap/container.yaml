@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/psap
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for psap
+latest:
+  1.0.7--pyhdfd78af_0: sha256:7d46b54ab1157a246d5d3dfb17154ca9285d5c1b3f0a65d2c478822f5511c3b5
+tags:
+  1.0.7--pyhdfd78af_0: sha256:7d46b54ab1157a246d5d3dfb17154ca9285d5c1b3f0a65d2c478822f5511c3b5
+docker: quay.io/biocontainers/psap
+aliases:
+  psap: /usr/local/bin/psap
+  versioneer: /usr/local/bin/versioneer
+  black: /usr/local/bin/black
+  blackd: /usr/local/bin/blackd
+  tqdm: /usr/local/bin/tqdm
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  brotli: /usr/local/bin/brotli
+  img2webp: /usr/local/bin/img2webp
+  cwebp: /usr/local/bin/cwebp
+  dwebp: /usr/local/bin/dwebp
+  gif2webp: /usr/local/bin/gif2webp
+  f2py3.10: /usr/local/bin/f2py3.10
+  opj_compress: /usr/local/bin/opj_compress
+  opj_decompress: /usr/local/bin/opj_decompress
+  opj_dump: /usr/local/bin/opj_dump
+  gif2rgb: /usr/local/bin/gif2rgb
+  gifbuild: /usr/local/bin/gifbuild
+  gifclrmp: /usr/local/bin/gifclrmp
+  giffix: /usr/local/bin/giffix
+  giftext: /usr/local/bin/giftext
+  giftool: /usr/local/bin/giftool
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10

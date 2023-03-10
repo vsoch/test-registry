@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/malt
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for malt
+latest:
+  0.53--hdfd78af_0: sha256:5bc6018958dd52f946ce816d0d9e5450c3b851198eb138844266f063a2bb7af1
+tags:
+  0.53--hdfd78af_0: sha256:5bc6018958dd52f946ce816d0d9e5450c3b851198eb138844266f063a2bb7af1
+docker: quay.io/biocontainers/malt
+aliases:
+  malt-build: /usr/local/bin/malt-build
+  malt-run: /usr/local/bin/malt-run
+  jaotc: /usr/local/bin/jaotc
+  jfr: /usr/local/bin/jfr
+  aserver: /usr/local/bin/aserver
+  jdeprscan: /usr/local/bin/jdeprscan
+  jhsdb: /usr/local/bin/jhsdb
+  jimage: /usr/local/bin/jimage
+  jlink: /usr/local/bin/jlink
+  jmod: /usr/local/bin/jmod
+  jshell: /usr/local/bin/jshell
+  jjs: /usr/local/bin/jjs
+  pack200: /usr/local/bin/pack200
+  rmic: /usr/local/bin/rmic
+  rmid: /usr/local/bin/rmid
+  unpack200: /usr/local/bin/unpack200
+  jdeps: /usr/local/bin/jdeps
+  jar: /usr/local/bin/jar
+  jarsigner: /usr/local/bin/jarsigner
+  java: /usr/local/bin/java
+  javac: /usr/local/bin/javac
+  javadoc: /usr/local/bin/javadoc
+  javap: /usr/local/bin/javap
+  jcmd: /usr/local/bin/jcmd
+  jconsole: /usr/local/bin/jconsole
+  jdb: /usr/local/bin/jdb
+  jinfo: /usr/local/bin/jinfo

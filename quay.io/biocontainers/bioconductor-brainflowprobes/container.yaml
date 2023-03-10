@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-brainflowprobes
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-brainflowprobes
+latest:
+  1.8.0--r41hdfd78af_0: sha256:23557130ada74541b9dd4c594624e992b389086dc709a9f0a8d877db8d6d7341
+tags:
+  1.8.0--r41hdfd78af_0: sha256:23557130ada74541b9dd4c594624e992b389086dc709a9f0a8d877db8d6d7341
+docker: quay.io/biocontainers/bioconductor-brainflowprobes

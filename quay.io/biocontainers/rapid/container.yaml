@@ -1,0 +1,48 @@
+url: https://biocontainers.pro/tools/rapid
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for rapid
+latest:
+  1.0--hdfd78af_2: sha256:beac1bf0d12f670ce2eba134e2a1dd60eb8a078b145b617003118df368b86065
+tags:
+  1.0--hdfd78af_2: sha256:beac1bf0d12f670ce2eba134e2a1dd60eb8a078b145b617003118df368b86065
+docker: quay.io/biocontainers/rapid
+aliases:
+  compPlot.Rmd: /usr/local/bin/compPlot.Rmd
+  homePage.Rmd: /usr/local/bin/homePage.Rmd
+  master.html: /usr/local/bin/master.html
+  rapidDiff.r: /usr/local/bin/rapidDiff.r
+  rapidDiff.sh: /usr/local/bin/rapidDiff.sh
+  rapidNorm.r: /usr/local/bin/rapidNorm.r
+  rapidNorm.sh: /usr/local/bin/rapidNorm.sh
+  rapidStats.r: /usr/local/bin/rapidStats.r
+  rapidStats.sh: /usr/local/bin/rapidStats.sh
+  rapidVis.r: /usr/local/bin/rapidVis.r
+  rapidVis.sh: /usr/local/bin/rapidVis.sh
+  rapid_ParseSam.pl: /usr/local/bin/rapid_ParseSam.pl
+  rapid_ToFasta.pl: /usr/local/bin/rapid_ToFasta.pl
+  statsPlot.Rmd: /usr/local/bin/statsPlot.Rmd
+  perl5.32.0: /usr/local/bin/perl5.32.0
+  bowtie2: /usr/local/bin/bowtie2
+  bowtie2-align-l: /usr/local/bin/bowtie2-align-l
+  bowtie2-align-s: /usr/local/bin/bowtie2-align-s
+  bowtie2-build: /usr/local/bin/bowtie2-build
+  bowtie2-build-l: /usr/local/bin/bowtie2-build-l
+  bowtie2-build-s: /usr/local/bin/bowtie2-build-s
+  bowtie2-inspect: /usr/local/bin/bowtie2-inspect
+  bowtie2-inspect-l: /usr/local/bin/bowtie2-inspect-l
+  bowtie2-inspect-s: /usr/local/bin/bowtie2-inspect-s
+  pandoc: /usr/local/bin/pandoc
+  annotateBed: /usr/local/bin/annotateBed
+  bamToBed: /usr/local/bin/bamToBed
+  bamToFastq: /usr/local/bin/bamToFastq
+  bed12ToBed6: /usr/local/bin/bed12ToBed6
+  bedToBam: /usr/local/bin/bedToBam
+  bedToIgv: /usr/local/bin/bedToIgv
+  bedpeToBam: /usr/local/bin/bedpeToBam
+  bedtools: /usr/local/bin/bedtools
+  closestBed: /usr/local/bin/closestBed
+  clusterBed: /usr/local/bin/clusterBed
+  complementBed: /usr/local/bin/complementBed
+  coverageBed: /usr/local/bin/coverageBed
+  expandCols: /usr/local/bin/expandCols
+  fastaFromBed: /usr/local/bin/fastaFromBed

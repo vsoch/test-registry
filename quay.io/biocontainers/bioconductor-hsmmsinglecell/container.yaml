@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-hsmmsinglecell
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-hsmmsinglecell
+latest:
+  1.9.0--r40_0: sha256:ed515829a87c14b2cbf9cbdf63b4d07596e1321b92b09bf98625cbb76d733120
+tags:
+  1.9.0--r40_0: sha256:ed515829a87c14b2cbf9cbdf63b4d07596e1321b92b09bf98625cbb76d733120
+docker: quay.io/biocontainers/bioconductor-hsmmsinglecell
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

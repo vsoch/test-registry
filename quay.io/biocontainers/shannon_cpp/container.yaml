@@ -1,0 +1,38 @@
+url: https://biocontainers.pro/tools/shannon_cpp
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for shannon_cpp
+latest:
+  0.5.0--py27pl526h5dd6954_0: sha256:b8326d44136ea6ef269f70b1d0fe6e12ce50f2836cd7b112735cfdfb68b73ca5
+tags:
+  0.5.0--py27pl526h5dd6954_0: sha256:b8326d44136ea6ef269f70b1d0fe6e12ce50f2836cd7b112735cfdfb68b73ca5
+docker: quay.io/biocontainers/shannon_cpp
+aliases:
+  rcorrector: /usr/local/bin/rcorrector
+  run_rcorrector.pl: /usr/local/bin/run_rcorrector.pl
+  shannon_cpp: /usr/local/bin/shannon_cpp
+  syrupy.py: /usr/local/bin/syrupy.py
+  jellyfish: /usr/local/bin/jellyfish
+  cmpfillin: /usr/local/bin/cmpfillin
+  gpmetis: /usr/local/bin/gpmetis
+  graphchk: /usr/local/bin/graphchk
+  m2gmetis: /usr/local/bin/m2gmetis
+  mpmetis: /usr/local/bin/mpmetis
+  ndmetis: /usr/local/bin/ndmetis
+  basenc: /usr/local/bin/basenc
+  b2sum: /usr/local/bin/b2sum
+  ls: /usr/local/bin/ls
+  base32: /usr/local/bin/base32
+  base64: /usr/local/bin/base64
+  basename: /usr/local/bin/basename
+  cat: /usr/local/bin/cat
+  chcon: /usr/local/bin/chcon
+  chgrp: /usr/local/bin/chgrp
+  chmod: /usr/local/bin/chmod
+  chown: /usr/local/bin/chown
+  chroot: /usr/local/bin/chroot
+  cksum: /usr/local/bin/cksum
+  comm: /usr/local/bin/comm
+  cp: /usr/local/bin/cp
+  csplit: /usr/local/bin/csplit
+  cut: /usr/local/bin/cut
+  date: /usr/local/bin/date

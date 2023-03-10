@@ -1,0 +1,17 @@
+url: https://biocontainers.pro/tools/r-scpred
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-scpred
+latest:
+  v1.9.0--hdfd78af_2: sha256:27e1fdcc4442241e7814e2257b03c41c09b7463938a8a056f2558d5a46e60afa
+tags:
+  v1.9.0--hdfd78af_2: sha256:27e1fdcc4442241e7814e2257b03c41c09b7463938a8a056f2558d5a46e60afa
+docker: quay.io/biocontainers/r-scpred
+aliases:
+  pandoc: /usr/local/bin/pandoc
+  f2py3.9: /usr/local/bin/f2py3.9
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config

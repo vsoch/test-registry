@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-conumee
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-conumee
+latest:
+  1.26.0--r41hdfd78af_0: sha256:19dead2ba50e3dc6fbbd19c56ba9c1a7651e3f91d559e4b5557fe760ae4695ef
+tags:
+  1.26.0--r41hdfd78af_0: sha256:19dead2ba50e3dc6fbbd19c56ba9c1a7651e3f91d559e4b5557fe760ae4695ef
+docker: quay.io/biocontainers/bioconductor-conumee
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

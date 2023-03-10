@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-mspuritydata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-mspuritydata
+latest:
+  1.8.0--r351_1: sha256:7ec5906ea8fc2961d1b21d158d8111ac27e95d53e750ac44ee374c4308319cd7
+tags:
+  1.8.0--r351_1: sha256:7ec5906ea8fc2961d1b21d158d8111ac27e95d53e750ac44ee374c4308319cd7
+docker: quay.io/biocontainers/bioconductor-mspuritydata
+aliases:
+  wget: /usr/local/bin/wget

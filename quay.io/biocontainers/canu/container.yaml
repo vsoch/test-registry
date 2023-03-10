@@ -1,0 +1,83 @@
+url: https://biocontainers.pro/tools/canu
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for canu
+latest:
+  2.2--ha47f30e_0: sha256:0149e37fd2d15cd60cfe5e3e228604a024d52a62ddd55aee775af7e82a1f4196
+tags:
+  2.2--ha47f30e_0: sha256:0149e37fd2d15cd60cfe5e3e228604a024d52a62ddd55aee775af7e82a1f4196
+docker: quay.io/biocontainers/canu
+aliases:
+  alignGFA: /usr/local/bin/alignGFA
+  bogart: /usr/local/bin/bogart
+  canu: /usr/local/bin/canu
+  canu-time: /usr/local/bin/canu-time
+  correctOverlaps: /usr/local/bin/correctOverlaps
+  draw-tig: /usr/local/bin/draw-tig
+  dumpBlob: /usr/local/bin/dumpBlob
+  edalign: /usr/local/bin/edalign
+  errorEstimate: /usr/local/bin/errorEstimate
+  falconsense: /usr/local/bin/falconsense
+  filterCorrectionLayouts: /usr/local/bin/filterCorrectionLayouts
+  filterCorrectionOverlaps: /usr/local/bin/filterCorrectionOverlaps
+  findErrors: /usr/local/bin/findErrors
+  findErrors-Dump: /usr/local/bin/findErrors-Dump
+  fixErrors: /usr/local/bin/fixErrors
+  generateCorrectionLayouts: /usr/local/bin/generateCorrectionLayouts
+  layoutReads: /usr/local/bin/layoutReads
+  loadCorrectedReads: /usr/local/bin/loadCorrectedReads
+  loadErates: /usr/local/bin/loadErates
+  loadTrimmedReads: /usr/local/bin/loadTrimmedReads
+  mergeRanges: /usr/local/bin/mergeRanges
+  mhapConvert: /usr/local/bin/mhapConvert
+  mmapConvert: /usr/local/bin/mmapConvert
+  ovStoreBucketizer: /usr/local/bin/ovStoreBucketizer
+  ovStoreBuild: /usr/local/bin/ovStoreBuild
+  ovStoreConfig: /usr/local/bin/ovStoreConfig
+  ovStoreDump: /usr/local/bin/ovStoreDump
+  ovStoreIndexer: /usr/local/bin/ovStoreIndexer
+  ovStoreSorter: /usr/local/bin/ovStoreSorter
+  ovStoreStats: /usr/local/bin/ovStoreStats
+  overlapAlign: /usr/local/bin/overlapAlign
+  overlapCheck: /usr/local/bin/overlapCheck
+  overlapConvert: /usr/local/bin/overlapConvert
+  overlapImport: /usr/local/bin/overlapImport
+  overlapInCore: /usr/local/bin/overlapInCore
+  overlapInCorePartition: /usr/local/bin/overlapInCorePartition
+  overlapPair: /usr/local/bin/overlapPair
+  prefixEditDistance-matchLimitGenerate: /usr/local/bin/prefixEditDistance-matchLimitGenerate
+  splitHaplotype: /usr/local/bin/splitHaplotype
+  splitReads: /usr/local/bin/splitReads
+  sqStoreCreate: /usr/local/bin/sqStoreCreate
+  sqStoreDumpFASTQ: /usr/local/bin/sqStoreDumpFASTQ
+  sqStoreDumpMetaData: /usr/local/bin/sqStoreDumpMetaData
+  tgStoreCompress: /usr/local/bin/tgStoreCompress
+  tgStoreDump: /usr/local/bin/tgStoreDump
+  tgStoreLoad: /usr/local/bin/tgStoreLoad
+  tgTigDisplay: /usr/local/bin/tgTigDisplay
+  trimReads: /usr/local/bin/trimReads
+  utgcns: /usr/local/bin/utgcns
+  chrpath: /usr/local/bin/chrpath
+  meryl: /usr/local/bin/meryl
+  gnuplot: /usr/local/bin/gnuplot
+  xkbcli: /usr/local/bin/xkbcli
+  pg_config: /usr/local/bin/pg_config
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview
+  qvkgen: /usr/local/bin/qvkgen
+  sdust: /usr/local/bin/sdust
+  k8: /usr/local/bin/k8
+  paftools.js: /usr/local/bin/paftools.js
+  minimap2: /usr/local/bin/minimap2
+  certutil: /usr/local/bin/certutil
+  nspr-config: /usr/local/bin/nspr-config
+  nss-config: /usr/local/bin/nss-config
+  pk12util: /usr/local/bin/pk12util
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  gtk-builder-convert: /usr/local/bin/gtk-builder-convert
+  gtk-demo: /usr/local/bin/gtk-demo

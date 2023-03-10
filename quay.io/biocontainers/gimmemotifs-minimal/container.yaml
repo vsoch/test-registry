@@ -1,0 +1,59 @@
+url: https://biocontainers.pro/tools/gimmemotifs-minimal
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for gimmemotifs-minimal
+latest:
+  0.18.0--py39h67e14b5_0: sha256:5418d19012fdf808921c9ada237a7facbca7a07de7db3f578562fb051f85e97a
+tags:
+  0.18.0--py39h67e14b5_0: sha256:5418d19012fdf808921c9ada237a7facbca7a07de7db3f578562fb051f85e97a
+docker: quay.io/biocontainers/gimmemotifs-minimal
+aliases:
+  bedToGenePred: /usr/local/bin/bedToGenePred
+  combine_peaks: /usr/local/bin/combine_peaks
+  coverage_table: /usr/local/bin/coverage_table
+  dumpsexp: /usr/local/bin/dumpsexp
+  fluff: /usr/local/bin/fluff
+  genePredToBed: /usr/local/bin/genePredToBed
+  genePredToGtf: /usr/local/bin/genePredToGtf
+  genomepy: /usr/local/bin/genomepy
+  gff3ToGenePred: /usr/local/bin/gff3ToGenePred
+  gimme: /usr/local/bin/gimme
+  gpg-error: /usr/local/bin/gpg-error
+  gpgrt-config: /usr/local/bin/gpgrt-config
+  hmac256: /usr/local/bin/hmac256
+  libgcrypt-config: /usr/local/bin/libgcrypt-config
+  mpg123: /usr/local/bin/mpg123
+  mpg123-id3dump: /usr/local/bin/mpg123-id3dump
+  mpg123-strip: /usr/local/bin/mpg123-strip
+  mpicalc: /usr/local/bin/mpicalc
+  orc-bugreport: /usr/local/bin/orc-bugreport
+  orcc: /usr/local/bin/orcc
+  out123: /usr/local/bin/out123
+  produce_x_platform_fuzz_corpus: /usr/local/bin/produce_x_platform_fuzz_corpus
+  qnorm: /usr/local/bin/qnorm
+  run_x_platform_fuzz_corpus: /usr/local/bin/run_x_platform_fuzz_corpus
+  yat2m: /usr/local/bin/yat2m
+  elasticurl: /usr/local/bin/elasticurl
+  elasticurl_cpp: /usr/local/bin/elasticurl_cpp
+  elastipubsub: /usr/local/bin/elastipubsub
+  gtfToGenePred: /usr/local/bin/gtfToGenePred
+  htseq-count-barcodes: /usr/local/bin/htseq-count-barcodes
+  lame: /usr/local/bin/lame
+  nosetests-3.9: /usr/local/bin/nosetests-3.9
+  csv-import: /usr/local/bin/csv-import
+  orc-memory: /usr/local/bin/orc-memory
+  orc-scan: /usr/local/bin/orc-scan
+  sip-build: /usr/local/bin/sip-build
+  sip-distinfo: /usr/local/bin/sip-distinfo
+  sip-install: /usr/local/bin/sip-install
+  sip-module: /usr/local/bin/sip-module
+  sip-sdist: /usr/local/bin/sip-sdist
+  sip-wheel: /usr/local/bin/sip-wheel
+  timezone-dump: /usr/local/bin/timezone-dump
+  attr: /usr/local/bin/attr
+  balsam: /usr/local/bin/balsam
+  getfattr: /usr/local/bin/getfattr
+  jackd: /usr/local/bin/jackd
+  lprodump: /usr/local/bin/lprodump
+  lrelease-pro: /usr/local/bin/lrelease-pro
+  lupdate-pro: /usr/local/bin/lupdate-pro
+  meshdebug: /usr/local/bin/meshdebug

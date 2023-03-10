@@ -1,0 +1,20 @@
+url: https://biocontainers.pro/tools/fastq-anonymous
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for fastq-anonymous
+latest:
+  1.0.1--py_2: sha256:c4d76ab8eb1e2cee558d8c5407d5ad7bbe264bf990bec8b4d84f0c78b4ce34fb
+tags:
+  1.0.1--py_2: sha256:c4d76ab8eb1e2cee558d8c5407d5ad7bbe264bf990bec8b4d84f0c78b4ce34fb
+docker: quay.io/biocontainers/fastq-anonymous
+aliases:
+  fastq-anonymous: /usr/local/bin/fastq-anonymous
+  f2py3.7: /usr/local/bin/f2py3.7
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  pyvenv: /usr/local/bin/pyvenv

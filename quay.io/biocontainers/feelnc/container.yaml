@@ -1,0 +1,46 @@
+url: https://biocontainers.pro/tools/feelnc
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for feelnc
+latest:
+  0.2--pl526_0: sha256:80753a45c717c2b2d1dededfe2732baa3cea54b12e8a73d1f48542bdef8480fd
+tags:
+  0.2--pl526_0: sha256:80753a45c717c2b2d1dededfe2732baa3cea54b12e8a73d1f48542bdef8480fd
+docker: quay.io/biocontainers/feelnc
+aliases:
+  FEELnc_classifier.pl: /usr/local/bin/FEELnc_classifier.pl
+  FEELnc_classifier.pl.bak: /usr/local/bin/FEELnc_classifier.pl.bak
+  FEELnc_codpot.pl: /usr/local/bin/FEELnc_codpot.pl
+  FEELnc_codpot.pl.bak: /usr/local/bin/FEELnc_codpot.pl.bak
+  FEELnc_filter.pl: /usr/local/bin/FEELnc_filter.pl
+  FEELnc_filter.pl.bak: /usr/local/bin/FEELnc_filter.pl.bak
+  FEELnc_pipeline.sh: /usr/local/bin/FEELnc_pipeline.sh
+  FEELnc_tpLevel2gnLevelClassification.R: /usr/local/bin/FEELnc_tpLevel2gnLevelClassification.R
+  FEELnc_tpLevel2gnLevelClassification.R.bak: /usr/local/bin/FEELnc_tpLevel2gnLevelClassification.R.bak
+  KmerInShort: /usr/local/bin/KmerInShort
+  fasta_ushuffle: /usr/local/bin/fasta_ushuffle
+  ushuffle: /usr/local/bin/ushuffle
+  gdlib-config: /usr/local/bin/gdlib-config
+  bam2bedgraph: /usr/local/bin/bam2bedgraph
+  bp_find-blast-matches.pl: /usr/local/bin/bp_find-blast-matches.pl
+  ace.pl: /usr/local/bin/ace.pl
+  ccconfig: /usr/local/bin/ccconfig
+  SOAPsh.pl: /usr/local/bin/SOAPsh.pl
+  map: /usr/local/bin/map
+  mirrorMappings: /usr/local/bin/mirrorMappings
+  mkCSGB2312: /usr/local/bin/mkCSGB2312
+  mkmapfile: /usr/local/bin/mkmapfile
+  stubmaker.pl: /usr/local/bin/stubmaker.pl
+  chartex: /usr/local/bin/chartex
+  binhex.pl: /usr/local/bin/binhex.pl
+  debinhex.pl: /usr/local/bin/debinhex.pl
+  cxpm: /usr/local/bin/cxpm
+  sxpm: /usr/local/bin/sxpm
+  xpath: /usr/local/bin/xpath
+  imgsize: /usr/local/bin/imgsize
+  xml_grep: /usr/local/bin/xml_grep
+  xml_merge: /usr/local/bin/xml_merge
+  xml_pp: /usr/local/bin/xml_pp
+  xml_spellcheck: /usr/local/bin/xml_spellcheck
+  xml_split: /usr/local/bin/xml_split
+  tpage: /usr/local/bin/tpage
+  ttree: /usr/local/bin/ttree

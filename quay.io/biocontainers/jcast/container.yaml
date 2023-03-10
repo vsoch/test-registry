@@ -1,0 +1,33 @@
+url: https://biocontainers.pro/tools/jcast
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for jcast
+latest:
+  0.3.5--pyhdfd78af_0: sha256:156feea982fbb615a4e8faf42f7a679e77db75fdfced049083ef718b20899514
+tags:
+  0.3.5--pyhdfd78af_0: sha256:156feea982fbb615a4e8faf42f7a679e77db75fdfced049083ef718b20899514
+docker: quay.io/biocontainers/jcast
+aliases:
+  jcast: /usr/local/bin/jcast
+  x86_64-conda_cos7-linux-gnu-ld: /usr/local/bin/x86_64-conda_cos7-linux-gnu-ld
+  tqdm: /usr/local/bin/tqdm
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  brotli: /usr/local/bin/brotli
+  normalizer: /usr/local/bin/normalizer
+  f2py3.10: /usr/local/bin/f2py3.10
+  opj_compress: /usr/local/bin/opj_compress
+  opj_decompress: /usr/local/bin/opj_decompress
+  opj_dump: /usr/local/bin/opj_dump
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1
+  jpgicc: /usr/local/bin/jpgicc
+  linkicc: /usr/local/bin/linkicc
+  psicc: /usr/local/bin/psicc
+  tificc: /usr/local/bin/tificc
+  transicc: /usr/local/bin/transicc

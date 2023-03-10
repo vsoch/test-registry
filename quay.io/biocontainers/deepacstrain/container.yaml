@@ -1,0 +1,37 @@
+url: https://biocontainers.pro/tools/deepacstrain
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for deepacstrain
+latest:
+  0.2.1--py_0: sha256:1f46e7ed53b6bf873c334911e196a7197b34948be6f6a7904d3a337c8b4a929a
+tags:
+  0.2.1--py_0: sha256:1f46e7ed53b6bf873c334911e196a7197b34948be6f6a7904d3a337c8b4a929a
+docker: quay.io/biocontainers/deepacstrain
+aliases:
+  deepac: /usr/local/bin/deepac
+  deepac-strain: /usr/local/bin/deepac-strain
+  pyjwt: /usr/local/bin/pyjwt
+  transformseq: /usr/local/bin/transformseq
+  weblogo: /usr/local/bin/weblogo
+  JxrDecApp: /usr/local/bin/JxrDecApp
+  JxrEncApp: /usr/local/bin/JxrEncApp
+  cbrunsli: /usr/local/bin/cbrunsli
+  dbrunsli: /usr/local/bin/dbrunsli
+  imagecodecs: /usr/local/bin/imagecodecs
+  lsm2bin: /usr/local/bin/lsm2bin
+  tifffile: /usr/local/bin/tifffile
+  zfp: /usr/local/bin/zfp
+  zopfli: /usr/local/bin/zopfli
+  zopflipng: /usr/local/bin/zopflipng
+  imageio_download_bin: /usr/local/bin/imageio_download_bin
+  imageio_remove_bin: /usr/local/bin/imageio_remove_bin
+  skivi: /usr/local/bin/skivi
+  aec: /usr/local/bin/aec
+  estimator_ckpt_converter: /usr/local/bin/estimator_ckpt_converter
+  intersection_matrix.py: /usr/local/bin/intersection_matrix.py
+  intron_exon_reads.py: /usr/local/bin/intron_exon_reads.py
+  pbt_plotting_example.py: /usr/local/bin/pbt_plotting_example.py
+  peak_pie.py: /usr/local/bin/peak_pie.py
+  pybedtools: /usr/local/bin/pybedtools
+  venn_gchart.py: /usr/local/bin/venn_gchart.py
+  venn_mpl.py: /usr/local/bin/venn_mpl.py
+  annotate.py: /usr/local/bin/annotate.py

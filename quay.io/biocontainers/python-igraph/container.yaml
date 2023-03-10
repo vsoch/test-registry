@@ -1,0 +1,24 @@
+url: https://biocontainers.pro/tools/python-igraph
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for python-igraph
+latest:
+  0.7.1.post6--py35_2: sha256:89d264cc57398bac41d71f28d56312050ac89ec7c702a8720791510e68bccba1
+tags:
+  0.7.1.post6--py35_2: sha256:89d264cc57398bac41d71f28d56312050ac89ec7c702a8720791510e68bccba1
+docker: quay.io/biocontainers/python-igraph
+aliases:
+  igraph: /usr/local/bin/igraph
+  easy_install-3.5: /usr/local/bin/easy_install-3.5
+  2to3-3.5: /usr/local/bin/2to3-3.5
+  idle3.5: /usr/local/bin/idle3.5
+  pydoc3.5: /usr/local/bin/pydoc3.5
+  python3.5: /usr/local/bin/python3.5
+  python3.5-config: /usr/local/bin/python3.5-config
+  python3.5m: /usr/local/bin/python3.5m
+  python3.5m-config: /usr/local/bin/python3.5m-config
+  pyvenv-3.5: /usr/local/bin/pyvenv-3.5
+  xslt-config: /usr/local/bin/xslt-config
+  xsltproc: /usr/local/bin/xsltproc
+  tclsh8.5: /usr/local/bin/tclsh8.5
+  wish8.5: /usr/local/bin/wish8.5
+  pyvenv: /usr/local/bin/pyvenv

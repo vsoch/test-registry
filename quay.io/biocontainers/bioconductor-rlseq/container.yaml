@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-rlseq
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-rlseq
+latest:
+  1.0.0--r41hdfd78af_0: sha256:7b21b1cb2af6e13d2f2122bc6c83d5a8105086893e433e613d717f0c36d98df3
+tags:
+  1.0.0--r41hdfd78af_0: sha256:7b21b1cb2af6e13d2f2122bc6c83d5a8105086893e433e613d717f0c36d98df3
+docker: quay.io/biocontainers/bioconductor-rlseq

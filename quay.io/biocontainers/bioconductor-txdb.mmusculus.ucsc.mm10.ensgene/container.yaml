@@ -1,0 +1,17 @@
+url: https://biocontainers.pro/tools/bioconductor-txdb.mmusculus.ucsc.mm10.ensgene
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-txdb.mmusculus.ucsc.mm10.ensgene
+latest:
+  3.4.0--r40_9: sha256:b87d48cf341dba877002e1d819a519170e1e2163597a24fd8e380ee0035579e2
+tags:
+  3.4.0--r40_9: sha256:b87d48cf341dba877002e1d819a519170e1e2163597a24fd8e380ee0035579e2
+docker: quay.io/biocontainers/bioconductor-txdb.mmusculus.ucsc.mm10.ensgene
+aliases:
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

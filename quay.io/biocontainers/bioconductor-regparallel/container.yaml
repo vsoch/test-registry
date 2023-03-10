@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-regparallel
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-regparallel
+latest:
+  1.8.0--r40hdfd78af_1: sha256:a57f9fb5b9a40c8f0e4d37bfc07fd8baa76746df7c3a85bc474e3e5f956edc82
+tags:
+  1.8.0--r40hdfd78af_1: sha256:a57f9fb5b9a40c8f0e4d37bfc07fd8baa76746df7c3a85bc474e3e5f956edc82
+docker: quay.io/biocontainers/bioconductor-regparallel
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

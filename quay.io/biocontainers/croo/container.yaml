@@ -1,0 +1,49 @@
+url: https://biocontainers.pro/tools/croo
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for croo
+latest:
+  0.6.0--pyhdfd78af_0: sha256:9113ed9172e6644ab28850dd9c5f9f1ee149514e12e5147607fac8fad5a621ee
+tags:
+  0.6.0--pyhdfd78af_0: sha256:9113ed9172e6644ab28850dd9c5f9f1ee149514e12e5147607fac8fad5a621ee
+docker: quay.io/biocontainers/croo
+aliases:
+  autouri: /usr/local/bin/autouri
+  aws: /usr/local/bin/aws
+  aws.cmd: /usr/local/bin/aws.cmd
+  aws_bash_completer: /usr/local/bin/aws_bash_completer
+  aws_completer: /usr/local/bin/aws_completer
+  aws_zsh_completer.sh: /usr/local/bin/aws_zsh_completer.sh
+  caper: /usr/local/bin/caper
+  create_instance.sh: /usr/local/bin/create_instance.sh
+  croo: /usr/local/bin/croo
+  miniwdl: /usr/local/bin/miniwdl
+  pygtail: /usr/local/bin/pygtail
+  pyhocon: /usr/local/bin/pyhocon
+  run_mysql_server_docker.sh: /usr/local/bin/run_mysql_server_docker.sh
+  run_mysql_server_singularity.sh: /usr/local/bin/run_mysql_server_singularity.sh
+  wsdump.py: /usr/local/bin/wsdump.py
+  coloredlogs: /usr/local/bin/coloredlogs
+  xkbcli: /usr/local/bin/xkbcli
+  humanfriendly: /usr/local/bin/humanfriendly
+  jp.py: /usr/local/bin/jp.py
+  py.test: /usr/local/bin/py.test
+  pytest: /usr/local/bin/pytest
+  pg_config: /usr/local/bin/pg_config
+  qdistancefieldgenerator: /usr/local/bin/qdistancefieldgenerator
+  qmlpreview: /usr/local/bin/qmlpreview
+  qvkgen: /usr/local/bin/qvkgen
+  pyrsa-decrypt: /usr/local/bin/pyrsa-decrypt
+  pyrsa-encrypt: /usr/local/bin/pyrsa-encrypt
+  pyrsa-keygen: /usr/local/bin/pyrsa-keygen
+  pyrsa-priv2pub: /usr/local/bin/pyrsa-priv2pub
+  pyrsa-sign: /usr/local/bin/pyrsa-sign
+  pyrsa-verify: /usr/local/bin/pyrsa-verify
+  diffimg: /usr/local/bin/diffimg
+  delaunay: /usr/local/bin/delaunay
+  gts-config: /usr/local/bin/gts-config
+  gts2dxf: /usr/local/bin/gts2dxf
+  gts2oogl: /usr/local/bin/gts2oogl
+  gts2stl: /usr/local/bin/gts2stl
+  gtscheck: /usr/local/bin/gtscheck
+  gtscompare: /usr/local/bin/gtscompare
+  gtstemplate: /usr/local/bin/gtstemplate

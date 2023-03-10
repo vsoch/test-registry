@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/velocyto.py
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for velocyto.py
+latest:
+  0.17.17--py38h17adfb0_5: sha256:04a16c2f7ee50cd0880d04bb1d4982fcf3ee723d9195a38affa9275c13854a6a
+tags:
+  0.17.17--py38h17adfb0_5: sha256:04a16c2f7ee50cd0880d04bb1d4982fcf3ee723d9195a38affa9275c13854a6a
+docker: quay.io/biocontainers/velocyto.py
+aliases:
+  loompy: /usr/local/bin/loompy
+  velocyto: /usr/local/bin/velocyto
+  numba: /usr/local/bin/numba
+  pycc: /usr/local/bin/pycc
+  mirror_server: /usr/local/bin/mirror_server
+  mirror_server_stop: /usr/local/bin/mirror_server_stop
+  f2py3.8: /usr/local/bin/f2py3.8
+  fasta-sanitize.pl: /usr/local/bin/fasta-sanitize.pl
+  plot-ampliconstats: /usr/local/bin/plot-ampliconstats
+  fonttools: /usr/local/bin/fonttools
+  pyftmerge: /usr/local/bin/pyftmerge
+  pyftsubset: /usr/local/bin/pyftsubset
+  ttx: /usr/local/bin/ttx
+  brotli: /usr/local/bin/brotli
+  img2webp: /usr/local/bin/img2webp
+  cwebp: /usr/local/bin/cwebp
+  dwebp: /usr/local/bin/dwebp
+  gif2webp: /usr/local/bin/gif2webp
+  h5clear: /usr/local/bin/h5clear
+  h5format_convert: /usr/local/bin/h5format_convert
+  h5watch: /usr/local/bin/h5watch
+  h5fc: /usr/local/bin/h5fc
+  ace2sam: /usr/local/bin/ace2sam
+  blast2sam.pl: /usr/local/bin/blast2sam.pl
+  bowtie2sam.pl: /usr/local/bin/bowtie2sam.pl
+  export2sam.pl: /usr/local/bin/export2sam.pl
+  interpolate_sam.pl: /usr/local/bin/interpolate_sam.pl

@@ -1,0 +1,10 @@
+url: https://biocontainers.pro/tools/bioconductor-dmrcatedata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-dmrcatedata
+latest:
+  2.8.2--r40hdfd78af_0: sha256:c7ef6b53cad4c69d79a11e3aaa797be3e4c7c32d116061464e7bba4ca9ad50c3
+tags:
+  2.8.2--r40hdfd78af_0: sha256:c7ef6b53cad4c69d79a11e3aaa797be3e4c7c32d116061464e7bba4ca9ad50c3
+docker: quay.io/biocontainers/bioconductor-dmrcatedata
+aliases:
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin

@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-microbiome
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-microbiome
+latest:
+  1.8.0--r36_0: sha256:0f2c75b56d2836c4fe244746e22180653bd98c3c1ecfffa4ea4df82757473b61
+tags:
+  1.8.0--r36_0: sha256:0f2c75b56d2836c4fe244746e22180653bd98c3c1ecfffa4ea4df82757473b61
+docker: quay.io/biocontainers/bioconductor-microbiome
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

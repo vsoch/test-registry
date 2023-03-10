@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-illuminahumanwgdaslv3.db
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-illuminahumanwgdaslv3.db
+latest:
+  1.26.0--r41hdfd78af_9: sha256:223013993b0982d70a57e1dedad98a1d81da8234a25692ac89584992db3e5da9
+tags:
+  1.26.0--r41hdfd78af_9: sha256:223013993b0982d70a57e1dedad98a1d81da8234a25692ac89584992db3e5da9
+docker: quay.io/biocontainers/bioconductor-illuminahumanwgdaslv3.db

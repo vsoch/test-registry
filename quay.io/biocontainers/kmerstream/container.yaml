@@ -1,0 +1,19 @@
+url: https://biocontainers.pro/tools/kmerstream
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for kmerstream
+latest:
+  1.1--hd03093a_3: sha256:0e23b0fd1581335b41e230e6acedaafb6576d8187b75021da9b7a27c5edbc596
+tags:
+  1.1--hd03093a_3: sha256:0e23b0fd1581335b41e230e6acedaafb6576d8187b75021da9b7a27c5edbc596
+docker: quay.io/biocontainers/kmerstream
+aliases:
+  KmerStream: /usr/local/bin/KmerStream
+  KmerStreamEstimate.py: /usr/local/bin/KmerStreamEstimate.py
+  KmerStreamJoin: /usr/local/bin/KmerStreamJoin
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

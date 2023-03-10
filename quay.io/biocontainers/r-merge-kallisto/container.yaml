@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/r-merge-kallisto
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for r-merge-kallisto
+latest:
+  0.6--hdfd78af_1: sha256:3b4522235d25f421df8b5174f2f7ac3666b3a850aff808a54c2f90de521b8532
+tags:
+  0.6--hdfd78af_1: sha256:3b4522235d25f421df8b5174f2f7ac3666b3a850aff808a54c2f90de521b8532
+docker: quay.io/biocontainers/r-merge-kallisto
+aliases:
+  merge_kallisto.R: /usr/local/bin/merge_kallisto.R
+  rsync-ssl: /usr/local/bin/rsync-ssl
+  rsync: /usr/local/bin/rsync
+  xxh128sum: /usr/local/bin/xxh128sum
+  xxh32sum: /usr/local/bin/xxh32sum
+  xxh64sum: /usr/local/bin/xxh64sum
+  xxhsum: /usr/local/bin/xxhsum
+  basenc: /usr/local/bin/basenc
+  b2sum: /usr/local/bin/b2sum
+  ls: /usr/local/bin/ls
+  base32: /usr/local/bin/base32
+  base64: /usr/local/bin/base64
+  basename: /usr/local/bin/basename
+  cat: /usr/local/bin/cat
+  chcon: /usr/local/bin/chcon
+  chgrp: /usr/local/bin/chgrp
+  chmod: /usr/local/bin/chmod
+  chown: /usr/local/bin/chown
+  chroot: /usr/local/bin/chroot
+  cksum: /usr/local/bin/cksum
+  comm: /usr/local/bin/comm
+  cp: /usr/local/bin/cp
+  csplit: /usr/local/bin/csplit
+  cut: /usr/local/bin/cut
+  date: /usr/local/bin/date
+  dd: /usr/local/bin/dd

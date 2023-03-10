@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/scaden
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for scaden
+latest:
+  1.1.2--pyhdfd78af_0: sha256:ef5e03a102cc047853b1e08ea8cfc88fdb73cf6fc7adf4df7a96b2ae23bb6de5
+tags:
+  1.1.2--pyhdfd78af_0: sha256:ef5e03a102cc047853b1e08ea8cfc88fdb73cf6fc7adf4df7a96b2ae23bb6de5
+docker: quay.io/biocontainers/scaden
+aliases:
+  dunamai: /usr/local/bin/dunamai
+  scaden: /usr/local/bin/scaden
+  scanpy: /usr/local/bin/scanpy
+  estimator_ckpt_converter: /usr/local/bin/estimator_ckpt_converter
+  sphinx-apidoc: /usr/local/bin/sphinx-apidoc
+  sphinx-autogen: /usr/local/bin/sphinx-autogen
+  sphinx-build: /usr/local/bin/sphinx-build
+  sphinx-quickstart: /usr/local/bin/sphinx-quickstart
+  google-oauthlib-tool: /usr/local/bin/google-oauthlib-tool
+  pybabel: /usr/local/bin/pybabel
+  cmark: /usr/local/bin/cmark
+  tf_upgrade_v2: /usr/local/bin/tf_upgrade_v2
+  tflite_convert: /usr/local/bin/tflite_convert
+  saved_model_cli: /usr/local/bin/saved_model_cli
+  toco: /usr/local/bin/toco
+  toco_from_protos: /usr/local/bin/toco_from_protos
+  pt2to3: /usr/local/bin/pt2to3
+  ptdump: /usr/local/bin/ptdump
+  ptrepack: /usr/local/bin/ptrepack
+  pttree: /usr/local/bin/pttree
+  tensorboard: /usr/local/bin/tensorboard
+  numba: /usr/local/bin/numba
+  pycc: /usr/local/bin/pycc
+  markdown_py: /usr/local/bin/markdown_py
+  natsort: /usr/local/bin/natsort
+  pyrsa-decrypt: /usr/local/bin/pyrsa-decrypt
+  pyrsa-encrypt: /usr/local/bin/pyrsa-encrypt

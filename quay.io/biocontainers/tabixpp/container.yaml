@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/tabixpp
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for tabixpp
+latest:
+  1.1.0--h470d46e_9: sha256:5213a96cc511c795ed76b49764adc51b7970ff8f9932dd10b8e2997c057e350a
+tags:
+  1.1.0--h470d46e_9: sha256:5213a96cc511c795ed76b49764adc51b7970ff8f9932dd10b8e2997c057e350a
+docker: quay.io/biocontainers/tabixpp
+aliases:
+  tabix++: /usr/local/bin/tabix++
+  bc: /usr/local/bin/bc
+  dc: /usr/local/bin/dc
+  fasta-sanitize.pl: /usr/local/bin/fasta-sanitize.pl
+  plot-ampliconstats: /usr/local/bin/plot-ampliconstats
+  ace2sam: /usr/local/bin/ace2sam
+  blast2sam.pl: /usr/local/bin/blast2sam.pl
+  bowtie2sam.pl: /usr/local/bin/bowtie2sam.pl
+  export2sam.pl: /usr/local/bin/export2sam.pl
+  interpolate_sam.pl: /usr/local/bin/interpolate_sam.pl
+  maq2sam-long: /usr/local/bin/maq2sam-long
+  maq2sam-short: /usr/local/bin/maq2sam-short
+  md5fa: /usr/local/bin/md5fa
+  md5sum-lite: /usr/local/bin/md5sum-lite
+  plot-bamstats: /usr/local/bin/plot-bamstats
+  psl2sam.pl: /usr/local/bin/psl2sam.pl
+  sam2vcf.pl: /usr/local/bin/sam2vcf.pl
+  samtools.pl: /usr/local/bin/samtools.pl
+  seq_cache_populate.pl: /usr/local/bin/seq_cache_populate.pl
+  soap2sam.pl: /usr/local/bin/soap2sam.pl
+  zoom2sam.pl: /usr/local/bin/zoom2sam.pl
+  novo2sam.pl: /usr/local/bin/novo2sam.pl
+  wgsim: /usr/local/bin/wgsim
+  wgsim_eval.pl: /usr/local/bin/wgsim_eval.pl
+  samtools: /usr/local/bin/samtools

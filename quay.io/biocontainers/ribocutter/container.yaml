@@ -1,0 +1,19 @@
+url: https://biocontainers.pro/tools/ribocutter
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ribocutter
+latest:
+  0.1.1--pyh5e36f6f_0: sha256:8fdc2f546af2bdbfce31a59fc8fe050e4859ab2acc30e27a416eb31081c93e58
+tags:
+  0.1.1--pyh5e36f6f_0: sha256:8fdc2f546af2bdbfce31a59fc8fe050e4859ab2acc30e27a416eb31081c93e58
+docker: quay.io/biocontainers/ribocutter
+aliases:
+  ribocutter: /usr/local/bin/ribocutter
+  igzip: /usr/local/bin/igzip
+  pigz: /usr/local/bin/pigz
+  unpigz: /usr/local/bin/unpigz
+  f2py3.9: /usr/local/bin/f2py3.9
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config

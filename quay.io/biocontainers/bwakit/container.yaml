@@ -1,0 +1,47 @@
+url: https://biocontainers.pro/tools/bwakit
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bwakit
+latest:
+  0.7.17.dev1--hdfd78af_1: sha256:335464029b06a3726692c6cba1620c56b988f0dac202df3c3ae33ef9a2f434c4
+tags:
+  0.7.17.dev1--hdfd78af_1: sha256:335464029b06a3726692c6cba1620c56b988f0dac202df3c3ae33ef9a2f434c4
+docker: quay.io/biocontainers/bwakit
+aliases:
+  bwa-postalt.js: /usr/local/bin/bwa-postalt.js
+  fermi2: /usr/local/bin/fermi2
+  fermi2.pl: /usr/local/bin/fermi2.pl
+  htsbox: /usr/local/bin/htsbox
+  ropebwt2: /usr/local/bin/ropebwt2
+  run-HLA: /usr/local/bin/run-HLA
+  run-bwamem: /usr/local/bin/run-bwamem
+  run-gen-ref: /usr/local/bin/run-gen-ref
+  samblaster: /usr/local/bin/samblaster
+  trimadap: /usr/local/bin/trimadap
+  typeHLA-selctg.js: /usr/local/bin/typeHLA-selctg.js
+  typeHLA.js: /usr/local/bin/typeHLA.js
+  typeHLA.sh: /usr/local/bin/typeHLA.sh
+  seqtk: /usr/local/bin/seqtk
+  perl5.32.0: /usr/local/bin/perl5.32.0
+  k8: /usr/local/bin/k8
+  qualfa2fq.pl: /usr/local/bin/qualfa2fq.pl
+  xa2multi.pl: /usr/local/bin/xa2multi.pl
+  bwa: /usr/local/bin/bwa
+  fasta-sanitize.pl: /usr/local/bin/fasta-sanitize.pl
+  plot-ampliconstats: /usr/local/bin/plot-ampliconstats
+  ace2sam: /usr/local/bin/ace2sam
+  blast2sam.pl: /usr/local/bin/blast2sam.pl
+  bowtie2sam.pl: /usr/local/bin/bowtie2sam.pl
+  export2sam.pl: /usr/local/bin/export2sam.pl
+  interpolate_sam.pl: /usr/local/bin/interpolate_sam.pl
+  maq2sam-long: /usr/local/bin/maq2sam-long
+  maq2sam-short: /usr/local/bin/maq2sam-short
+  md5fa: /usr/local/bin/md5fa
+  md5sum-lite: /usr/local/bin/md5sum-lite
+  plot-bamstats: /usr/local/bin/plot-bamstats
+  psl2sam.pl: /usr/local/bin/psl2sam.pl
+  sam2vcf.pl: /usr/local/bin/sam2vcf.pl
+  samtools.pl: /usr/local/bin/samtools.pl
+  seq_cache_populate.pl: /usr/local/bin/seq_cache_populate.pl
+  soap2sam.pl: /usr/local/bin/soap2sam.pl
+  zoom2sam.pl: /usr/local/bin/zoom2sam.pl
+  novo2sam.pl: /usr/local/bin/novo2sam.pl

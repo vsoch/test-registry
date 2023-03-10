@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-genomewidesnp5crlmm
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-genomewidesnp5crlmm
+latest:
+  1.0.6--r41hdfd78af_9: sha256:64197ea76e2bdc3aa423156060bce48aab93bad6c04e839a48a00425db80a0e3
+tags:
+  1.0.6--r41hdfd78af_9: sha256:64197ea76e2bdc3aa423156060bce48aab93bad6c04e839a48a00425db80a0e3
+docker: quay.io/biocontainers/bioconductor-genomewidesnp5crlmm

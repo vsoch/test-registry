@@ -1,0 +1,46 @@
+url: https://biocontainers.pro/tools/phyloflash
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for phyloflash
+latest:
+  3.4.1--hdfd78af_0: sha256:d110b0bb01fc725502adad58e6cb36a679890bf745c3d0c02526a126e848294c
+tags:
+  3.4.1--hdfd78af_0: sha256:d110b0bb01fc725502adad58e6cb36a679890bf745c3d0c02526a126e848294c
+docker: quay.io/biocontainers/phyloflash
+aliases:
+  ENA_phyloFlash.pl: /usr/local/bin/ENA_phyloFlash.pl
+  emirge.py: /usr/local/bin/emirge.py
+  emirge_amplicon.py: /usr/local/bin/emirge_amplicon.py
+  emirge_makedb.py: /usr/local/bin/emirge_makedb.py
+  emirge_rename_fasta.py: /usr/local/bin/emirge_rename_fasta.py
+  phyloFlash.pl: /usr/local/bin/phyloFlash.pl
+  phyloFlash_barplot.R: /usr/local/bin/phyloFlash_barplot.R
+  phyloFlash_compare.pl: /usr/local/bin/phyloFlash_compare.pl
+  phyloFlash_fastgFishing.pl: /usr/local/bin/phyloFlash_fastgFishing.pl
+  phyloFlash_heatmap.R: /usr/local/bin/phyloFlash_heatmap.R
+  phyloFlash_makedb.pl: /usr/local/bin/phyloFlash_makedb.pl
+  phyloFlash_plotscript_svg.pl: /usr/local/bin/phyloFlash_plotscript_svg.pl
+  kmutate.sh: /usr/local/bin/kmutate.sh
+  runhmm.sh: /usr/local/bin/runhmm.sh
+  kmerposition.sh: /usr/local/bin/kmerposition.sh
+  reformatpb.sh: /usr/local/bin/reformatpb.sh
+  summarizecoverage.sh: /usr/local/bin/summarizecoverage.sh
+  alltoall.sh: /usr/local/bin/alltoall.sh
+  analyzesketchresults.sh: /usr/local/bin/analyzesketchresults.sh
+  comparessu.sh: /usr/local/bin/comparessu.sh
+  filtersilva.sh: /usr/local/bin/filtersilva.sh
+  sketchblacklist2.sh: /usr/local/bin/sketchblacklist2.sh
+  splitribo.sh: /usr/local/bin/splitribo.sh
+  addssu.sh: /usr/local/bin/addssu.sh
+  adjusthomopolymers.sh: /usr/local/bin/adjusthomopolymers.sh
+  analyzeaccession.sh: /usr/local/bin/analyzeaccession.sh
+  analyzegenes.sh: /usr/local/bin/analyzegenes.sh
+  applyvariants.sh: /usr/local/bin/applyvariants.sh
+  bbcms.sh: /usr/local/bin/bbcms.sh
+  bloomfilter.sh: /usr/local/bin/bloomfilter.sh
+  callgenes.sh: /usr/local/bin/callgenes.sh
+  comparegff.sh: /usr/local/bin/comparegff.sh
+  consensus.sh: /usr/local/bin/consensus.sh
+  cutgff.sh: /usr/local/bin/cutgff.sh
+  fetchproks.sh: /usr/local/bin/fetchproks.sh
+  filterqc.sh: /usr/local/bin/filterqc.sh
+  fixgaps.sh: /usr/local/bin/fixgaps.sh

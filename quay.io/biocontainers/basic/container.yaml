@@ -1,0 +1,26 @@
+url: https://biocontainers.pro/tools/basic
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for basic
+latest:
+  1.5.1--pyh864c0ab_1: sha256:6f1254fe9cf0c0cf146ac3ffb07cd4e927a830dfc499474d70fb64a8375cbe8c
+tags:
+  1.5.1--pyh864c0ab_1: sha256:6f1254fe9cf0c0cf146ac3ffb07cd4e927a830dfc499474d70fb64a8375cbe8c
+docker: quay.io/biocontainers/basic
+aliases:
+  BASIC.py: /usr/local/bin/BASIC.py
+  bowtie2: /usr/local/bin/bowtie2
+  bowtie2-align-l: /usr/local/bin/bowtie2-align-l
+  bowtie2-align-s: /usr/local/bin/bowtie2-align-s
+  bowtie2-build: /usr/local/bin/bowtie2-build
+  bowtie2-build-l: /usr/local/bin/bowtie2-build-l
+  bowtie2-build-s: /usr/local/bin/bowtie2-build-s
+  bowtie2-inspect: /usr/local/bin/bowtie2-inspect
+  bowtie2-inspect-l: /usr/local/bin/bowtie2-inspect-l
+  bowtie2-inspect-s: /usr/local/bin/bowtie2-inspect-s
+  perl5.26.2: /usr/local/bin/perl5.26.2
+  podselect: /usr/local/bin/podselect
+  2to3-3.8: /usr/local/bin/2to3-3.8
+  idle3.8: /usr/local/bin/idle3.8
+  pydoc3.8: /usr/local/bin/pydoc3.8
+  python3.8: /usr/local/bin/python3.8
+  python3.8-config: /usr/local/bin/python3.8-config

@@ -1,0 +1,36 @@
+url: https://biocontainers.pro/tools/nanoplot
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for nanoplot
+latest:
+  1.8.1--py36_0: sha256:4ceaff31ac1534bf1ccdea215a6ca6e248dd3c5ac039994ee2e06979224171b7
+tags:
+  1.8.1--py36_0: sha256:4ceaff31ac1534bf1ccdea215a6ca6e248dd3c5ac039994ee2e06979224171b7
+docker: quay.io/biocontainers/nanoplot
+aliases:
+  NanoPlot: /usr/local/bin/NanoPlot
+  pauvre: /usr/local/bin/pauvre
+  createfontdatachunk.py: /usr/local/bin/createfontdatachunk.py
+  enhancer.py: /usr/local/bin/enhancer.py
+  explode.py: /usr/local/bin/explode.py
+  gifmaker.py: /usr/local/bin/gifmaker.py
+  painter.py: /usr/local/bin/painter.py
+  player.py: /usr/local/bin/player.py
+  thresholder.py: /usr/local/bin/thresholder.py
+  viewer.py: /usr/local/bin/viewer.py
+  pilconvert.py: /usr/local/bin/pilconvert.py
+  pildriver.py: /usr/local/bin/pildriver.py
+  pilfile.py: /usr/local/bin/pilfile.py
+  pilfont.py: /usr/local/bin/pilfont.py
+  pilprint.py: /usr/local/bin/pilprint.py
+  sample: /usr/local/bin/sample
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  guess-ploidy.py: /usr/local/bin/guess-ploidy.py
+  plot-roh.py: /usr/local/bin/plot-roh.py
+  run-roh.pl: /usr/local/bin/run-roh.pl
+  color-chrs.pl: /usr/local/bin/color-chrs.pl
+  plot-vcfstats: /usr/local/bin/plot-vcfstats
+  bcftools: /usr/local/bin/bcftools
+  vcfutils.pl: /usr/local/bin/vcfutils.pl
+  sip: /usr/local/bin/sip
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5

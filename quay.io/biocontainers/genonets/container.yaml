@@ -1,0 +1,24 @@
+url: https://biocontainers.pro/tools/genonets
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for genonets
+latest:
+  2.0--pyh5e36f6f_0: sha256:5d61d0ce26ae2c923bf7bc7ecd0950dd55080cee4ca058faeb4340d9bb44f32e
+tags:
+  2.0--pyh5e36f6f_0: sha256:5d61d0ce26ae2c923bf7bc7ecd0950dd55080cee4ca058faeb4340d9bb44f32e
+docker: quay.io/biocontainers/genonets
+aliases:
+  igraph: /usr/local/bin/igraph
+  cmpfillin: /usr/local/bin/cmpfillin
+  gpmetis: /usr/local/bin/gpmetis
+  graphchk: /usr/local/bin/graphchk
+  m2gmetis: /usr/local/bin/m2gmetis
+  mpmetis: /usr/local/bin/mpmetis
+  ndmetis: /usr/local/bin/ndmetis
+  glpsol: /usr/local/bin/glpsol
+  tqdm: /usr/local/bin/tqdm
+  f2py3.9: /usr/local/bin/f2py3.9
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config

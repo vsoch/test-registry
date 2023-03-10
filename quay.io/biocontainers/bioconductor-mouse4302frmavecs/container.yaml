@@ -1,0 +1,8 @@
+url: https://biocontainers.pro/tools/bioconductor-mouse4302frmavecs
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-mouse4302frmavecs
+latest:
+  1.5.0--r41hdfd78af_9: sha256:0b4988d6a0a806ef17218f3b7aa5c739173c7d141ee2c697366586aedb6bf3ab
+tags:
+  1.5.0--r41hdfd78af_9: sha256:0b4988d6a0a806ef17218f3b7aa5c739173c7d141ee2c697366586aedb6bf3ab
+docker: quay.io/biocontainers/bioconductor-mouse4302frmavecs

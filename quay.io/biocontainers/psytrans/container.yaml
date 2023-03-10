@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/psytrans
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for psytrans
+latest:
+  2.0.0--hdfd78af_1: sha256:6b589e680114c834bd2804f33a945ed06bf76a9df0415943d24e0c0d8132cbf6
+tags:
+  2.0.0--hdfd78af_1: sha256:6b589e680114c834bd2804f33a945ed06bf76a9df0415943d24e0c0d8132cbf6
+docker: quay.io/biocontainers/psytrans
+aliases:
+  psytrans.py: /usr/local/bin/psytrans.py
+  svm-predict: /usr/local/bin/svm-predict
+  svm-scale: /usr/local/bin/svm-scale
+  svm-train: /usr/local/bin/svm-train
+  CA.pm: /usr/local/bin/CA.pm
+  cacert.pem: /usr/local/bin/cacert.pem
+  index-themes: /usr/local/bin/index-themes
+  fetch-extras: /usr/local/bin/fetch-extras
+  go.mod: /usr/local/bin/go.mod
+  go.sum: /usr/local/bin/go.sum
+  hlp-xtract.txt: /usr/local/bin/hlp-xtract.txt
+  index-extras: /usr/local/bin/index-extras
+  pm-collect: /usr/local/bin/pm-collect
+  readme.pdf: /usr/local/bin/readme.pdf
+  bt-context.txt: /usr/local/bin/bt-context.txt
+  bt-link: /usr/local/bin/bt-link
+  bt-load: /usr/local/bin/bt-load
+  bt-save: /usr/local/bin/bt-save
+  bt-srch: /usr/local/bin/bt-srch
+  eblast: /usr/local/bin/eblast
+  pm-index: /usr/local/bin/pm-index
+  pm-invert: /usr/local/bin/pm-invert
+  pm-merge: /usr/local/bin/pm-merge
+  pm-prepare: /usr/local/bin/pm-prepare
+  pm-promote: /usr/local/bin/pm-promote
+  pm-refresh: /usr/local/bin/pm-refresh

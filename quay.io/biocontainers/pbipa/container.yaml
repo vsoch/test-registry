@@ -1,0 +1,48 @@
+url: https://biocontainers.pro/tools/pbipa
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for pbipa
+latest:
+  1.8.0--hbd632db_1: sha256:bccb1909c5acb769b5cdd6173d406f3da45b695150099d451c17d6dfd1f26395
+tags:
+  1.8.0--hbd632db_1: sha256:bccb1909c5acb769b5cdd6173d406f3da45b695150099d451c17d6dfd1f26395
+docker: quay.io/biocontainers/pbipa
+aliases:
+  falconc: /usr/local/bin/falconc
+  ipa: /usr/local/bin/ipa
+  ipa2-task: /usr/local/bin/ipa2-task
+  ipa2_graph_to_contig: /usr/local/bin/ipa2_graph_to_contig
+  ipa2_ovlp_to_graph: /usr/local/bin/ipa2_ovlp_to_graph
+  ipa_purge_dups: /usr/local/bin/ipa_purge_dups
+  ipa_purge_dups_calcuts: /usr/local/bin/ipa_purge_dups_calcuts
+  ipa_purge_dups_get_seqs: /usr/local/bin/ipa_purge_dups_get_seqs
+  ipa_purge_dups_ngscstat: /usr/local/bin/ipa_purge_dups_ngscstat
+  ipa_purge_dups_pbcstat: /usr/local/bin/ipa_purge_dups_pbcstat
+  ipa_purge_dups_split_fa: /usr/local/bin/ipa_purge_dups_split_fa
+  nighthawk: /usr/local/bin/nighthawk
+  pancake: /usr/local/bin/pancake
+  pblayout: /usr/local/bin/pblayout
+  rampler: /usr/local/bin/rampler
+  racon: /usr/local/bin/racon
+  racon_wrapper: /usr/local/bin/racon_wrapper
+  yte: /usr/local/bin/yte
+  plac_runner.py: /usr/local/bin/plac_runner.py
+  pulptest: /usr/local/bin/pulptest
+  cbc: /usr/local/bin/cbc
+  clp: /usr/local/bin/clp
+  snakemake: /usr/local/bin/snakemake
+  snakemake-bash-completion: /usr/local/bin/snakemake-bash-completion
+  tabulate: /usr/local/bin/tabulate
+  jupyter-trust: /usr/local/bin/jupyter-trust
+  jupyter: /usr/local/bin/jupyter
+  jupyter-migrate: /usr/local/bin/jupyter-migrate
+  jupyter-troubleshoot: /usr/local/bin/jupyter-troubleshoot
+  sdust: /usr/local/bin/sdust
+  k8: /usr/local/bin/k8
+  paftools.js: /usr/local/bin/paftools.js
+  minimap2: /usr/local/bin/minimap2
+  rst2html4.py: /usr/local/bin/rst2html4.py
+  rst2html5.py: /usr/local/bin/rst2html5.py
+  rst2html.py: /usr/local/bin/rst2html.py
+  rst2latex.py: /usr/local/bin/rst2latex.py
+  rst2man.py: /usr/local/bin/rst2man.py
+  rst2odt.py: /usr/local/bin/rst2odt.py

@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/ete3
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ete3
+latest:
+  3.1.2: sha256:fd5bac3a286d030babc7ce40d5bacd97e494cb066f5fb7240c8e85f14c6a16dc
+tags:
+  3.1.2: sha256:fd5bac3a286d030babc7ce40d5bacd97e494cb066f5fb7240c8e85f14c6a16dc
+docker: quay.io/biocontainers/ete3
+aliases:
+  ete3: /usr/local/bin/ete3
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  sip: /usr/local/bin/sip
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc
+  gst-device-monitor-1.0: /usr/local/bin/gst-device-monitor-1.0
+  gst-discoverer-1.0: /usr/local/bin/gst-discoverer-1.0
+  gst-play-1.0: /usr/local/bin/gst-play-1.0
+  fixqt4headers.pl: /usr/local/bin/fixqt4headers.pl
+  qlalr: /usr/local/bin/qlalr
+  qml: /usr/local/bin/qml
+  qmleasing: /usr/local/bin/qmleasing
+  qmlimportscanner: /usr/local/bin/qmlimportscanner
+  qmllint: /usr/local/bin/qmllint
+  qmlmin: /usr/local/bin/qmlmin
+  qmlprofiler: /usr/local/bin/qmlprofiler
+  qmlscene: /usr/local/bin/qmlscene

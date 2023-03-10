@@ -1,0 +1,16 @@
+url: https://biocontainers.pro/tools/bioconductor-infercnv
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-infercnv
+latest:
+  1.8.0--r41hdfd78af_0: sha256:1b4a66f2e2da5eec4ab5480d65a88d71db9861d10e2b419cc540f95cc115c31b
+tags:
+  1.8.0--r41hdfd78af_0: sha256:1b4a66f2e2da5eec4ab5480d65a88d71db9861d10e2b419cc540f95cc115c31b
+docker: quay.io/biocontainers/bioconductor-infercnv
+aliases:
+  jags: /usr/local/bin/jags
+  x86_64-conda-linux-gnu-gfortran.bin: /usr/local/bin/x86_64-conda-linux-gnu-gfortran.bin
+  2to3-3.9: /usr/local/bin/2to3-3.9
+  idle3.9: /usr/local/bin/idle3.9
+  pydoc3.9: /usr/local/bin/pydoc3.9
+  python3.9: /usr/local/bin/python3.9
+  python3.9-config: /usr/local/bin/python3.9-config

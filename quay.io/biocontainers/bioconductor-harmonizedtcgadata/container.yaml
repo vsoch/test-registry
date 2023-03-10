@@ -1,0 +1,12 @@
+url: https://biocontainers.pro/tools/bioconductor-harmonizedtcgadata
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-harmonizedtcgadata
+latest:
+  1.8.0--r36_0: sha256:b74adf29f129752959f2a20b62e7d17c7f836be131b2932deb2e45678501dfa5
+tags:
+  1.8.0--r36_0: sha256:b74adf29f129752959f2a20b62e7d17c7f836be131b2932deb2e45678501dfa5
+docker: quay.io/biocontainers/bioconductor-harmonizedtcgadata
+aliases:
+  gio-launch-desktop: /usr/local/bin/gio-launch-desktop
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

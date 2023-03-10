@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/hmftools-purple
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for hmftools-purple
+latest:
+  3.6--hdfd78af_0: sha256:677d1b3509a70b16dd502a7cc44302c9e8282de9371f6af07c41ec2f7d7269fb
+tags:
+  3.6--hdfd78af_0: sha256:677d1b3509a70b16dd502a7cc44302c9e8282de9371f6af07c41ec2f7d7269fb
+docker: quay.io/biocontainers/hmftools-purple
+aliases:
+  PURPLE: /usr/local/bin/PURPLE
+  circos: /usr/local/bin/circos
+  circos.exe: /usr/local/bin/circos.exe
+  compile.bat: /usr/local/bin/compile.bat
+  compile.make: /usr/local/bin/compile.make
+  gddiag: /usr/local/bin/gddiag
+  list.modules: /usr/local/bin/list.modules
+  test.modules: /usr/local/bin/test.modules
+  jpackage: /usr/local/bin/jpackage
+  bdf2gdfont.pl: /usr/local/bin/bdf2gdfont.pl
+  cups-config: /usr/local/bin/cups-config
+  ippeveprinter: /usr/local/bin/ippeveprinter
+  ipptool: /usr/local/bin/ipptool
+  bdftogd: /usr/local/bin/bdftogd
+  gd2copypal: /usr/local/bin/gd2copypal
+  gd2togif: /usr/local/bin/gd2togif
+  gd2topng: /usr/local/bin/gd2topng
+  gdcmpgif: /usr/local/bin/gdcmpgif
+  gdparttopng: /usr/local/bin/gdparttopng
+  gdtopng: /usr/local/bin/gdtopng
+  giftogd2: /usr/local/bin/giftogd2
+  pngtogd: /usr/local/bin/pngtogd
+  pngtogd2: /usr/local/bin/pngtogd2
+  webpng: /usr/local/bin/webpng
+  annotate: /usr/local/bin/annotate
+  img2webp: /usr/local/bin/img2webp

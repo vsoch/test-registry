@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/perl-velvetoptimiser
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for perl-velvetoptimiser
+latest:
+  2.2.6--pl526_0: sha256:172b538aeeb671df7918d6f7db02f9782b4c39c7571c09a536d32098d022b231
+tags:
+  2.2.6--pl526_0: sha256:172b538aeeb671df7918d6f7db02f9782b4c39c7571c09a536d32098d022b231
+docker: quay.io/biocontainers/perl-velvetoptimiser
+aliases:
+  VelvetOptimiser.pl: /usr/local/bin/VelvetOptimiser.pl
+  velvetg: /usr/local/bin/velvetg
+  velveth: /usr/local/bin/velveth
+  gifecho: /usr/local/bin/gifecho
+  gifinto: /usr/local/bin/gifinto
+  gdlib-config: /usr/local/bin/gdlib-config
+  bam2bedgraph: /usr/local/bin/bam2bedgraph
+  bp_find-blast-matches.pl: /usr/local/bin/bp_find-blast-matches.pl
+  bp_pairwise_kaks: /usr/local/bin/bp_pairwise_kaks
+  ace.pl: /usr/local/bin/ace.pl
+  ccconfig: /usr/local/bin/ccconfig
+  SOAPsh.pl: /usr/local/bin/SOAPsh.pl
+  map: /usr/local/bin/map
+  mirrorMappings: /usr/local/bin/mirrorMappings
+  mkCSGB2312: /usr/local/bin/mkCSGB2312
+  mkmapfile: /usr/local/bin/mkmapfile
+  stubmaker.pl: /usr/local/bin/stubmaker.pl
+  baseml: /usr/local/bin/baseml
+  basemlg: /usr/local/bin/basemlg
+  chartex: /usr/local/bin/chartex
+  chi2: /usr/local/bin/chi2
+  codeml: /usr/local/bin/codeml
+  evolver: /usr/local/bin/evolver
+  infinitesites: /usr/local/bin/infinitesites
+  mcmctree: /usr/local/bin/mcmctree
+  pamp: /usr/local/bin/pamp

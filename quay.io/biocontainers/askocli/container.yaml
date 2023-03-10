@@ -1,0 +1,20 @@
+url: https://biocontainers.pro/tools/askocli
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for askocli
+latest:
+  0.5--py_0: sha256:3f708e1f25f8df6cb15b5cac94da894335440cb0e14b438bf6adc9c4bdeabbb1
+tags:
+  0.5--py_0: sha256:3f708e1f25f8df6cb15b5cac94da894335440cb0e14b438bf6adc9c4bdeabbb1
+docker: quay.io/biocontainers/askocli
+aliases:
+  askocli: /usr/local/bin/askocli
+  chardetect: /usr/local/bin/chardetect
+  2to3-3.7: /usr/local/bin/2to3-3.7
+  idle3.7: /usr/local/bin/idle3.7
+  pydoc3.7: /usr/local/bin/pydoc3.7
+  python3.7-config: /usr/local/bin/python3.7-config
+  python3.7m: /usr/local/bin/python3.7m
+  python3.7m-config: /usr/local/bin/python3.7m-config
+  pyvenv-3.7: /usr/local/bin/pyvenv-3.7
+  python3.7: /usr/local/bin/python3.7
+  pyvenv: /usr/local/bin/pyvenv

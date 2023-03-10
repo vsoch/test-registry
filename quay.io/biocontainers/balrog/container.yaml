@@ -1,0 +1,17 @@
+url: https://biocontainers.pro/tools/balrog
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for balrog
+latest:
+  0.5.1--hd03093a_2: sha256:9342d38ca446ad9b2ce151cc498d6e86356dd34eae71336fc93f26261cdd75ae
+tags:
+  0.5.1--hd03093a_2: sha256:9342d38ca446ad9b2ce151cc498d6e86356dd34eae71336fc93f26261cdd75ae
+docker: quay.io/biocontainers/balrog
+aliases:
+  balrog: /usr/local/bin/balrog
+  f2py3.10: /usr/local/bin/f2py3.10
+  2to3-3.10: /usr/local/bin/2to3-3.10
+  idle3.10: /usr/local/bin/idle3.10
+  pydoc3.10: /usr/local/bin/pydoc3.10
+  python3.10: /usr/local/bin/python3.10
+  python3.10-config: /usr/local/bin/python3.10-config
+  python3.1: /usr/local/bin/python3.1

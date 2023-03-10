@@ -1,0 +1,34 @@
+url: https://biocontainers.pro/tools/cpgeneprofiler
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for cpgeneprofiler
+latest:
+  2.1.1--r41hdfd78af_2: sha256:32e0723de26f4e77b907cc853a502a7d209b066a9590430646ff16dfeb422725
+tags:
+  2.1.1--r41hdfd78af_2: sha256:32e0723de26f4e77b907cc853a502a7d209b066a9590430646ff16dfeb422725
+docker: quay.io/biocontainers/cpgeneprofiler
+aliases:
+  pdfsig: /usr/local/bin/pdfsig
+  pdfattach: /usr/local/bin/pdfattach
+  pdfdetach: /usr/local/bin/pdfdetach
+  pdffonts: /usr/local/bin/pdffonts
+  pdfimages: /usr/local/bin/pdfimages
+  pdfinfo: /usr/local/bin/pdfinfo
+  pdfseparate: /usr/local/bin/pdfseparate
+  pdftocairo: /usr/local/bin/pdftocairo
+  pdftohtml: /usr/local/bin/pdftohtml
+  pdftoppm: /usr/local/bin/pdftoppm
+  pdftops: /usr/local/bin/pdftops
+  pdftotext: /usr/local/bin/pdftotext
+  pdfunite: /usr/local/bin/pdfunite
+  edirect.py: /usr/local/bin/edirect.py
+  filter-columns: /usr/local/bin/filter-columns
+  fuse-segments: /usr/local/bin/fuse-segments
+  gene2range: /usr/local/bin/gene2range
+  tbl2prod: /usr/local/bin/tbl2prod
+  uniq-table: /usr/local/bin/uniq-table
+  certutil: /usr/local/bin/certutil
+  nspr-config: /usr/local/bin/nspr-config
+  nss-config: /usr/local/bin/nss-config
+  pk12util: /usr/local/bin/pk12util
+  align-columns: /usr/local/bin/align-columns
+  blst2tkns: /usr/local/bin/blst2tkns

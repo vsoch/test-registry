@@ -1,0 +1,52 @@
+url: https://biocontainers.pro/tools/magetab-curation-scripts
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for magetab-curation-scripts
+latest:
+  1.1.0--hdfd78af_0: sha256:9663f6919f09d859a0505e12aba3423febc38bb36bc19226e2359e7ab4b26868
+tags:
+  1.1.0--hdfd78af_0: sha256:9663f6919f09d859a0505e12aba3423febc38bb36bc19226e2359e7ab4b26868
+docker: quay.io/biocontainers/magetab-curation-scripts
+aliases:
+  adf_checker.pl: /usr/local/bin/adf_checker.pl
+  check_atlas_eligibility.pl: /usr/local/bin/check_atlas_eligibility.pl
+  comment_out_assays.pl: /usr/local/bin/comment_out_assays.pl
+  crc32: /usr/local/bin/crc32
+  dm_date: /usr/local/bin/dm_date
+  dm_zdump: /usr/local/bin/dm_zdump
+  gal2adf.pl: /usr/local/bin/gal2adf.pl
+  launch_tracking_daemons.pl: /usr/local/bin/launch_tracking_daemons.pl
+  magetab_insert_array.pl: /usr/local/bin/magetab_insert_array.pl
+  magetab_insert_sub.pl: /usr/local/bin/magetab_insert_sub.pl
+  nimblegen2adf.pl: /usr/local/bin/nimblegen2adf.pl
+  pg_verify_checksums: /usr/local/bin/pg_verify_checksums
+  reset_array.pl: /usr/local/bin/reset_array.pl
+  reset_experiment.pl: /usr/local/bin/reset_experiment.pl
+  single_use_tracking_daemon.pl: /usr/local/bin/single_use_tracking_daemon.pl
+  split_magetab.pl: /usr/local/bin/split_magetab.pl
+  validate_magetab.pl: /usr/local/bin/validate_magetab.pl
+  validjson: /usr/local/bin/validjson
+  pod_cover: /usr/local/bin/pod_cover
+  pg_standby: /usr/local/bin/pg_standby
+  findrule: /usr/local/bin/findrule
+  l4p-tmpl: /usr/local/bin/l4p-tmpl
+  tzselect: /usr/local/bin/tzselect
+  zdump: /usr/local/bin/zdump
+  zic: /usr/local/bin/zic
+  oid2name: /usr/local/bin/oid2name
+  pg_receivewal: /usr/local/bin/pg_receivewal
+  pg_resetwal: /usr/local/bin/pg_resetwal
+  pg_waldump: /usr/local/bin/pg_waldump
+  vacuumlo: /usr/local/bin/vacuumlo
+  clusterdb: /usr/local/bin/clusterdb
+  createdb: /usr/local/bin/createdb
+  createuser: /usr/local/bin/createuser
+  dropdb: /usr/local/bin/dropdb
+  dropuser: /usr/local/bin/dropuser
+  ecpg: /usr/local/bin/ecpg
+  initdb: /usr/local/bin/initdb
+  pg_archivecleanup: /usr/local/bin/pg_archivecleanup
+  pg_basebackup: /usr/local/bin/pg_basebackup
+  pg_controldata: /usr/local/bin/pg_controldata
+  pg_ctl: /usr/local/bin/pg_ctl
+  pg_dump: /usr/local/bin/pg_dump
+  pg_dumpall: /usr/local/bin/pg_dumpall

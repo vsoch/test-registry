@@ -1,0 +1,11 @@
+url: https://biocontainers.pro/tools/bioconductor-gaprediction
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for bioconductor-gaprediction
+latest:
+  1.8.1--r351_0: sha256:366c8ce7565afd5a0278d6818a4686a01253c1bb0a2e29c63c759b24a64c036e
+tags:
+  1.8.1--r351_0: sha256:366c8ce7565afd5a0278d6818a4686a01253c1bb0a2e29c63c759b24a64c036e
+docker: quay.io/biocontainers/bioconductor-gaprediction
+aliases:
+  c89: /usr/local/bin/c89
+  c99: /usr/local/bin/c99

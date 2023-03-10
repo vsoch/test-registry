@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/ezaai
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ezaai
+latest:
+  1.2.2--hdfd78af_0: sha256:6110f9ab539e534a0ed71644380429f2965a032eafe884bb15d48746e4f8d95a
+tags:
+  1.2.2--hdfd78af_0: sha256:6110f9ab539e534a0ed71644380429f2965a032eafe884bb15d48746e4f8d95a
+docker: quay.io/biocontainers/ezaai
+aliases:
+  EzAAI: /usr/local/bin/EzAAI
+  mmseqs: /usr/local/bin/mmseqs
+  clhsdb: /usr/local/bin/clhsdb
+  hsdb: /usr/local/bin/hsdb
+  gawk-5.1.0: /usr/local/bin/gawk-5.1.0
+  awk: /usr/local/bin/awk
+  gawk: /usr/local/bin/gawk
+  diamond: /usr/local/bin/diamond
+  prodigal: /usr/local/bin/prodigal
+  extcheck: /usr/local/bin/extcheck
+  java-rmi.cgi: /usr/local/bin/java-rmi.cgi
+  javah: /usr/local/bin/javah
+  jhat: /usr/local/bin/jhat
+  jsadebugd: /usr/local/bin/jsadebugd
+  native2ascii: /usr/local/bin/native2ascii
+  policytool: /usr/local/bin/policytool
+  appletviewer: /usr/local/bin/appletviewer
+  idlj: /usr/local/bin/idlj
+  orbd: /usr/local/bin/orbd
+  schemagen: /usr/local/bin/schemagen
+  servertool: /usr/local/bin/servertool
+  tnameserv: /usr/local/bin/tnameserv
+  wsgen: /usr/local/bin/wsgen
+  wsimport: /usr/local/bin/wsimport
+  xjc: /usr/local/bin/xjc
+  edirect.py: /usr/local/bin/edirect.py

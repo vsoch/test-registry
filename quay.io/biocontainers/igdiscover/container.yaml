@@ -1,0 +1,47 @@
+url: https://biocontainers.pro/tools/igdiscover
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for igdiscover
+latest:
+  0.9--py36_1: sha256:71df4a6d8576297bd50a18dffdd5d2b3d93c211829c2013fe356fbaecf28c5e4
+tags:
+  0.9--py36_1: sha256:71df4a6d8576297bd50a18dffdd5d2b3d93c211829c2013fe356fbaecf28c5e4
+docker: quay.io/biocontainers/igdiscover
+aliases:
+  autoheader.bak: /usr/local/bin/autoheader.bak
+  autom4te.bak: /usr/local/bin/autom4te.bak
+  autoreconf.bak: /usr/local/bin/autoreconf.bak
+  autoscan.bak: /usr/local/bin/autoscan.bak
+  autoupdate.bak: /usr/local/bin/autoupdate.bak
+  edit_imgt_file.pl: /usr/local/bin/edit_imgt_file.pl
+  ifnames.bak: /usr/local/bin/ifnames.bak
+  igblastn: /usr/local/bin/igblastn
+  igblastp: /usr/local/bin/igblastp
+  igdiscover: /usr/local/bin/igdiscover
+  pear: /usr/local/bin/pear
+  pearRM: /usr/local/bin/pearRM
+  sqt: /usr/local/bin/sqt
+  aclocal.bak: /usr/local/bin/aclocal.bak
+  automake.bak: /usr/local/bin/automake.bak
+  pyrsa-decrypt-bigfile: /usr/local/bin/pyrsa-decrypt-bigfile
+  pyrsa-encrypt-bigfile: /usr/local/bin/pyrsa-encrypt-bigfile
+  flash: /usr/local/bin/flash
+  vsearch: /usr/local/bin/vsearch
+  cutadapt: /usr/local/bin/cutadapt
+  muscle: /usr/local/bin/muscle
+  perl5.22.0: /usr/local/bin/perl5.22.0
+  c2ph: /usr/local/bin/c2ph
+  pstruct: /usr/local/bin/pstruct
+  snakemake: /usr/local/bin/snakemake
+  snakemake-bash-completion: /usr/local/bin/snakemake-bash-completion
+  jp.py: /usr/local/bin/jp.py
+  pigz: /usr/local/bin/pigz
+  unpigz: /usr/local/bin/unpigz
+  pyrsa-decrypt: /usr/local/bin/pyrsa-decrypt
+  pyrsa-encrypt: /usr/local/bin/pyrsa-encrypt
+  pyrsa-keygen: /usr/local/bin/pyrsa-keygen
+  pyrsa-priv2pub: /usr/local/bin/pyrsa-priv2pub
+  pyrsa-sign: /usr/local/bin/pyrsa-sign
+  pyrsa-verify: /usr/local/bin/pyrsa-verify
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  rst2html4.py: /usr/local/bin/rst2html4.py
+  guess-ploidy.py: /usr/local/bin/guess-ploidy.py

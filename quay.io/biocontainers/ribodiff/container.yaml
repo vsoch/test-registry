@@ -1,0 +1,35 @@
+url: https://biocontainers.pro/tools/ribodiff
+maintainer: '@vsoch'
+description: singularity registry hpc automated addition for ribodiff
+latest:
+  0.2.2--py_2: sha256:9ada6e94089ca5790c608f6543c4fd1673c4a79676b9046b4986aab2e8848cc3
+tags:
+  0.2.2--py_2: sha256:9ada6e94089ca5790c608f6543c4fd1673c4a79676b9046b4986aab2e8848cc3
+docker: quay.io/biocontainers/ribodiff
+aliases:
+  TE.py: /usr/local/bin/TE.py
+  qhelpconverter: /usr/local/bin/qhelpconverter
+  f2py2: /usr/local/bin/f2py2
+  f2py2.7: /usr/local/bin/f2py2.7
+  qwebengine_convert_dict: /usr/local/bin/qwebengine_convert_dict
+  canbusutil: /usr/local/bin/canbusutil
+  qgltf: /usr/local/bin/qgltf
+  qmlcachegen: /usr/local/bin/qmlcachegen
+  qscxmlc: /usr/local/bin/qscxmlc
+  qtattributionsscanner: /usr/local/bin/qtattributionsscanner
+  repc: /usr/local/bin/repc
+  sip: /usr/local/bin/sip
+  pylupdate5: /usr/local/bin/pylupdate5
+  pyrcc5: /usr/local/bin/pyrcc5
+  pyuic5: /usr/local/bin/pyuic5
+  qdoc: /usr/local/bin/qdoc
+  gst-device-monitor-1.0: /usr/local/bin/gst-device-monitor-1.0
+  gst-discoverer-1.0: /usr/local/bin/gst-discoverer-1.0
+  gst-play-1.0: /usr/local/bin/gst-play-1.0
+  fixqt4headers.pl: /usr/local/bin/fixqt4headers.pl
+  qlalr: /usr/local/bin/qlalr
+  qml: /usr/local/bin/qml
+  qmleasing: /usr/local/bin/qmleasing
+  qmlimportscanner: /usr/local/bin/qmlimportscanner
+  qmllint: /usr/local/bin/qmllint
+  qmlmin: /usr/local/bin/qmlmin
